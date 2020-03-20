@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="https://www.geostandaarden.nl/imow ../../../xsd/imow/bestanden-ow/generiek/v20190901/manifest-ow.xsd">
+  xsi:schemaLocation="https://www.geostandaarden.nl/imow ../xsd-1.0-concept/bestanden-ow/generiek/manifest-ow.xsd">
   <domein>omgevingswet</domein>
   <RegelingVersie>
     <Doel>/join/id/proces/gm0037/2019/Instelling</Doel>
