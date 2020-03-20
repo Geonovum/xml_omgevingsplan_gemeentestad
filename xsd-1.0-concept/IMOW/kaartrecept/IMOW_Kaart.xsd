@@ -51,9 +51,9 @@
                            type="da:NEN3610ID"
                            minOccurs="1"
                            maxOccurs="1"/>
-               <xs:element name="kaartnaam" type="xs:string" minOccurs="1" maxOccurs="1"/>
-               <xs:element name="kaartnummer" type="xs:string" minOccurs="1" maxOccurs="1"/>
-               <xs:element name="kaartuitsnede" minOccurs="1" maxOccurs="1">
+               <xs:element name="naam" type="xs:string" minOccurs="1" maxOccurs="1"/>
+               <xs:element name="nummer" type="xs:string" minOccurs="1" maxOccurs="1"/>
+               <xs:element name="uitsnede" minOccurs="1" maxOccurs="1">
                   <xs:complexType>
                      <xs:sequence>
                         <xs:element ref="k:Kaartextent" minOccurs="1" maxOccurs="1"/>
