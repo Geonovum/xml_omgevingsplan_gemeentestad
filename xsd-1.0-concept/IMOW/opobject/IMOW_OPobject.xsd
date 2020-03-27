@@ -59,13 +59,13 @@
    </xs:attributeGroup>
    <xs:element name="OPGIOoptional" type="op:OPGIOoptional" abstract="false"/>
    <xs:complexType name="OPGIOoptional" abstract="false">
-         <xs:attributeGroup ref="op:GIOinformatie"/>
+         <xs:attributeGroup ref="op:GIOinformatieOptioneel"/>
    </xs:complexType>
    <xs:attributeGroup name="GIOinformatieOptioneel">
       <xs:annotation>
          <xs:documentation>Een identificatie van een work van een regeling, en daarbinnen van de identificatie van een work van een artikel of een formele inhoud (de kleinste eenheid van beheer aan de kant van de officiele publicatie). Voor het op juiste wijze invullen van dit attribute, bekijk de bijbehorende IMOW specificatie.</xs:documentation>
       </xs:annotation>
-      <xs:attribute name="WorkIDGIO" use="optional"/>
+      <xs:attribute name="WorkIDGIO"/>
       <!-- van een GIO-->
    </xs:attributeGroup>
 </xs:schema>
