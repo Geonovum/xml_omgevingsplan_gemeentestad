@@ -69,6 +69,7 @@
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000241"/> <!--uitoefenen van bedrijfstypen van categorie 2-->
 						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2">
+							<!--<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000001</r:identificatie>-->
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
 								<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
@@ -92,6 +93,7 @@
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000242"/> <!--wonen in een bedrijfswoning-->
 						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2">
+							<!--<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000002</r:identificatie>-->
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
 								<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
@@ -115,6 +117,7 @@
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000243"/> <!--aanleggen en instandhouden van nutsvoorzieningen-->
 						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2">
+							<!--<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000003</r:identificatie>-->
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
 								<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
@@ -138,6 +141,7 @@
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000244"/> <!--aanleggen en instandhouden van voorzieningen voor de waterhuishouding-->
 						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2">
+							<!--<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000004</r:identificatie>-->
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
 								<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>

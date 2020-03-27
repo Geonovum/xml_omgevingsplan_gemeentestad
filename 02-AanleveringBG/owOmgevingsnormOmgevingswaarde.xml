@@ -28,7 +28,7 @@
 					<rol:type>Fijnstof</rol:type> <!--hier komt een URI te staan, maar deze waardelijst is op dit moment nog niet gepubliceerd-->
 					<rol:normwaarde>
 						<rol:Normwaarde>
-							<rol:identificatie>nl.imow-gm0037.normwaarde.2019000001</rol:identificatie>
+							<!--<rol:identificatie>nl.imow-gm0037.normwaarde.2019000001</rol:identificatie>-->
 							<rol:waardeInRegeltekst>waarde staat in regeltekst</rol:waardeInRegeltekst>
 							<rol:locatieaanduiding>
 								<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000008"/>
@@ -71,7 +71,7 @@
 			<ow-dc:owObject>
 				<rol:Omgevingsnorm WorkIDGIO="HierMoetNogEenGIOKomenVoorWelstandsNiveau">
 					<rol:identificatie>nl.imow-gm0037.omgevingsnorm.2019000003</rol:identificatie>
-					<rol:noemer>welstandsniveau</rol:noemer>
+					<rol:naam>welstandsniveau</rol:naam>
 					<rol:type>welstand</rol:type>
 					<rol:normwaarde>
 						<rol:Normwaarde>
