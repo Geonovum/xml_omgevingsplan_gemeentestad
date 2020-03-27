@@ -4,17 +4,12 @@
 	xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" 
 	xmlns:gml="http://www.opengis.net/gml/3.2" 
 	xmlns:l="http://www.geostandaarden.nl/imow/locatie" 
-	xmlns:ga-ref="http://www.geostandaarden.nl/imow/gebiedsaanwijzing-ref" 
 	xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen" 
 	xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" 
 	xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" 
 	xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" 
-	xmlns:l-ref="http://www.geostandaarden.nl/imow/locatie-ref" 
 	xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
-	xmlns:rol-ref="http://www.geostandaarden.nl/imow/regelsoplocatie-ref" 
-	xmlns:rkow="http://www.geostandaarden.nl/imow/regeltekstkoppelingow" 
-	xmlns:r="http://www.geostandaarden.nl/imow/regels" 
-	xmlns:r-ref="http://www.geostandaarden.nl/imow/regels-ref"
+	xmlns:r="http://www.geostandaarden.nl/imow/regels"
 	xsi:schemaLocation="http://www.geostandaarden.nl/imow/0.98.1 ../xsd-1.0-concept/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
 	<sl:standBestand>
 		<sl:dataset>Gemeentestad</sl:dataset>
@@ -30,10 +25,10 @@
 				<ga:Gebiedsaanwijzing WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2"> <!--ow:regeltekstId="nl.imow-gm0037.Regeltekst.2019000002"-->
 					<ga:identificatie>nl.imow-gm0037.gebiedsaanwijzing.2019000001</ga:identificatie>
 					<ga:type>Functie</ga:type>
-					<ga:noemer>Bedrijf categorie 2</ga:noemer>
+					<ga:naam>Bedrijf categorie 2</ga:naam>
 					<ga:groep>bedrijf</ga:groep>
 					<ga:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</ga:locatieaanduiding>
 				</ga:Gebiedsaanwijzing>
 			</ow-dc:owObject>
@@ -43,10 +38,10 @@
 				<ga:Gebiedsaanwijzing WorkIDGIO="/join/id/regdata/gm0037/2019/Centrumgebied"> <!--ow:regeltekstId="nl.imow-gm0037.Regeltekst.2019000010">-->
 					<ga:identificatie>nl.imow-gm0037.gebiedsaanwijzing.2019000002</ga:identificatie>
 					<ga:type>Functie</ga:type>
-					<ga:noemer>Centrumgebied</ga:noemer>
+					<ga:naam>Centrumgebied</ga:naam>
 					<ga:groep>centrumgebied</ga:groep>
 					<ga:locatieaanduiding>
-						<l-ref:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000004"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000004"/>
 					</ga:locatieaanduiding>
 				</ga:Gebiedsaanwijzing>
 			</ow-dc:owObject>

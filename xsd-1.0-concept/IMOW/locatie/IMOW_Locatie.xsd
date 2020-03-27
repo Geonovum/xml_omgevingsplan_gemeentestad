@@ -3,7 +3,6 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema" 
    xmlns:imvert="http://www.imvertor.org/schema/system"
    xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
-   xmlns:g-ref="http://www.geostandaarden.nl/imow/geometrie-ref"
    xmlns:ow="http://www.geostandaarden.nl/imow/owobject" 
    xmlns:xlink="http://www.w3.org/1999/xlink"
    targetNamespace="http://www.geostandaarden.nl/imow/locatie" elementFormDefault="qualified"
@@ -60,7 +59,7 @@
                   </xs:annotation>
                   <xs:complexType>
                      <xs:choice minOccurs="1" maxOccurs="1">
-                        <xs:element ref="g-ref:GeometrieRef"/>
+                        <xs:element ref="l:GeometrieRef"/>
                      </xs:choice>
                   </xs:complexType>
                </xs:element>
@@ -148,7 +147,7 @@
                   </xs:annotation>
                   <xs:complexType>
                      <xs:choice minOccurs="1" maxOccurs="1">
-                        <xs:element ref="g-ref:GeometrieRef"/>
+                        <xs:element ref="l:GeometrieRef"/>
                      </xs:choice>
                   </xs:complexType>
                </xs:element>
@@ -248,7 +247,7 @@
                   </xs:annotation>
                   <xs:complexType>
                      <xs:choice minOccurs="1" maxOccurs="1">
-                        <xs:element ref="g-ref:GeometrieRef"/>
+                        <xs:element ref="l:GeometrieRef"/>
                      </xs:choice>
                   </xs:complexType>
                </xs:element>
@@ -260,11 +259,13 @@
    <xs:complexType name="GebiedRef" abstract="false">
       <xs:attribute name="type" type="xs:string" fixed="simple"/>
       <xs:attribute ref="xlink:href" use="required"/>
+      <xs:attribute name="symboolcode" type="xs:string"/>
    </xs:complexType>
    <xs:element name="LocatieRef" type="l:LocatieRef" abstract="false"/>
    <xs:complexType name="LocatieRef" abstract="false">
       <xs:attribute name="type" type="xs:string" fixed="simple"/>
       <xs:attribute ref="xlink:href" use="required"/>
+      <xs:attribute name="symboolcode" type="xs:string"/>
    </xs:complexType>
    <xs:element name="GebiedengroepRef" type="l:GebiedengroepRef" abstract="false"/>
    <xs:complexType name="GebiedengroepRef" abstract="false">
@@ -275,6 +276,7 @@
    <xs:complexType name="PuntRef" abstract="false">
       <xs:attribute name="type" type="xs:string" fixed="simple"/>
       <xs:attribute ref="xlink:href" use="required"/>
+      <xs:attribute name="symboolcode" type="xs:string"/>
    </xs:complexType>
    <xs:element name="PuntengroepRef" type="l:PuntengroepRef" abstract="false"/>
    <xs:complexType name="PuntengroepRef" abstract="false">
@@ -288,6 +290,12 @@
    </xs:complexType>
    <xs:element name="LijnRef" type="l:LijnRef" abstract="false"/>
    <xs:complexType name="LijnRef" abstract="false">
+      <xs:attribute name="type" type="xs:string" fixed="simple"/>
+      <xs:attribute ref="xlink:href" use="required"/>
+      <xs:attribute name="symboolcode" type="xs:string"/>
+   </xs:complexType>
+   <xs:element name="GeometrieRef" type="l:GeometrieRef" abstract="false"/>
+   <xs:complexType name="GeometrieRef" abstract="false">
       <xs:attribute name="type" type="xs:string" fixed="simple"/>
       <xs:attribute ref="xlink:href" use="required"/>
    </xs:complexType>

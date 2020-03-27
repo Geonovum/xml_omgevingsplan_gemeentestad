@@ -465,7 +465,19 @@
 						<r:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000011"/>
 					</r:artikelOfLid>
 					<r:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000008"/>
+						<l:LocatieRef symboolcode="vsg001" xlink:href="nl.imow-gm0037.gebied.2019000008"/>
+<!--							<sld:PolygonSymbolizer xmlns:sld="http://www.nu.nl">
+								<sld:Fill>
+									<sld:CssParameter name="fill">#ebf0d2</sld:CssParameter>
+									<sld:CssParameter name="fill-opacity">1</sld:CssParameter>
+								</sld:Fill>
+								<sld:Stroke>
+									<sld:CssParameter name="stroke">#000001</sld:CssParameter>
+									<sld:CssParameter name="stroke-opacity">1</sld:CssParameter>
+									<sld:CssParameter name="stroke-width">1</sld:CssParameter>
+									<sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
+								</sld:Stroke>
+							</sld:PolygonSymbolizer>-->
 						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000009"/>
 						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000010"/>
 						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000011"/>

@@ -58,6 +58,8 @@
                      </xs:restriction>
                   </xs:simpleType>
                </xs:element>
+               <xs:element name="type" type="rol:Typenorm" minOccurs="1" maxOccurs="1"/>
+               <xs:element name="eenheid" type="da:Eenheid" minOccurs="0" maxOccurs="1"/>
                <xs:element name="normwaarde" minOccurs="1" maxOccurs="1">
                   <xs:annotation>
                      <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Één van de kwantitatieve of kwalitatieve waarden van een norm. </xs:documentation>
@@ -68,8 +70,6 @@
                      </xs:sequence>
                   </xs:complexType>
                </xs:element>
-               <xs:element name="type" type="rol:Typenorm" minOccurs="1" maxOccurs="1"/>
-               <xs:element name="eenheid" type="da:Eenheid" minOccurs="0" maxOccurs="1"/>
             </xs:sequence>
             <xs:attribute name="id" type="xs:ID" use="optional"/>
          </xs:extension>
