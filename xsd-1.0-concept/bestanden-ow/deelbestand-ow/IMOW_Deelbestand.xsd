@@ -19,7 +19,7 @@
 	<xs:import namespace="http://www.geostandaarden.nl/imow/regels" schemaLocation="../../IMOW/regels/IMOW_Regel.xsd"/>
 	<xs:import namespace="http://www.geostandaarden.nl/imow/regelsoplocatie" schemaLocation="../../IMOW/regelsoplocatie/IMOW_RegelsOpLocatie.xsd"/>
 	<xs:import namespace="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" schemaLocation="../../IMOW/gebiedsaanwijzing/IMOW_Gebiedsaanwijzing.xsd"/>
-	<xs:import namespace="http://www.geostandaarden.nl/imow/kaart" schemaLocation="../../IMOW/kaartrecept/IMOW_Kaart.xsd"/>
+	<xs:import namespace="http://www.geostandaarden.nl/imow/kaart" schemaLocation="../../IMOW/kaart/IMOW_Kaart.xsd"/>
 	<xs:import namespace="http://www.geostandaarden.nl/imow/pons" schemaLocation="../../IMOW/pons/IMOW_Pons.xsd"/>
 	<xs:import namespace="http://www.geostandaarden.nl/imow/vrijetekst" schemaLocation="../../IMOW/vrijetekst/IMOW_VrijeTekst.xsd"/>
 	<xs:element name="owBestand">

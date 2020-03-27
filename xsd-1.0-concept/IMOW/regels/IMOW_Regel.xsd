@@ -62,17 +62,20 @@
                      <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Vastlegging van de manier de begrenzing van Locatie voor deze Juridische regel geïnterpreteerd moet worden en door het bevoegd gezag bedoeld is.</xs:documentation>
                   </xs:annotation>
                </xs:element>
+               <xs:element name="artikelOfLid" minOccurs="1" maxOccurs="1">
+                  <xs:annotation>
+                     <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Artikel of lid is waar de Juridische regel onderdeel van is.</xs:documentation>
+                  </xs:annotation>
+                  <xs:complexType>
+                     <xs:choice minOccurs="1" maxOccurs="1">
+                        <xs:element ref="r:RegeltekstRef"/>
+                     </xs:choice>
+                  </xs:complexType>
+               </xs:element>
                <xs:element name="thema" type="r:Thema" minOccurs="0" maxOccurs="unbounded">
                   <xs:annotation>
                      <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Kernachtige weergave van de grondgedachte achter een regel. Een thema kent geen locatie.</xs:documentation>
                   </xs:annotation>
-               </xs:element>
-               <xs:element name="gebiedsaanwijzing" minOccurs="0" maxOccurs="1">
-                  <xs:complexType>
-                     <xs:choice minOccurs="1" maxOccurs="unbounded">
-                        <xs:element ref="ga:GebiedsaanwijzingRef"/>
-                     </xs:choice>
-                  </xs:complexType>
                </xs:element>
                <xs:element name="locatieaanduiding" minOccurs="1" maxOccurs="1">
                   <xs:annotation>
@@ -90,13 +93,10 @@
                      </xs:choice>
                   </xs:complexType>
                </xs:element>
-               <xs:element name="artikelOfLid" minOccurs="1" maxOccurs="1">
-                  <xs:annotation>
-                     <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Artikel of lid is waar de Juridische regel onderdeel van is.</xs:documentation>
-                  </xs:annotation>
+               <xs:element name="gebiedsaanwijzing" minOccurs="0" maxOccurs="1">
                   <xs:complexType>
-                     <xs:choice minOccurs="1" maxOccurs="1">
-                        <xs:element ref="r:RegeltekstRef"/>
+                     <xs:choice minOccurs="1" maxOccurs="unbounded">
+                        <xs:element ref="ga:GebiedsaanwijzingRef"/>
                      </xs:choice>
                   </xs:complexType>
                </xs:element>
@@ -227,7 +227,7 @@
                abstract="false"/>
    <xs:complexType name="ActiviteitLocatieaanduiding" abstract="false">
       <xs:complexContent>
-         <xs:extension base="ow:OWobject">
+         <xs:extension base="op:OPGIOoptional">
             <xs:sequence>
                <xs:element name="activiteitregelkwalificatie"
                            type="r:Activiteitregelkwalificatie"
