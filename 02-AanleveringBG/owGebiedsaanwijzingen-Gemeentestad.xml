@@ -10,6 +10,7 @@
 	xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" 
 	xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
 	xmlns:r="http://www.geostandaarden.nl/imow/regels"
+	xmlns:op="http://www.geostandaarden.nl/imow/opobject"
 	xsi:schemaLocation="http://www.geostandaarden.nl/imow/0.98.1 ../xsd-1.0-concept/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
 	<sl:standBestand>
 		<sl:dataset>Gemeentestad</sl:dataset>

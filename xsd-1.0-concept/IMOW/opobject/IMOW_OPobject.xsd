@@ -48,6 +48,10 @@
    </xs:complexType>
    <xs:element name="OPGIO" type="op:OPGIO" abstract="false"/>
    <xs:complexType name="OPGIO" abstract="false">
+      <xs:sequence>
+         <xs:element name="status" type="xs:string" minOccurs="0" maxOccurs="1"/>
+         <xs:element name="procedurestatus" type="xs:string" minOccurs="0" maxOccurs="1"/>
+      </xs:sequence>
       <xs:attributeGroup ref="op:GIOinformatie"/>
    </xs:complexType>
    <xs:attributeGroup name="GIOinformatie">
@@ -59,7 +63,11 @@
    </xs:attributeGroup>
    <xs:element name="OPGIOoptional" type="op:OPGIOoptional" abstract="false"/>
    <xs:complexType name="OPGIOoptional" abstract="false">
-         <xs:attributeGroup ref="op:GIOinformatieOptioneel"/>
+      <xs:sequence>
+         <xs:element name="status" type="xs:string" minOccurs="0" maxOccurs="1"/>
+         <xs:element name="procedurestatus" type="xs:string" minOccurs="0" maxOccurs="1"/>
+      </xs:sequence>   
+      <xs:attributeGroup ref="op:GIOinformatieOptioneel"/>
    </xs:complexType>
    <xs:attributeGroup name="GIOinformatieOptioneel">
       <xs:annotation>

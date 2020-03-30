@@ -30,6 +30,7 @@
    <xs:complexType name="OWobject" abstract="true">
       <xs:sequence>
          <xs:element name="status" type="xs:string" minOccurs="0" maxOccurs="1"/>
+         <xs:element name="procedurestatus" type="xs:string" minOccurs="0" maxOccurs="1"/>
       </xs:sequence>
    </xs:complexType>
    <xs:element name="OWobjectRef" type="ow:OWobjectRef" abstract="false"/>
