@@ -28,6 +28,10 @@
       </xs:annotation>
    </xs:element>
    <xs:complexType name="OPRegeltekst" abstract="true">
+      <xs:sequence>
+         <xs:element name="status" type="xs:string" minOccurs="0" maxOccurs="1"/>
+         <xs:element name="procedurestatus" type="xs:string" minOccurs="0" maxOccurs="1"/>
+      </xs:sequence>
       <xs:attributeGroup ref="op:juridischebron"/>
    </xs:complexType>
    <xs:attributeGroup name="juridischebron">

@@ -103,7 +103,7 @@
          <xs:element name="waardeInRegeltekst" minOccurs="0" maxOccurs="1">
             <xs:simpleType>
                <xs:restriction base="xs:string">
-                  <xs:pattern value="^waarde staat in regeltekst$"/>
+                  <xs:pattern value="waarde staat in regeltekst"/>
                </xs:restriction>
             </xs:simpleType>
          </xs:element>
