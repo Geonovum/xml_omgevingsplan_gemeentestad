@@ -41,7 +41,7 @@
    </xs:element>
    <xs:complexType name="Norm" abstract="true">
       <xs:complexContent>
-         <xs:extension base="op:OPGIO">
+         <xs:extension base="ow:OWobject">
             <xs:sequence>
                <xs:element name="identificatie"
                            type="da:NEN3610ID"
