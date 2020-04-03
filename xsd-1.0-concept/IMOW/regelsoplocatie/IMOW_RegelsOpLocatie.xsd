@@ -82,6 +82,10 @@
    </xs:element>
    <xs:complexType name="Normwaarde" abstract="false">
       <xs:sequence>
+         <xs:element name="identificatie"
+                     type="da:NEN3610ID"
+                     minOccurs="1"
+                     maxOccurs="1"/>
          <xs:element name="kwalitatieveWaarde" minOccurs="0" maxOccurs="1">
             <xs:annotation>
                <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">De toewijzing van een normerende waarde aan een locatie in de vorm van een beschrijving in woorden. De beschrijving geeft tekstueel de betekenis weer van de normwaarde.</xs:documentation>
