@@ -229,6 +229,10 @@
       <xs:complexContent>
          <xs:extension base="op:OPGIO">
             <xs:sequence>
+               <xs:element name="identificatie"
+                           type="da:NEN3610ID"
+                           minOccurs="1"
+                           maxOccurs="1"/>
                <xs:element name="activiteitregelkwalificatie"
                            type="r:Activiteitregelkwalificatie"
                            minOccurs="1"
