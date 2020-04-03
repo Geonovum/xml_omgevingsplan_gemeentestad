@@ -15,13 +15,16 @@
       <officieleTitel>Centrumgebied</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-      <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+      <soortenInformatieobject>
+        <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+      </soortenInformatieobject>
+      <heeftGeboorteregeling>/akn/nl/act/gm0037/2019/reg456</heeftGeboorteregeling>
       <!-- Koppeling naar het gml-bestand -->
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
             <bestandsnaam>Centrumgebied.gml</bestandsnaam>
-            <hash>8785a69b588675232b3c56dbcd6e8e495b7e442f659128fae94279d253d9849a1654c72baa9d1b9284f93ca1820fc14162aaa07c46111117ee40bfe2de01a8cb</hash>
+            <hash>3e0071f5c5b37403a7805bc1d652bfdd63731b2bbcd4aa21e10ea6d90f0346cfd4b1eed508ee01423b200a6b2ad7197fe43a99457b4d79c1355869b692b4729c</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
