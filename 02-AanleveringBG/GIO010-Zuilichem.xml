@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/LVBB-stop.xsd" xmlns="https://standaarden.overheid.nl/lvbb/stop/" schemaversie="1.0">
+  <!-- Let op: er zijn nog afspraken nodig over de manier waarop de gml wordt aangeleverd als deze alleen ten behoeve van imow is -->
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/gm0037/2019/Zuilichem_3</FRBRWork>
-      <FRBRExpression>/join/id/regdata/gm0037/2019/Zuilichem_3/nld@2019-06-18;3520</FRBRExpression>
-      <soortWork>/join/id/stop/work_007</soortWork>
+      <FRBRWork>/join/id/regdata/gm0037/2019/Zuilichem</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520</FRBRExpression>
+      <soortWork>/join/id/stop/work_003</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <eindverantwoordelijke>/join/id/stop/gemeente/gm0037</eindverantwoordelijke>
-      <maker>/tooi/id/gemeente/gm0037</maker>
+      <maker>/join/id/stop/gemeente/gm0037</maker>
       <alternatieveTitels>
-        <alternatieveTitel>Zuilichem industriegebied 3</alternatieveTitel>
+         <alternatieveTitel>Zuilichem</alternatieveTitel>
       </alternatieveTitels>
-      <officieleTitel>Zuilichem industriegebied 3</officieleTitel>
+      <officieleTitel>Zuilichem</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       <soortenInformatieobject>
@@ -23,8 +24,8 @@
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
-            <bestandsnaam>Zuilichem_industriegebied_3.gml</bestandsnaam>
-            <hash>4915e3c6929ab87c2c4adea5ecce8bb55d494e4621b80b331cf3c58a27a2c948b79b12287dd50a3641c5d56103748cb79f8d5dc2b505b11d49deb0c7f2ed3de9</hash>
+            <bestandsnaam>Zuilichem.gml</bestandsnaam>
+            <hash>d4b679f760ad539630e897186edbddc283f1715722cf2731c07edd3fcfbd30edc9d4431534e3d7a85f1aa414a39d8f6d1aadce6da553f495f8bec2473e0c92a7</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>

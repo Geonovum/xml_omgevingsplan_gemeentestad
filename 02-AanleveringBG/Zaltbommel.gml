@@ -10,8 +10,8 @@
 
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork></geo:FRBRWork>
-      <geo:FRBRExpression></geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/gm0037/2019/Zaltbommel</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/gm0037/2019/Zaltbommel/nld@2019-06-18;3520</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:geometrie>
