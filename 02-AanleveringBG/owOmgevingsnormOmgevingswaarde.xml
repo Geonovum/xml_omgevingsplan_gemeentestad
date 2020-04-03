@@ -9,7 +9,7 @@
 	xmlns:rkow="http://www.geostandaarden.nl/imow/regeltekstkoppelingow/" 
 	xmlns:r="http://www.geostandaarden.nl/imow/regels" 
 	xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
-	xsi:schemaLocation="http://www.geostandaarden.nl/imow/0.98.1 ../xsd-1.0-concept/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	xsi:schemaLocation="http://www.geostandaarden.nl/imow/1.0-concept ../xsd-1.0-concept/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
 	<sl:standBestand>
 		<sl:dataset>Gemeentestad</sl:dataset>
 		<sl:inhoud>
@@ -22,7 +22,7 @@
 		</sl:inhoud>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Omgevingswaarde WorkIDGIO="/join/id/regdata/gm0037/2019/Zuilichem_1"> <!--ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000009"-->
+				<rol:Omgevingswaarde WorkIDGIO="/join/id/regdata/gm0037/2019/Zuilichem_1" DoelID="/join/id/proces/gm0037/2019/Instelling"> <!--ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000009"-->
 					<rol:identificatie>nl.imow-gm0037.omgevingswaarde.2019000001</rol:identificatie>
 					<rol:naam>fijnstof</rol:naam>
 					<rol:type>Fijnstof</rol:type> <!--hier komt een URI te staan, maar deze waardelijst is op dit moment nog niet gepubliceerd-->
@@ -41,7 +41,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Omgevingsnorm WorkIDGIO="HierMoetNogEenGIOKomenVoorMaximumBouwhoogte"> <!--ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000010"-->
+				<rol:Omgevingsnorm WorkIDGIO="HierMoetNogEenGIOKomenVoorMaximumBouwhoogte" DoelID="/join/id/proces/gm0037/2019/Instelling"> <!--ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000010"-->
 					<rol:identificatie>nl.imow-gm0037.omgevingsnorm.2019000002</rol:identificatie>
 					<rol:naam>maximum bouwhoogte bedrijfsgebouw</rol:naam>
 					<rol:type>maximum bouwhoogte (URI)</rol:type> <!--hier komt een URI te staan, maar deze waardelijst is op dit moment nog niet gepubliceerd-->
@@ -69,7 +69,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Omgevingsnorm WorkIDGIO="HierMoetNogEenGIOKomenVoorWelstandsNiveau">
+				<rol:Omgevingsnorm WorkIDGIO="HierMoetNogEenGIOKomenVoorWelstandsNiveau" DoelID="/join/id/proces/gm0037/2019/Instelling">
 					<rol:identificatie>nl.imow-gm0037.omgevingsnorm.2019000003</rol:identificatie>
 					<rol:naam>welstandsniveau</rol:naam>
 					<rol:type>welstand</rol:type>

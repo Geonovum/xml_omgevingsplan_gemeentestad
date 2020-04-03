@@ -19,7 +19,7 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<!--Met de Pons duid je aan dat de oude plannen niet meer getoond hoeven te worden op het gebied dat je meelevert.-->
-				<p:Pons WorkIDGIO="HierWilIkEenGIOVoorEenSomVanAlleGebieden">
+				<p:Pons WorkIDGIO="HierWilIkEenGIOVoorEenSomVanAlleGebieden" DoelID="/join/id/proces/gm0037/2019/Instelling">
 					<p:identificatie>nl.imow-gm0037.pons.2019000001</p:identificatie>
 					<p:locatieaanduiding>
 						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/> <!--eigenlijk voldoet Bedrijf categorie 2 niet als gebied hier-->

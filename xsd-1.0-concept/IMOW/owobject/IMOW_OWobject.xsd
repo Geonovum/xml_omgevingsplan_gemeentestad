@@ -32,7 +32,15 @@
          <xs:element name="status" type="xs:string" minOccurs="0" maxOccurs="1"/>
          <xs:element name="procedurestatus" type="xs:string" minOccurs="0" maxOccurs="1"/>
       </xs:sequence>
+      <xs:attributeGroup ref="ow:Context"/>
    </xs:complexType>
+   <xs:attributeGroup name="Context">
+      <xs:annotation>
+         <xs:documentation>Een identificatie van een work van een regeling, en ook de identificatie van het doel van de aanlevering</xs:documentation>
+      </xs:annotation>
+      <xs:attribute name="WorkIDRegeling" use="required"/>
+      <xs:attribute name="DoelID" use="required"/>
+   </xs:attributeGroup>
    <xs:element name="OWobjectRef" type="ow:OWobjectRef" abstract="false"/>
    <xs:complexType name="OWobjectRef" abstract="false">
       <xs:attribute name="type" type="xs:string" fixed="simple"/>

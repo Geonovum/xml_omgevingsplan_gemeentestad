@@ -42,6 +42,8 @@
       <!-- van een regeling -->
       <xs:attribute name="wId" use="required"/>
       <!-- van een lid of een artikel -->
+      <xs:attribute name="DoelID" use="required"/>
+      <!-- van een aanlevering -->
    </xs:attributeGroup>
    <xs:element name="OPRegeltekstRef"
       type="op:OPRegeltekstRef"
@@ -64,5 +66,7 @@
       </xs:annotation>
       <xs:attribute name="WorkIDGIO" use="required"/>
       <!-- van een GIO-->
+      <xs:attribute name="DoelID" use="required"/>
+      <!-- van een aanlevering -->
    </xs:attributeGroup>
 </xs:schema>
