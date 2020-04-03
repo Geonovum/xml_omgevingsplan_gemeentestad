@@ -25,7 +25,7 @@
 		<!-- artikel 2.3 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:Regeltekst WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456/!main" wId="gm0037_1__subchp_2.2__art_2.3"> 
+				<r:Regeltekst WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" wId="gm0037_1__subchp_2.2__art_2.3" DoelID="/join/id/proces/gm0037/2019/Instelling"> 
 					<r:identificatie>nl.imow-gm0037.regeltekst.2019000001</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
@@ -50,7 +50,7 @@
 		<!-- artikel 2.4 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:Regeltekst WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456/!main" wId="gm0037_1__subchp_2.2__art_2.4">
+				<r:Regeltekst WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456/!main" wId="gm0037_1__subchp_2.2__art_2.4" DoelID="/join/id/proces/gm0037/2019/Instelling">
 					<r:identificatie>nl.imow-gm0037.regeltekst.2019000002</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
@@ -81,7 +81,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen>
+				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000003</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -92,7 +92,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000242"/> <!--wonen in een bedrijfswoning-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2">
+						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2" DoelID="/join/id/proces/gm0037/2019/Instelling">
 							<!--<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000002</r:identificatie>-->
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
