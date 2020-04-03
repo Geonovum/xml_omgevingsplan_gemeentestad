@@ -227,7 +227,7 @@
                abstract="false"/>
    <xs:complexType name="ActiviteitLocatieaanduiding" abstract="false">
       <xs:complexContent>
-         <xs:extension base="op:OPGIOoptional">
+         <xs:extension base="ow:OWobject">
             <xs:sequence>
                <xs:element name="activiteitregelkwalificatie"
                            type="r:Activiteitregelkwalificatie"
