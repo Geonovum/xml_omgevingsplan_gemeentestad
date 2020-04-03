@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/LVBB-stop.xsd" xmlns="https://standaarden.overheid.nl/lvbb/stop/" schemaversie="1.0">
+  <!-- Let op: er zijn nog afspraken nodig over de manier waarop de gml wordt aangeleverd als deze alleen ten behoeve van imow is -->
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/gm0037/2019/Welstand</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</FRBRExpression>
+      <soortWork>/join/id/stop/work_003</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/join/id/stop/gemeente/gm0037</eindverantwoordelijke>
+      <maker>/join/id/stop/gemeente/gm0037</maker>
+      <alternatieveTitels>
+         <alternatieveTitel>Zuilichem</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>Zuilichem</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <soortenInformatieobject>
+        <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+      </soortenInformatieobject>
+      <heeftGeboorteregeling>/akn/nl/act/gm0037/2019/reg456</heeftGeboorteregeling>
+      <!-- Koppeling naar het gml-bestand -->
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Welstand_A.gml</bestandsnaam>
+            <hash>dfd2da014dced58cd07e725808a93ad3a26206b02123e0ef66aad18c70669874e0144e3b94aa31a48ebf9964efc407dae4be60216c0bc0502b8e9e8f053770e0</hash>
+          </Bestand>
+        </heeftBestand>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Welstand_B.gml</bestandsnaam>
+            <hash>06288fac7e232a0a74658cda1d3a9bf04b7ca008fce3c162b1c488af4e9566c818b1f188ea357510e5fcc82b71a4b7d1e9ab8e3260312aeae5f2be19e69b1bea</hash>
+          </Bestand>
+        </heeftBestand>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Welstand_C.gml</bestandsnaam>
+            <hash>2a8d90956002a4910fa289880eb0d63c94873f338b43d1e7f0fcb4b20e77b944c7cf63bfe40ec122e6026e5e9757a94f321aa02e22744c1f25a987d7b79127fd</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>
