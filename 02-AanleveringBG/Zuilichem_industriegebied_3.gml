@@ -12,6 +12,10 @@
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm0037/2019/Zuilichem_3</geo:FRBRWork>
       <geo:FRBRExpression>/join/id/regdata/gm0037/2019/Zuilichem_3/nld@2019-06-18;3520</geo:FRBRExpression>
+      <geo:eenheidlabel>meter</geo:eenheidlabel>
+      <geo:eenheidID>meter</geo:eenheidID>
+      <geo:normlabel>maximum bouwhoogte bedrijfsgebouw</geo:normlabel>
+      <geo:normID>maximum_bouwhoogte_bedrijfsgebouw</geo:normID>
       <geo:locaties>
         <geo:Locatie>
           <geo:geometrie>
@@ -32,6 +36,7 @@
               </basisgeo:geometrie>
             </basisgeo:Geometrie>
           </geo:geometrie>
+          <geo:kwantitatieveNormwaarde>13</geo:kwantitatieveNormwaarde>
         </geo:Locatie>
         <geo:Locatie>
           <geo:geometrie>
@@ -52,6 +57,7 @@
               </basisgeo:geometrie>
             </basisgeo:Geometrie>
           </geo:geometrie>
+          <geo:kwantitatieveNormwaarde>13</geo:kwantitatieveNormwaarde>
         </geo:Locatie>
       </geo:locaties>
     </geo:GeoInformatieObjectVersie>

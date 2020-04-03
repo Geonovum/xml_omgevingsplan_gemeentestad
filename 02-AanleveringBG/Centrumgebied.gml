@@ -12,6 +12,8 @@
     <geo:GeoInformatieObjectVersie>
       <geo:FRBRWork>/join/id/regdata/gm0037/2019/Centrumgebied</geo:FRBRWork>
       <geo:FRBRExpression>/join/id/regdata/gm0037/2019/Centrumgebied/nld@2019-06-18;3520</geo:FRBRExpression>
+      <geo:normlabel>welstandsniveau</geo:normlabel>
+      <geo:normID>welstandsniveau</geo:normID>
       <geo:locaties>
         <geo:Locatie>         
           <geo:geometrie>
@@ -32,6 +34,7 @@
               </basisgeo:geometrie>
             </basisgeo:Geometrie>
           </geo:geometrie>
+          <geo:kwalitatieveNormwaarde>hoog</geo:kwalitatieveNormwaarde>
         </geo:Locatie>
       </geo:locaties>
     </geo:GeoInformatieObjectVersie>
