@@ -43,7 +43,7 @@
    </xs:element>
    <xs:complexType name="Gebiedsaanwijzing" abstract="false">
       <xs:complexContent>
-         <xs:extension base="ow:OWobject">
+         <xs:extension base="op:OPGIO">
             <xs:sequence>
                <xs:element name="identificatie"
                            type="da:NEN3610ID"

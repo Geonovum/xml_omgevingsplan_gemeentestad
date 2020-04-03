@@ -7,7 +7,7 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element maxOccurs="1" minOccurs="1" ref="domein"/>
-        <xs:element maxOccurs="unbounded" minOccurs="1" ref="RegelingVersie"/>
+        <xs:element maxOccurs="unbounded" minOccurs="1" ref="Doel"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
@@ -21,14 +21,13 @@
       </xs:restriction>
     </xs:simpleType>
   </xs:element>
-  <xs:element name="RegelingVersie">
+  <xs:element name="Doel">
     <xs:annotation>
       <xs:documentation>bestanden die horen bij een specifieke versie van een regeling.</xs:documentation>
     </xs:annotation>
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="1" minOccurs="1" ref="DoelID"/>
-        <xs:element maxOccurs="1" minOccurs="0" ref="VoorgaandDoelID"/>
+        <xs:element maxOccurs="1" minOccurs="1" ref="ID"/>
         <xs:element maxOccurs="unbounded" minOccurs="0" ref="Bestand">
           <xs:annotation>
             <xs:documentation>Bestandsnaam van de module volgens CIM-OW opmaak. Het bestand moet ook in de manifest voorkomen.</xs:documentation>
@@ -37,14 +36,9 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="DoelID" type="xs:anyURI">
+  <xs:element name="ID" type="xs:anyURI">
     <xs:annotation>
       <xs:documentation>Verwijzing naar Doel van het besluit.</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:element name="VoorgaandDoelID" type="xs:anyURI">
-    <xs:annotation>
-      <xs:documentation>Verwijzing naar het voorgaande Doel.</xs:documentation>
     </xs:annotation>
   </xs:element>
   <xs:element name="Bestand">
