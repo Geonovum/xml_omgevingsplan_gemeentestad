@@ -22,11 +22,8 @@
         <informatieobjectRef>/join/id/regdata/gm0037/2019/Bedrijf_categorie_2/nld@2019-06-18;3520</informatieobjectRef>
         <informatieobjectRef>/join/id/regdata/gm0037/2019/Centrumgebied/nld@2019-06-18;3520</informatieobjectRef>
         <informatieobjectRef>/join/id/regdata/gm0037/2019/Speelhal/nld@2019-06-18;3520</informatieobjectRef>
-        <informatieobjectRef>/join/id/regdata/gm0037/2019/Zone_A/nld@2019-06-18;3520</informatieobjectRef>
-        <informatieobjectRef>/join/id/regdata/gm0037/2019/Zone_B/nld@2019-06-18;3520</informatieobjectRef>
-        <informatieobjectRef>/join/id/regdata/gm0037/2019/Zuilichem_1/nld@2019-06-18;3520</informatieobjectRef>
-        <informatieobjectRef>/join/id/regdata/gm0037/2019/Zuilichem_2/nld@2019-06-18;3520</informatieobjectRef>
-        <informatieobjectRef>/join/id/regdata/gm0037/2019/Zuilichem_3/nld@2019-06-18;3520</informatieobjectRef>
+        <informatieobjectRef>/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</informatieobjectRef>
+        <informatieobjectRef>/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520</informatieobjectRef>
       </informatieobjectRefs>
     </BesluitMetadata>
     <Procedure xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -71,28 +68,23 @@
         </BeoogdeRegeling>
         <BeoogdeRegeling>
           <doel>/join/id/proces/gm0037/2019/Instelling</doel>
-          <instrumentVersie>/join/id/regdata/gm0037/2019/Zone_A/nld@2019-06-18;3520</instrumentVersie>
+          <instrumentVersie>/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</instrumentVersie>
           <eId>cmp_I__list_o_1__item_o_4__ref_o_1</eId>
         </BeoogdeRegeling>
         <BeoogdeRegeling>
           <doel>/join/id/proces/gm0037/2019/Instelling</doel>
-          <instrumentVersie>/join/id/regdata/gm0037/2019/Zone_B/nld@2019-06-18;3520</instrumentVersie>
+          <instrumentVersie>/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520</instrumentVersie>
           <eId>cmp_I__list_o_1__item_o_5__ref_o_1</eId>
         </BeoogdeRegeling>
         <BeoogdeRegeling>
           <doel>/join/id/proces/gm0037/2019/Instelling</doel>
-          <instrumentVersie>/join/id/regdata/gm0037/2019/Zuilichem_1/nld@2019-06-18;3520</instrumentVersie>
+          <instrumentVersie>/join/id/regdata/gm0037/2019/Zone_A/nld@2019-06-18;3520</instrumentVersie>
           <eId>cmp_I__list_o_1__item_o_6__ref_o_1</eId>
         </BeoogdeRegeling>
         <BeoogdeRegeling>
           <doel>/join/id/proces/gm0037/2019/Instelling</doel>
-          <instrumentVersie>/join/id/regdata/gm0037/2019/Zuilichem_2/nld@2019-06-18;3520</instrumentVersie>
+          <instrumentVersie>/join/id/regdata/gm0037/2019/Zone_B/nld@2019-06-18;3520</instrumentVersie>
           <eId>cmp_I__list_o_1__item_o_7__ref_o_1</eId>
-        </BeoogdeRegeling>
-        <BeoogdeRegeling>
-          <doel>/join/id/proces/gm0037/2019/Instelling</doel>
-          <instrumentVersie>/join/id/regdata/gm0037/2019/Zuilichem_3/nld@2019-06-18;3520</instrumentVersie>
-          <eId>cmp_I__list_o_1__item_o_8__ref_o_1</eId>
         </BeoogdeRegeling>
       </BeoogdeRegelgeving>
       <Tijdstempels>
@@ -625,11 +617,7 @@
                       <Li eId="subchp_2.4__art_2.12__list_o_1__item_b"
                         wId="gm0037_1__subchp_2.4__art_2.12__list_o_1__item_b">
                         <LiNummer>b.</LiNummer>
-                        <Al>30 μg/m<sup>3</sup> als <IntIoRef
-                            ref="gm0037_1__cmp_I__list_o_1__item_o_7__ref_o_1"
-                            eId="subchp_2.4__art_2.12__list_o_1__item_b__ref_o_1"
-                            wId="gm0037_1__subchp_2.4__art_2.12__list_o_1__item_b__ref_o_1"
-                            >kalenderjaargemiddelde</IntIoRef>.</Al>
+                        <Al>30 μg/m<sup>3</sup> als kalenderjaargemiddelde.</Al>
                       </Li>
                     </Lijst>
                   </Inhoud>
@@ -737,7 +725,7 @@
                     <Opschrift>Regels voor het uiterlijk van bouwwerken</Opschrift>
                   </Kop>
                   <Inhoud>
-                    <Al>Het uiterlijk van bouwwerken dient te voldoen aan het niveau van redelijke eisen van welstand dat ter plaatse van het werkingsgebied ‘welstandsniveau’ is vastgelegd.</Al>
+                    <Al>Het uiterlijk van bouwwerken dient te voldoen aan het niveau van redelijke eisen van welstand dat ter plaatse van het werkingsgebied ‘<IntIoRef wId="gm0037_1__subchp_2.5__art_2.15__ref_o_1" eId="subchp_2.5__art_2.15__ref_o_1" ref="">welstandsniveau</IntIoRef>’ is vastgelegd.</Al>
                   </Inhoud>
                 </Artikel>
               </Afdeling>
@@ -774,17 +762,6 @@
                       </Al>
                     </Definitie>
                   </Begrip>
-                  <Begrip eId="cmp_I__list_o_1__item_o_3" wId="gm0037_1__cmp_I__list_o_1__item_o_3">
-                    <Term>Zone A</Term>
-                    <Definitie>
-                      <Al>
-                        <ExtIoRef ref="/join/id/regdata/gm0037/2019/Zone_A/nld@2019-06-18;3520"
-                          eId="cmp_I__list_o_1__item_o_3__ref_o_1"
-                          wId="gm0037_1__cmp_I__list_o_1__item_o_3__ref_o_1"
-                          >/join/id/regdata/gm0037/2019/Zone_A/nld@2019-06-18;3520</ExtIoRef>
-                      </Al>
-                    </Definitie>
-                  </Begrip>
                   <Begrip eId="cmp_I__list_o_1__item_o_4" wId="gm0037_1__cmp_I__list_o_1__item_o_4">
                     <Term>Zone B</Term>
                     <Definitie>
@@ -807,28 +784,27 @@
                       </Al>
                     </Definitie>
                   </Begrip>
-                  <!-- Nieuwe GIO's vanwege OmgevingsnormOmgevingswaarde in OW -->
-                  <Begrip eId="cmp_I__list_o_1__item_o_6" wId="gm0037_1__cmp_I__list_o_1__item_o_6">
-                    <Term>uurgemiddelde</Term>
+                  <Begrip eId="cmp_I__list_o_1__item_o_4" wId="gm0037_1__cmp_I__list_o_1__item_o_4">
+                    <Term>Welstand</Term>
                     <Definitie>
                       <Al>
-                        <ExtIoRef
-                          ref="/join/id/regdata/gm0037/2019/Zuilichem_1/nld@2019-06-18;3520"
-                          eId="cmp_I__list_o_1__item_o_6__ref_o_1"
-                          wId="gm0037_1__cmp_I__list_o_1__item_o_6__ref_o_1"
-                          >/join/id/regdata/gm0037/2019/Zuilichem_1/nld@2019-06-18;3520</ExtIoRef>
+                        <ExtIoRef ref="/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520"
+                          eId="cmp_I__list_o_1__item_o_4__ref_o_1"
+                          wId="gm0037_1__cmp_I__list_o_1__item_o_4__ref_o_1"
+                          >/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</ExtIoRef>
                       </Al>
                     </Definitie>
                   </Begrip>
-                  <Begrip eId="cmp_I__list_o_1__item_o_7" wId="gm0037_1__cmp_I__list_o_1__item_o_7">
-                    <Term>kalenderjaargemiddelde</Term>
+                  <!-- Nieuwe GIO's vanwege OmgevingsnormOmgevingswaarde in OW -->
+                  <Begrip eId="cmp_I__list_o_1__item_o_6" wId="gm0037_1__cmp_I__list_o_1__item_o_6">
+                    <Term>Zuilichem</Term>
                     <Definitie>
                       <Al>
                         <ExtIoRef
-                          ref="/join/id/regdata/gm0037/2019/Zuilichem_2/nld@2019-06-18;3520"
-                          eId="cmp_I__list_o_1__item_o_7__ref_o_1"
-                          wId="gm0037_1__cmp_I__list_o_1__item_o_7__ref_o_1"
-                          >/join/id/regdata/gm0037/2019/Zuilichem_2/nld@2019-06-18;3520</ExtIoRef>
+                          ref="/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520"
+                          eId="cmp_I__list_o_1__item_o_6__ref_o_1"
+                          wId="gm0037_1__cmp_I__list_o_1__item_o_6__ref_o_1"
+                          >/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
                       </Al>
                     </Definitie>
                   </Begrip>

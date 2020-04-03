@@ -184,7 +184,7 @@
 						<r:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000002"/>
 					</r:artikelOfLid>
 					<r:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/> <!--werkingsgebied bedrijf categorie 2--> 
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000246"/> <!--uitoefenen van detailhandel in ter plaatse vervaardigde goederen-->
@@ -192,7 +192,7 @@
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000006</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
-								<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
+								<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000002"/> <!--zone A-->
 							</r:locatieaanduiding>
 						</r:ActiviteitLocatieaanduiding>
 					</r:activiteitaanduiding>
@@ -463,7 +463,7 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<!-- Artikel -->
-				<r:Regeltekst WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling" wId="gm0037_1__subchp_2.5__art_2.13">
+				<r:Regeltekst WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling" wId="gm0037_1__subchp_2.5__art_2.14">
 					<r:identificatie>nl.imow-gm0037.regeltekst.2019000011</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
