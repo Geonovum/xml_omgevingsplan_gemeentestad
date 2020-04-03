@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<geo:GeoInformatieObjectVaststelling
-  xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/v20190901"
-  xmlns:data="https://standaarden.overheid.nl/stop/imop/data/"
-  xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-  xmlns:gml="http://www.opengis.net/gml/3.2"
-  xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/">
+<geo:GeoInformatieObjectVaststelling xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ ../stop/imop-geo.xsd http://www.geostandaarden.nl/basisgeometrie/1.0 ../stop/basisgeometrie.xsd" xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0" xmlns:data="https://standaarden.overheid.nl/stop/imop/data/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/" schemaversie="1.0">
 
   <geo:context>
-    <geo:Achtergrond>
-      <geo:achtergrondVerwijzing>top10nl</geo:achtergrondVerwijzing>
-      <geo:achtergrondActualiteit>2019-01-01</geo:achtergrondActualiteit>
-    </geo:Achtergrond>
+    <gio:GeografischeContext>
+      <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
+      <gio:achtergrondActualiteit>2019-01-01</gio:achtergrondActualiteit>
+    </gio:GeografischeContext>
   </geo:context>
   
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:workID>/join/id/regdata/gm0037/2019/Centrumgebied</geo:workID>
-      <geo:expressionID>/join/id/regdata/gm0037/2019/Centrumgebied/nld@2019-06-18;3520</geo:expressionID>
+      <geo:FRBRWork>/join/id/regdata/gm0037/2019/Centrumgebied</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/gm0037/2019/Centrumgebied/nld@2019-06-18;3520</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>         
           <geo:geometrie>

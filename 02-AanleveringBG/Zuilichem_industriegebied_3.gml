@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<geo:GeoInformatieObjectVaststelling
-  xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/v20190901"
-  xmlns:data="https://standaarden.overheid.nl/stop/imop/data/"
-  xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-  xmlns:gml="http://www.opengis.net/gml/3.2"
-  xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/">
+<geo:GeoInformatieObjectVaststelling xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ ../stop/imop-geo.xsd http://www.geostandaarden.nl/basisgeometrie/1.0 ../stop/basisgeometrie.xsd" xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0" xmlns:data="https://standaarden.overheid.nl/stop/imop/data/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/" schemaversie="1.0">
 
   <geo:context>
-    <geo:Achtergrond xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <geo:achtergrondVerwijzing>top10nl</geo:achtergrondVerwijzing>
-      <geo:achtergrondActualiteit>2019-01-01</geo:achtergrondActualiteit>
-    </geo:Achtergrond>
+    <gio:GeografischeContext>
+      <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
+      <gio:achtergrondActualiteit>2019-01-01</gio:achtergrondActualiteit>
+    </gio:GeografischeContext>
   </geo:context>
 
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:workID>/join/id/regdata/gm0037/2019/Zuilichem_3</geo:workID>
-      <geo:expressionID>/join/id/regdata/gm0037/2019/Zuilichem_3/nld@2019-06-18;3520</geo:expressionID>
+      <geo:FRBRWork>/join/id/regdata/gm0037/2019/Zuilichem_3</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/gm0037/2019/Zuilichem_3/nld@2019-06-18;3520</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:geometrie>
             <basisgeo:Geometrie gml:id="id-954BA8CC-6E90-4698-BEEC-005A65C63E98">
               <basisgeo:id>954BA8CC-6E90-4698-BEEC-005A65C63E98</basisgeo:id>
               <basisgeo:geometrie>
-                <gml:MultiSurface gml:id="id-954BA8CC-6E90-4698-BEEC-005A65C63E98-0"
-                  srsName="urn:ogc:def:crs:EPSG::28992">
+                <gml:MultiSurface gml:id="id-954BA8CC-6E90-4698-BEEC-005A65C63E98-0" srsName="urn:ogc:def:crs:EPSG::28992">
                   <gml:surfaceMember>
                     <gml:Polygon gml:id="id-954BA8CC-6E90-4698-BEEC-005A65C63E98-1">
                       <gml:exterior>
@@ -39,13 +33,12 @@
             </basisgeo:Geometrie>
           </geo:geometrie>
         </geo:Locatie>
-        <geo:Locatie>     
+        <geo:Locatie>
           <geo:geometrie>
             <basisgeo:Geometrie gml:id="id-EFAAD5E9-B181-4C22-9C3B-B290F4586D82">
               <basisgeo:id>EFAAD5E9-B181-4C22-9C3B-B290F4586D82</basisgeo:id>
               <basisgeo:geometrie>
-                <gml:MultiSurface gml:id="id-EFAAD5E9-B181-4C22-9C3B-B290F4586D82-0"
-                  srsName="urn:ogc:def:crs:EPSG::28992">
+                <gml:MultiSurface gml:id="id-EFAAD5E9-B181-4C22-9C3B-B290F4586D82-0" srsName="urn:ogc:def:crs:EPSG::28992">
                   <gml:surfaceMember>
                     <gml:Polygon gml:id="id-EFAAD5E9-B181-4C22-9C3B-B290F4586D82-1">
                       <gml:exterior>
@@ -63,4 +56,5 @@
       </geo:locaties>
     </geo:GeoInformatieObjectVersie>
   </geo:vastgesteldeVersie>
+
 </geo:GeoInformatieObjectVaststelling>
