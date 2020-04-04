@@ -1,7 +1,0 @@
-<ns0:catalog xmlns:ns0="urn:oasis:names:tc:entity:xmlns:xml:catalog">
-  <ns0:uri name="https://standaarden.overheid.nl/stop/imop/data/" uri="imop-data.xsd"/>
-  <ns0:uri name="https://standaarden.overheid.nl/stop/imop/geo/" uri="imop-geo.xsd"/>
-  <ns0:uri name="https://standaarden.overheid.nl/stop/imop/gio/" uri="imop-gio.xsd"/>
-  <ns0:uri name="https://standaarden.overheid.nl/stop/imop/resources/" uri="imop-resources.xsd"/>
-  <ns0:uri name="https://standaarden.overheid.nl/stop/imop/tekst/" uri="imop-tekst.xsd"/>
-</ns0:catalog>

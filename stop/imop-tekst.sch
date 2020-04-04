@@ -40,17 +40,6 @@
   </sch:pattern>
   <!--  -->
   <sch:pattern>
-    <sch:title>Een Artikel in Divisies kan alleen in een regeling</sch:title>
-    <sch:rule context="tekst:Divisie/descendant::tekst:Artikel">
-      <sch:p>Een Artikel buiten de context van een regeling is niet toegestaan.</sch:p>
-      <sch:report
-        test="ancestor::tekst:Besluit | ancestor::Toelichting | ancestor::tekst:Motivering | ancestor::ArtikelgewijzeToelichting"
-        > Het Artikel [<sch:value-of select="@wId"/>] is niet toegestaan binnen <sch:value-of
-          select="ancestor::tekst:*[@wId]/@wId"/>. </sch:report>
-    </sch:rule>
-  </sch:pattern>
-  <!--  -->
-  <sch:pattern>
     <sch:title>De attributen voor een RegelingMutatie zijn in lijn zijn met de FRBRwork
       [T]</sch:title>
     <sch:rule context="tekst:RegelingMutatie">
@@ -97,6 +86,16 @@
   </sch:pattern>
   <!--  -->
   <sch:pattern>
+    <sch:title>Een kop voor Divisietekst is in sommige gevallen optioneel.</sch:title>
+    <sch:rule context="tekst:Divisietekst[not(child::tekst:Kop)]">
+      <sch:assert
+        test="(parent::tekst:Bijlage | parent::tekst:Toelichting | parent::tekst:Motivering | parent::tekst:AlgemeneToelichting | tekst:Conditie) and count(parent::tekst:*/child::tekst:*) = 2"
+        >Een Kop voor Divisietekst <sch:value-of select="@wId"/> is verplicht in deze
+        context.</sch:assert>
+    </sch:rule>
+  </sch:pattern>
+  <!--  -->
+  <sch:pattern>
     <sch:title>Artikel, Lid en LidNummers controleren [T]</sch:title>
     <sch:rule context="tekst:Lid">
       <sch:p>Voor een Artikel Lid MOET een LidNummer hebben.</sch:p>
@@ -110,7 +109,7 @@
     <sch:title>De waarden van een intern referentie element moet verwijzen naar een bestaande
       identificatie [D].</sch:title>
     <sch:rule
-      context="(tekst:IntRef | tekst:IntIoRef)[not(ancestor::tekst:Besluit/descendant::tekst:RegelingMutatie)]">
+      context="(tekst:IntRef | tekst:IntIoRef)[not(ancestor::tekst:BesluitKlassiek/descendant::tekst:RegelingMutatie)][not(ancestor::tekst:BesluitCompact/descendant::tekst:RegelingMutatie)]">
       <sch:let name="doelwit" value="@ref"/>
       <sch:p>In een NieuweRegeling of RegelingVersie MOET een interne referentie verwijzen naar een
         in hetzelfde bestand bestaande identifier.</sch:p>
@@ -171,25 +170,25 @@
     Unieke eId en wId's voor Besluit / regeling / NieuweRegeling
   -->
   <xsl:key
-    match="(tekst:Besluit | tekst:RegelingVersie)/descendant::tekst:*[@eId][not(ancestor::tekst:*[@componentnaam])]"
+    match="(tekst:BesluitCompact | tekst:BesluitKlassiek | tekst:RegelingCompact | tekst:RegelingTijdelijkdeel | tekst:RegelingKlassiek | tekst:RegelingVrijetekst)/descendant::tekst:*[@eId][not(ancestor-or-self::tekst:*[@componentnaam])]"
     name="alleEIDs" use="@eId"/>
   <xsl:key
-    match="(tekst:Besluit | tekst:RegelingVersie)/descendant::tekst:*[@wId][not(ancestor::tekst:*[@componentnaam])]"
+    match="(tekst:BesluitCompact | tekst:BesluitKlassiek | tekst:RegelingCompact | tekst:RegelingTijdelijkdeel | tekst:RegelingKlassiek | tekst:RegelingVrijetekst)/descendant::tekst:*[@wId][not(ancestor-or-self::tekst:*[@componentnaam])]"
     name="alleWIDs" use="@wId"/>
   <sch:pattern>
     <sch:title>Alle identifiers wId en eId moeten uniek zijn</sch:title>
     <sch:rule
-      context="(tekst:Besluit | tekst:RegelingVersie)/descendant::tekst:*[@eId][not(ancestor::tekst:*[@componentnaam])]">
+      context="(tekst:BesluitCompact | tekst:BesluitKlassiek | tekst:RegelingCompact | tekst:RegelingTijdelijkdeel | tekst:RegelingKlassiek | tekst:RegelingVrijetekst)/descendant::tekst:*[@eId][not(ancestor-or-self::tekst:*[@componentnaam])]">
       <sch:p>eId identifiers moeten uniek zijn in een Besluit</sch:p>
       <sch:assert role="error" test="count(key('alleEIDs', @eId)) = 1"> Error: eId '<sch:value-of
-        select="@eId"/>' binnen het besluit is niet uniek. </sch:assert>
-      <sch:p>wId identifiers moeten uniek zijn in een Besluit</sch:p>
+        select="@eId"/>' binnen het bereik is niet uniek. </sch:assert>
+      <sch:p>wId identifiers moeten uniek zijn in een bereik</sch:p>
       <sch:assert role="error" test="count(key('alleWIDs', @wId)) = 1"> Error: wId '<sch:value-of
-        select="@eId"/>' binnen het besluit is niet uniek. </sch:assert>
+        select="@eId"/>' binnen het bereik is niet uniek. </sch:assert>
     </sch:rule>
   </sch:pattern>
   <!--
-    Unieke ID's voor componenten zoals MaakInitieleRegeling / RegelingMutatie
+    Unieke ID's voor componenten
   -->
   <sch:pattern id="Unieke-componentIds">
     <sch:title>Binnen een component moeten de identifiers uniek zijn.</sch:title>

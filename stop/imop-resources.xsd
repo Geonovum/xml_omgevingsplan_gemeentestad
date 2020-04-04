@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema elementFormDefault="qualified"
-  targetNamespace="https://standaarden.overheid.nl/stop/imop/resources/" version="0.99.200323.1357"
+  targetNamespace="https://standaarden.overheid.nl/stop/imop/resources/" version="1.0.0"
   xmlns:data="https://standaarden.overheid.nl/stop/imop/data/"
   xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/"
   xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/"
@@ -98,7 +98,7 @@
   </xs:attributeGroup>
   <xs:simpleType name="dtSchemaVersie">
     <xs:restriction base="xs:token">
-      <xs:pattern value="0\.98\..*|0.99.200323.1357" />
+      <xs:pattern value="0\.98\..*|1.0.0" />
     </xs:restriction>
   </xs:simpleType>
 
