@@ -139,5 +139,16 @@
 				</l:Gebied>
 			</ow-dc:owObject>
 		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling"> 
+					<l:identificatie>nl.imow-gm0037.gebied.2019000012</l:identificatie>
+					<l:noemer>Regelingsgebied Zaltbommel</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="553df3b9-9115-4b22-80ee-b1056a85acb4"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
 	</sl:standBestand>
 </ow-dc:owBestand>

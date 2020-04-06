@@ -3,13 +3,14 @@
 <xs:schema 
 	xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" 
 	xmlns:xs="http://www.w3.org/2001/XMLSchema" 
-	xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" 
+	xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+	xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+	xmlns:k="http://www.geostandaarden.nl/imow/kaart"
 	xmlns:l="http://www.geostandaarden.nl/imow/locatie" 
+	xmlns:p="http://www.geostandaarden.nl/imow/pons"
 	xmlns:r="http://www.geostandaarden.nl/imow/regels" 
+	xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
 	xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" 
-	xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" 
-	xmlns:k="http://www.geostandaarden.nl/imow/kaart" 
-	xmlns:p="http://www.geostandaarden.nl/imow/pons" 
 	xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst" 
 	targetNamespace="http://www.geostandaarden.nl/imow/bestanden/deelbestand" 
 	elementFormDefault="qualified" version="1.0 concept">
@@ -22,6 +23,7 @@
 	<xs:import namespace="http://www.geostandaarden.nl/imow/kaart" schemaLocation="../../IMOW/kaart/IMOW_Kaart.xsd"/>
 	<xs:import namespace="http://www.geostandaarden.nl/imow/pons" schemaLocation="../../IMOW/pons/IMOW_Pons.xsd"/>
 	<xs:import namespace="http://www.geostandaarden.nl/imow/vrijetekst" schemaLocation="../../IMOW/vrijetekst/IMOW_VrijeTekst.xsd"/>
+	<xs:import namespace="http://www.geostandaarden.nl/imow/regelingsgebied" schemaLocation="../../IMOW/regelingsgebied/IMOW_RegelingsGebied.xsd"/>
 	<xs:element name="owBestand">
 		<xs:complexType>
 			<xs:sequence>
@@ -54,6 +56,7 @@
 					<xs:element ref="p:Pons"/>
 					<xs:element ref="vt:Tekstdeel"/>
 					<xs:element ref="vt:Hoofdlijn"/>
+					<xs:element ref="rg:Regelingsgebied"/>
 				</xs:choice>
 			</xs:extension>
 		</xs:complexContent>

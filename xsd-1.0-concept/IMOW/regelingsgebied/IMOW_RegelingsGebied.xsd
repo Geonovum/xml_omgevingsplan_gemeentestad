@@ -4,6 +4,7 @@
             xmlns:imvert="http://www.imvertor.org/schema/system"
             xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
             xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+            xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
             targetNamespace="http://www.geostandaarden.nl/imow/regelingsgebied"
             elementFormDefault="qualified"
             attributeFormDefault="unqualified"
@@ -24,26 +25,32 @@
       schemaLocation="../../IMOW/datatypenalgemeen/IMOW_DatatypenAlgemeen.xsd"/>
    <xs:import namespace="http://www.geostandaarden.nl/imow/locatie"
       schemaLocation="../../IMOW/locatie/IMOW_Locatie.xsd"/>
+   <xs:import namespace="http://www.geostandaarden.nl/imow/owobject"
+      schemaLocation="../../IMOW/owobject/IMOW_OWobject.xsd"/>
    <xs:element name="Regelingsgebied" type="rg:Regelingsgebied" abstract="false"/>
    <xs:complexType name="Regelingsgebied" abstract="false">
-      <xs:sequence>
-         <xs:element name="identificatie"
-                     type="da:NEN3610ID"
-                     minOccurs="1"
-                     maxOccurs="1"/>
-         <xs:element name="locatieaanduiding" minOccurs="1" maxOccurs="1">
-            <xs:complexType>
-               <xs:choice minOccurs="1" maxOccurs="1">
-                  <xs:element ref="l:LocatieRef"/>
-                  <xs:element ref="l:GebiedRef"/>
-                  <xs:element ref="l:GebiedengroepRef"/>
-                  <xs:element ref="l:PuntRef"/>
-                  <xs:element ref="l:PuntengroepRef"/>
-                  <xs:element ref="l:LijnengroepRef"/>
-                  <xs:element ref="l:LijnRef"/>
-               </xs:choice>
-            </xs:complexType>
-         </xs:element>
-      </xs:sequence>
+      <xs:complexContent>         
+         <xs:extension base="ow:OWobject">
+            <xs:sequence>
+               <xs:element name="identificatie"
+                           type="da:NEN3610ID"
+                           minOccurs="1"
+                           maxOccurs="1"/>
+               <xs:element name="locatieaanduiding" minOccurs="1" maxOccurs="1">
+                  <xs:complexType>
+                     <xs:choice minOccurs="1" maxOccurs="1">
+                        <xs:element ref="l:LocatieRef"/>
+                        <xs:element ref="l:GebiedRef"/>
+                        <xs:element ref="l:GebiedengroepRef"/>
+                        <xs:element ref="l:PuntRef"/>
+                        <xs:element ref="l:PuntengroepRef"/>
+                        <xs:element ref="l:LijnengroepRef"/>
+                        <xs:element ref="l:LijnRef"/>
+                     </xs:choice>
+                  </xs:complexType>
+               </xs:element>
+            </xs:sequence>
+         </xs:extension>
+      </xs:complexContent>
    </xs:complexType>
 </xs:schema>
