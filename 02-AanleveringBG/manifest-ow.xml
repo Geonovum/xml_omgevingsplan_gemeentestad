@@ -2,8 +2,9 @@
 <Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="https://www.geostandaarden.nl/imow ../xsd-1.0-concept/bestanden-ow/generiek/manifest-ow.xsd">
   <domein>omgevingswet</domein>
-  <Doel>
-    <ID>/join/id/proces/gm0037/2019/Instelling</ID>
+  <Aanlevering>
+    <WorkIDRegeling>/akn/nl/act/gm0037/2019/reg456</WorkIDRegeling>
+    <DoelID>/join/id/proces/gm0037/2019/Instelling</DoelID>
     <Bestand>
       <naam>owActiviteiten-Gemeentestad.xml</naam>
       <objecttype>Activiteit</objecttype>
@@ -64,5 +65,5 @@
       <naam>Zuilichem_industriegebied_3.gml</naam>
       <objecttype>Geometrie</objecttype>
     </Bestand>
-  </Doel>
+  </Aanlevering>
 </Modules>
