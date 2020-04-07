@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/lvbb-stop-aanlevering.xsd" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/gm0037/2019/Zone_A</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm0037/2019/Zone_A/nld@2019-06-18;3520</FRBRExpression>
+      <soortWork>/join/id/stop/work_003</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/join/id/stop/gemeente/gm0037</eindverantwoordelijke>
+      <maker>/join/id/stop/gemeente/gm0037</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Zone A</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>Zone A</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <soortenInformatieobject>
+        <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+      </soortenInformatieobject>
+      <heeftGeboorteregeling>/akn/nl/act/gm0037/2019/reg456</heeftGeboorteregeling>
+      <!-- Koppeling naar het gml-bestand -->
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Zone_A.gml</bestandsnaam>
+            <hash>c1c4ab854a6e5fc760c6f813f45600b8b610535aa0f5283543d8673cae096ea47d8f7d12fdd2f0156d2fc19332426c9dd3c1cc606453e9d6f60f642ffa98423e</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>

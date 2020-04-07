@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/lvbb-stop-aanlevering.xsd" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/gm0037/2019/Bouwhoogte</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520</FRBRExpression>
+      <soortWork>/join/id/stop/work_003</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/join/id/stop/gemeente/gm0037</eindverantwoordelijke>
+      <maker>/join/id/stop/gemeente/gm0037</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Bouwhoogte</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>Bouwhoogte</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <soortenInformatieobject>
+        <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+      </soortenInformatieobject>
+      <heeftGeboorteregeling>/akn/nl/act/gm0037/2019/reg456</heeftGeboorteregeling>
+      <!-- Koppeling naar het gml-bestand -->
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Zuilichem_industriegebied_1.gml</bestandsnaam>
+            <hash>62a6399c5d68649d5f2b96b2e75459b30e147cf54957227ca50036bab7b1408196c3664ae1b2c296f73d16a84bed09eaef602e1ae335764ef242b216bce9fbe4</hash>
+          </Bestand>
+        </heeftBestand>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Zuilichem_industriegebied_2.gml</bestandsnaam>
+            <hash>846ef08a8d8132806628aebfa739a04cb719e7ed6d4f30b956555c5c123aaddc4edfd30d2f3b9331169cbf079e2575bf371656d943ce3138ca478f1e3095035c</hash>
+          </Bestand>
+        </heeftBestand>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Zuilichem_industriegebied_3.gml</bestandsnaam>
+            <hash>33a8afcc6d419bb51ab57096a0213f0bdad7cf7272798f63f04c06a30dc1bc2f8506cefdcece698e7f9c697ef25de324f3d96e740bf580b785e52403692a3fc8</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>
