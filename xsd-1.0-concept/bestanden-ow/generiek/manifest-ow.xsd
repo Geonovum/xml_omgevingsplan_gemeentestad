@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:element name="Modules">
+  <xs:element name="Aanleveringen">
     <xs:annotation>
       <xs:documentation>Root element van CIM-OW.xml.</xs:documentation>
     </xs:annotation>
@@ -27,8 +27,8 @@
     </xs:annotation>
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="1" minOccurs="1" ref="WorkIDRegeling"/>
-        <xs:element maxOccurs="1" minOccurs="1" ref="DoelID"/>
+        <xs:element maxOccurs="unbounded" minOccurs="1" ref="WorkIDRegeling"/>
+        <xs:element maxOccurs="unbounded" minOccurs="1" ref="DoelID"/>
         <xs:element maxOccurs="unbounded" minOccurs="0" ref="Bestand">
           <xs:annotation>
             <xs:documentation>Bestandsnaam van de module volgens CIM-OW opmaak. Het bestand moet ook in de manifest voorkomen.</xs:documentation>
