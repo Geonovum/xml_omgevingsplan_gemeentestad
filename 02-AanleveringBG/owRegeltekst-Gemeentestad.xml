@@ -10,7 +10,7 @@
 	xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" 
 	xmlns:l="http://www.geostandaarden.nl/imow/locatie" 
 	xmlns:r="http://www.geostandaarden.nl/imow/regels" 
-	xsi:schemaLocation="http://www.geostandaarden.nl/imow/0.98.1 ../xsd-1.0-concept/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	xsi:schemaLocation="http://www.geostandaarden.nl/imow ../xsd-1.0-concept/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
 	<sl:standBestand>
 		<sl:dataset>Gemeentestad</sl:dataset>
 		<sl:inhoud>
@@ -459,11 +459,10 @@
 				</r:RegelVoorIedereen>
 			</ow-dc:owObject>
 		</sl:stand>
-		<!-- artikel 2.13 -->
+		<!-- artikel 2.15 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<!-- Artikel -->
-				<r:Regeltekst WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling" wId="gm0037_2__subchp_2.5__art_2.14">
+				<r:Regeltekst WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling" wId="gm0037_2__subchp_2.5__art_2.15">
 					<r:identificatie>nl.imow-gm0037.regeltekst.2019000011</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
@@ -472,33 +471,6 @@
 			<ow-dc:owObject>
 				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000017</r:identificatie>
-					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
-					<r:artikelOfLid>
-						<r:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000011"/>
-					</r:artikelOfLid>
-					<r:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000008"/>
-						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000009"/>
-						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000010"/>
-						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000011"/>
-					</r:locatieaanduiding>
-					<r:omgevingsnormaanduiding>
-						<rol:OmgevingsnormRef xlink:href="nl.imow-gm0037.omgevingsnorm.2019000002"/> 
-					</r:omgevingsnormaanduiding>
-				</r:RegelVoorIedereen>
-			</ow-dc:owObject>
-		</sl:stand>
-		<sl:stand>
-			<ow-dc:owObject>
-				<r:Regeltekst WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling" wId="gm0037_2__subchp_2.5__art_2.15">
-					<r:identificatie>nl.imow-gm0037.regeltekst.2019000012</r:identificatie>
-				</r:Regeltekst>
-			</ow-dc:owObject>
-		</sl:stand>
-		<sl:stand>
-			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
-					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000018</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
 						<r:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000012"/>
