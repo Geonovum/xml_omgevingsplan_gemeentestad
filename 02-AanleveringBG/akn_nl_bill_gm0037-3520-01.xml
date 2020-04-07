@@ -29,6 +29,7 @@
             <informatieobjectRef>/join/id/regdata/gm0037/2019/Zone_B/nld@2019-06-18;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedure xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -104,6 +105,13 @@
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</instrumentVersie>
                <eId>cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0037/2019/Instelling</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520</instrumentVersie>
+               <eId>cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -555,7 +563,9 @@
                            <Lijst eId="subchp_2.4__art_2.12__list_o_1"
                                   wId="gm0037_2__subchp_2.4__art_2.12__list_o_1"
                                   type="expliciet">
-                              <Lijstaanhef>Voor stikstofdioxide gelden de volgende ten hoogste toelaatbare concentraties:</Lijstaanhef>
+                              <Lijstaanhef>Voor stikstofdioxide geldt in '<IntIoRef eId="subchp_2.2__art_2.6__para_1__ref_o_1"
+                                 wId="gm0037_2__subchp_2.4__art_2.12__list_o_1"
+                                 ref="gm0037_2__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Zuilichem</IntIoRef>' de volgende ten hoogste toelaatbare concentraties:</Lijstaanhef>
                               <Li eId="subchp_2.4__art_2.12__list_o_1__item_a"
                                   wId="gm0037_2__subchp_2.4__art_2.12__list_o_1__item_a">
                                  <LiNummer>a.</LiNummer>
@@ -749,6 +759,17 @@
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
                                               wId="gm0037_2__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
                                               ref="/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8"
+                              wId="gm0037_2__cmp_I__content_o_1__list_o_1__item_o_8"> 
+                              <Term>Zuilichem</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                       wId="gm0037_2__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                       ref="/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
