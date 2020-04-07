@@ -34,7 +34,15 @@
       <objecttype>Omgevingswaarderegel</objecttype>
     </Bestand>
     <Bestand>
+      <naam>owRegelingsgebied.xml</naam>
+      <objecttype>Regelingsgebied</objecttype>
+    </Bestand>
+    <Bestand>
       <naam>Bedrijf_categorie_2.gml</naam>
+      <objecttype>Geometrie</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>Bouwhoogte.gml</naam>
       <objecttype>Geometrie</objecttype>
     </Bestand>
     <Bestand>
@@ -46,11 +54,31 @@
       <objecttype>Geometrie</objecttype>
     </Bestand>
     <Bestand>
+      <naam>Welstand_A.gml</naam>
+      <objecttype>Geometrie</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>Welstand_B.gml</naam>
+      <objecttype>Geometrie</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>Welstand_C.gml</naam>
+      <objecttype>Geometrie</objecttype>
+    </Bestand>
+    <Bestand>
       <naam>Zone_A.gml</naam>
       <objecttype>Geometrie</objecttype>
     </Bestand>
     <Bestand>
+      <naam>Zaltbommel.gml</naam>
+      <objecttype>Geometrie</objecttype>
+    </Bestand>
+    <Bestand>
       <naam>Zone_B.gml</naam>
+      <objecttype>Geometrie</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>Zuilichem.gml</naam>
       <objecttype>Geometrie</objecttype>
     </Bestand>
     <Bestand>

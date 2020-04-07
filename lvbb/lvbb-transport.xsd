@@ -12,8 +12,8 @@
       breekPublicatieAfVerzoekResultaat en benodigde types toegevoegd</xs:documentation>
   </xs:annotation>
 
-  <xs:import namespace="http://www.logius.nl/digikoppeling/gb/2010/10" />
-  <xs:import namespace="http://www.overheid.nl/2017/stop" />
+  <xs:import namespace="http://www.logius.nl/digikoppeling/gb/2010/10" schemaLocation="gb-meta.xsd"/>
+  <xs:import namespace="http://www.overheid.nl/2017/stop" schemaLocation="stop_toevoeging.xsd"/>
 
   <!--===========================================================================
   
