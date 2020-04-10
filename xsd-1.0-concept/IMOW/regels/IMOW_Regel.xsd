@@ -254,6 +254,7 @@
                   <xs:annotation>
                      <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">De symbolisatie zoals door het bevoegd gezag is bepaald en afwijkt van de standaard symbolisatie. Als waarde wordt gebruik gemaakt van de lijst van gestandaardiseerde symboolcodes.</xs:documentation>
                   </xs:annotation>
+               </xs:element>
                <xs:element name="locatieaanduiding" minOccurs="1" maxOccurs="1">
                   <xs:annotation>
                      <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Deze specifieke activiteit is toegekend aan deze specifieke locatie(s).</xs:documentation>
