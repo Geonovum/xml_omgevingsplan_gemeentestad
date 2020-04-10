@@ -4,6 +4,7 @@
             xmlns:imvert="http://www.imvertor.org/schema/system"
             xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
             xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+            xmlns:k="http://www.geostandaarden.nl/imow/kaart"
             xmlns:l="http://www.geostandaarden.nl/imow/locatie"
             xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
             xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
@@ -31,6 +32,8 @@
       schemaLocation="../../IMOW/datatypenalgemeen/IMOW_DatatypenAlgemeen.xsd"/>
    <xs:import namespace="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
       schemaLocation="../../IMOW/gebiedsaanwijzing/IMOW_GebiedsAanwijzing.xsd"/>
+   <xs:import namespace="http://www.geostandaarden.nl/imow/kaart"
+      schemaLocation="../../IMOW/kaart/IMOW_Kaart.xsd"/>
    <xs:import namespace="http://www.geostandaarden.nl/imow/locatie"
       schemaLocation="../../IMOW/locatie/IMOW_Locatie.xsd"/>
    <xs:import namespace="http://www.geostandaarden.nl/imow/regelsoplocatie"
@@ -97,6 +100,13 @@
                   <xs:complexType>
                      <xs:choice minOccurs="1" maxOccurs="unbounded">
                         <xs:element ref="ga:GebiedsaanwijzingRef"/>
+                     </xs:choice>
+                  </xs:complexType>
+               </xs:element>
+               <xs:element name="kaartaanduiding" minOccurs="0" maxOccurs="1">
+                  <xs:complexType>
+                     <xs:choice minOccurs="1" maxOccurs="unbounded">
+                        <xs:element ref="k:KaartRef"/>
                      </xs:choice>
                   </xs:complexType>
                </xs:element>
@@ -237,6 +247,13 @@
                            type="r:Activiteitregelkwalificatie"
                            minOccurs="1"
                            maxOccurs="1"/>
+               <xs:element name="specifiekeSymbolisatie"
+                  type="xs:string"
+                  minOccurs="0"
+                  maxOccurs="1">
+                  <xs:annotation>
+                     <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">De symbolisatie zoals door het bevoegd gezag is bepaald en afwijkt van de standaard symbolisatie. Als waarde wordt gebruik gemaakt van de lijst van gestandaardiseerde symboolcodes.</xs:documentation>
+                  </xs:annotation>
                <xs:element name="locatieaanduiding" minOccurs="1" maxOccurs="1">
                   <xs:annotation>
                      <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Deze specifieke activiteit is toegekend aan deze specifieke locatie(s).</xs:documentation>

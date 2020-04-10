@@ -37,13 +37,6 @@
       schemaLocation="../../IMOW/owobject/IMOW_OWobject.xsd"/>
    <xs:import namespace="http://www.w3.org/1999/xlink"
       schemaLocation="../../xlink/1.0.0/xlinks.xsd"/>
-   <xs:element name="Range" type="k:Range" abstract="false"/>
-   <xs:complexType name="Range" abstract="false">
-      <xs:sequence>
-         <xs:element name="waardeMin" type="xs:decimal" minOccurs="1" maxOccurs="1"/>
-         <xs:element name="waardeMax" type="xs:decimal" minOccurs="1" maxOccurs="1"/>
-      </xs:sequence>
-   </xs:complexType>
    <xs:element name="Kaart" type="k:Kaart" abstract="false">
       <xs:annotation>
          <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Een (nog) te representeren deel van de informatie rondom een specifiek onderdeel van een beleid, ter ondersteuning van het goed in beeld brengen ervan. </xs:documentation>
@@ -78,17 +71,6 @@
          </xs:extension>
       </xs:complexContent>
    </xs:complexType>
-   <xs:element name="AttribuutWaarde" type="k:AttribuutWaarde" abstract="false"/>
-   <xs:complexType name="AttribuutWaarde" abstract="false">
-      <xs:sequence>
-         <xs:element name="attribuut" type="xs:string" minOccurs="1" maxOccurs="1"/>
-         <xs:element name="waardediscreet"
-                     type="xs:string"
-                     minOccurs="0"
-                     maxOccurs="1"/>
-         <xs:element name="waarderange" type="k:Range" minOccurs="0" maxOccurs="1"/>
-      </xs:sequence>
-   </xs:complexType>
    <xs:element name="Kaartlaag" type="k:Kaartlaag" abstract="false"/>
    <xs:complexType name="Kaartlaag" abstract="false">
       <xs:complexContent>
@@ -100,13 +82,6 @@
                            maxOccurs="1"/>
                <xs:element name="naam" type="xs:string" minOccurs="0" maxOccurs="1"/>
                <xs:element name="niveau" type="xs:integer" minOccurs="1" maxOccurs="1"/>
-               <xs:element name="symbolisatieItems" minOccurs="1" maxOccurs="1">
-                  <xs:complexType>
-                     <xs:sequence>
-                        <xs:element ref="k:SymbolisatieItem" minOccurs="1" maxOccurs="unbounded"/>
-                     </xs:sequence>
-                  </xs:complexType>
-               </xs:element>
                <xs:element name="activiteitlocatieweergave" minOccurs="0" maxOccurs="1">
                   <xs:complexType>
                      <xs:choice minOccurs="1" maxOccurs="unbounded">
@@ -134,22 +109,6 @@
             <xs:attribute name="id" type="xs:ID" use="optional"/>
          </xs:extension>
       </xs:complexContent>
-   </xs:complexType>
-   <xs:element name="SymbolisatieItem" type="k:SymbolisatieItem" abstract="false"/>
-   <xs:complexType name="SymbolisatieItem" abstract="false">
-      <xs:sequence>
-         <xs:element name="objecttype"
-                     type="k:Kaartobjecttype"
-                     minOccurs="1"
-                     maxOccurs="1"/>
-         <xs:element name="filterattribuut"
-                     type="k:AttribuutWaarde"
-                     minOccurs="0"
-                     maxOccurs="unbounded"/>
-         <xs:element name="symboolcode" type="xs:string" minOccurs="1" maxOccurs="1"/>
-         <xs:element name="minSchaalNiveau" type="xs:decimal" minOccurs="0" maxOccurs="1"/>
-         <xs:element name="maxSchaalNiveau" type="xs:decimal" minOccurs="0" maxOccurs="1"/>
-      </xs:sequence>
    </xs:complexType>
    <xs:element name="Kaartextent" type="k:Kaartextent" abstract="false"/>
    <xs:complexType name="Kaartextent" abstract="false">
