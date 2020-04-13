@@ -59,7 +59,7 @@
                      </xs:sequence>
                   </xs:complexType>
                </xs:element>
-               <xs:element name="kaartlagen" minOccurs="0" maxOccurs="1">
+               <xs:element name="kaartlagen" minOccurs="1" maxOccurs="1">
                   <xs:complexType>
                      <xs:sequence>
                         <xs:element ref="k:Kaartlaag" minOccurs="1" maxOccurs="unbounded"/>
