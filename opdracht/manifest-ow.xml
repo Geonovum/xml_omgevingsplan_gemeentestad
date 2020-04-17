@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Aanleveringen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow"
   xsi:schemaLocation="https://www.geostandaarden.nl/imow ../xsd-1.0-concept/bestanden-ow/generiek/manifest-ow.xsd">
   <domein>omgevingswet</domein>
   <Aanlevering>

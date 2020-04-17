@@ -52,21 +52,4 @@
       <xs:attribute name="type" type="xs:string" fixed="simple"/>
       <xs:attribute ref="xlink:href" use="required"/>
    </xs:complexType>
-   <xs:element name="OPGIO" type="op:OPGIO" abstract="false"/>
-   <xs:complexType name="OPGIO" abstract="false">
-      <xs:sequence>
-         <xs:element name="status" type="xs:string" minOccurs="0" maxOccurs="1"/>
-         <xs:element name="procedurestatus" type="xs:string" minOccurs="0" maxOccurs="1"/>
-      </xs:sequence>
-      <xs:attributeGroup ref="op:GIOinformatie"/>
-   </xs:complexType>
-   <xs:attributeGroup name="GIOinformatie">
-      <xs:annotation>
-         <xs:documentation>Een identificatie van een work van een regeling, en daarbinnen van de identificatie van een work van een artikel of een formele inhoud (de kleinste eenheid van beheer aan de kant van de officiele publicatie). Voor het op juiste wijze invullen van dit attribute, bekijk de bijbehorende IMOW specificatie.</xs:documentation>
-      </xs:annotation>
-      <xs:attribute name="WorkIDGIO" use="required"/>
-      <!-- van een GIO-->
-      <xs:attribute name="DoelID" use="required"/>
-      <!-- van een aanlevering -->
-   </xs:attributeGroup>
 </xs:schema>

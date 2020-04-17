@@ -24,7 +24,7 @@
 		<!-- artikel 2.4 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling"><!-- ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000001">-->
+				<rol:Activiteit><!-- ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000001">-->
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000241</rol:identificatie>
 					<!-- Deze activiteit is voor de 1e keer ontstaan/gecreeerd in artikel 2.4 nl.imow-gm0037.Regeltekst.2019000002 --> 
 					<rol:naam>uitoefenen van bedrijfstypen van categorie 2</rol:naam>
@@ -38,7 +38,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000242</rol:identificatie> 
 					<rol:naam>wonen in een bedrijfswoning</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/Woonactiviteit</rol:groep>
@@ -50,7 +50,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000243</rol:identificatie>
 					<rol:naam>aanleggen en instandhouden van nutsvoorzieningen</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/BouwactiviteitTechnisch</rol:groep>
@@ -62,7 +62,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000244</rol:identificatie>
 					<rol:naam>aanleggen en instandhouden van voorzieningen voor de waterhuishouding</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/BouwactiviteitTechnisch</rol:groep>
@@ -74,7 +74,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000245</rol:identificatie>
 					<rol:naam>aanleggen en instandhouden van tuin en/of erf</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/BouwactiviteitTechnisch</rol:groep>
@@ -86,7 +86,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000246</rol:identificatie>
 					<rol:naam>uitoefenen van detailhandel in ter plaatse vervaardigde goederen</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/ExploitatieactiviteitDetailhandel</rol:groep>
@@ -99,7 +99,7 @@
 		<!-- artikel 2.5 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000730</rol:identificatie>
 					<rol:naam>exploiteren van inrichtingen</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/ExploitatieactiviteitBedrijf</rol:groep>
@@ -111,7 +111,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000740</rol:identificatie>
 					<rol:naam>exploiteren van risicovolle inrichtingen</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/ExploitatieactiviteitBedrijf</rol:groep>
@@ -123,7 +123,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000750</rol:identificatie>
 					<rol:naam>opslagterrein</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/Opslagactiviteit</rol:groep>
@@ -136,7 +136,7 @@
 		<!-- artikel 2.6 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000590</rol:identificatie>
 					<rol:naam>uitoefenen van detailhandel in ter plaatse vervaardigde goederen</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/ExploitatieactiviteitDetailhandel</rol:groep>
@@ -149,7 +149,7 @@
 		<!-- artikel 2.7 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000540</rol:identificatie>
 					<rol:naam>exploiteren van een verkooppunt voor motorbrandstoffen niet zijnde lpg</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/ExploitatieactiviteitDetailhandel</rol:groep>
@@ -164,7 +164,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000760</rol:identificatie>
 					<rol:naam>opslaan van motorbrandstoffen niet zijnde lpg</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/Opslagactiviteit</rol:groep>
@@ -178,7 +178,7 @@
 		<!-- GW: Alleen de activiteit 'exploiteren van een speelautomatenhal' is opgenomen. -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000660</rol:identificatie>
 					<rol:naam>exploiteren van een speelautomatenhal</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/ExploitatieactiviteitHoreca</rol:groep>
@@ -191,7 +191,7 @@
 		<!-- artikel 2.11 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Activiteit WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Activiteit>
 					<rol:identificatie>nl.imow-gm0037.activiteit.2019000530</rol:identificatie>
 					<rol:naam>wonen in een bedrijfswoning</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/Woonactiviteit</rol:groep>

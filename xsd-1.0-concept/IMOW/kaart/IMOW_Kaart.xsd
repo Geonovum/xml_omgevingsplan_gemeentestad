@@ -51,7 +51,7 @@
                            minOccurs="1"
                            maxOccurs="1"/>
                <xs:element name="naam" type="xs:string" minOccurs="1" maxOccurs="1"/>
-               <xs:element name="nummer" type="xs:string" minOccurs="1" maxOccurs="1"/>
+               <xs:element name="nummer" type="xs:string" minOccurs="0" maxOccurs="1"/>
                <xs:element name="uitsnede" minOccurs="1" maxOccurs="1">
                   <xs:complexType>
                      <xs:sequence>
@@ -85,7 +85,7 @@
                <xs:element name="activiteitlocatieweergave" minOccurs="0" maxOccurs="1">
                   <xs:complexType>
                      <xs:choice minOccurs="1" maxOccurs="unbounded">
-                        <xs:element ref="r:RegelVoorIedereenRef"/>
+                        <xs:element ref="r:ActiviteitLocatieaanduidingRef"/>
                      </xs:choice>
                   </xs:complexType>
                </xs:element>

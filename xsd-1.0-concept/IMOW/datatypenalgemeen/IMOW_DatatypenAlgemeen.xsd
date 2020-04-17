@@ -51,18 +51,13 @@
          <xs:pattern value="nl\.imow-(gm|pv|ws|mnre)[0-9]{1,6}\.(regeltekst|gebied|gebiedengroep|lijn|lijnengroep|punt|puntengroep|activiteit|gebiedsaanwijzing|omgevingswaarde|omgevingsnorm|pons|kaart|tekstdeel|hoofdlijn|divisie|kaartlaag|juridischeregel|activiteitlocatieaanduiding|normwaarde|regelingsgebied)\.[A-Za-z0-9]{1,32}"/>
       </xs:restriction>
    </xs:simpleType>
-   <xs:simpleType name="GeslotenWaardelijst">
-      <xs:restriction base="xs:string">
-         <xs:pattern value="\S.*"/>
-      </xs:restriction>
-   </xs:simpleType>
    <xs:simpleType name="Eenheid">
       <xs:annotation>
          <xs:appinfo source="http://www.imvertor.org/data-info/uri">http://wetgeving.omgevingswet.overheid.nl/id/waardelijst/Eenheid</xs:appinfo>
          <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Een uitbreidbare lijst met een opsomming van de mogelijke domeinwaarden van een attribuutsoort, die buiten het model in een externe waardenlijst worden beheerd. </xs:documentation>
       </xs:annotation>
-      <xs:restriction base="xs:string">
-         <xs:pattern value="\S.*"/>
+      <xs:restriction base="xs:anyURI">
+         <xs:pattern value="(http|https)://(wetgeving|standaarden|regelgeving)\.omgevingswet\.overheid\.nl/.*"/>
       </xs:restriction>
    </xs:simpleType>
 </xs:schema>

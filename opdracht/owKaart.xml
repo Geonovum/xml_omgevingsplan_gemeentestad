@@ -19,8 +19,7 @@
         </sl:inhoud>
         <sl:stand>
             <ow-dc:owObject>
-                <k:Kaart WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
-                    <ow:status/>
+                <k:Kaart>
                     <k:identificatie>nl.imow-gm0037.kaart.2019000001</k:identificatie>
                     <k:naam>Welstandskaart</k:naam>
                     <k:nummer>001</k:nummer>
@@ -34,7 +33,7 @@
                         </k:Kaartextent>
                     </k:uitsnede>
                     <k:kaartlagen>
-                        <k:Kaartlaag WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+                        <k:Kaartlaag>
                             <k:identificatie>nl.imow-gm0037.kaartlaag.2019000001</k:identificatie>
                             <k:naam>welstandslaag</k:naam>
                             <k:niveau>1</k:niveau>

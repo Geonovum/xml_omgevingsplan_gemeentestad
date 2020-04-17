@@ -43,7 +43,7 @@
    </xs:element>
    <xs:complexType name="Gebiedsaanwijzing" abstract="false">
       <xs:complexContent>
-         <xs:extension base="op:OPGIO">
+         <xs:extension base="ow:OWobject">
             <xs:sequence>
                <xs:element name="identificatie"
                            type="da:NEN3610ID"
@@ -112,16 +112,16 @@
       <xs:annotation>
          <xs:appinfo source="http://www.imvertor.org/data-info/uri">http://standaarden.omgevingswet.overheid.nl/id/waardelijst/Gebiedsaanwijzinggroep</xs:appinfo>
       </xs:annotation>
-      <xs:restriction base="xs:string">
-         <xs:pattern value="\S.*"/>
+      <xs:restriction base="xs:anyURI">
+         <xs:pattern value="(http|https)://(wetgeving|standaarden|regelgeving)\.omgevingswet\.overheid\.nl/.*"/>
       </xs:restriction>
    </xs:simpleType>
    <xs:simpleType name="TypeGebiedsaanwijzing">
       <xs:annotation>
          <xs:appinfo source="http://www.imvertor.org/data-info/uri">http://standaarden.omgevingswet.overheid.nl/id/waardelijst/TypeGebiedsaanwijzing</xs:appinfo>
       </xs:annotation>
-      <xs:restriction base="xs:string">
-         <xs:pattern value="\S.*"/>
+      <xs:restriction base="xs:anyURI">
+         <xs:pattern value="(http|https)://(wetgeving|standaarden|regelgeving)\.omgevingswet\.overheid\.nl/.*"/>
       </xs:restriction>
    </xs:simpleType>
    <xs:element name="GebiedsaanwijzingRef"

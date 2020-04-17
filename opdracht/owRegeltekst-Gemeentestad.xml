@@ -32,7 +32,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000001</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -57,7 +57,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000002</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -68,7 +68,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000241"/> <!--uitoefenen van bedrijfstypen van categorie 2-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2" DoelID="/join/id/proces/gm0037/2019/Instelling">
+						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000001</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
@@ -81,7 +81,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000003</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -92,7 +92,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000242"/> <!--wonen in een bedrijfswoning-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2" DoelID="/join/id/proces/gm0037/2019/Instelling">
+						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000002</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
@@ -105,7 +105,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000004</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -116,7 +116,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000243"/> <!--aanleggen en instandhouden van nutsvoorzieningen-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2" DoelID="/join/id/proces/gm0037/2019/Instelling">
+						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000003</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
@@ -129,7 +129,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000005</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -140,7 +140,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000244"/> <!--aanleggen en instandhouden van voorzieningen voor de waterhuishouding-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2" DoelID="/join/id/proces/gm0037/2019/Instelling">
+						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000004</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:specifiekeSymbolisatie>vag500</r:specifiekeSymbolisatie>
@@ -154,7 +154,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000006</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -165,7 +165,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000245"/> <!--aanleggen en instandhouden van tuin en/of erf-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2" DoelID="/join/id/proces/gm0037/2019/Instelling">
+						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000005</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:specifiekeSymbolisatie>vag300</r:specifiekeSymbolisatie>
@@ -179,7 +179,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000007</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -190,7 +190,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000246"/> <!--uitoefenen van detailhandel in ter plaatse vervaardigde goederen-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2" DoelID="/join/id/proces/gm0037/2019/Instelling">
+						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000006</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
@@ -211,7 +211,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000008</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -222,7 +222,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000730"/> <!--exploiteren van inrichtingen-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2" DoelID="/join/id/proces/gm0037/2019/Instelling">
+						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000007</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Verbod</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
@@ -235,7 +235,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000009</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -246,7 +246,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000740"/> <!--exploiteren van risicovolle inrichtingen-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2" DoelID="/join/id/proces/gm0037/2019/Instelling">
+						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000008</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Verbod</r:activiteitregelkwalificatie>
 							<r:specifiekeSymbolisatie>vag303</r:specifiekeSymbolisatie>
@@ -260,7 +260,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000010</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -271,7 +271,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000750"/> <!--opslagterrein-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2" DoelID="/join/id/proces/gm0037/2019/Instelling">
+						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000009</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Verbod</r:activiteitregelkwalificatie>
 							<r:specifiekeSymbolisatie>vag503</r:specifiekeSymbolisatie>
@@ -295,7 +295,7 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<!-- Artikel 2.6 - Juridische regel -->
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000011</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -306,7 +306,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000590"/> <!--uitoefenen van detailhandel in ter plaatse vervaardigde goederen-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2" DoelID="/join/id/proces/gm0037/2019/Instelling">
+						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000010</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Meldingsplicht</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
@@ -328,7 +328,7 @@
 		<!-- Artikel 2.7 - Juridische regel -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000012</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -339,7 +339,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000540"/> <!--exploiteren van een verkooppunt voor motorbrandstoffen niet zijnde lpg-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Bedrijf_categorie_2" DoelID="/join/id/proces/gm0037/2019/Instelling">
+						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000011</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
 							<r:specifiekeSymbolisatie>vag307</r:specifiekeSymbolisatie>
@@ -361,7 +361,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000013</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -387,7 +387,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000014</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -398,7 +398,7 @@
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0037.activiteit.2019000660"/> <!--exploiteren van een speelautomatenhal-->
-						<r:ActiviteitLocatieaanduiding WorkIDGIO="/join/id/regdata/gm0037/2019/Centrumgebied" DoelID="/join/id/proces/gm0037/2019/Instelling">
+						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0037.activiteitlocatieaanduiding.2019000012</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
@@ -420,7 +420,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:Omgevingswaarderegel WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:Omgevingswaarderegel>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000015</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -446,7 +446,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000016</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
@@ -474,7 +474,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:RegelVoorIedereen WorkIDRegeling="/akn/nl/act/gm0037/2019/reg456" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<r:RegelVoorIedereen>
 					<r:identificatie>nl.imow-gm0037.juridischeregel.2019000017</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/regel/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>

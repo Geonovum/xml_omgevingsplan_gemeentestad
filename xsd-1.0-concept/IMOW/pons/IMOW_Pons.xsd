@@ -4,7 +4,7 @@
             xmlns:imvert="http://www.imvertor.org/schema/system"
             xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
             xmlns:l="http://www.geostandaarden.nl/imow/locatie"
-            xmlns:op="http://www.geostandaarden.nl/imow/opobject"
+            xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
             xmlns:xlink="http://www.w3.org/1999/xlink"
             targetNamespace="http://www.geostandaarden.nl/imow/pons"
             elementFormDefault="qualified"
@@ -27,8 +27,8 @@
       schemaLocation="../../IMOW/datatypenalgemeen/IMOW_DatatypenAlgemeen.xsd"/>
    <xs:import namespace="http://www.geostandaarden.nl/imow/locatie"
       schemaLocation="../../IMOW/locatie/IMOW_Locatie.xsd"/>
-   <xs:import namespace="http://www.geostandaarden.nl/imow/opobject"
-      schemaLocation="../../IMOW/opobject/IMOW_OPobject.xsd"/>
+   <xs:import namespace="http://www.geostandaarden.nl/imow/owobject"
+      schemaLocation="../../IMOW/opobject/IMOW_OWobject.xsd"/>
    <xs:import namespace="http://www.w3.org/1999/xlink"
       schemaLocation="../../xlink/1.0.0/xlinks.xsd"/>
    <xs:element name="Pons" type="p:Pons" abstract="false">
@@ -38,7 +38,7 @@
    </xs:element>
    <xs:complexType name="Pons" abstract="false">
       <xs:complexContent>
-         <xs:extension base="op:OPGIO">
+         <xs:extension base="ow:OWobject">
             <xs:sequence>
                <xs:element name="identificatie"
                            type="da:NEN3610ID"

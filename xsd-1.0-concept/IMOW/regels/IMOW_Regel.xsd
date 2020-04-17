@@ -237,7 +237,7 @@
                abstract="false"/>
    <xs:complexType name="ActiviteitLocatieaanduiding" abstract="false">
       <xs:complexContent>
-         <xs:extension base="op:OPGIO">
+         <xs:extension base="ow:OWobject">
             <xs:sequence>
                <xs:element name="identificatie"
                            type="da:NEN3610ID"
@@ -281,8 +281,8 @@
          <xs:appinfo source="http://www.imvertor.org/data-info/uri">http://wetgeving.omgevingswet.overheid.nl/id/waardelijst/Thema</xs:appinfo>
          <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Een limitatieve lijst met een opsomming van de mogelijke domeinwaarden van een attribuutsoort, die buiten het model in een externe waardenlijst worden beheerd. </xs:documentation>
       </xs:annotation>
-      <xs:restriction base="xs:string">
-         <xs:pattern value="\S.*"/>
+      <xs:restriction base="xs:anyURI">
+         <xs:pattern value="(http|https)://(wetgeving|standaarden|regelgeving)\.omgevingswet\.overheid\.nl/.*"/>
       </xs:restriction>
    </xs:simpleType>
    <xs:simpleType name="Instrument">
@@ -290,16 +290,16 @@
          <xs:appinfo source="http://www.imvertor.org/data-info/uri">http://standaarden.omgevingswet.overheid.nl/id/waardelijst/InstructieregelInstrument</xs:appinfo>
          <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Een lijst met een opsomming van de mogelijke domeinwaarden van een attribuutsoort, die buiten het model in een externe waardenlijst worden beheerd. </xs:documentation>
       </xs:annotation>
-      <xs:restriction base="xs:string">
-         <xs:pattern value="\S.*"/>
+      <xs:restriction base="xs:anyURI">
+         <xs:pattern value="(http|https)://(wetgeving|standaarden|regelgeving)\.omgevingswet\.overheid\.nl/.*"/>
       </xs:restriction>
    </xs:simpleType>
    <xs:simpleType name="Adressaat">
       <xs:annotation>
          <xs:appinfo source="http://www.imvertor.org/data-info/uri">http://standaarden.omgevingswet.overheid.nl/id/waardelijst/InstructieregelTaakuitoefening</xs:appinfo>
       </xs:annotation>
-      <xs:restriction base="xs:string">
-         <xs:pattern value="\S.*"/>
+      <xs:restriction base="xs:anyURI">
+         <xs:pattern value="(http|https)://(wetgeving|standaarden|regelgeving)\.omgevingswet\.overheid\.nl/.*"/>
       </xs:restriction>
    </xs:simpleType>
    <xs:simpleType name="Idealisatie">
@@ -307,8 +307,8 @@
          <xs:appinfo source="http://www.imvertor.org/data-info/uri">http://standaarden.omgevingswet.overheid.nl/id/waardelijst/Idealisatie</xs:appinfo>
          <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Een lijst met een opsomming van de mogelijke domeinwaarden van een attribuutsoort, die buiten het model in een externe waardenlijst worden beheerd. </xs:documentation>
       </xs:annotation>
-      <xs:restriction base="xs:string">
-         <xs:pattern value="\S.*"/>
+      <xs:restriction base="xs:anyURI">
+         <xs:pattern value="(http|https)://(wetgeving|standaarden|regelgeving)\.omgevingswet\.overheid\.nl/.*"/>
       </xs:restriction>
    </xs:simpleType>
    <xs:simpleType name="Activiteitregelkwalificatie">
@@ -316,7 +316,7 @@
          <xs:appinfo source="http://www.imvertor.org/data-info/uri">http://standaarden.omgevingswet.overheid.nl/id/waardelijst/Activiteitregelkwalificatie</xs:appinfo>
          <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Een lijst met een opsomming van de mogelijke domeinwaarden van een attribuutsoort, die buiten het model in een externe waardenlijst worden beheerd. </xs:documentation>
       </xs:annotation>
-      <xs:restriction base="xs:string">
+      <xs:restriction base="xs:anyURI">
          <xs:pattern value="\S.*"/>
       </xs:restriction>
    </xs:simpleType>
@@ -350,6 +350,13 @@
       type="r:InstructieregelRef"
       abstract="false"/>
    <xs:complexType name="InstructieregelRef" abstract="false">
+      <xs:attribute name="type" type="xs:string" fixed="simple"/>
+      <xs:attribute ref="xlink:href" use="required"/>
+   </xs:complexType>
+   <xs:element name="ActiviteitLocatieaanduidingRef"
+      type="r:ActiviteitLocatieaanduidingRef"
+      abstract="false"/>
+   <xs:complexType name="ActiviteitLocatieaanduidingRef" abstract="false">
       <xs:attribute name="type" type="xs:string" fixed="simple"/>
       <xs:attribute ref="xlink:href" use="required"/>
    </xs:complexType>

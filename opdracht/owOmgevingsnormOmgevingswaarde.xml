@@ -22,10 +22,10 @@
 		</sl:inhoud>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Omgevingswaarde WorkIDGIO="/join/id/regdata/gm0037/2019/Zuilichem" DoelID="/join/id/proces/gm0037/2019/Instelling"> <!--ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000009"-->
+				<rol:Omgevingswaarde> <!--ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000009"-->
 					<rol:identificatie>nl.imow-gm0037.omgevingswaarde.2019000001</rol:identificatie>
 					<rol:naam>fijnstof</rol:naam>
-					<rol:type>Fijnstof</rol:type> <!--hier komt een URI te staan, maar deze waardelijst is op dit moment nog niet gepubliceerd-->
+					<rol:type>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/FICTIEF/Fijnstof</rol:type> <!--hier komt een URI te staan, maar deze waardelijst is op dit moment nog niet gepubliceerd-->
 					<rol:normwaarde>
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0037.normwaarde.2019000001</rol:identificatie>
@@ -35,17 +35,17 @@
 							</rol:locatieaanduiding>
 						</rol:Normwaarde>
 					</rol:normwaarde>
-					<rol:groep>luchtkwaliteit</rol:groep>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/Luchtkwaliteit</rol:groep>
 				</rol:Omgevingswaarde>
 			</ow-dc:owObject>
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Omgevingsnorm WorkIDGIO="/join/id/Zuilichem" DoelID="/join/id/proces/gm0037/2019/Instelling"> <!--ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000010"-->
+				<rol:Omgevingsnorm> <!--ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000010"-->
 					<rol:identificatie>nl.imow-gm0037.omgevingsnorm.2019000002</rol:identificatie>
 					<rol:naam>maximum bouwhoogte bedrijfsgebouw</rol:naam>
-					<rol:type>maximum bouwhoogte (URI)</rol:type> <!--hier komt een URI te staan, maar deze waardelijst is op dit moment nog niet gepubliceerd-->
-					<rol:eenheid>meter</rol:eenheid>
+					<rol:type>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/FICTIEF/MaximumBouwhoogte</rol:type> <!--hier komt een URI te staan, maar deze waardelijst is op dit moment nog niet gepubliceerd-->
+					<rol:eenheid>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/FICTIEF/Meter</rol:eenheid>
 					<rol:normwaarde>
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0037.normwaarde.2019000002</rol:identificatie>
@@ -63,16 +63,16 @@
 							</rol:locatieaanduiding>
 						</rol:Normwaarde>
 					</rol:normwaarde>
-					<rol:groep>maatvoeringbouwen</rol:groep>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/Bouwaanduiding</rol:groep>
 				</rol:Omgevingsnorm>
 			</ow-dc:owObject>
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Omgevingsnorm WorkIDGIO="HierMoetNogEenGIOKomenVoorWelstandsNiveau" DoelID="/join/id/proces/gm0037/2019/Instelling">
+				<rol:Omgevingsnorm>
 					<rol:identificatie>nl.imow-gm0037.omgevingsnorm.2019000003</rol:identificatie>
 					<rol:naam>welstandsniveau</rol:naam>
-					<rol:type>welstand</rol:type>
+					<rol:type>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/FICTIEF/Welstand</rol:type>
 					<rol:normwaarde>
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0037.normwaarde.2019000003</rol:identificatie>
@@ -99,7 +99,7 @@
 							</rol:locatieaanduiding>
 						</rol:Normwaarde>
 					</rol:normwaarde>
-					<rol:groep>bouwaanduiding</rol:groep>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/Bouwaanduiding</rol:groep>
 				</rol:Omgevingsnorm>
 			</ow-dc:owObject>
 		</sl:stand>

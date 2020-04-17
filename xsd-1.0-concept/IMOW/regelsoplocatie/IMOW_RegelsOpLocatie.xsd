@@ -41,7 +41,7 @@
    </xs:element>
    <xs:complexType name="Norm" abstract="true">
       <xs:complexContent>
-         <xs:extension base="op:OPGIO">
+         <xs:extension base="ow:OWobject">
             <xs:sequence>
                <xs:element name="identificatie"
                            type="da:NEN3610ID"
@@ -239,8 +239,8 @@
          <xs:appinfo source="http://www.imvertor.org/data-info/uri">http://standaarden.omgevingswet.overheid.nl/id/waardelijst/Activiteitengroep</xs:appinfo>
          <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Een uitbreidbare lijst met een opsomming van de mogelijke domeinwaarden van een attribuutsoort, die buiten het model in een externe waardenlijst worden beheerd. </xs:documentation>
       </xs:annotation>
-      <xs:restriction base="xs:string">
-         <xs:pattern value="\S.*"/>
+      <xs:restriction base="xs:anyURI">
+         <xs:pattern value="(http|https)://(wetgeving|standaarden|regelgeving)\.omgevingswet\.overheid\.nl/.*"/>
       </xs:restriction>
    </xs:simpleType>
    <xs:simpleType name="Typenorm">
@@ -248,8 +248,8 @@
          <xs:appinfo source="http://www.imvertor.org/data-info/uri">http://standaarden.omgevingswet.overheid.nl/id/waardelijst/Omgevingsnormgroep</xs:appinfo>
          <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Een uitbreidbare lijst met een opsomming van de mogelijke domeinwaarden van een attribuutsoort, die buiten het model in een externe waardenlijst worden beheerd. </xs:documentation>
       </xs:annotation>
-      <xs:restriction base="xs:string">
-         <xs:pattern value="\S.*"/>
+      <xs:restriction base="xs:anyURI">
+         <xs:pattern value="(http|https)://(wetgeving|standaarden|regelgeving)\.omgevingswet\.overheid\.nl/.*"/>
       </xs:restriction>
    </xs:simpleType>
    <xs:simpleType name="Omgevingsnormgroep">
@@ -257,8 +257,8 @@
          <xs:appinfo source="http://www.imvertor.org/data-info/uri">http://standaarden.omgevingswet.overheid.nl/id/waardelijst/Omgevingsnormgroep</xs:appinfo>
          <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Een uitbreidbare lijst met een opsomming van de mogelijke domeinwaarden van een attribuutsoort, die buiten het model in een externe waardenlijst worden beheerd. </xs:documentation>
       </xs:annotation>
-      <xs:restriction base="xs:string">
-         <xs:pattern value="\S.*"/>
+      <xs:restriction base="xs:anyURI">
+         <xs:pattern value="(http|https)://(wetgeving|standaarden|regelgeving)\.omgevingswet\.overheid\.nl/.*"/>
       </xs:restriction>
    </xs:simpleType>
    <xs:simpleType name="Omgevingswaardegroep">
@@ -266,8 +266,8 @@
          <xs:appinfo source="http://www.imvertor.org/data-info/uri">http://standaarden.omgevingswet.overheid.nl/id/waardelijst/Omgevingswaardegroep</xs:appinfo>
          <xs:documentation source="http://www.imvertor.org/schema-info/technical-documentation">Een uitbreidbare lijst met een opsomming van de mogelijke domeinwaarden van een attribuutsoort, die buiten het model in een externe waardenlijst worden beheerd. </xs:documentation>
       </xs:annotation>
-      <xs:restriction base="xs:string">
-         <xs:pattern value="\S.*"/>
+      <xs:restriction base="xs:anyURI">
+         <xs:pattern value="(http|https)://(wetgeving|standaarden|regelgeving)\.omgevingswet\.overheid\.nl/.*"/>
       </xs:restriction>
    </xs:simpleType>
    <xs:element name="NormRef" type="rol:NormRef" abstract="false"/>
