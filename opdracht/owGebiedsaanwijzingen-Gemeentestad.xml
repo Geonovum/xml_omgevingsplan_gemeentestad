@@ -11,7 +11,7 @@
 	xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
 	xmlns:r="http://www.geostandaarden.nl/imow/regels"
 	xmlns:op="http://www.geostandaarden.nl/imow/opobject"
-	xsi:schemaLocation="http://www.geostandaarden.nl/imow/1.0 ../xsd-1.0-concept/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	xsi:schemaLocation="http://www.geostandaarden.nl/imow/1.0 ../xsd/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
 	<sl:standBestand>
 		<sl:dataset>Gemeentestad</sl:dataset>
 		<sl:inhoud>
