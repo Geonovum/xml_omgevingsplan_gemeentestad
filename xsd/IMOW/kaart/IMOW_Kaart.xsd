@@ -113,10 +113,10 @@
    <xs:element name="Kaartextent" type="k:Kaartextent" abstract="false"/>
    <xs:complexType name="Kaartextent" abstract="false">
       <xs:sequence>
-         <xs:element name="minX" type="xs:integer" minOccurs="1" maxOccurs="1"/>
-         <xs:element name="minY" type="xs:integer" minOccurs="1" maxOccurs="1"/>
-         <xs:element name="maxX" type="xs:integer" minOccurs="1" maxOccurs="1"/>
-         <xs:element name="maxY" type="xs:integer" minOccurs="1" maxOccurs="1"/>
+         <xs:element name="minX" type="xs:decimal" minOccurs="1" maxOccurs="1"/>
+         <xs:element name="minY" type="xs:decimal" minOccurs="1" maxOccurs="1"/>
+         <xs:element name="maxX" type="xs:decimal" minOccurs="1" maxOccurs="1"/>
+         <xs:element name="maxY" type="xs:decimal" minOccurs="1" maxOccurs="1"/>
       </xs:sequence>
    </xs:complexType>
    <xs:simpleType name="Kaartobjecttype">
