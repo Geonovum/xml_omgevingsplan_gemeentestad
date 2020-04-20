@@ -13,18 +13,17 @@ Het basisigeometrie schema is dus een implementatie van gml 3.2.2
 
  =================================================================== 
 -->
+
 <schema 
-xmlns:geo="http://www.geostandaarden.nl/basisgeometrie/1.0"
-xmlns="http://www.w3.org/2001/XMLSchema" 
-xmlns:gml="http://www.opengis.net/gml/3.2"
-xmlns:gmlsf="http://www.opengis.net/gmlsf/2.0"
-targetNamespace="http://www.geostandaarden.nl/basisgeometrie/1.0" 
-elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.0.0">
-   <import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
-   <import namespace="http://www.opengis.net/gml/3.2" schemaLocation="http://schemas.opengis.net/gml/3.2.1/gml.xsd"/>
+xmlns:geo="http://www.geostandaarden.nl/imow/basisgeometrie"
+xmlns="http://www.w3.org/2001/XMLSchema" xmlns:imvert="http://www.imvertor.org/schema/system"
+xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmlsf="http://www.opengis.net/gmlsf/2.0"
+targetNamespace="http://www.geostandaarden.nl/imow/basisgeometrie" elementFormDefault="qualified"
+attributeFormDefault="unqualified" version="1.0">
+   <import namespace="http://www.opengis.net/gml/3.2" schemaLocation="../gml/3.2.2/gml.xsd"/>
    <import namespace="http://www.opengis.net/gmlsf/2.0" schemaLocation="../gml/gmlsfLevels.xsd"/>
    <annotation>
-      <appinfo source="http://schemas.opengis.net/gmlsfProfile/2.0/gmlsfLevels.xsd">
+      <appinfo>
          <gmlsf:ComplianceLevel>0</gmlsf:ComplianceLevel>
       </appinfo>
    </annotation>
@@ -49,12 +48,12 @@ elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.0.0
          </extension>
       </complexContent>
    </complexType>
-   <element name="Geometrie" type="geo:GeometrieType" substitutionGroup="gml:AbstractFeature">
-   <annotation>
-      <documentation source="http://www.imvertor.org/schema-info/technical-documentation"
-         >Geometrie is het object dat de geometrie bevat: de geometrische bepaling van een
-         gebied, lijn of punt door middel van coordinaten.</documentation>
-   </annotation>
+   <element name="Geometrie" type="geo:GeometrieType">
+      <annotation>
+         <documentation source="http://www.imvertor.org/schema-info/technical-documentation"
+            >Geometrie is het object dat de geometrie bevat: de geometrische bepaling van een
+            gebied, lijn of punt door middel van coordinaten.</documentation>
+      </annotation>
    </element>
    <complexType name="GeometrieType">
       <complexContent>
