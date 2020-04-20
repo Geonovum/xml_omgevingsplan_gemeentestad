@@ -53,59 +53,59 @@
     </bestand>
     <bestand>
         <bestandsnaam>Bedrijf_categorie_2.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Bouwhoogte.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Centrumgebied.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Speelhal.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Welstand_A.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Welstand_B.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Welstand_C.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Zone_A.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Zaltbommel.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Zone_B.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Zuilichem.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Zuilichem_industriegebied_1.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Zuilichem_industriegebied_2.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Zuilichem_industriegebied_3.gml</bestandsnaam>
-        <contentType>application/xml+gml</contentType>
+        <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>manifest-ow.xml</bestandsnaam>
