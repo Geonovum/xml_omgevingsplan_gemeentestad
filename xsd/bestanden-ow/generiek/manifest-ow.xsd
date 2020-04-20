@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
-  xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow"
+  xmlns:mow="http://www.geostandaarden.nl/bestanden-ow/manifest-ow"
   targetNamespace="http://www.geostandaarden.nl/bestanden-ow/manifest-ow"
   elementFormDefault="qualified"
   attributeFormDefault="unqualified"
@@ -11,8 +11,8 @@
     </xs:annotation>
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="1" minOccurs="1" ref="domein"/>
-        <xs:element maxOccurs="unbounded" minOccurs="1" ref="Aanlevering"/>
+        <xs:element maxOccurs="1" minOccurs="1" ref="mow:domein"/>
+        <xs:element maxOccurs="unbounded" minOccurs="1" ref="mow:Aanlevering"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
@@ -32,10 +32,10 @@
     </xs:annotation>
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="1" minOccurs="1" ref="WorkIDRegeling"/>
-        <xs:element maxOccurs="1" minOccurs="1" ref="DoelID"/>
-        <xs:element maxOccurs="1" minOccurs="0" ref="buitenBesluit"/>
-        <xs:element maxOccurs="unbounded" minOccurs="0" ref="Bestand">
+        <xs:element maxOccurs="1" minOccurs="1" ref="mow:WorkIDRegeling"/>
+        <xs:element maxOccurs="1" minOccurs="1" ref="mow:DoelID"/>
+        <xs:element maxOccurs="1" minOccurs="0" ref="mow:buitenBesluit"/>
+        <xs:element maxOccurs="unbounded" minOccurs="0" ref="mow:Bestand">
           <xs:annotation>
             <xs:documentation>Bestandsnaam van de module volgens CIM-OW opmaak. Het bestand moet ook in de manifest voorkomen.</xs:documentation>
           </xs:annotation>
@@ -66,8 +66,8 @@
     </xs:annotation>
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="1" minOccurs="1" ref="naam"/>
-        <xs:element maxOccurs="unbounded" minOccurs="0" ref="objecttype"/>
+        <xs:element maxOccurs="1" minOccurs="1" ref="mow:naam"/>
+        <xs:element maxOccurs="unbounded" minOccurs="0" ref="mow:objecttype"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
