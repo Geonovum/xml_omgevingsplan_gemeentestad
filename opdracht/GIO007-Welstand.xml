@@ -23,20 +23,8 @@
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
-            <bestandsnaam>Welstand_A.gml</bestandsnaam>
-            <hash>b7d08d345b4678f480b02fef7ed418b2290179904e09e9fa668224a64a55aca749752424dfb4af4e98ad66db567a688884406f82ff8597ff778813c5255f1c5a</hash>
-          </Bestand>
-        </heeftBestand>
-        <heeftBestand>
-          <Bestand>
-            <bestandsnaam>Welstand_B.gml</bestandsnaam>
-            <hash>0d693927388b42fb2a850a714c7937197adac696de31c1ba0fe02255776f2ba23eb6a5d6cef624c886c1406f9f36bece5de6f388d68e60c080d3e40e7967a05e</hash>
-          </Bestand>
-        </heeftBestand>
-        <heeftBestand>
-          <Bestand>
-            <bestandsnaam>Welstand_C.gml</bestandsnaam>
-            <hash>c7c3a6963a0d97ee8628546ccbd340c64b11243c76377c06f0b62a5816c9cb0343b8ba6dc6d5d541ddf0880bb32103a008b30d8e9643a6666253467647e17cf3</hash>
+            <bestandsnaam>Welstand.gml</bestandsnaam>
+            <hash>388c7e8f6551186b54622411f3080d95473cbae62244bc4a32d5b8f3e9ff55280ac66febeffcc114c09c07464d1953bd745c8dba7ffb052b7ecf515591a1d523</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
