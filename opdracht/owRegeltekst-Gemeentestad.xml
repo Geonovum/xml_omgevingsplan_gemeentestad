@@ -382,6 +382,9 @@
 			<ow-dc:owObject>
 				<r:Regeltekst wId="gm0037_1__subchp_2.3__art_2.10">
 					<r:identificatie>nl.imow-gm0037.regeltekst.2019000008</r:identificatie>
+					<r:gerelateerdeRegeltekst>
+						<r:RegeltekstRef xlink:href="nl.imow-gm0037.regeltekst.2019000012"/>
+					</r:gerelateerdeRegeltekst>
 				</r:Regeltekst>
 			</ow-dc:owObject>
 		</sl:stand>
