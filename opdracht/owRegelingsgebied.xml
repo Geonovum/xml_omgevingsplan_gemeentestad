@@ -6,7 +6,7 @@
 	xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
 	xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
 	xmlns:l="http://www.geostandaarden.nl/imow/locatie" 
-	xsi:schemaLocation="http://www.geostandaarden.nl/imow/1.0 ../xsd/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand ../xsd/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
 	<sl:standBestand>
 		<sl:dataset>Gemeentestad</sl:dataset>
 		<sl:inhoud>
