@@ -25,20 +25,8 @@
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
-            <bestandsnaam>Zuilichem_industriegebied_1.gml</bestandsnaam>
-            <hash>97fecffa55365fd21897d14c196128da14ad40b3dff366f0f1d598526bc4d3c979daa0512b739fe31afff86c5508056b39db902746f6279536723ba59b0a2153</hash>
-          </Bestand>
-        </heeftBestand>
-        <heeftBestand>
-          <Bestand>
-            <bestandsnaam>Zuilichem_industriegebied_2.gml</bestandsnaam>
-            <hash>d9caa3df3e942f4db767e365a4f738b8906601c4e8e98a74f326e279c8b5590580489139d76a7d72e5651fbec017495de280d77a69844ca49a4cba2de1161ac1</hash>
-          </Bestand>
-        </heeftBestand>
-        <heeftBestand>
-          <Bestand>
-            <bestandsnaam>Zuilichem_industriegebied_3.gml</bestandsnaam>
-            <hash>56f7d668daa9166e1c51662397d3414d0f637dd2c8cc379ef745f467f0cc77d6fcfd2172206a03d1db411bab1a0d411aef1a0067840b6b7b4e9c5dcb1c3e3752</hash>
+            <bestandsnaam>Zuilichem_industriegebied.gml</bestandsnaam>
+            <hash></hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
