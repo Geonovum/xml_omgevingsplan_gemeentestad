@@ -17,14 +17,6 @@
                 </geo:Groep>
                 <geo:Groep>
                     <geo:groepID>2</geo:groepID>
-                    <geo:label>Maximum bouwhoogte 7 meter</geo:label>
-                </geo:Groep>
-                <geo:Groep>
-                    <geo:groepID>3</geo:groepID>
-                    <geo:label>Maximum bouwhoogte 13 meter</geo:label>
-                </geo:Groep>
-                <geo:Groep>
-                    <geo:groepID>4</geo:groepID>
                     <geo:label>Maximum bouwhoogte 13 meter</geo:label>
                 </geo:Groep>
             </geo:groepen>
@@ -70,7 +62,7 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:groepID>7</geo:groepID>
+                    <geo:groepID>1</geo:groepID>
                     <geo:kwantitatieveNormwaarde>7</geo:kwantitatieveNormwaarde>
                 </geo:Locatie>
                 <geo:Locatie>
@@ -92,7 +84,7 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:groepID>3</geo:groepID>
+                    <geo:groepID>2</geo:groepID>
                     <geo:kwantitatieveNormwaarde>13</geo:kwantitatieveNormwaarde>
                 </geo:Locatie>
                 <geo:Locatie>
