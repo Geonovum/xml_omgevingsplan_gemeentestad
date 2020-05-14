@@ -10,8 +10,20 @@
         <geo:GeoInformatieObjectVersie>
             <geo:FRBRWork>/join/id/regdata/gm0037/2019/Welstand</geo:FRBRWork>
             <geo:FRBRExpression>/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</geo:FRBRExpression>
-            <geo:normlabel>welstandsniveau</geo:normlabel>
-            <geo:normID>welstandsniveau</geo:normID>
+            <geo:groepen>
+                <geo:Groep>
+                    <geo:groepID>1</geo:groepID>
+                    <geo:label>hoog</geo:label>
+                </geo:Groep>
+                <geo:Groep>
+                    <geo:groepID>2</geo:groepID>
+                    <geo:label>middel</geo:label>
+                </geo:Groep>
+                <geo:Groep>
+                    <geo:groepID>3</geo:groepID>
+                    <geo:label>laag</geo:label>
+                </geo:Groep>
+            </geo:groepen>
             <geo:locaties>
                 <geo:Locatie>
                     <geo:geometrie>
@@ -32,7 +44,7 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:kwalitatieveNormwaarde>midden</geo:kwalitatieveNormwaarde>
+                    <geo:groepID>2</geo:groepID>
                 </geo:Locatie>
                 <geo:Locatie>
                     <geo:geometrie>
@@ -53,7 +65,7 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:kwalitatieveNormwaarde>laag</geo:kwalitatieveNormwaarde>
+                    <geo:groepID>3</geo:groepID>
                 </geo:Locatie>
                 <geo:Locatie>
                     <geo:geometrie>
@@ -74,7 +86,7 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:kwalitatieveNormwaarde>hoog</geo:kwalitatieveNormwaarde>
+                    <geo:groepID>1</geo:groepID>
                 </geo:Locatie>
             </geo:locaties>
         </geo:GeoInformatieObjectVersie>

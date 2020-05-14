@@ -10,16 +10,8 @@
         <geo:GeoInformatieObjectVersie>
             <geo:FRBRWork>/join/id/regdata/gm0037/2019/Zuilichem_1</geo:FRBRWork>
             <geo:FRBRExpression>/join/id/regdata/gm0037/2019/Zuilichem_1/nld@2019-06-18;3520</geo:FRBRExpression>
-            <geo:groepen>
-                <geo:Groep>
-                    <geo:groepID>1</geo:groepID>
-                    <geo:label>Maximum bouwhoogte 7 meter</geo:label>
-                </geo:Groep>
-                <geo:Groep>
-                    <geo:groepID>2</geo:groepID>
-                    <geo:label>Maximum bouwhoogte 13 meter</geo:label>
-                </geo:Groep>
-            </geo:groepen>
+            <geo:normlabel>Maximum bouwhoogte</geo:normlabel>
+            <geo:normID>bouwhoogte</geo:normID>
             <geo:locaties>
                 <geo:Locatie>
                     <geo:geometrie>
@@ -40,7 +32,6 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:groepID>1</geo:groepID>
                     <geo:kwantitatieveNormwaarde>7</geo:kwantitatieveNormwaarde>
                 </geo:Locatie>
                 <geo:Locatie>
@@ -62,7 +53,6 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:groepID>1</geo:groepID>
                     <geo:kwantitatieveNormwaarde>7</geo:kwantitatieveNormwaarde>
                 </geo:Locatie>
                 <geo:Locatie>
@@ -84,7 +74,6 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:groepID>2</geo:groepID>
                     <geo:kwantitatieveNormwaarde>13</geo:kwantitatieveNormwaarde>
                 </geo:Locatie>
                 <geo:Locatie>
@@ -106,7 +95,6 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:groepID>2</geo:groepID>
                     <geo:kwantitatieveNormwaarde>13</geo:kwantitatieveNormwaarde>
                 </geo:Locatie>
             </geo:locaties>
