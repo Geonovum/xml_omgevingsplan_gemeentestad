@@ -106,9 +106,9 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:groepID>4</geo:groepID>
+                    <geo:groepID>2</geo:groepID>
                     <geo:kwantitatieveNormwaarde>13</geo:kwantitatieveNormwaarde>
-                </geo:Locatie>                
+                </geo:Locatie>
             </geo:locaties>
         </geo:GeoInformatieObjectVersie>
     </geo:vastgesteldeVersie>
