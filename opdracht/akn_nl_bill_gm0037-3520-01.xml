@@ -170,7 +170,7 @@
             </Kop>
             <RegelingCompact componentnaam="initieel_reg"
                              wordt="/akn/nl/act/gm0037/2019/reg456/nld@2019-06-25;1">
-               <RegelingOpschrift eId="longTitle_o_1" wId="longTitle_o_1">
+               <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Voorbeeldregels met uitbreiding tbv Toepasbare Regels</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
