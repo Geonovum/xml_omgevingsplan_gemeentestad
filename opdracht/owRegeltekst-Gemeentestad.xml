@@ -381,7 +381,7 @@
 						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000004"/>
 					</r:locatieaanduiding>
 					<r:gebiedsaanwijzing>
-					    <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0037.Gebiedsaanwijzing.2019000002"/> <!--Centrumgebied-->
+					    <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0037.gebiedsaanwijzing.2019000002"/> <!--Centrumgebied-->
 					</r:gebiedsaanwijzing>
 				</r:RegelVoorIedereen>
 			</ow-dc:owObject>
