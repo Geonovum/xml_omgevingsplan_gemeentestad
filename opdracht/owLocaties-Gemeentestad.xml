@@ -24,7 +24,7 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<l:Gebiedengroep>
-					<l:identificatie>nl.imow-gm0037.gebiedengroep.201900001</l:identificatie>
+					<l:identificatie>nl.imow-gm0037.gebiedengroep.2019000001</l:identificatie>
 					<l:groepselement>
 						<l:GebiedRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
 					</l:groepselement>
@@ -79,10 +79,13 @@
 				</l:Gebied>
 			</ow-dc:owObject>
 		</sl:stand>
+		<!-- BV. Er is geen OW-object dat naar dit object verwijst. -->
+		<!-- Aangetroffen comment in uitgecommentarieert deel: artikel waar de locatie bijhoort en gedefinieerd wordt voor 1e keer - artikel 2.10 -->
+		<!-- Aangetroffen comment in uitgecommentarieert deel: ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000008" -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<l:Gebied> <!--ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000008"-->
-					<!-- artikel waar de locatie bijhoort en gedefinieerd wordt voor 1e keer - artikel 2.10 -->
+				<l:Gebied> <!-- ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000008" -->
+				    <!-- artikel waar de locatie bijhoort en gedefinieerd wordt voor 1e keer - artikel 2.10 -->
 					<l:identificatie>nl.imow-gm0037.gebied.2019000007</l:identificatie>
 					<l:noemer>exploiteren speelautomatenhal</l:noemer>
 					<l:geometrie>
@@ -130,10 +133,23 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<l:Gebied> <!--ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000008"-->
+					<!-- artikel waar de locatie bijhoort en gedefinieerd wordt voor 1e keer - artikel 2.10 -->
+					<l:identificatie>nl.imow-gm0037.gebied.2019000013</l:identificatie>
+					<l:noemer>Zuilichem industriegebied 4</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="EFAAD5E9-B181-4C22-9C3B-B290F4586D82"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied> <!--ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000008"-->
+					<!-- artikel waar de locatie bijhoort en gedefinieerd wordt voor 1e keer - artikel 2.10 -->
 					<l:identificatie>nl.imow-gm0037.gebied.2019000011</l:identificatie>
 					<l:noemer>Zuilichem</l:noemer>
 					<l:geometrie>
-						<l:GeometrieRef xlink:href="EFAAD5E9-B181-4C22-9C3B-B290F4586D82"/>
+						<l:GeometrieRef xlink:href="b69221bd-8121-4368-9058-ad4ff7618dcd"/>
 					</l:geometrie>
 				</l:Gebied>
 			</ow-dc:owObject>

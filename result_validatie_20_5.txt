@@ -1,0 +1,71 @@
+      C:\Users\Default.DESKTOP-NDDI22K\Documents\Geonovum\github\xml_schematron\1.0-Validatie-_en_conformiteitsregels_TPOD\Validaties\Opdracht\akn_nl_bill_gm0037-3520-01.xml
+       
+                      TPOD_0780: Leden moeten per artikel oplopend genummerd worden in Arabische cijfers
+                      (en indien nodig, een letter). 
+                      (betreft artikel: 2.6, leden: 1, 2) 
+                      TPOD_0780: Leden moeten per artikel oplopend genummerd worden in Arabische cijfers
+                      (en indien nodig, een letter). 
+                      (betreft artikel: 2.7, leden: 1, 2, 3) 
+                      TPOD_0780: Leden moeten per artikel oplopend genummerd worden in Arabische cijfers
+                      (en indien nodig, een letter). 
+                      (betreft artikel: 2.11, leden: 1, 2) 
+                      TPOD_0790: Het eerste lid van ieder artikel krijgt het nummer 1. 
+                      (betreft artikel: 2.6, lid: 1) 
+                      TPOD_0790: Het eerste lid van ieder artikel krijgt het nummer 1. 
+                      (betreft artikel: 2.7, lid: 1) 
+                      TPOD_0790: Het eerste lid van ieder artikel krijgt het nummer 1. 
+                      (betreft artikel: 2.11, lid: 1) 
+                      TPOD_0800: Achter het lidnummer moet een punt worden opgenomen. 
+                      (betreft artikel: 2.6, lidnummers: 1, 2) 
+                      TPOD_0800: Achter het lidnummer moet een punt worden opgenomen. 
+                      (betreft artikel: 2.7, lidnummers: 1, 2, 3) 
+                      TPOD_0800: Achter het lidnummer moet een punt worden opgenomen. 
+                      (betreft artikel: 2.11, lidnummers: 1, 2) 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: gm0037_1__subchp_2.2__art_2.4__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: gm0037_1__subchp_2.2__art_2.5__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: gm0037_1__subchp_2.2__art_2.6__para_2__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: gm0037_1__subchp_2.2__art_2.7__para_2__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: gm0037_1__subchp_2.2__art_2.7__para_3__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: gm0037_1__subchp_2.3__art_2.10__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: gm0037_1__subchp_2.3__art_2.11__para_2__list_o_1 
+                      TPOD_1010_1060: Een Begriplijst moet gesorteerd zijn, 
+                      de Begrippenlijst met wId: "gm0037_1__cmp_I__content_o_1__list_o_1" is dat niet
+      C:\Users\Default.DESKTOP-NDDI22K\Documents\Geonovum\github\xml_schematron\1.0-Validatie-_en_conformiteitsregels_TPOD\Validaties\Opdracht\owActiviteiten-Gemeentestad.xml
+       
+                      TPOD_1990: Iedere Activiteit heeft minstens een OwObject dat ernaar verwijst: nl.imow-gm0037.activiteit.2019000530
+      C:\Users\Default.DESKTOP-NDDI22K\Documents\Geonovum\github\xml_schematron\1.0-Validatie-_en_conformiteitsregels_TPOD\Validaties\Opdracht\owLocaties-Gemeentestad.xml
+       
+                      TPOD_1990: Iedere Locatie-aanduiding heeft minstens een OwObject dat ernaar verwijst:
+                      nl.imow-gm0037.gebiedengroep.201900001 
+                      TPOD_1990: Iedere Locatie-aanduiding heeft minstens een OwObject dat ernaar verwijst:
+                      nl.imow-gm0037.gebied.2019000007
+      C:\Users\Default.DESKTOP-NDDI22K\Documents\Geonovum\github\xml_schematron\1.0-Validatie-_en_conformiteitsregels_TPOD\Validaties\Opdracht\owOmgevingsnormOmgevingswaarde.xml
+       
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-gm0037.normwaarde.2019000003. 
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-gm0037.normwaarde.2019000003.
+      C:\Users\Default.DESKTOP-NDDI22K\Documents\Geonovum\github\xml_schematron\1.0-Validatie-_en_conformiteitsregels_TPOD\Validaties\Opdracht\owRegeltekst-Gemeentestad.xml
+       
+                      TPOD1860: Betreft r:RegelVoorIedereen:
+                      nl.imow-gm0037.regeltekst.20190000007,
+                      nl.imow-gm0037.regeltekst.20190000007: Iedere verwijzing naar een ander OwObject
+                      moet een bestaand (ander) OwObject zijn. (r:Regeltekst/r:identificatie niet aangetroffen)  
+                      TPOD1860: Betreft r:RegelVoorIedereen:
+                      nl.imow-gm0037.regeltekst.2019000010,
+                      nl.imow-gm0037.omgevingsnorm.201900002: Iedere verwijzing naar een ander OwObject
+                      moet een bestaand (ander) OwObject zijn. (rol:Omgevingsnorm/rol:identificatie niet aangetroffen)  
+                      TPOD1870: Betreft
+                      r:RegelVoorIedereen: , nl.imow-gm0037.regeltekst.20190000007: Een verwijzing naar ArtikelOfLid moet verwijzen naar een bestaand artikel of lid.  
+                      TPOD_1990: Iedere Regeltekst heeft minstens een OwObject dat ernaar verwijst: nl.imow-gm0037.regeltekst.2019000007 
+                      TPOD_1990: Iedere Regeltekst heeft minstens een OwObject dat ernaar verwijst: nl.imow-gm0037.regeltekst.2019000011
+      C:\Users\Default.DESKTOP-NDDI22K\Documents\Geonovum\github\xml_schematron\1.0-Validatie-_en_conformiteitsregels_TPOD\Validaties\Opdracht\Zuilichem.gml
+       
+                      TPOD_1990: Ieder OwObject heeft minstens een OwObject dat ernaar verwijst: b69221bd-8121-4368-9058-ad4ff7618dcd

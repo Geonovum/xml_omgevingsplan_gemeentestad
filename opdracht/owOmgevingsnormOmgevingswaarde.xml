@@ -75,7 +75,7 @@
 					<rol:type>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/FICTIEF/Welstand</rol:type>
 					<rol:normwaarde>
 						<rol:Normwaarde>
-							<rol:identificatie>nl.imow-gm0037.normwaarde.2019000003</rol:identificatie>
+							<rol:identificatie>nl.imow-gm0037.normwaarde.2019000004</rol:identificatie>
 							<rol:kwalitatieveWaarde>laag</rol:kwalitatieveWaarde>
 							<rol:specifiekeSymbolisatie>vag500</rol:specifiekeSymbolisatie>
 							<rol:locatieaanduiding>
@@ -83,7 +83,7 @@
 							</rol:locatieaanduiding>
 						</rol:Normwaarde>
 						<rol:Normwaarde>
-							<rol:identificatie>nl.imow-gm0037.normwaarde.2019000004</rol:identificatie>
+							<rol:identificatie>nl.imow-gm0037.normwaarde.2019000005</rol:identificatie>
 							<rol:kwalitatieveWaarde>midden</rol:kwalitatieveWaarde>
 							<rol:specifiekeSymbolisatie>vag300</rol:specifiekeSymbolisatie>
 							<rol:locatieaanduiding>
@@ -91,7 +91,7 @@
 							</rol:locatieaanduiding>
 						</rol:Normwaarde>
 						<rol:Normwaarde>
-							<rol:identificatie>nl.imow-gm0037.normwaarde.2019000005</rol:identificatie>
+							<rol:identificatie>nl.imow-gm0037.normwaarde.2019000006</rol:identificatie>
 							<rol:kwalitatieveWaarde>hoog</rol:kwalitatieveWaarde>
 							<rol:specifiekeSymbolisatie>vag400</rol:specifiekeSymbolisatie>
 							<rol:locatieaanduiding>

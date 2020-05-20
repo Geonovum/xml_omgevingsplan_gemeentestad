@@ -205,6 +205,8 @@
                            <Lijst eId="subchp_2.2__art_2.4__list_o_1"
                                   wId="gm0037_1__subchp_2.2__art_2.4__list_o_1"
                                   type="expliciet">
+                              <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                              <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                               <Li eId="subchp_2.2__art_2.4__list_o_1__item_a"
                                   wId="gm0037_1__subchp_2.2__art_2.4__list_o_1__item_a">
                                  <LiNummer>a.</LiNummer>
@@ -255,6 +257,8 @@
                            <Lijst eId="subchp_2.2__art_2.5__list_o_1"
                                   wId="gm0037_1__subchp_2.2__art_2.5__list_o_1"
                                   type="expliciet">
+                              <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                              <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                               <Li eId="subchp_2.2__art_2.5__list_o_1__item_a"
                                   wId="gm0037_1__subchp_2.2__art_2.5__list_o_1__item_a">
                                  <LiNummer>a.</LiNummer>
@@ -281,7 +285,8 @@
                         </Kop>
                         <Lid eId="subchp_2.2__art_2.6__para_1"
                              wId="gm0037_1__subchp_2.2__art_2.6__para_1">
-                           <LidNummer>1</LidNummer>
+                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                           <LidNummer>1.</LidNummer>
                            <Inhoud>
                               <Al>Meldingplichtige gebruiksactiviteiten</Al>
                               <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="subchp_2.2__art_2.6__para_1__ref_o_1"
@@ -293,13 +298,16 @@
                         </Lid>
                         <Lid eId="subchp_2.2__art_2.6__para_2"
                              wId="gm0037_1__subchp_2.2__art_2.6__para_2">
-                           <LidNummer>2</LidNummer>
+                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                           <LidNummer>2.</LidNummer>
                            <Inhoud>
                               <Al>Indieningsvereisten melding</Al>
                               <Al>Bij het doen van de melding dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
                               <Lijst eId="subchp_2.2__art_2.6__para_2__list_o_1"
                                      wId="gm0037_1__subchp_2.2__art_2.6__para_2__list_o_1"
                                      type="expliciet">
+                                 <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                                 <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                  <Li eId="subchp_2.2__art_2.6__para_2__list_o_1__item_a"
                                      wId="gm0037_1__subchp_2.2__art_2.6__para_2__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -322,7 +330,8 @@
                         </Kop>
                         <Lid eId="subchp_2.2__art_2.7__para_1"
                              wId="gm0037_1__subchp_2.2__art_2.7__para_1">
-                           <LidNummer>1</LidNummer>
+                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                           <LidNummer>1.</LidNummer>
                            <Inhoud>
                               <Al>Vergunningplichtige gebruiksactiviteiten</Al>
                               <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="subchp_2.2__art_2.7__para_1__ref_o_1"
@@ -332,13 +341,16 @@
                         </Lid>
                         <Lid eId="subchp_2.2__art_2.7__para_2"
                              wId="gm0037_1__subchp_2.2__art_2.7__para_2">
-                           <LidNummer>2</LidNummer>
+                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                           <LidNummer>2.</LidNummer>
                            <Inhoud>
                               <Al>Indieningsvereisten aanvraag omgevingsvergunning</Al>
                               <Al>Bij het indienen van de aanvraag om omgevingsvergunning dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
                               <Lijst eId="subchp_2.2__art_2.7__para_2__list_o_1"
                                      wId="gm0037_1__subchp_2.2__art_2.7__para_2__list_o_1"
                                      type="expliciet">
+                                 <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                                 <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                  <Li eId="subchp_2.2__art_2.7__para_2__list_o_1__item_a"
                                      wId="gm0037_1__subchp_2.2__art_2.7__para_2__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -359,13 +371,16 @@
                         </Lid>
                         <Lid eId="subchp_2.2__art_2.7__para_3"
                              wId="gm0037_1__subchp_2.2__art_2.7__para_3">
-                           <LidNummer>3</LidNummer>
+                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                           <LidNummer>3.</LidNummer>
                            <Inhoud>
                               <Al>Beoordelingsregels aanvraag omgevingsvergunning</Al>
                               <Al>De omgevingsvergunning wordt alleen verleend als aan de volgende regels wordt voldaan:</Al>
                               <Lijst eId="subchp_2.2__art_2.7__para_3__list_o_1"
                                      wId="gm0037_1__subchp_2.2__art_2.7__para_3__list_o_1"
                                      type="expliciet">
+                                 <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                                 <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                  <Li eId="subchp_2.2__art_2.7__para_3__list_o_1__item_a"
                                      wId="gm0037_1__subchp_2.2__art_2.7__para_3__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -422,6 +437,8 @@
                            <Lijst eId="subchp_2.3__art_2.10__list_o_1"
                                   wId="gm0037_1__subchp_2.3__art_2.10__list_o_1"
                                   type="expliciet">
+                              <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                              <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                               <Li eId="subchp_2.3__art_2.10__list_o_1__item_a"
                                   wId="gm0037_1__subchp_2.3__art_2.10__list_o_1__item_a">
                                  <LiNummer>a.</LiNummer>
@@ -520,7 +537,8 @@
                         </Kop>
                         <Lid eId="subchp_2.3__art_2.11__para_1"
                              wId="gm0037_1__subchp_2.3__art_2.11__para_1">
-                           <LidNummer>1</LidNummer>
+                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                           <LidNummer>1.</LidNummer>
                            <Inhoud>
                               <Al>Meldingplichtige gebruiksactiviteiten</Al>
                               <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="subchp_2.3__art_2.11__para_1__ref_o_1"
@@ -530,13 +548,16 @@
                         </Lid>
                         <Lid eId="subchp_2.3__art_2.11__para_2"
                              wId="gm0037_1__subchp_2.3__art_2.11__para_2">
-                           <LidNummer>2</LidNummer>
+                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                           <LidNummer>2.</LidNummer>
                            <Inhoud>
                               <Al>Indieningsvereisten melding</Al>
                               <Al>Bij het doen van de melding dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
                               <Lijst eId="subchp_2.3__art_2.11__para_2__list_o_1"
                                      wId="gm0037_1__subchp_2.3__art_2.11__para_2__list_o_1"
                                      type="expliciet">
+                                 <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                                 <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                  <Li eId="subchp_2.3__art_2.11__para_2__list_o_1__item_a"
                                      wId="gm0037_1__subchp_2.3__art_2.11__para_2__list_o_1__item_a">
                                     <LiNummer>a.</LiNummer>
@@ -685,6 +706,7 @@
                      <Inhoud>
                         <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
                                         wId="gm0037_1__cmp_I__content_o_1__list_o_1">
+                           <!-- BV: Een Begrippenlijst moet gesorteerd zijn -->
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
                                    wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_1">
                               <Term>Bedrijf categorie 2</Term>
@@ -707,6 +729,39 @@
                                  </Al>
                               </Definitie>
                            </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5"
+                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_5">
+                              <Term>Exploiteren speelautomatenhal</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                       wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                       ref="/join/id/regdata/gm0037/2019/Speelhal/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Speelhal/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6"
+                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_6">
+                              <Term>Maximum bouwhoogte bedrijfsgebouw</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                       wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                       ref="/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7"
+                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_7">
+                              <Term>Welstandsniveau</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                       wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                       ref="/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3"
                                    wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_3">
                               <Term>Zone A</Term>
@@ -726,39 +781,6 @@
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
                                               wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
                                               ref="/join/id/regdata/gm0037/2019/Zone_B/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Zone_B/nld@2019-06-18;3520</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5"
-                                   wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_5">
-                              <Term>Exploiteren speelautomatenhal</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                              ref="/join/id/regdata/gm0037/2019/Speelhal/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Speelhal/nld@2019-06-18;3520</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6"
-                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_6">
-                              <Term>Maximum bouwhoogte bedrijfsgebouw</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                       wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                       ref="/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7"
-                                   wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_7">
-                              <Term>Welstandsniveau</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                              ref="/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
