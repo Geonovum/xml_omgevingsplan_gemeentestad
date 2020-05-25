@@ -35,7 +35,7 @@
 							</rol:locatieaanduiding>
 						</rol:Normwaarde>
 					</rol:normwaarde>
-					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/Luchtkwaliteit</rol:groep>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingswaarde/id/concept/Luchtkwaliteit</rol:groep>
 				</rol:Omgevingswaarde>
 			</ow-dc:owObject>
 		</sl:stand>
@@ -63,7 +63,7 @@
 							</rol:locatieaanduiding>
 						</rol:Normwaarde>
 					</rol:normwaarde>
-					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/Bouwaanduiding</rol:groep>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/Bouwaanduiding</rol:groep>
 				</rol:Omgevingsnorm>
 			</ow-dc:owObject>
 		</sl:stand>
@@ -72,7 +72,7 @@
 				<rol:Omgevingsnorm>
 					<rol:identificatie>nl.imow-gm0037.omgevingsnorm.2019000003</rol:identificatie>
 					<rol:naam>welstandsniveau</rol:naam>
-					<rol:type>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/FICTIEF/Welstand</rol:type>
+					<rol:type>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/FICTIEF/Welstand</rol:type>
 					<rol:normwaarde>
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0037.normwaarde.2019000004</rol:identificatie>
@@ -99,7 +99,7 @@
 							</rol:locatieaanduiding>
 						</rol:Normwaarde>
 					</rol:normwaarde>
-					<rol:groep>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/Bouwaanduiding</rol:groep>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/Bouwaanduiding</rol:groep>
 				</rol:Omgevingsnorm>
 			</ow-dc:owObject>
 		</sl:stand>
