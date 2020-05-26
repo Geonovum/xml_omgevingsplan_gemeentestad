@@ -57,7 +57,7 @@
   </xs:element>
   <xs:element name="WorkIDRegeling" type="xs:anyURI">
     <xs:annotation>
-      <xs:documentation>Verwijzing naar Doel van het besluit.</xs:documentation>
+      <xs:documentation>Verwijzing naar WorkID van de Regeling.</xs:documentation>
     </xs:annotation>
   </xs:element>
   <xs:element name="Bestand">
