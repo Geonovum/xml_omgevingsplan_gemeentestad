@@ -6,7 +6,7 @@
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <FRBRWork>/join/id/regdata/gm0037/2019/Zone_B</FRBRWork>
       <FRBRExpression>/join/id/regdata/gm0037/2019/Zone_B/nld@2019-06-18;3520</FRBRExpression>
-      <soortWork>/join/id/stop/work_003</soortWork>
+      <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <eindverantwoordelijke>/join/id/stop/gemeente/gm0037</eindverantwoordelijke>
@@ -14,7 +14,7 @@
       <alternatieveTitels>
        <alternatieveTitel>Zone B</alternatieveTitel>
       </alternatieveTitels>
-      <officieleTitel>Zone B</officieleTitel>
+      <officieleTitel>/join/id/regdata/gm0037/2019/Zone_B/nld@2019-06-18;3520</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       <soortenInformatieobject>

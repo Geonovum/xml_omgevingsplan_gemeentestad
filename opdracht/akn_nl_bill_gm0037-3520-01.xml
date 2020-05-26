@@ -30,24 +30,24 @@
             <informatieobjectRef>/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0037/2019/Zaltbommel/nld@2019-06-18;3520</informatieobjectRef><!-- regelinggebied -->
          </informatieobjectRefs>
       </BesluitMetadata>
-      <Procedure xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <Procedureverloop>
-            <bekendOp>2019-06-27</bekendOp>
-            <procedurestappen>
-               <Procedurestap><!-- Vaststelling -->
-                  <soortStap>/join/id/stop/procedure/stap_002</soortStap>
-                  <voltooidOp>2019-06-25</voltooidOp>
-               </Procedurestap>
-               <!-- Ondertekening -->
-               <Procedurestap>
-                  <soortStap>/join/id/stop/procedure/stap_004</soortStap>
-                  <voltooidOp>2020-06-26</voltooidOp>
-               </Procedurestap>
-            </procedurestappen>
-         </Procedureverloop>
-      </Procedure>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2019-06-27</bekendOp>
+         <procedurestappen>
+            <!-- Vaststelling -->
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2019-06-25</voltooidOp>
+            </Procedurestap>
+            <!-- Ondertekening -->
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2019-06-26</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
       <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
@@ -113,6 +113,14 @@
                <instrumentVersie>/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520</instrumentVersie>
                <eId>cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
             </BeoogdInformatieobject>
+            <!-- regelinggebied -->
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0037/2019/Instelling</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0037/2019/Zaltbommel/nld@2019-06-18;3520</instrumentVersie>
+               <eId/>
+            </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
@@ -135,14 +143,14 @@
             <Al>besluit:</Al>
          </Aanhef>
          <Lichaam eId="body" wId="body">
-            <WijzigArtikel eId="art_I" wId="gm0037_2019-06-27__art_I">
+            <WijzigArtikel eId="art_I" wId="gm0037_1__art_I">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
                </Kop>
                <Wat>De "Voorbeeldregels met uitbreiding tbv Toepasbare Regels" opgenomen in <IntRef ref="cmp_A">Bijlage A</IntRef> worden vastgesteld.</Wat>
             </WijzigArtikel>
-            <Artikel eId="art_II" wId="gm0037_2019-06-27__art_II">
+            <Artikel eId="art_II" wId="gm0037_1__art_II">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
@@ -162,7 +170,7 @@
                <Al>Burgemeester</Al>
             </Ondertekening>
          </Sluiting>
-         <WijzigBijlage eId="cmp_A" wId="gm0037_2019-06-27__cmp_A">
+         <WijzigBijlage eId="cmp_A" wId="gm0037_1__cmp_A">
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>A</Nummer>
@@ -204,8 +212,7 @@
                                         ref="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' mogen de locatie en de daarop voorkomende bouwwerken in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten: </Al>
                            <Lijst eId="subchp_2.2__art_2.4__list_o_1"
                                   wId="gm0037_1__subchp_2.2__art_2.4__list_o_1"
-                                  type="expliciet">
-                              <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                                  type="expliciet"><!-- BV: Verplichte lijstaanhef toegevoegd -->
                               <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                               <Li eId="subchp_2.2__art_2.4__list_o_1__item_a"
                                   wId="gm0037_1__subchp_2.2__art_2.4__list_o_1__item_a">
@@ -256,8 +263,7 @@
                                         ref="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het verboden de locatie en de daarop voorkomende bouwwerken te gebruiken:</Al>
                            <Lijst eId="subchp_2.2__art_2.5__list_o_1"
                                   wId="gm0037_1__subchp_2.2__art_2.5__list_o_1"
-                                  type="expliciet">
-                              <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                                  type="expliciet"><!-- BV: Verplichte lijstaanhef toegevoegd -->
                               <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                               <Li eId="subchp_2.2__art_2.5__list_o_1__item_a"
                                   wId="gm0037_1__subchp_2.2__art_2.5__list_o_1__item_a">
@@ -284,8 +290,7 @@
                            <Opschrift>Gebruiksactiviteiten die zijn toegelaten na voorafgaande melding</Opschrift>
                         </Kop>
                         <Lid eId="subchp_2.2__art_2.6__para_1"
-                             wId="gm0037_1__subchp_2.2__art_2.6__para_1">
-                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                             wId="gm0037_1__subchp_2.2__art_2.6__para_1"><!-- BV: Punt aan Lidnummer toegevoegd -->
                            <LidNummer>1.</LidNummer>
                            <Inhoud>
                               <Al>Meldingplichtige gebruiksactiviteiten</Al>
@@ -297,16 +302,14 @@
                            </Inhoud>
                         </Lid>
                         <Lid eId="subchp_2.2__art_2.6__para_2"
-                             wId="gm0037_1__subchp_2.2__art_2.6__para_2">
-                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                             wId="gm0037_1__subchp_2.2__art_2.6__para_2"><!-- BV: Punt aan Lidnummer toegevoegd -->
                            <LidNummer>2.</LidNummer>
                            <Inhoud>
                               <Al>Indieningsvereisten melding</Al>
                               <Al>Bij het doen van de melding dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
                               <Lijst eId="subchp_2.2__art_2.6__para_2__list_o_1"
                                      wId="gm0037_1__subchp_2.2__art_2.6__para_2__list_o_1"
-                                     type="expliciet">
-                                 <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                                     type="expliciet"><!-- BV: Verplichte lijstaanhef toegevoegd -->
                                  <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                  <Li eId="subchp_2.2__art_2.6__para_2__list_o_1__item_a"
                                      wId="gm0037_1__subchp_2.2__art_2.6__para_2__list_o_1__item_a">
@@ -329,27 +332,24 @@
                            <Opschrift>Gebruiksactiviteiten die zijn toegelaten nadat daarvoor omgevingsvergunning is verleend</Opschrift>
                         </Kop>
                         <Lid eId="subchp_2.2__art_2.7__para_1"
-                             wId="gm0037_1__subchp_2.2__art_2.7__para_1">
-                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                             wId="gm0037_1__subchp_2.2__art_2.7__para_1"><!-- BV: Punt aan Lidnummer toegevoegd -->
                            <LidNummer>1.</LidNummer>
                            <Inhoud>
                               <Al>Vergunningplichtige gebruiksactiviteiten</Al>
                               <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="subchp_2.2__art_2.7__para_1__ref_o_1"
                                            wId="gm0037_1__subchp_2.2__art_2.7__para_1__ref_o_1"
-                                           ref="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het verboden om zonder omgevingsvergunning de gebruiksactiviteit 'het exploiteren van een verkooppunt voor motorbrandstoffen niet zijnde lpg' te verrichten. Daarnaast is het eveneens verboden om deze gebruiksactiviteit uit te voeren zonder een vergunning voor de milieubelastende activiteit ‘het opslaan van motorbrandstoffen niet zijnde lpg’, zoals beschreven in <IntRef ref="gm0037_X__subchp_3.2__art_13.24">Artikel 13.24</IntRef>.</Al>
+                                           ref="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het verboden om zonder omgevingsvergunning de gebruiksactiviteit 'het exploiteren van een verkooppunt voor motorbrandstoffen niet zijnde lpg' te verrichten. Daarnaast is het eveneens verboden om deze gebruiksactiviteit uit te voeren zonder een vergunning voor de milieubelastende activiteit ‘het opslaan van motorbrandstoffen niet zijnde lpg’, zoals beschreven in Artikel 13.24.</Al>
                            </Inhoud>
                         </Lid>
                         <Lid eId="subchp_2.2__art_2.7__para_2"
-                             wId="gm0037_1__subchp_2.2__art_2.7__para_2">
-                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                             wId="gm0037_1__subchp_2.2__art_2.7__para_2"><!-- BV: Punt aan Lidnummer toegevoegd -->
                            <LidNummer>2.</LidNummer>
                            <Inhoud>
                               <Al>Indieningsvereisten aanvraag omgevingsvergunning</Al>
                               <Al>Bij het indienen van de aanvraag om omgevingsvergunning dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
                               <Lijst eId="subchp_2.2__art_2.7__para_2__list_o_1"
                                      wId="gm0037_1__subchp_2.2__art_2.7__para_2__list_o_1"
-                                     type="expliciet">
-                                 <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                                     type="expliciet"><!-- BV: Verplichte lijstaanhef toegevoegd -->
                                  <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                  <Li eId="subchp_2.2__art_2.7__para_2__list_o_1__item_a"
                                      wId="gm0037_1__subchp_2.2__art_2.7__para_2__list_o_1__item_a">
@@ -370,16 +370,14 @@
                            </Inhoud>
                         </Lid>
                         <Lid eId="subchp_2.2__art_2.7__para_3"
-                             wId="gm0037_1__subchp_2.2__art_2.7__para_3">
-                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                             wId="gm0037_1__subchp_2.2__art_2.7__para_3"><!-- BV: Punt aan Lidnummer toegevoegd -->
                            <LidNummer>3.</LidNummer>
                            <Inhoud>
                               <Al>Beoordelingsregels aanvraag omgevingsvergunning</Al>
                               <Al>De omgevingsvergunning wordt alleen verleend als aan de volgende regels wordt voldaan:</Al>
                               <Lijst eId="subchp_2.2__art_2.7__para_3__list_o_1"
                                      wId="gm0037_1__subchp_2.2__art_2.7__para_3__list_o_1"
-                                     type="expliciet">
-                                 <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                                     type="expliciet"><!-- BV: Verplichte lijstaanhef toegevoegd -->
                                  <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                  <Li eId="subchp_2.2__art_2.7__para_3__list_o_1__item_a"
                                      wId="gm0037_1__subchp_2.2__art_2.7__para_3__list_o_1__item_a">
@@ -436,8 +434,7 @@
                                         ref="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef>' mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Al>
                            <Lijst eId="subchp_2.3__art_2.10__list_o_1"
                                   wId="gm0037_1__subchp_2.3__art_2.10__list_o_1"
-                                  type="expliciet">
-                              <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                                  type="expliciet"><!-- BV: Verplichte lijstaanhef toegevoegd -->
                               <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                               <Li eId="subchp_2.3__art_2.10__list_o_1__item_a"
                                   wId="gm0037_1__subchp_2.3__art_2.10__list_o_1__item_a">
@@ -536,8 +533,7 @@
                            <Opschrift>Gebruiksactiviteiten die zijn toegelaten na voorafgaande melding</Opschrift>
                         </Kop>
                         <Lid eId="subchp_2.3__art_2.11__para_1"
-                             wId="gm0037_1__subchp_2.3__art_2.11__para_1">
-                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                             wId="gm0037_1__subchp_2.3__art_2.11__para_1"><!-- BV: Punt aan Lidnummer toegevoegd -->
                            <LidNummer>1.</LidNummer>
                            <Inhoud>
                               <Al>Meldingplichtige gebruiksactiviteiten</Al>
@@ -547,16 +543,14 @@
                            </Inhoud>
                         </Lid>
                         <Lid eId="subchp_2.3__art_2.11__para_2"
-                             wId="gm0037_1__subchp_2.3__art_2.11__para_2">
-                           <!-- BV: Punt aan Lidnummer toegevoegd -->
+                             wId="gm0037_1__subchp_2.3__art_2.11__para_2"><!-- BV: Punt aan Lidnummer toegevoegd -->
                            <LidNummer>2.</LidNummer>
                            <Inhoud>
                               <Al>Indieningsvereisten melding</Al>
                               <Al>Bij het doen van de melding dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
                               <Lijst eId="subchp_2.3__art_2.11__para_2__list_o_1"
                                      wId="gm0037_1__subchp_2.3__art_2.11__para_2__list_o_1"
-                                     type="expliciet">
-                                 <!-- BV: Verplichte lijstaanhef toegevoegd -->
+                                     type="expliciet"><!-- BV: Verplichte lijstaanhef toegevoegd -->
                                  <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                  <Li eId="subchp_2.3__art_2.11__para_2__list_o_1__item_a"
                                      wId="gm0037_1__subchp_2.3__art_2.11__para_2__list_o_1__item_a">
@@ -584,9 +578,9 @@
                            <Lijst eId="subchp_2.4__art_2.12__list_o_1"
                                   wId="gm0037_1__subchp_2.4__art_2.12__list_o_1"
                                   type="expliciet">
-                              <Lijstaanhef>Voor stikstofdioxide geldt in '<IntIoRef eId="subchp_2.2__art_2.6__para_1__ref_o_1"
-                                 wId="gm0037_1__subchp_2.4__art_2.12__list_o_1"
-                                 ref="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Zuilichem</IntIoRef>' de volgende ten hoogste toelaatbare concentraties:</Lijstaanhef>
+                              <Lijstaanhef>Voor stikstofdioxide geldt in '<IntIoRef eId="subchp_2.4__art_2.12__list_o_1__ref_o_1"
+                                           wId="gm0037_1__subchp_2.4__art_2.12__list_o_1__ref_o_1"
+                                           ref="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Zuilichem</IntIoRef>' de volgende ten hoogste toelaatbare concentraties:</Lijstaanhef>
                               <Li eId="subchp_2.4__art_2.12__list_o_1__item_a"
                                   wId="gm0037_1__subchp_2.4__art_2.12__list_o_1__item_a">
                                  <LiNummer>a.</LiNummer>
@@ -705,8 +699,7 @@
                   <Divisietekst eId="cmp_I__content_o_1" wId="gm0037_1__cmp_I__content_o_1">
                      <Inhoud>
                         <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
-                                        wId="gm0037_1__cmp_I__content_o_1__list_o_1">
-                           <!-- BV: Een Begrippenlijst moet gesorteerd zijn -->
+                                        wId="gm0037_1__cmp_I__content_o_1__list_o_1"><!-- BV: Een Begrippenlijst moet gesorteerd zijn -->
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
                                    wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_1">
                               <Term>Bedrijf categorie 2</Term>
@@ -729,69 +722,69 @@
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5"
-                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_5">
-                              <Term>Exploiteren speelautomatenhal</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                       wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                       ref="/join/id/regdata/gm0037/2019/Speelhal/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Speelhal/nld@2019-06-18;3520</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6"
-                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_6">
-                              <Term>Maximum bouwhoogte bedrijfsgebouw</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                       wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                       ref="/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7"
-                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_7">
-                              <Term>Welstandsniveau</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                       wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                       ref="/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3"
                                    wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_3">
-                              <Term>Zone A</Term>
+                              <Term>Exploiteren speelautomatenhal</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
                                               wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                              ref="/join/id/regdata/gm0037/2019/Zone_A/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Zone_A/nld@2019-06-18;3520</ExtIoRef>
+                                              ref="/join/id/regdata/gm0037/2019/Speelhal/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Speelhal/nld@2019-06-18;3520</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4"
                                    wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_4">
-                              <Term>Zone B</Term>
+                              <Term>Maximum bouwhoogte bedrijfsgebouw</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
                                               wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                              ref="/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Bouwhoogte/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5"
+                                   wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_5">
+                              <Term>Welstandsniveau</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                              ref="/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6"
+                                   wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_6">
+                              <Term>Zone A</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                              ref="/join/id/regdata/gm0037/2019/Zone_A/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Zone_A/nld@2019-06-18;3520</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7"
+                                   wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_7">
+                              <Term>Zone B</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
                                               ref="/join/id/regdata/gm0037/2019/Zone_B/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Zone_B/nld@2019-06-18;3520</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8"
-                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_8"> 
+                                   wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_8"> 
                               <Term>Zuilichem</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                       wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                       ref="/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
+                                              wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                              ref="/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>

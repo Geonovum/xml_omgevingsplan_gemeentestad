@@ -15,6 +15,10 @@
       <objecttype>Gebiedsaanwijzing</objecttype>
     </Bestand>
     <Bestand>
+      <naam>owKaart.xml</naam>
+      <objecttype>Kaart</objecttype>
+    </Bestand>
+    <Bestand>
       <naam>owPons-Gemeentestad.xml</naam>
       <objecttype>Pons</objecttype>
     </Bestand>
@@ -43,10 +47,6 @@
       <objecttype>Geometrie</objecttype>
     </Bestand>
     <Bestand>
-      <naam>Bouwhoogte.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
       <naam>Centrumgebied.gml</naam>
       <objecttype>Geometrie</objecttype>
     </Bestand>
@@ -55,15 +55,7 @@
       <objecttype>Geometrie</objecttype>
     </Bestand>
     <Bestand>
-      <naam>Welstand_A.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Welstand_B.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Welstand_C.gml</naam>
+      <naam>Welstand.gml</naam>
       <objecttype>Geometrie</objecttype>
     </Bestand>
     <Bestand>
@@ -83,15 +75,7 @@
       <objecttype>Geometrie</objecttype>
     </Bestand>
     <Bestand>
-      <naam>Zuilichem_industriegebied_1.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Zuilichem_industriegebied_2.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Zuilichem_industriegebied_3.gml</naam>
+      <naam>Zuilichem_industriegebied.gml</naam>
       <objecttype>Geometrie</objecttype>
     </Bestand>
   </Aanlevering>

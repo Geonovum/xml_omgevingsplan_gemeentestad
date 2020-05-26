@@ -19,7 +19,7 @@
                             <basisgeo:geometrie>
                                 <gml:MultiSurface gml:id="id-33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A" srsName="urn:ogc:def:crs:EPSG::28992">
                                     <gml:surfaceMember>
-                                        <gml:Polygon gml:id="id-33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A-1">
+                                        <gml:Polygon>
                                             <gml:exterior>
                                                 <gml:LinearRing>
                                                     <gml:posList>138189.292 424664.587 138330.181 424712.303 138554.555 424598.429 138934.733 424595.103 139068.937 424523.441 138963.904 423863.77 138097.428 424206.055 138142.308 424434.282 138189.292 424664.587</gml:posList>

@@ -56,10 +56,6 @@
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>Bouwhoogte.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
         <bestandsnaam>Centrumgebied.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
@@ -68,15 +64,7 @@
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>Welstand_A.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Welstand_B.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Welstand_C.gml</bestandsnaam>
+        <bestandsnaam>Welstand.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
@@ -96,15 +84,7 @@
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>Zuilichem_industriegebied_1.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Zuilichem_industriegebied_2.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Zuilichem_industriegebied_3.gml</bestandsnaam>
+        <bestandsnaam>Zuilichem_industriegebied.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
@@ -117,6 +97,10 @@
     </bestand>
     <bestand>
         <bestandsnaam>owGebiedsaanwijzingen-Gemeentestad.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>owKaart.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
@@ -133,6 +117,10 @@
     </bestand>
     <bestand>
         <bestandsnaam>owRegeltekst-Gemeentestad.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>owRegelingsgebied.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
 </manifest>
