@@ -10,6 +10,7 @@
 	xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" 
 	xmlns:l="http://www.geostandaarden.nl/imow/locatie" 
 	xmlns:r="http://www.geostandaarden.nl/imow/regels" 
+	xmlns:k="http://www.geostandaarden.nl/imow/kaart"
 	xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.1/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
 	<sl:standBestand>
 		<sl:dataset>Gemeentestad</sl:dataset>
@@ -504,6 +505,9 @@
 						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000003"/>
 						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000004"/>
 					</r:locatieaanduiding>
+					<r:kaartaanduiding>
+						<k:KaartRef xlink:href="nl.imow-gm0297.kaart.2019000001"/>
+					</r:kaartaanduiding>
 					<r:omgevingsnormaanduiding>
 					    <rol:OmgevingsnormRef xlink:href="nl.imow-gm0297.omgevingsnorm.2019000003"/> <!--welstandsniveau-->
 					</r:omgevingsnormaanduiding>
