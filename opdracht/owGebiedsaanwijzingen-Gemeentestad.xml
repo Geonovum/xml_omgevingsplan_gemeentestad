@@ -23,7 +23,7 @@
 		</sl:inhoud>
 		<sl:stand>
 			<ow-dc:owObject>
-				<ga:Gebiedsaanwijzing> <!--ow:regeltekstId="nl.imow-gm0297.Regeltekst.2019000002"-->
+				<ga:Gebiedsaanwijzing>
 					<ga:identificatie>nl.imow-gm0297.gebiedsaanwijzing.2019000001</ga:identificatie>
 					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
 					<ga:naam>Bedrijf categorie 2</ga:naam>
@@ -36,7 +36,7 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<ga:Gebiedsaanwijzing> <!--ow:regeltekstId="nl.imow-gm0297.Regeltekst.2019000010">-->
+				<ga:Gebiedsaanwijzing>
 					<ga:identificatie>nl.imow-gm0297.gebiedsaanwijzing.2019000002</ga:identificatie>
 					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
 					<ga:naam>Centrumgebied</ga:naam>

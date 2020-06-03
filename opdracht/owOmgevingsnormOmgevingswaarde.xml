@@ -22,10 +22,10 @@
 		</sl:inhoud>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Omgevingswaarde> <!--ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000009"-->
+				<rol:Omgevingswaarde>
 					<rol:identificatie>nl.imow-gm0297.omgevingswaarde.2019000001</rol:identificatie>
 					<rol:naam>fijnstof</rol:naam>
-					<rol:type>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/FICTIEF/Fijnstof</rol:type> <!--hier komt een URI te staan, maar deze waardelijst is op dit moment nog niet gepubliceerd-->
+					<rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/Fijnstof</rol:type> <!--hier komt een URI te staan, maar deze waardelijst is op dit moment nog niet gepubliceerd-->
 					<rol:normwaarde>
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0297.normwaarde.2019000001</rol:identificatie>
@@ -41,11 +41,11 @@
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<rol:Omgevingsnorm> <!--ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000010"-->
+				<rol:Omgevingsnorm>
 					<rol:identificatie>nl.imow-gm0297.omgevingsnorm.2019000002</rol:identificatie>
 					<rol:naam>maximum bouwhoogte bedrijfsgebouw</rol:naam>
-					<rol:type>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/FICTIEF/MaximumBouwhoogte</rol:type> <!--hier komt een URI te staan, maar deze waardelijst is op dit moment nog niet gepubliceerd-->
-					<rol:eenheid>http://standaarden.omgevingswet.overheid.nl/regelsoplocatie/id/concept/FICTIEF/Meter</rol:eenheid>
+					<rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</rol:type> <!--hier komt een URI te staan, maar deze waardelijst is op dit moment nog niet gepubliceerd-->
+					<rol:eenheid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Meter</rol:eenheid>
 					<rol:normwaarde>
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0297.normwaarde.2019000002</rol:identificatie>
