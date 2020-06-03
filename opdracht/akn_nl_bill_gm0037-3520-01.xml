@@ -159,6 +159,19 @@
                   <Al>Dit besluit treedt in werking per 1 augustus 2019.</Al>
                </Inhoud>
             </Artikel>
+            <Artikel eId="art_III" wId="gm0037_1__art_III">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>III</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Het omgevingsplan van rechtswege vervalt voor het <IntIoRef eId="art_III__ref_o_1" 
+                     wId="gm0037_1__art_III__ref_o_1"
+                     ref="gm0037_1__XXX">Ponsgebied</IntIoRef> van dit artikel.</Al>
+               </Inhoud><!--<IntIoRef eId="subchp_2.2__art_2.3__ref_o_1"
+                  wId="gm0037_1__subchp_2.2__art_2.3__ref_o_1"
+                  ref="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">-->
+            </Artikel>
          </Lichaam>
          <Sluiting eId="formula_2" wId="formula_2">
             <Al>Gegeven te Kaap Doorn, Gemeentestad, 26 juni 2019</Al>
@@ -170,6 +183,32 @@
                <Al>Burgemeester</Al>
             </Ondertekening>
          </Sluiting>
+         <Bijlage>
+            <Kop>
+               <Label></Label>
+               <Nummer></Nummer>
+            </Kop>
+            <Divisie wId="" eId="">
+               <Kop></Kop>
+               <Divisietekst wId="" eId="">
+                  <Kop></Kop>
+                  <Inhoud>
+                     <Begrippenlijst wId="" eId="">
+                        <Begrip wId="" eId="">
+                           <Term>Ponsgebied</Term>
+                           <Definitie>
+                              <Al>
+                                 <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                    wId="gm0037_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                    ref="/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520">/join/id/regdata/gm0037/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
+                              </Al>
+                           </Definitie>
+                        </Begrip>
+                     </Begrippenlijst>
+                  </Inhoud>
+               </Divisietekst>
+            </Divisie>
+         </Bijlage>
          <WijzigBijlage eId="cmp_A" wId="gm0037_1__cmp_A">
             <Kop>
                <Label>Bijlage</Label>
