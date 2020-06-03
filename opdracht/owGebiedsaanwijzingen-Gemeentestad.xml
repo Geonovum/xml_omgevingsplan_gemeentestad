@@ -23,26 +23,26 @@
 		</sl:inhoud>
 		<sl:stand>
 			<ow-dc:owObject>
-				<ga:Gebiedsaanwijzing> <!--ow:regeltekstId="nl.imow-gm0037.Regeltekst.2019000002"-->
-					<ga:identificatie>nl.imow-gm0037.gebiedsaanwijzing.2019000001</ga:identificatie>
+				<ga:Gebiedsaanwijzing> <!--ow:regeltekstId="nl.imow-gm0297.Regeltekst.2019000002"-->
+					<ga:identificatie>nl.imow-gm0297.gebiedsaanwijzing.2019000001</ga:identificatie>
 					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
 					<ga:naam>Bedrijf categorie 2</ga:naam>
 					<ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Bedrijf</ga:groep>
 					<ga:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000001"/>
 					</ga:locatieaanduiding>
 				</ga:Gebiedsaanwijzing>
 			</ow-dc:owObject>
 		</sl:stand>
 		<sl:stand>
 			<ow-dc:owObject>
-				<ga:Gebiedsaanwijzing> <!--ow:regeltekstId="nl.imow-gm0037.Regeltekst.2019000010">-->
-					<ga:identificatie>nl.imow-gm0037.gebiedsaanwijzing.2019000002</ga:identificatie>
+				<ga:Gebiedsaanwijzing> <!--ow:regeltekstId="nl.imow-gm0297.Regeltekst.2019000010">-->
+					<ga:identificatie>nl.imow-gm0297.gebiedsaanwijzing.2019000002</ga:identificatie>
 					<ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
 					<ga:naam>Centrumgebied</ga:naam>
 					<ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Centrumgebied</ga:groep>
 					<ga:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000004"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000004"/>
 					</ga:locatieaanduiding>
 				</ga:Gebiedsaanwijzing>
 			</ow-dc:owObject>

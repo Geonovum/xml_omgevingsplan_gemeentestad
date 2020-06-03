@@ -8,8 +8,8 @@
     </geo:context>
     <geo:vastgesteldeVersie>
         <geo:GeoInformatieObjectVersie>
-            <geo:FRBRWork>/join/id/regdata/gm0037/2019/Welstand</geo:FRBRWork>
-            <geo:FRBRExpression>/join/id/regdata/gm0037/2019/Welstand/nld@2019-06-18;3520</geo:FRBRExpression>
+            <geo:FRBRWork>/join/id/regdata/gm0297/2019/Welstand</geo:FRBRWork>
+            <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Welstand/nld@2019-06-18;3520</geo:FRBRExpression>
             <geo:groepen>
                 <geo:Groep>
                     <geo:groepID>1</geo:groepID>

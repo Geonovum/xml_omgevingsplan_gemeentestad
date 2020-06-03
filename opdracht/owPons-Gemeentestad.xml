@@ -20,9 +20,9 @@
 			<ow-dc:owObject>
 				<!--Met de Pons duid je aan dat de oude plannen niet meer getoond hoeven te worden op het gebied dat je meelevert.-->
 				<p:Pons>
-					<p:identificatie>nl.imow-gm0037.pons.2019000001</p:identificatie>
+					<p:identificatie>nl.imow-gm0297.pons.2019000001</p:identificatie>
 					<p:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0037.gebied.2019000001"/> <!--eigenlijk voldoet Bedrijf categorie 2 niet als gebied hier-->
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000001"/> <!--eigenlijk voldoet Bedrijf categorie 2 niet als gebied hier-->
 					</p:locatieaanduiding>
 				</p:Pons>
 			</ow-dc:owObject>
