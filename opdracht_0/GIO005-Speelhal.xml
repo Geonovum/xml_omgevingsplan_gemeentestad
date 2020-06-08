@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.1">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/gm0037/2020/Speelhal</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm0037/2020/Speelhal/nld@2020-03-18;3520</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/join/id/stop/gemeente/gm0037</eindverantwoordelijke>
+      <maker>/join/id/stop/gemeente/gm0037</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Speelhal</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/gm0037/2020/Speelhal/nld@2020-03-18;3520</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <soortenInformatieobject>
+        <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+      </soortenInformatieobject>
+      <heeftGeboorteregeling>/akn/nl/act/gm0037/2020/reg789</heeftGeboorteregeling>
+      <!-- Koppeling naar het gml-bestand -->
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>Speelhal.gml</bestandsnaam>
+            <hash>ebcb38ac8f1ab6f15b6ed9214bdf02763b2004341c268171b39e9c92410e94f333cf8798f7c4c054022c9175aefde679818d6030472f4a629895d60af1835530</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectMetadata></InformatieObjectVersie>
+</AanleveringInformatieObject>
