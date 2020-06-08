@@ -8,8 +8,8 @@
     </geo:context>
     <geo:vastgesteldeVersie>
         <geo:GeoInformatieObjectVersie>
-            <geo:FRBRWork>/join/id/regdata/gm0297/2019/Zuilichem_1</geo:FRBRWork>
-            <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Zuilichem_1/nld@2019-06-18;3520</geo:FRBRExpression>
+            <geo:FRBRWork>/join/id/regdata/gm0297/2019/Bouwhoogte</geo:FRBRWork>
+            <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520</geo:FRBRExpression>
             <geo:normlabel>Maximum bouwhoogte</geo:normlabel>
             <geo:normID>bouwhoogte</geo:normID>
             <geo:locaties>
