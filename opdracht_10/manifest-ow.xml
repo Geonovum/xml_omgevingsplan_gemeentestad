@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="https://www.geostandaarden.nl/imow ../../../xsd/imow/bestanden-ow/generiek/v20190901/manifest-ow.xsd">
+  <domein>omgevingswet</domein>
+  <RegelingVersie>
+    <Doel>/join/id/proces/gm0297/2019/Instelling</Doel>
+    <Bestand>
+      <naam>owActiviteiten-Gemeentestad.xml</naam>
+      <objecttype>Activiteit</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>owLocaties-Gemeentestad.xml</naam>
+      <objecttype>Gebied</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>owRegeltekst-Gemeentestad.xml</naam>
+      <objecttype>Regeltekst</objecttype>
+      <objecttype>RegelVoorIedereen</objecttype>
+    </Bestand>
+  </RegelingVersie>
+</Modules>

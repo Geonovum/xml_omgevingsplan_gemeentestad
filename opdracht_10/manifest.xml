@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lvbbt:manifest xmlns:stop="http://www.overheid.nl/2017/stop"
+    xmlns:tns="http://www.logius.nl/digikoppeling/gb/2010/10"
+    xmlns:lvbbt="http://www.overheid.nl/2017/lvbb"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.overheid.nl/2017/lvbb ../../../xsd/lvbb/lvbb-transport.xsd">
+    <lvbbt:bestand>
+        <lvbbt:bestandsnaam>manifest-ow.xml</lvbbt:bestandsnaam>
+        <lvbbt:contentType>application/xml</lvbbt:contentType>
+    </lvbbt:bestand>
+    <lvbbt:bestand>
+        <lvbbt:bestandsnaam>manifest.xml</lvbbt:bestandsnaam>
+        <lvbbt:contentType>application/xml</lvbbt:contentType>
+    </lvbbt:bestand>
+    <lvbbt:bestand>
+        <lvbbt:bestandsnaam>opdracht.xml</lvbbt:bestandsnaam>
+        <lvbbt:contentType>application/xml</lvbbt:contentType>
+    </lvbbt:bestand>
+    <lvbbt:bestand>
+        <lvbbt:bestandsnaam>owActiviteiten-Gemeentestad.xml</lvbbt:bestandsnaam>
+        <lvbbt:contentType>application/xml</lvbbt:contentType>
+    </lvbbt:bestand>
+    <lvbbt:bestand>
+        <lvbbt:bestandsnaam>owLocaties-Gemeentestad.xml</lvbbt:bestandsnaam>
+        <lvbbt:contentType>application/xml</lvbbt:contentType>
+    </lvbbt:bestand>
+    <lvbbt:bestand>
+        <lvbbt:bestandsnaam>owRegeltekst-Gemeentestad.xml</lvbbt:bestandsnaam>
+        <lvbbt:contentType>application/xml</lvbbt:contentType>
+    </lvbbt:bestand>
+</lvbbt:manifest>
