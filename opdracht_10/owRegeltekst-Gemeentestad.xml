@@ -18,20 +18,10 @@
             <sl:gebied>Gemeentestad</sl:gebied>
             <sl:leveringsId>id-directeMutatie-1234</sl:leveringsId>
             <sl:objectTypen>
-                <!--<sl:objectType>Regeltekst</sl:objectType>-->
                 <sl:objectType>RegelVoorIedereen</sl:objectType>
             </sl:objectTypen>
         </sl:inhoud>
-        <!-- artikel 2.10 -->
-<!-- regeltekst object bestaat al, hoeft dus niet weer aangeleverd te worden?
         <sl:stand>
-            <ow-dc:owObject>
-                <r:Regeltekst wId="gm0297_1__subchp_2.3__art_2.10">
-                    <r:identificatie>nl.imow-gm0297.regeltekst.2019000008</r:identificatie>
-                </r:Regeltekst>
-            </ow-dc:owObject>
-        </sl:stand>-->
-        <sl:stand><!-- 10e: sporten -->
             <ow-dc:owObject>
                 <r:RegelVoorIedereen>
                     <r:identificatie>nl.imow-gm0297.juridischeregel.2019000018</r:identificatie>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:xlink="http://www.w3.org/1999/xlink" 
-	xmlns:l="http://www.geostandaarden.nl/imow/locatie/v20190901" 
-	xmlns:g-ref="http://www.geostandaarden.nl/imow/geometrie-ref/v20190901"
-	xmlns:ga-ref="http://www.geostandaarden.nl/imow/gebiedsaanwijzing-ref/v20190709" 
-	xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek/v20190301" 
-	xmlns:l-ref="http://www.geostandaarden.nl/imow/locatie-ref/v20190901" 
-	xmlns:rol-ref="http://www.geostandaarden.nl/imow/regelsoplocatie-ref/v20190709" 
-	xmlns:r-ref="http://www.geostandaarden.nl/imow/regels-ref/v20190709"
-	xmlns:ow="http://www.geostandaarden.nl/imow/owobject/v20190709"
-	xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand/v20190901" 
-	xsi:schemaLocation="http://www.geostandaarden.nl/imow ../../../xsd/imow/bestanden-ow/deelbestand-ow/v20190901/IMOW_Deelbestand_v0_9_8_2.xsd">
+	xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" 
+	xmlns:gml="http://www.opengis.net/gml/3.2" 
+	xmlns:l="http://www.geostandaarden.nl/imow/locatie" 
+	xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen" 
+	xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" 
+	xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" 
+	xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" 
+	xmlns:r="http://www.geostandaarden.nl/imow/regels" 
+	xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+	xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.1/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
 	<sl:standBestand>
 		<sl:dataset>Gemeentestad</sl:dataset>
 		<sl:inhoud>
@@ -22,11 +22,11 @@
 		</sl:inhoud>
 		<sl:stand>
 			<ow-dc:owObject>
-				<l:Gebied ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000001">
+				<l:Gebied>
 					<l:identificatie>nl.imow-gm0297.gebied.2019000001</l:identificatie>
 					<l:noemer>Bedrijf categorie 3</l:noemer><!-- 10a: was categorie 2 -->
 					<l:geometrie>
-						<g-ref:GeometrieRef xlink:href="50EA019E-3C96-4631-A76C-35BCF4D7AB6D"/>
+						<l:GeometrieRef xlink:href="50EA019E-3C96-4631-A76C-35BCF4D7AB6D"/>
 					</l:geometrie>
 				</l:Gebied>
 			</ow-dc:owObject>
