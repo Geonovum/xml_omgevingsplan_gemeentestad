@@ -11,7 +11,7 @@
             <geo:FRBRWork>/join/id/regdata/gm0297/2019/Bouwhoogte</geo:FRBRWork>
             <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520</geo:FRBRExpression>
             <geo:normlabel>Maximum bouwhoogte</geo:normlabel>
-            <geo:normID>bouwhoogte</geo:normID>
+            <geo:normID>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</geo:normID>
             <geo:locaties>
                 <geo:Locatie>
                     <geo:geometrie>
