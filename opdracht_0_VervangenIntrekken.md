@@ -22,7 +22,7 @@ moet worden door een nieuwe regeling.
     om aan te geven dat de Regeling niet meer "actief" is
 
 Doel van vervangende regeling:
-/join/id/proces/gm0037/2020/IntrekkenVervangenGemeentestad
+/join/id/proces/gm0297/2020/IntrekkenVervangenGemeentestad
 
 De in te trekken regeling komt te vervallen, oftewel wordt beeindigd door de
 inwerkingTot en de geldigTot in te vullen, zonder dat er een nieuwe versie van
@@ -48,9 +48,9 @@ Regelingen en GIOs
 ------------------
 
 Dit voorbeeld gaat uit van intrekken van de Gemeentestad-regeling
-`/akn/nl/act/gm0037/2019/reg456`. Deze wordt vervangen door
-`/akn/nl/act/gm0037/2020/reg789` met initiele expressie
-`/akn/nl/act/gm0037/2020/reg789/nld@2020-02-17`. In deze intrekking worden alle
+`/akn/nl/act/gm0297/2019/reg456`. Deze wordt vervangen door
+`/akn/nl/act/gm0297/2020/reg789` met initiele expressie
+`/akn/nl/act/gm0297/2020/reg789/nld@2020-02-17`. In deze intrekking worden alle
 GIOs ook ingetrokken en vervangen door nieuwe GIOs. Het besluit hiervoor wordt
 bekendgemaakt op 19 februari 2020.
 

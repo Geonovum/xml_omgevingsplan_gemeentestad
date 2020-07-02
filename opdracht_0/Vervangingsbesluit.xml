@@ -839,6 +839,9 @@
       <FRBRExpression>/akn/nl/act/gm0297/2020/reg456/nld@2019-12-01</FRBRExpression>
       <soortWork>/join/id/stop/work_019</soortWork>
     </ExpressionIdentificatie>
+    <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <versienummer>1</versienummer>
+    </RegelingVersieMetadata>
     <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
       <maker>/tooi/id/gemeente/gm0297</maker>
@@ -851,7 +854,6 @@
       </rechtsgebieden>
       <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
       <!-- Omgevingsplan -->
-      <versienummer>1</versienummer>
     </RegelingMetadata>
   </RegelingVersieInformatie>
   <RegelingVersieInformatie>
@@ -861,6 +863,9 @@
       <FRBRExpression>/akn/nl/act/gm0297/2020/reg789/nld@2020-02-17</FRBRExpression>
       <soortWork>/join/id/stop/work_019</soortWork>
     </ExpressionIdentificatie>
+    <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <versienummer>2</versienummer>
+    </RegelingVersieMetadata>
     <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
       <maker>/tooi/id/gemeente/gm0297</maker>
@@ -873,7 +878,6 @@
       </rechtsgebieden>
       <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
       <!-- Omgevingsplan -->
-      <versienummer>1</versienummer>
     </RegelingMetadata>
   </RegelingVersieInformatie>
 </AanleveringBesluit>

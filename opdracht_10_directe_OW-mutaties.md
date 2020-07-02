@@ -9,7 +9,7 @@ zonder dat hiervoor een echt besluit nodig is. Het is juridische gezien geen bes
 Voorafgaande aan deze buiten besluit levering is er een gewone levering geweest met wel een besluit. 
 Het doel van deze buiten besluit levering is altijd hetzelfde als het doel van de gewone levering met wel een besluit. 
 
-Doel `/join/id/proces/gm0037/2019/Instelling`
+Doel `/join/id/proces/gm0297/2019/Instelling`
 
 ### Regeling perspectief 
 
@@ -98,7 +98,7 @@ Dit betekent dat LVBB op basis van het ‘doel’ genoemd in het manifest-ow uit
   * de nageleverde ow-bestanden, zoals benoemd in het manifest-ow van deze ‘directe mutatie OW-data’ (2e levering)
 * alle bestanden zoals benoemd in dit manifest.
 
-De bestanden in de map’04-UitleveringLVBB’ zijn in lijn met deze opsomming en geven een uitlevering weer n.a.v. een directe mutatie OW-data bij de initiële regeling ‘Gemeentestad-Initieel’, met het doel '/join/id/proces/gm0037/2019/Instelling'.
+De bestanden in de map’04-UitleveringLVBB’ zijn in lijn met deze opsomming en geven een uitlevering weer n.a.v. een directe mutatie OW-data bij de initiële regeling ‘Gemeentestad-Initieel’, met het doel '/join/id/proces/gm0297/2019/Instelling'.
 E.e.a. wordt aangeleverd richting Ozon in 1 zip bestand. 
 
 
@@ -174,8 +174,8 @@ Ozon slaat deze twee op bij elk nieuw ontstane versie van een object.
 
 In de OW-informatie staat: 
 
-`<workIdRegeling>` : `/akn/nl/act/gm0037/2019/reg456`
-`<doel>` : `<doel>/join/id/proces/gm0037/2019/Instelling</doel>`
+`<workIdRegeling>` : `/akn/nl/act/gm0297/2019/reg456`
+`<doel>` : `<doel>/join/id/proces/gm0297/2019/Instelling</doel>`
 
 (als het goed is, is voor alle OW-informatie in dit voorbeeld hetzelfde) 
 
@@ -184,39 +184,39 @@ Deze komt inderdaad overeen met:
 consolidatie-regeling-CVDR2019190-01.xml : 
  <isConsolidatieVan>
         <WorkIdentificatie>
-          <FRBRWork>/akn/nl/act/gm0037/2019/reg456</FRBRWork>
+          <FRBRWork>/akn/nl/act/gm0297/2019/reg456</FRBRWork>
 
 en manifest-ow.xml : 
  <RegelingVersie>
-    <Doel>/join/id/proces/gm0037/2019/Instelling</Doel>
+    <Doel>/join/id/proces/gm0297/2019/Instelling</Doel>
 
 --
 
 Activiteiten: owActiviteiten-Gemeentestad.xml
 
-`<rol:Activiteit ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000001">`
-`<rol:identificatie>nl.imow-gm0037.activiteit.2019000241</rol:identificatie>`
+`<rol:Activiteit ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000001">`
+`<rol:identificatie>nl.imow-gm0297.activiteit.2019000241</rol:identificatie>`
 (gebied is gewijzigd en status = beeindigd `<ow:status>B</ow:status>`) 
 
-`<rol:Activiteit ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000002">`
-`<rol:identificatie>nl.imow-gm0037.activiteit.2019000246</rol:identificatie>`
+`<rol:Activiteit ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000002">`
+`<rol:identificatie>nl.imow-gm0297.activiteit.2019000246</rol:identificatie>`
 (groep is gewijzigd) 
 
-`<rol:Activiteit ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000007">`
-`<rol:identificatie>nl.imow-gm0037.activiteit.2019000540</rol:identificatie>`
+`<rol:Activiteit ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000007">`
+`<rol:identificatie>nl.imow-gm0297.activiteit.2019000540</rol:identificatie>`
 (bovenliggende activiteit is gewijzigd) 
 
 Audittrail controle: 
 *  wIdRegeling is correct. 
 *  Bevindingen: `doel` mist in metadata van activiteit. Had denk ik moeten zijn:  TODO, goede neerzetten
-`<rol:Activiteit ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000008" ow:doel="/join/id/proces/gm0037/2019/Instelling">`
+`<rol:Activiteit ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000008" ow:doel="/join/id/proces/gm0297/2019/Instelling">`
 
 Regeltekst: 
 
 Let op: de regeltekst zit wel in de XML, maar de regeltekst is alleen een placeholder, een brugfunctie object. Deze krijgt in OW dus geen tijdslijnen. Daarom kent deze ook geen audittrail. 
 
-`<r:Regeltekst wIdRegeling="**/akn/nl/act/gm0037/2019/reg456**" wId="gm0037_1__subchp_2.3__art_2.10">`
-`<r:identificatie>nl.imow-gm0037.regeltekst.2019000008</r:identificatie>`
+`<r:Regeltekst wIdRegeling="**/akn/nl/act/gm0297/2019/reg456**" wId="gm0297_1__subchp_2.3__art_2.10">`
+`<r:identificatie>nl.imow-gm0297.regeltekst.2019000008</r:identificatie>`
 
 Controle: wIdRegeling komt overeen met identificatie van regeling: OK.
 
@@ -226,8 +226,8 @@ Er zijn meer regelteksten (niet allemaal gecheckt).
 
 *  Bekend: `<bekendOp>2019-08-01</bekendOp>`
 *  Ontvangen: `<ontvangenOp>2019-08-01</ontvangenOp>`
-*  Doel: `<doel>/join/id/proces/gm0037/2019/Instelling</doel>`
-*  Regeling id: `<isConsolidatieVan><WorkIdentificatie><FRBRWork>/akn/nl/act/gm0037/2020/reg456</FRBRWork>`
+*  Doel: `<doel>/join/id/proces/gm0297/2019/Instelling</doel>`
+*  Regeling id: `<isConsolidatieVan><WorkIdentificatie><FRBRWork>/akn/nl/act/gm0297/2020/reg456</FRBRWork>`
 
 Ozon moet dus in staat zijn om `bekend` en `ontvangen` te vinden op basis van `workIdRegeling` en `doel`, vanuit de OW-informatie. Dat kan, mits we `bekend` en `ontvangen` ook goed borgen.     
 
@@ -238,7 +238,7 @@ De OW-informatie bevat nieuwe informatie en gewijzigde informatie. Het is ook mo
 **Stap 1: vind de tijd-informatie**
 
 Neem het doel uit de OW-informatie, zie 04b Audit trail - metadata. 
-`doel = `/join/id/proces/gm0037/2019/Instelling`
+`doel = `/join/id/proces/gm0297/2019/Instelling`
 
 Vind dit doel in de OP bestanden op basis van specificatie en uitleg bij: zie 04b - doel en bijbehorende tijd-informatie, zie 04b Tijdslijnen.
 
@@ -265,18 +265,18 @@ Bepaal van elke OW-informatie of deze al bestaat, aan de hand van de identificat
 *  Bestaand identificatie --> mutatie scenario: *beeindigen object* als `status=beeindigd` 
 *  Bestaand identificatie --> mutatie scenario: *wijzigen object* als `status=leeg of niet aanwezig`
 
-`<rol:Activiteit ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000001">`
-`<rol:identificatie>nl.imow-gm0037.activiteit.2019000241</rol:identificatie>`
+`<rol:Activiteit ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000001">`
+`<rol:identificatie>nl.imow-gm0297.activiteit.2019000241</rol:identificatie>`
 (gebied is gewijzigd en status = beeindigd `<ow:status>B</ow:status>`) 
 --> beeindigen object 
 
-`<rol:Activiteit ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000002">`
-`<rol:identificatie>nl.imow-gm0037.activiteit.2019000246</rol:identificatie>`
+`<rol:Activiteit ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000002">`
+`<rol:identificatie>nl.imow-gm0297.activiteit.2019000246</rol:identificatie>`
 (groep is gewijzigd) 
 --> wijzigen object 
 
-`<rol:Activiteit ow:regeltekstId="nl.imow-gm0037.regeltekst.2019000007">`
-`<rol:identificatie>nl.imow-gm0037.activiteit.2019000540</rol:identificatie>`
+`<rol:Activiteit ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000007">`
+`<rol:identificatie>nl.imow-gm0297.activiteit.2019000540</rol:identificatie>`
 --> wijzigen object 
 
 Bijzonderheden:  
