@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-          xmlns:stop="http://www.overheid.nl/2017/stop"
-          xmlns="http://www.overheid.nl/2017/lvbb"
-          xsi:schemaLocation="http://www.overheid.nl/2017/lvbb ../lvbb/lvbb-transport.xsd">
+<manifest xmlns="http://www.overheid.nl/2017/lvbb">
    <bestand>
       <bestandsnaam>manifest.xml</bestandsnaam>
       <contentType>application/xml</contentType>
