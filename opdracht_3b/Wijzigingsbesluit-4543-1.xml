@@ -234,6 +234,9 @@
       <soortWork>/join/id/stop/work_019</soortWork>
       <!-- Een Regeling -->
     </ExpressionIdentificatie>
+    <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <versienummer>2</versienummer>
+    </RegelingVersieMetadata>
     <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
       <maker>/tooi/id/gemeente/gm0297</maker>
@@ -249,7 +252,6 @@
       </rechtsgebieden>
       <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
       <!-- Omgevingsplan -->
-      <versienummer>3</versienummer>
     </RegelingMetadata>
   </RegelingVersieInformatie>
 </AanleveringBesluit>
