@@ -11,7 +11,7 @@
 	xmlns:l="http://www.geostandaarden.nl/imow/locatie" 
 	xmlns:r="http://www.geostandaarden.nl/imow/regels" 
 	xmlns:k="http://www.geostandaarden.nl/imow/kaart"
-	xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.1/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.2/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
 	<sl:standBestand>
 		<sl:dataset>Gemeentestad</sl:dataset>
 		<sl:inhoud>
@@ -418,6 +418,16 @@
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000660"/> <!--exploiteren van een speelautomatenhal-->
 						<r:ActiviteitLocatieaanduiding>
 							<r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000012</r:identificatie>
+							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+							<r:locatieaanduiding>
+								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000004"/>
+							</r:locatieaanduiding>
+						</r:ActiviteitLocatieaanduiding>
+					</r:activiteitaanduiding>
+					<r:activiteitaanduiding>
+						<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000680"/> <!--exploiteren van een kantoor-->
+						<r:ActiviteitLocatieaanduiding>
+							<r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000014</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
 								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000004"/>
