@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AanleveringBesluit 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.2"
-    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/ ../lvbb/lvbb-stop-aanlevering.xsd">
+    xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3">
     <BesluitVersie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/bill/gm0297/2019/3520</FRBRWork>
@@ -34,7 +33,6 @@
                 <!-- regelinggebied -->
             </informatieobjectRefs>
         </BesluitMetadata>
-<!--        <Procedure xmlns="https://standaarden.overheid.nl/stop/imop/data/">-->
             <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
                 <bekendOp>2019-06-27</bekendOp>
                 <procedurestappen>
@@ -50,7 +48,6 @@
                     </Procedurestap>
                 </procedurestappen>
             </Procedureverloop>
-        <!--</Procedure>-->
         <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <BeoogdeRegelgeving>
                 <BeoogdeRegeling>
@@ -711,9 +708,9 @@
             <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2019-06-25;1</FRBRExpression>
             <soortWork>/join/id/stop/work_019</soortWork>
         </ExpressionIdentificatie>
-<!--        <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+        <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <versienummer>1</versienummer>
-        </RegelingVersieMetadata>-->
+        </RegelingVersieMetadata>
         <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
             <maker>/tooi/id/gemeente/gm0297</maker>
@@ -725,7 +722,6 @@
                 <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
             </rechtsgebieden>
             <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
-            <versienummer>1</versienummer>
             <!-- Omgevingsplan -->
         </RegelingMetadata>
     </RegelingVersieInformatie>

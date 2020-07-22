@@ -42,7 +42,7 @@
       <naam>owRegelingsgebied.xml</naam>
       <objecttype>Regelingsgebied</objecttype>
     </Bestand>
-    <Bestand>
+<!--    <Bestand>
       <naam>Bedrijf_categorie_2.gml</naam>
       <objecttype>Geometrie</objecttype>
     </Bestand>
@@ -77,6 +77,6 @@
     <Bestand>
       <naam>Zuilichem_industriegebied.gml</naam>
       <objecttype>Geometrie</objecttype>
-    </Bestand>
+    </Bestand>-->
   </Aanlevering>
 </Aanleveringen>
