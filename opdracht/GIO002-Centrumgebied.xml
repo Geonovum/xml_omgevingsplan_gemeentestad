@@ -18,7 +18,7 @@
       <heeftGeboorteregeling>/akn/nl/act/gm0297/2019/reg456</heeftGeboorteregeling>
     </InformatieObjectVersieMetadata>
     <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/join/id/stop/gemeente/gm0297</eindverantwoordelijke>
+      <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
       <maker>/tooi/id/gemeente/gm0297</maker>
       <alternatieveTitels>
          <alternatieveTitel>Centrumgebied</alternatieveTitel>
