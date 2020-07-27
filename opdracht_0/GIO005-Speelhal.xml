@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.1">
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/gm0297/2020/Speelhal</FRBRWork>
-      <FRBRExpression>/join/id/regdata/gm0297/2020/Speelhal/nld@2020-03-18;3520</FRBRExpression>
+      <FRBRWork>/join/id/regdata/gm0297/2019/Speelhal</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm0297/2020/Zone_B/nld@2020-03-18;3520</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
-    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/join/id/stop/gemeente/gm0297</eindverantwoordelijke>
-      <maker>/join/id/stop/gemeente/gm0297</maker>
-      <alternatieveTitels>
-        <alternatieveTitel>Speelhal</alternatieveTitel>
-      </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/gm0297/2020/Speelhal/nld@2020-03-18;3520</officieleTitel>
-      <publicatieinstructie>TeConsolideren</publicatieinstructie>
-      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-      <soortenInformatieobject>
-        <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
-      </soortenInformatieobject>
-      <heeftGeboorteregeling>/akn/nl/act/gm0297/2020/reg789</heeftGeboorteregeling>
-      <!-- Koppeling naar het gml-bestand -->
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
             <bestandsnaam>Speelhal.gml</bestandsnaam>
-            <hash>ebcb38ac8f1ab6f15b6ed9214bdf02763b2004341c268171b39e9c92410e94f333cf8798f7c4c054022c9175aefde679818d6030472f4a629895d60af1835530</hash>
+            <hash>14126a774945294d144633d7fbf20deb6175bfe2982edd74089c9f11bf705ebf5a3cfbd6952b633ab3b2b12579514dc216beae43dc284149246292ec5f104e95</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
-    </InformatieObjectMetadata></InformatieObjectVersie>
+      <heeftGeboorteregeling>/akn/nl/act/gm0297/2020/reg789</heeftGeboorteregeling>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/gm0297</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Speelhal</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/gm0297/2019/Speelhal/nld@2019-06-18;3520</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
 </AanleveringInformatieObject>

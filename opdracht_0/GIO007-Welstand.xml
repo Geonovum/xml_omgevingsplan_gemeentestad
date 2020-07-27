@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.1">
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <FRBRWork>/join/id/regdata/gm0297/2019/Welstand</FRBRWork>
       <FRBRExpression>/join/id/regdata/gm0297/2020/Welstand/nld@2020-03-18;3520</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
-    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/join/id/stop/gemeente/gm0297</eindverantwoordelijke>
-      <maker>/join/id/stop/gemeente/gm0297</maker>
-      <alternatieveTitels>
-         <alternatieveTitel>Zuilichem</alternatieveTitel>
-      </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/gm0297/2020/Welstand/nld@2020-03-18;3520</officieleTitel>
-      <publicatieinstructie>TeConsolideren</publicatieinstructie>
-      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-      <soortenInformatieobject>
-        <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
-      </soortenInformatieobject>
-      <heeftGeboorteregeling>/akn/nl/act/gm0297/2020/reg789</heeftGeboorteregeling>
-      <!-- Koppeling naar het gml-bestand -->
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <heeftBestanden>
         <heeftBestand>
           <Bestand>
             <bestandsnaam>Welstand.gml</bestandsnaam>
-            <hash>5730a2e9e38e230d0d42f72f0e0901ee5b9361a4f894c8d17a5203e38d9d2a2cda00be76f7ae10798bf92a43f62118fbb878c03d9d3b054194825506a806facf</hash>
+            <hash>f7bf1be59f5d16032448bb69be1a42d0001634c0d0d4d6fc6fab0ce37301534d3aca760c0196cc2ea2d7cf134303dfa530321a81931de3e8445e09809c98f368</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
+      <heeftGeboorteregeling>/akn/nl/act/gm0297/2020/reg789</heeftGeboorteregeling>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/gm0297</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>Zuilichem</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/gm0297/2019/Welstand/nld@2019-06-18;3520</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+      <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
     </InformatieObjectMetadata>
   </InformatieObjectVersie>
 </AanleveringInformatieObject>
