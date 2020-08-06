@@ -19,8 +19,8 @@
       <heeftGeboorteregeling>/akn/nl/act/gm0297/2020/reg789</heeftGeboorteregeling>
     </InformatieObjectVersieMetadata>
     <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <eindverantwoordelijke>/join/id/stop/gemeente/gm0297</eindverantwoordelijke>
-      <maker>/join/id/stop/gemeente/gm0297</maker>
+      <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/gm0297</maker>
       <alternatieveTitels>
         <alternatieveTitel>Bedrijf categorie 2</alternatieveTitel>
       </alternatieveTitels>
