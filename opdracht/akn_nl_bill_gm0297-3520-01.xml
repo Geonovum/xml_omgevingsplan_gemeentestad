@@ -121,6 +121,13 @@
                     <instrumentVersie>/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</instrumentVersie>
                     <eId/>
                 </BeoogdInformatieobject>
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0297/2019/Instelling</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0297/2019/Testcontentdisclaimer/nld@2019-06-18;3520</instrumentVersie>
+                    <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_9</eId>
+                </BeoogdInformatieobject>
             </BeoogdeRegelgeving>
             <Tijdstempels>
                 <Tijdstempel>
@@ -600,6 +607,19 @@
                             </Artikel>
                         </Afdeling>
                     </Lichaam>
+                    <Bijlage eId="cmp_B" wId="gm0297_1__cmp_B">
+                        <Kop>
+                            <Label>Bijlage</Label>
+                            <Nummer>B</Nummer>
+                            <Opschrift>Disclaimers</Opschrift>
+                        </Kop>
+                        <Divisietekst wId="gm0297_1__cmp_B__content_o_1" eId="cmp_B__content_o_1">
+                            <Inhoud>
+                                <Al>Bij deze regeling is de <IntIoRef ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" eId="cmp_B__content_o_1__ref_o_1" wId="gm0297_1__cmp_B__content_o_1__ref_1">Testcontentdisclaimer
+                                </IntIoRef> van toepassing. Deze is bijgevoegd als informatieobject</Al>
+                            </Inhoud>
+                        </Divisietekst>
+                    </Bijlage>
                     <Bijlage eId="cmp_I" wId="gm0297_1__cmp_I">
                         <Kop>
                             <Label>Bijlage</Label>
@@ -671,6 +691,14 @@
                                         <Definitie>
                                             <Al>
                                                 <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
+                                            </Al>
+                                        </Definitie>
+                                    </Begrip>
+                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9">
+                                        <Term>Testcontentdisclaimer</Term>
+                                        <Definitie>
+                                            <Al>
+                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Testcontentdisclaimer/nld@2019-06-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
