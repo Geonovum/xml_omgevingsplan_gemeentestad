@@ -43,7 +43,7 @@
         </Procedurestap>
         <!--Ondertekening-->
         <Procedurestap>
-          <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+          <soortStap>/join/id/stop/procedure/stap_003</soortStap>
           <voltooidOp>2020-02-19</voltooidOp>
         </Procedurestap>
       </procedurestappen>
@@ -127,7 +127,7 @@
         <Tijdstempel>
           <doel>/join/id/proces/gm0297/2020/IntrekkenVervangenGemeentestad</doel>
           <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-          <datum>2020-04-01</datum>
+          <datum>2020-08-24</datum>
           <eId>art_III</eId>
         </Tijdstempel>
       </Tijdstempels>
@@ -792,49 +792,49 @@
             </Kop>
             <Divisietekst eId="cmp_I__content_o_1" wId="gm0297_1__cmp_I__content_o_1">
               <Inhoud>
-                <Begrippenlijst eId="cmp_I__content_o_1__list_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1">
-                  <Begrip eId="cmp_I__list_o_1__item_o_1" wId="gm0297_1__cmp_I__list_o_1__item_o_1">
+                <Begrippenlijst eId="cmp_I__content_o_1__list_o_1" wId="gm0297_1__content_o_1__cmp_I__list_o_1">
+                  <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1">
                     <Term>Bedrijf categorie 2</Term>
                     <Definitie>
                       <Al>
                         <ExtIoRef
                           ref="/join/id/regdata/gm0297/2020/Bedrijf_categorie_2/nld@2020-03-18;3520"
-                          eId="cmp_I__list_o_1__item_o_1__ref_o_1"
-                          wId="gm0297_1__cmp_I__list_o_1__item_o_1__ref_o_1"
+                          eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                          wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
                           >/join/id/regdata/gm0297/2020/Bedrijf_categorie_2/nld@2020-03-18;3520</ExtIoRef>
                       </Al>
                     </Definitie>
                   </Begrip>
-                  <Begrip eId="cmp_I__list_o_1__item_o_2" wId="gm0297_1__cmp_I__list_o_1__item_o_2">
+                  <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2">
                     <Term>Centrumgebied</Term>
                     <Definitie>
                       <Al>
                         <ExtIoRef
                           ref="/join/id/regdata/gm0297/2020/Centrumgebied/nld@2020-03-18;3520"
-                          eId="cmp_I__list_o_1__item_o_2__ref_o_1"
-                          wId="gm0297_1__cmp_I__list_o_1__item_o_2__ref_o_1"
+                          eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                          wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
                           >/join/id/regdata/gm0297/2020/Centrumgebied/nld@2020-03-18;3520</ExtIoRef>
                       </Al>
                     </Definitie>
                   </Begrip>
-                  <Begrip eId="cmp_I__list_o_1__item_o_3" wId="gm0297_1__cmp_I__list_o_1__item_o_3">
+                  <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_3">
                     <Term>Exploiteren speelautomatenhal</Term>
                     <Definitie>
                       <Al>
                         <ExtIoRef ref="/join/id/regdata/gm0297/2020/Speelhal/nld@2020-03-18;3520"
-                          eId="cmp_I__list_o_1__item_o_3__ref_o_1"
-                          wId="gm0297_1__cmp_I__list_o_1__item_o_3__ref_o_1"
+                          eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
+                          wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
                           >/join/id/regdata/gm0297/2020/Speelhal/nld@2020-03-18;3520</ExtIoRef>
                       </Al>
                     </Definitie>
                   </Begrip>
-                  <Begrip eId="cmp_I__list_o_1__item_o_4" wId="gm0297_1__cmp_I__list_o_1__item_o_4">
+                  <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4">
                     <Term>maximum bouwhoogte bedrijfsgebouw</Term>
                     <Definitie>
                       <Al>
                         <ExtIoRef ref="/join/id/regdata/gm0297/2020/Bouwhoogte/nld@2020-03-18;3520"
-                          eId="cmp_I__list_o_1__item_o_4__ref_o_1"
-                          wId="gm0297_1__cmp_I__list_o_1__item_o_4__ref_o_1"
+                          eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
+                          wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
                           >/join/id/regdata/gm0297/2020/Bouwhoogte/nld@2020-03-18;3520</ExtIoRef>
                       </Al>
                     </Definitie>
@@ -851,24 +851,24 @@
                       </Al>
                     </Definitie>
                   </Begrip>
-                  <Begrip eId="cmp_I__list_o_1__item_o_6" wId="gm0297_1__cmp_I__list_o_1__item_o_6">
+                  <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6">
                     <Term>Zone A</Term>
                     <Definitie>
                       <Al>
                         <ExtIoRef ref="/join/id/regdata/gm0297/2020/Zone_A/nld@2020-03-18;3520"
-                          eId="cmp_I__list_o_1__item_o_6__ref_o_1"
-                          wId="gm0297_1__cmp_I__list_o_1__item_o_6__ref_o_1"
+                          eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                          wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
                           >/join/id/regdata/gm0297/2020/Zone_A/nld@2020-03-18;3520</ExtIoRef>
                       </Al>
                     </Definitie>
                   </Begrip>
-                  <Begrip eId="cmp_I__list_o_1__item_o_7" wId="gm0297_1__cmp_I__list_o_1__item_o_7">
+                  <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7">
                     <Term>Zone B</Term>
                     <Definitie>
                       <Al>
                         <ExtIoRef ref="/join/id/regdata/gm0297/2020/Zone_B/nld@2020-03-18;3520"
-                          eId="cmp_I__list_o_1__item_o_7__ref_o_1"
-                          wId="gm0297_1__cmp_I__list_o_1__item_o_7__ref_o_1"
+                          eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                          wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
                           >/join/id/regdata/gm0297/2020/Zone_B/nld@2020-03-18;3520</ExtIoRef>
                       </Al>
                     </Definitie>
@@ -939,6 +939,9 @@
       </rechtsgebieden>
       <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
       <!-- Omgevingsplan -->
+      <opvolging>
+        <opvolgerVan>/akn/nl/act/gm0297/2019/reg456</opvolgerVan>
+      </opvolging>
     </RegelingMetadata>
   </RegelingVersieInformatie>
 </AanleveringBesluit>
