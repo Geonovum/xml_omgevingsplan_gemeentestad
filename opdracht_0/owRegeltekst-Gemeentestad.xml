@@ -19,7 +19,7 @@
             <sl:leveringsId>abc-20190221-0801</sl:leveringsId>
             <sl:objectTypen>
                 <sl:objectType>RegelVoorIedereen</sl:objectType>
-                <sl:objectType></sl:objectType>
+                <sl:objectType>Regeltekst</sl:objectType>
             </sl:objectTypen>
         </sl:inhoud>
         <!-- artikel 2.3 -->
