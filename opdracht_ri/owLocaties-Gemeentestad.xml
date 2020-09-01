@@ -152,5 +152,27 @@
 				</l:Gebied>
 			</ow-dc:owObject>
 		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied> 
+					<l:identificatie>nl.imow-gm0297.gebied.2019000013</l:identificatie>
+					<l:noemer>Landbouwhuisdierenhygiëne</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="4f1af8a6-f866-4a18-898f-b1a174e7adc1"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<l:Gebied> 
+					<l:identificatie>nl.imow-gm0297.gebied.2019000014</l:identificatie>
+					<l:noemer>organische reststromen en dierlijke bijproducten</l:noemer>
+					<l:geometrie>
+						<l:GeometrieRef xlink:href="e5d1d2fd-059d-4a49-b19d-ee4b934eb288"/>
+					</l:geometrie>
+				</l:Gebied>
+			</ow-dc:owObject>
+		</sl:stand>
 	</sl:standBestand>
 </ow-dc:owBestand>

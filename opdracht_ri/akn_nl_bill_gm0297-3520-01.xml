@@ -297,7 +297,7 @@
                                 <Inhoud>
                                     <Lijst eId="chp_2__subchp_2.2__art_2.5__list_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1" type="expliciet">
                                         <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
-                                        <Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.5__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het verboden de locatie en de daarop voorkomende bouwwerken te gebruiken:</Lijstaanhef>
+                                        <Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.5__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het verboden de locatie en de daarop voorkomende bouwwerken te gebruiken:</Lijstaanhef>
                                         <Li eId="chp_2__subchp_2.2__art_2.5__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1__item_a">
                                             <LiNummer>a.</LiNummer>
                                             <Al>voor het exploiteren van inrichtingen als bedoeld in artikel 2.1 lid 3 juncto Bijlage 1 onderdeel D van het Besluit omgevingsrecht;</Al>
@@ -730,7 +730,7 @@
                                         <Opschrift>Landbouwhuisdieren</Opschrift>
                                     </Kop>
                                     <Inhoud>
-                                        <Al>De regels omtrent hygiëne van landbouwhuisdieren is vastgelegd in het werkingsgebied '<IntIoRef eId="chp_2__subchp_2.5__art_2.15__ref_o_1" wId="gm0297_1__chp_2__subchp_2.5__art_2.15__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">landbouwhuisdierenverblijfhygiëne</IntIoRef>'.</Al>
+                                        <Al>De regels omtrent hygiëne van landbouwhuisdieren is vastgelegd in het werkingsgebied '<IntIoRef eId="chp_10__subchp_10.1__art_10.1__ref_o_1" wId="gm0297_1__chp_10__subchp_10.1__art_10.1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">landbouwhuisdierenverblijfhygiëne</IntIoRef>'.</Al>
                                     </Inhoud>
                                 </Artikel>
                                 <Artikel eId="chp_10__subchp_10.1__art_10.2" wId="gm0297_1__chp_10__subchp_10.1__art_10.2">
@@ -742,7 +742,7 @@
                                     <Lid wId="gm0297_1__chp_10__subchp_10.1__art_10.2__para_1" eId="chp_10__subchp_10.1__art_10.2__para_1">
                                         <LidNummer>1</LidNummer>
                                         <Inhoud>
-                                            <Al>Ter plaatse van het werkingsgebied '<IntIoRef eId="chp_2__subchp_2.5__art_2.15__ref_o_1" wId="gm0297_1__chp_2__subchp_2.5__art_2.15__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Verwerking organische reststromen en dierlijke bijproducten</IntIoRef>' is het verboden om zonder omgevingsvergunning activiteiten te verrichten op het gebied van het verwerken van organische reststromen en dierlijke bijproducten.</Al>
+                                            <Al>Ter plaatse van het werkingsgebied '<IntIoRef eId="chp_10__subchp_10.1__art_10.2__para_1__ref_o_1" wId="gm0297_1__chp_10__subchp_10.1__art_10.2__para_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Verwerking organische reststromen en dierlijke bijproducten</IntIoRef>' is het verboden om zonder omgevingsvergunning activiteiten te verrichten op het gebied van het verwerken van organische reststromen en dierlijke bijproducten.</Al>
                                         </Inhoud>
                                     </Lid>
                                     <Lid wId="gm0297_1__chp_10__subchp_10.1__art_10.2__para_2" eId="chp_10__subchp_10.1__art_10.2__para_2">
