@@ -15,10 +15,10 @@
          <geo:locaties>
             <geo:Locatie>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-772B4B37-69F8-4671-B92E-3BCED242409D-xx">
-                     <basisgeo:id>772B4B37-69F8-4671-B92E-3BCED242409D</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-47a97ea4-1be5-40b2-9d8c-6310414ef069-xx">
+                     <basisgeo:id>47a97ea4-1be5-40b2-9d8c-6310414ef069</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-772B4B37-69F8-4671-B92E-3BCED242409D" srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-47a97ea4-1be5-40b2-9d8c-6310414ef069" srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -36,10 +36,10 @@
             </geo:Locatie>
             <geo:Locatie>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-D24C3416-4790-461C-A4D0-A82BA60CA7D6-xx">
-                     <basisgeo:id>D24C3416-4790-461C-A4D0-A82BA60CA7D6</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-2f3a5858-7956-4744-a90a-421569306753-xx">
+                     <basisgeo:id>2f3a5858-7956-4744-a90a-421569306753</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-D24C3416-4790-461C-A4D0-A82BA60CA7D6-0" srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-2f3a5858-7956-4744-a90a-421569306753-0" srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -57,10 +57,10 @@
             </geo:Locatie>
             <geo:Locatie>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-954BA8CC-6E90-4698-BEEC-005A65C63E98-xx">
-                     <basisgeo:id>954BA8CC-6E90-4698-BEEC-005A65C63E98</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-47f5577a-8774-439b-b0d2-14d1dce01949-xx">
+                     <basisgeo:id>47f5577a-8774-439b-b0d2-14d1dce01949</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-954BA8CC-6E90-4698-BEEC-005A65C63E98-0" srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-47f5577a-8774-439b-b0d2-14d1dce01949-0" srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -78,10 +78,10 @@
             </geo:Locatie>
             <geo:Locatie>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-EFAAD5E9-B181-4C22-9C3B-B290F4586D82-xx">
-                     <basisgeo:id>EFAAD5E9-B181-4C22-9C3B-B290F4586D82</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-17099564-ce34-4656-979c-d2e2bc26cf8f-xx">
+                     <basisgeo:id>17099564-ce34-4656-979c-d2e2bc26cf8f</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-EFAAD5E9-B181-4C22-9C3B-B290F4586D82-0" srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-17099564-ce34-4656-979c-d2e2bc26cf8f-0" srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
