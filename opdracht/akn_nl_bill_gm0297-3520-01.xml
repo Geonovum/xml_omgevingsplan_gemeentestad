@@ -34,7 +34,6 @@
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</informatieobjectRef>
-                <informatieobjectRef>/join/id/regdata/gm0297/2019/Testcontentdisclaimer/nld@2019-06-18;3520</informatieobjectRef>
                 <!-- regelinggebied -->
             </informatieobjectRefs>
         </BesluitMetadata>
@@ -154,13 +153,6 @@
                     <instrumentVersie>/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</instrumentVersie>
                     <eId/>
                 </BeoogdInformatieobject>
-                <BeoogdInformatieobject>
-                    <doelen>
-                        <doel>/join/id/proces/gm0297/2019/Instelling</doel>
-                    </doelen>
-                    <instrumentVersie>/join/id/regdata/gm0297/2019/Testcontentdisclaimer/nld@2019-06-18;3520</instrumentVersie>
-                    <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_13</eId>
-                </BeoogdInformatieobject>
             </BeoogdeRegelgeving>
             <Tijdstempels>
                 <Tijdstempel>
@@ -226,7 +218,7 @@
                 </Kop>
                 <RegelingCompact componentnaam="initieel_reg" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2019-06-25;1">
                     <RegelingOpschrift eId="longTitle" wId="longTitle">
-                        <Al>Voorbeeldregels met uitbreiding tbv Toepasbare Regels</Al>
+                        <Al>Omgevingsplan Zaltbommel (met de nadruk op Zuilichem)</Al>
                     </RegelingOpschrift>
                     <Lichaam eId="body" wId="body">
                         <Hoofdstuk eId="chp_2" wId="gm0297_1__chp_2">
@@ -755,19 +747,6 @@
                             </Afdeling>
                         </Hoofdstuk>
                     </Lichaam>
-                    <Bijlage eId="cmp_B" wId="gm0297_1__cmp_B">
-                        <Kop>
-                            <Label>Bijlage</Label>
-                            <Nummer>B</Nummer>
-                            <Opschrift>Disclaimers</Opschrift>
-                        </Kop>
-                        <Divisietekst wId="gm0297_1__cmp_B__content_o_1" eId="cmp_B__content_o_1">
-                            <Inhoud>
-                                <Al>Bij deze regeling is de <IntIoRef ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" eId="cmp_B__content_o_1__ref_o_1" wId="gm0297_1__cmp_B__content_o_1__ref_1">Testcontentdisclaimer
-                                </IntIoRef> van toepassing. Deze is bijgevoegd als informatieobject.</Al>
-                            </Inhoud>
-                        </Divisietekst>
-                    </Bijlage>
                     <Bijlage eId="cmp_I" wId="gm0297_1__cmp_I">
                         <Kop>
                             <Label>Bijlage</Label>
@@ -871,14 +850,6 @@
                                         <Definitie>
                                             <Al>
                                                 <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
-                                            </Al>
-                                        </Definitie>
-                                    </Begrip>
-                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_13" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_13">
-                                        <Term>Testcontentdisclaimer</Term>
-                                        <Definitie>
-                                            <Al>
-                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" ref="/join/id/regdata/gm0297/2019/Testcontentdisclaimer/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Testcontentdisclaimer/nld@2019-06-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
