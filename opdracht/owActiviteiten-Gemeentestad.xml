@@ -211,6 +211,7 @@
 						<rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.Omgevingsplanactiviteit"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
-			</ow-dc:owObject>-->
+			</ow-dc:owObject>
+		</sl:stand>-->
 	</sl:standBestand>
 </ow-dc:owBestand>
