@@ -49,14 +49,6 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>IO0010-Testcontentdisclaimer.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>testcontentdisclaimergeonovum.pdf</bestandsnaam>
-        <contentType>application/pdf</contentType>
-    </bestand>
-    <bestand>
         <bestandsnaam>Bedrijf_categorie_2.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
