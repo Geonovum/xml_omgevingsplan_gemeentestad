@@ -49,19 +49,55 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>IO0010-Testcontentdisclaimer.xml</bestandsnaam>
+        <bestandsnaam>GIO011-Goothoogte.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>testcontentdisclaimergeonovum.pdf</bestandsnaam>
-        <contentType>application/pdf</contentType>
+        <bestandsnaam>GIO0012-Oppervlakte.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>GIO0013-Landbouwhuisdierenverblijf.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>GIO0014-Zaltbommel.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Bedrijf_categorie_2.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
+        <bestandsnaam>Bouwhoogte.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
+    <bestand>
         <bestandsnaam>Centrumgebied.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>Dierlijkebijproducten.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>Geitenhouderij.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>Goothoogte.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>Industriegebied_zones.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>Landbouwhuisdieren.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>Oppervlakte.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
@@ -74,6 +110,10 @@
     </bestand>
     <bestand>
         <bestandsnaam>Zone_A.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>Wormenkwekerij.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>

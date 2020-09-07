@@ -527,7 +527,7 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<r:RegelVoorIedereen>
-					<r:identificatie>nl.imow-gm0297.juridischeregel.2019000017</r:identificatie>
+					<r:identificatie>nl.imow-gm0297.juridischeregel.2019000018</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
 						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000015"/>
@@ -550,7 +550,7 @@
 <!--		<sl:stand>
 			<ow-dc:owObject>
 				<r:RegelVoorIedereen>
-					<r:identificatie>nl.imow-gm0297.juridischeregel.2019000018</r:identificatie>
+					<r:identificatie>nl.imow-gm0297.juridischeregel.2019000019</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>
 						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000002"/>
