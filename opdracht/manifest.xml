@@ -53,6 +53,10 @@
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
+        <bestandsnaam>Bouwhoogte.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
+    <bestand>
         <bestandsnaam>Centrumgebied.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
@@ -78,10 +82,6 @@
     </bestand>
     <bestand>
         <bestandsnaam>Zuilichem.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Zuilichem_industriegebied.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
