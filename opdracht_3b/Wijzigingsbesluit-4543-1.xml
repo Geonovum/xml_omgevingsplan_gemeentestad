@@ -114,14 +114,10 @@
                   toegestaan</Opschrift>
               </Kop>
               <Inhoud>
-                <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef
-                    ref="gm0297_1__cmp_I__list_o_1__item_o_2__ref_o_1"
-                    eId="subchp_2.3__art_2.10__ref_o_1"
-                    wId="gm0297_1__subchp_2.3__art_2.10__ref_o_1">Centrumgebied</IntIoRef>' mag de
-                  locatie in ieder geval worden gebruikt voor het verrichten van de volgende
-                  gebruiksactiviteiten:</Al>
                 <Lijst eId="subchp_2.3__art_2.10__list_o_1" type="expliciet"
                   wId="gm0297_1__subchp_2.3__art_2.10__list_o_1">
+                  <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat vor lijst stond als lijstaanhef toegevoegd -->
+                  <Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef>' mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
                   <Li eId="subchp_2.3__art_2.10__list_o_1__item_a"
                     wId="gm0297_1__subchp_2.3__art_2.10__list_o_1__item_a">
                     <LiNummer>a.</LiNummer>
