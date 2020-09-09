@@ -252,7 +252,7 @@
                                 <Inhoud>
                                     <Lijst eId="chp_2__subchp_2.2__art_2.4__list_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1" type="expliciet">
                                         <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
-                                        <Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.4__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' mogen de locatie en de daarop voorkomende bouwwerken in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
+                                        <Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.4__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' mogen de locatie en de daarop voorkomende bouwwerken in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
                                         <Li eId="chp_2__subchp_2.2__art_2.4__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1__item_a">
                                             <LiNummer>a.</LiNummer>
                                             <Al>het uitoefenen van bedrijfstypen van categorie 2 die voorkomen op de bij deze regels behorende Lijst van toegelaten bedrijfstypen ; </Al>
@@ -289,7 +289,7 @@
                                 <Inhoud>
                                     <Lijst eId="chp_2__subchp_2.2__art_2.5__list_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1" type="expliciet">
                                         <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
-                                        <Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.5__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het verboden de locatie en de daarop voorkomende bouwwerken te gebruiken:</Lijstaanhef>
+                                        <Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.5__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het verboden de locatie en de daarop voorkomende bouwwerken te gebruiken:</Lijstaanhef>
                                         <Li eId="chp_2__subchp_2.2__art_2.5__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1__item_a">
                                             <LiNummer>a.</LiNummer>
                                             <Al>voor het exploiteren van inrichtingen als bedoeld in artikel 2.1 lid 3 juncto Bijlage 1 onderdeel D van het Besluit omgevingsrecht;</Al>
