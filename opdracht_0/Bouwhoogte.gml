@@ -13,9 +13,10 @@
             <geo:eenheidlabel>meters boven het maaiveld</geo:eenheidlabel>
             <geo:eenheidID>meters_maaiveld</geo:eenheidID>
             <geo:normlabel>Maximum bouwhoogte</geo:normlabel>
-            <geo:normID>bouwhoogte</geo:normID>
+            <geo:normID>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</geo:normID>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>Zuilichem industriegebied 1</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-772B4B37-69F8-4671-B92E-3BCED242409D-xx">
                             <basisgeo:id>772B4B37-69F8-4671-B92E-3BCED242409D</basisgeo:id>
@@ -37,6 +38,7 @@
                     <geo:kwantitatieveNormwaarde>7</geo:kwantitatieveNormwaarde>
                 </geo:Locatie>
                 <geo:Locatie>
+                    <geo:naam>Zuilichem industriegebied 2</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-D24C3416-4790-461C-A4D0-A82BA60CA7D6-xx">
                             <basisgeo:id>D24C3416-4790-461C-A4D0-A82BA60CA7D6</basisgeo:id>
@@ -58,6 +60,7 @@
                     <geo:kwantitatieveNormwaarde>7</geo:kwantitatieveNormwaarde>
                 </geo:Locatie>
                 <geo:Locatie>
+                    <geo:naam>Zuilichem industriegebied 3</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-954BA8CC-6E90-4698-BEEC-005A65C63E98-xx">
                             <basisgeo:id>954BA8CC-6E90-4698-BEEC-005A65C63E98</basisgeo:id>
@@ -79,6 +82,7 @@
                     <geo:kwantitatieveNormwaarde>13</geo:kwantitatieveNormwaarde>
                 </geo:Locatie>
                 <geo:Locatie>
+                    <geo:naam>Zuilichem industriegebied 4</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-EFAAD5E9-B181-4C22-9C3B-B290F4586D82-xx">
                             <basisgeo:id>EFAAD5E9-B181-4C22-9C3B-B290F4586D82</basisgeo:id>

@@ -11,7 +11,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>Welstand.gml</bestandsnaam>
-            <hash>e3fb0c07b6ef08fcc716222201f890ae5557b6522e75d286965973309dc62eecca1158b7b9aead3efd602f11a390a21b3cd2dc929e301acc9da4966d83db806c</hash>
+            <hash>3bf1df716d0431998ec86c6ca1e919409414d95413b3b14255b3b8de84af29d60583a6657fe0a373bda1fc6340e9a063f0c440c62982200e49138cf1f5c3c204</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
@@ -21,12 +21,12 @@
       <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
       <maker>/tooi/id/gemeente/gm0297</maker>
       <alternatieveTitels>
-        <alternatieveTitel>Zuilichem</alternatieveTitel>
+         <alternatieveTitel>Zuilichem</alternatieveTitel>
       </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/gm0297/2019/Welstand/nld@2019-06-18;3520</officieleTitel>
+      <officieleTitel>/join/id/regdata/gm0297/2020/Welstand</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
-    </InformatieObjectMetadata>
+      </InformatieObjectMetadata>
   </InformatieObjectVersie>
 </AanleveringInformatieObject>

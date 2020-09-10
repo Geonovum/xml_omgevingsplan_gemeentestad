@@ -11,7 +11,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>Centrumgebied.gml</bestandsnaam>
-            <hash>3c41bb4e5eefe32796847c35080edf83d1f31832a78dd148e24a8c3d8241890dd9798cfd52ac1362247c7824738a0dbb25311b08f5b400d7a3d01e84bad2eab9</hash>
+            <hash>f6851d1e3f3c3ca121f1c082ad4dac447990a2b3e1f945cd33178e5731fa143e7daf3e5ba62ea85296ead008c175809f7059bbd8d625ebea6b5799f59e6ca81c</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
@@ -21,9 +21,9 @@
       <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
       <maker>/tooi/id/gemeente/gm0297</maker>
       <alternatieveTitels>
-        <alternatieveTitel>Centrumgebied</alternatieveTitel>
+         <alternatieveTitel>Centrumgebied</alternatieveTitel>
       </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/gm0297/2019/Centrumgebied/nld@2019-06-18;3520</officieleTitel>
+      <officieleTitel>/join/id/regdata/gm0297/2020/Centrumgebied</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>

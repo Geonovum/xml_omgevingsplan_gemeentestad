@@ -12,6 +12,7 @@
             <geo:FRBRExpression>/join/id/regdata/gm0297/2020/Zuilichem/nld@2020-03-18;3520</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>Zuilichem</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-b69221bd-8121-4368-9058-ad4ff7618dcd-xx">
                             <basisgeo:id>b69221bd-8121-4368-9058-ad4ff7618dcd</basisgeo:id>

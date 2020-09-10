@@ -12,6 +12,7 @@
             <geo:FRBRExpression>/join/id/regdata/gm0297/2020/Centrumgebied/nld@2020-03-18;3520</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>Centrumgebied</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-D28AF779-7EDD-4A88-8B11-809798F53636-xx">
                             <basisgeo:id>D28AF779-7EDD-4A88-8B11-809798F53636</basisgeo:id>
