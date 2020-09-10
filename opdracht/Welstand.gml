@@ -14,6 +14,7 @@
             <geo:normID>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/FICTIEF/Welstand</geo:normID>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>zone A</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-B3AF6AF7-5EFA-4A87-9C66-BFB046DD89AC-xx">
                             <basisgeo:id>B3AF6AF7-5EFA-4A87-9C66-BFB046DD89AC</basisgeo:id>
@@ -35,6 +36,7 @@
                     <geo:kwalitatieveNormwaarde>midden</geo:kwalitatieveNormwaarde>
                 </geo:Locatie>
                 <geo:Locatie>
+                    <geo:naam>zone B</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-0868A0B1-DA79-4C33-8305-1BDE0126FA9A-xx">
                             <basisgeo:id>0868A0B1-DA79-4C33-8305-1BDE0126FA9A</basisgeo:id>
@@ -56,6 +58,7 @@
                     <geo:kwalitatieveNormwaarde>laag</geo:kwalitatieveNormwaarde>
                 </geo:Locatie>
                 <geo:Locatie>
+                    <geo:naam>Centrumgebied</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-D28AF779-7EDD-4A88-8B11-809798F53636-xx">
                             <basisgeo:id>D28AF779-7EDD-4A88-8B11-809798F53636</basisgeo:id>

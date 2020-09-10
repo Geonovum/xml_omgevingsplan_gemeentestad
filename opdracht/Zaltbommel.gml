@@ -12,6 +12,7 @@
             <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>Regelingsgebied Zaltbommel</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-553df3b9-9115-4b22-80ee-b1056a85acb4-xx">
                             <basisgeo:id>553df3b9-9115-4b22-80ee-b1056a85acb4</basisgeo:id>

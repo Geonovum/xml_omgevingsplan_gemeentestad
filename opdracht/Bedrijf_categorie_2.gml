@@ -12,6 +12,7 @@
             <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Bedrijf_categorie_2/nld@2019-06-18;3520</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>Bedrijf categorie 2</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-50EA019E-3C96-4631-A76C-35BCF4D7AB6D-xx">
                             <basisgeo:id>50EA019E-3C96-4631-A76C-35BCF4D7AB6D</basisgeo:id>
