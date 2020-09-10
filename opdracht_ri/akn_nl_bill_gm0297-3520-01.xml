@@ -725,27 +725,30 @@
                                         <Al>De regels omtrent hygiëne van landbouwhuisdieren is vastgelegd in het werkingsgebied '<IntIoRef eId="chp_10__subchp_10.1__art_10.1__ref_o_1" wId="gm0297_1__chp_10__subchp_10.1__art_10.1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">landbouwhuisdierenverblijfhygiëne</IntIoRef>'.</Al>
                                     </Inhoud>
                                 </Artikel>
-                                <Artikel eId="chp_10__subchp_10.1__art_10.2" wId="gm0297_1__chp_10__subchp_10.1__art_10.2">
+                                <Artikel wId="chp_10__subchp_10.1__art_10.2" eId="gm0297_1__chp_10__subchp_10.1__art_10.2">
                                     <Kop>
                                         <Label>Artikel</Label>
-                                        <Nummer>10.2</Nummer>
-                                        <Opschrift>Dierlijke bijproducten</Opschrift>
+                                        <Nummer>10.81</Nummer>
+                                        <Opschrift>Verwerking organische reststromen en dierlijke bijproducten</Opschrift>
                                     </Kop>
-                                    <Lid wId="gm0297_1__chp_10__subchp_10.1__art_10.2__para_1" eId="chp_10__subchp_10.1__art_10.2__para_1">
-                                        <LidNummer>1</LidNummer>
-                                        <Inhoud>
-                                            <Al>Ter plaatse van het werkingsgebied '<IntIoRef eId="chp_10__subchp_10.1__art_10.2__para_1__ref_o_1" wId="gm0297_1__chp_10__subchp_10.1__art_10.2__para_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Verwerking organische reststromen en dierlijke bijproducten</IntIoRef>' is het verboden om zonder omgevingsvergunning activiteiten te verrichten op het gebied van het verwerken van organische reststromen en dierlijke bijproducten.</Al>
-                                        </Inhoud>
-                                    </Lid>
-                                    <Lid wId="gm0297_1__chp_10__subchp_10.1__art_10.2__para_2" eId="chp_10__subchp_10.1__art_10.2__para_2">
-                                        <LidNummer>2</LidNummer>
-                                        <Inhoud>
-                                            <Al>De omgevingsvergunning wordt slechts verleend wanneer wordt voldaan aan de volgende vereisten: </Al>
-                                        </Inhoud>
-                                    </Lid>
-                                </Artikel>
-                            </Afdeling>
-                        </Hoofdstuk>
+                                    <Inhoud>
+                                        <Lijst type="expliciet" wId="chp_10__subchp_10.1__art_10.2__list_o_1" eId="gm0297_1__chp_10__subchp_10.1__art_10.2__list_o_1">
+                                            <Li wId="chp_10__subchp_10.1__art_10.2__list_o_1__item_1" eId="gm0297_1__chp_10__subchp_10.1__art_10.2__list_o_1__item_1">
+                                                <LiNummer>1.</LiNummer>
+                                                <Al>Vergunningplicht</Al>
+                                                <Al>Ter plaatse van het werkingsgebied ‘Verwerking organische reststromen en dierlijke </Al>
+                                                <Al>bijproducten’ is het verboden om zonder omgevingsvergunning activiteiten te verrichten op het </Al>
+                                                <Al>gebied van het verwerken van organische reststromen en dierlijke bijproducten.</Al>
+                                            </Li>
+                                            <Li wId="chp_10__subchp_10.1__art_10.2__list_o_1__item_2" eId="gm0297_1__chp_10__subchp_10.1__art_10.2__list_o_1__item_2">
+                                                <LiNummer>2.</LiNummer>
+                                                <Al>2.	Beoordelingsregels</Al>
+                                                <Al>De omgevingsvergunning wordt slechts verleend wanneer wordt voldaan aan de volgende</Al>
+                                                <Al>vereisten: etc </Al>
+                                            </Li>
+                                        </Lijst>
+                                    </Inhoud>
+                                </Artikel>                        </Hoofdstuk>
                     </Lichaam>
                     <Bijlage eId="cmp_I" wId="gm0297_1__cmp_I">
                         <Kop>
