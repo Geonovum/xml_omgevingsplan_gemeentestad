@@ -12,6 +12,7 @@
             <geo:FRBRExpression>/join/id/regdata/gm0297/2020/Zone_B/nld@2020-03-18;3520</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>zone B</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-0868A0B1-DA79-4C33-8305-1BDE0126FA9A-xx">
                             <basisgeo:id>0868A0B1-DA79-4C33-8305-1BDE0126FA9A</basisgeo:id>

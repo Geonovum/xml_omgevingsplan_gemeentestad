@@ -10,22 +10,11 @@
         <geo:GeoInformatieObjectVersie>
             <geo:FRBRWork>/join/id/regdata/gm0297/2020/Welstand</geo:FRBRWork>
             <geo:FRBRExpression>/join/id/regdata/gm0297/2020/Welstand/nld@2020-03-18;3520</geo:FRBRExpression>
-            <geo:groepen>
-                <geo:Groep>
-                    <geo:groepID>1</geo:groepID>
-                    <geo:label>hoog</geo:label>
-                </geo:Groep>
-                <geo:Groep>
-                    <geo:groepID>2</geo:groepID>
-                    <geo:label>middel</geo:label>
-                </geo:Groep>
-                <geo:Groep>
-                    <geo:groepID>3</geo:groepID>
-                    <geo:label>laag</geo:label>
-                </geo:Groep>
-            </geo:groepen>
+            <geo:normlabel>Welstand</geo:normlabel>
+            <geo:normID>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/FICTIEF/Welstand</geo:normID>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>zone A</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-B3AF6AF7-5EFA-4A87-9C66-BFB046DD89AC-xx">
                             <basisgeo:id>B3AF6AF7-5EFA-4A87-9C66-BFB046DD89AC</basisgeo:id>
@@ -44,9 +33,10 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:groepID>2</geo:groepID>
+                    <geo:kwalitatieveNormwaarde>midden</geo:kwalitatieveNormwaarde>
                 </geo:Locatie>
                 <geo:Locatie>
+                    <geo:naam>zone B</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-0868A0B1-DA79-4C33-8305-1BDE0126FA9A-xx">
                             <basisgeo:id>0868A0B1-DA79-4C33-8305-1BDE0126FA9A</basisgeo:id>
@@ -65,9 +55,10 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:groepID>3</geo:groepID>
+                    <geo:kwalitatieveNormwaarde>laag</geo:kwalitatieveNormwaarde>
                 </geo:Locatie>
                 <geo:Locatie>
+                    <geo:naam>Centrumgebied</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-D28AF779-7EDD-4A88-8B11-809798F53636-xx">
                             <basisgeo:id>D28AF779-7EDD-4A88-8B11-809798F53636</basisgeo:id>
@@ -86,7 +77,7 @@
                             </basisgeo:geometrie>
                         </basisgeo:Geometrie>
                     </geo:geometrie>
-                    <geo:groepID>1</geo:groepID>
+                    <geo:kwalitatieveNormwaarde>hoog</geo:kwalitatieveNormwaarde>
                 </geo:Locatie>
             </geo:locaties>
         </geo:GeoInformatieObjectVersie>

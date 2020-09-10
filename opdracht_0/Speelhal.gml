@@ -12,6 +12,7 @@
             <geo:FRBRExpression>/join/id/regdata/gm0297/2020/Speelhal/nld@2020-03-18;3520</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
+                    <geo:naam>exploiteren speelautomatenhal</geo:naam>
                     <geo:geometrie>
                         <basisgeo:Geometrie gml:id="id-33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A-xx">
                             <basisgeo:id>33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A</basisgeo:id>
