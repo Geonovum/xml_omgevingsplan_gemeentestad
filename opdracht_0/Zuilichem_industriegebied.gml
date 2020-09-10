@@ -10,6 +10,8 @@
         <geo:GeoInformatieObjectVersie>
             <geo:FRBRWork>/join/id/regdata/gm0297/2020/Bouwhoogte</geo:FRBRWork>
             <geo:FRBRExpression>/join/id/regdata/gm0297/2020/Bouwhoogte/nld@2020-03-18;3520</geo:FRBRExpression>
+            <geo:eenheidlabel>meters boven het maaiveld</geo:eenheidlabel>
+            <geo:eenheidID>meters_maaiveld</geo:eenheidID>
             <geo:normlabel>Maximum bouwhoogte</geo:normlabel>
             <geo:normID>bouwhoogte</geo:normID>
             <geo:locaties>
