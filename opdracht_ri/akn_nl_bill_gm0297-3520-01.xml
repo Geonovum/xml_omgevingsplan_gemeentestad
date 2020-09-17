@@ -761,7 +761,6 @@
                         <Divisietekst eId="cmp_I__content_o_1" wId="gm0297_1__cmp_I__content_o_1">
                             <Inhoud>
                                 <Begrippenlijst eId="cmp_I__content_o_1__list_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1">
-                                    <!-- BV: Een Begrippenlijst moet gesorteerd zijn -->
                                     <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1">
                                         <Term>Bedrijf categorie 2</Term>
                                         <Definitie>
