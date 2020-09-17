@@ -26,7 +26,7 @@
 		<!-- artikel 2.3 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:Regeltekst wId="gm0297_1__subchp_2.2__art_2.3"> 
+				<r:Regeltekst wId="gm0297_1__chp_2__subchp_2.2__art_2.3"> 
 					<r:identificatie>nl.imow-gm0297.regeltekst.2019000001</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
@@ -51,7 +51,7 @@
 		<!-- artikel 2.4 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:Regeltekst wId="gm0297_1__subchp_2.2__art_2.4">
+				<r:Regeltekst wId="gm0297_1__chp_2__subchp_2.2__art_2.4">
 					<r:identificatie>nl.imow-gm0297.regeltekst.2019000002</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
@@ -205,7 +205,7 @@
 		<!-- artikel 2.5 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:Regeltekst wId="gm0297_1__subchp_2.2__art_2.5">
+				<r:Regeltekst wId="gm0297_1__chp_2__subchp_2.2__art_2.5">
 					<r:identificatie>nl.imow-gm0297.regeltekst.2019000003</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
@@ -288,7 +288,7 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<!-- Artikel 2.6 -->
-				<r:Regeltekst wId="gm0297_1__subchp_2.2__art_2.6__para_1">
+				<r:Regeltekst wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_1">
 					<r:identificatie>nl.imow-gm0297.regeltekst.2019000004</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
@@ -321,7 +321,7 @@
 		<!-- artikel 2.7 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:Regeltekst wId="gm0297_1__subchp_2.2__art_2.7__para_1">
+				<r:Regeltekst wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_1">
 					<r:identificatie>nl.imow-gm0297.regeltekst.2019000007</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
@@ -365,7 +365,7 @@
 		<!-- artikel 2.9 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:Regeltekst wId="gm0297_1__subchp_2.3__art_2.9">
+				<r:Regeltekst wId="gm0297_1__chp_2__subchp_2.3__art_2.9">
 					<r:identificatie>nl.imow-gm0297.regeltekst.2019000012</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
@@ -391,7 +391,7 @@
 		<!-- Hier is voor het voorbeeld op dit moment één activiteit uitgewerkt, de bijzondere, lijstitem i -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:Regeltekst wId="gm0297_1__subchp_2.3__art_2.10">
+				<r:Regeltekst wId="gm0297_1__chp_2__subchp_2.3__art_2.10">
 					<r:identificatie>nl.imow-gm0297.regeltekst.2019000008</r:identificatie>
 					<r:gerelateerdeRegeltekst>
 						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000012"/>
@@ -441,7 +441,7 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<!-- Artikel -->
-				<r:Regeltekst wId="gm0297_1__subchp_2.4__art_2.12">
+				<r:Regeltekst wId="gm0297_1__chp_2__subchp_2.4__art_2.12">
 					<r:identificatie>nl.imow-gm0297.regeltekst.2019000009</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
@@ -467,7 +467,7 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<!-- Artikel -->
-				<r:Regeltekst wId="gm0297_1__subchp_2.5__art_2.14">
+				<r:Regeltekst wId="gm0297_1__chp_2__subchp_2.5__art_2.14">
 					<r:identificatie>nl.imow-gm0297.regeltekst.2019000010</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
@@ -499,7 +499,7 @@
 		<!-- artikel 2.15 -->
 		<sl:stand>
 			<ow-dc:owObject>
-				<r:Regeltekst wId="gm0297_1__subchp_2.5__art_2.15">
+				<r:Regeltekst wId="gm0297_1__chp_2__subchp_2.5__art_2.15">
 					<r:identificatie>nl.imow-gm0297.regeltekst.2019000015</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
