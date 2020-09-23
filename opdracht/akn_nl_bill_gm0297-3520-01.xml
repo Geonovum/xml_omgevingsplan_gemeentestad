@@ -395,7 +395,7 @@
 									</Kop>
 									<Inhoud>
 										<Lijst eId="chp_2__subchp_2.3__art_2.10__list_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1" type="expliciet">
-											<!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat vor lijst stond als lijstaanhef toegevoegd -->
+											<!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor lijst stond als lijstaanhef toegevoegd -->
 											<Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef>' mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
 											<Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_a">
 												<LiNummer>a.</LiNummer>
@@ -745,7 +745,7 @@
 											</Al>
 										</Definitie>
 									</Begrip>
-									<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_5">
+									<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4">
 										<Term>Maximum bouwhoogte bedrijfsgebouw</Term>
 										<Definitie>
 											<Al>
@@ -753,7 +753,7 @@
 											</Al>
 										</Definitie>
 									</Begrip>
-									<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6">
+									<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_5">
 										<Term>Welstandsniveau</Term>
 										<Definitie>
 											<Al>
@@ -761,7 +761,7 @@
 											</Al>
 										</Definitie>
 									</Begrip>
-									<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7">
+									<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6">
 										<Term>Zone A</Term>
 										<Definitie>
 											<Al>
@@ -769,7 +769,7 @@
 											</Al>
 										</Definitie>
 									</Begrip>
-									<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8">
+									<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7">
 										<Term>Zone B</Term>
 										<Definitie>
 											<Al>
@@ -777,7 +777,7 @@
 											</Al>
 										</Definitie>
 									</Begrip>
-									<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9">
+									<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8">
 										<Term>Zuilichem</Term>
 										<Definitie>
 											<Al>
