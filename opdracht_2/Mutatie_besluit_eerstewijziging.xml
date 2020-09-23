@@ -233,7 +233,6 @@
                     <Verwijder wat="gm0297_1__chp_2__subchp_2.5__art_2.14">
                         <Nummer>D</Nummer>
                         <Wat>Artikel 2.14 wordt verwijderd:</Wat>
-                        <!-- TODO: check of toevoeging _inst2 in eId hier klopt. Hoort deze niet bij het toegevoegde artikel 2.14 (hieronder dus) -->
                         <Artikel eId="chp_2__subchp_2.5__art_2.14_inst2" wId="gm0297_1__chp_2__subchp_2.5__art_2.14">
                             <Kop>
                                 <Label>Artikel</Label>
@@ -267,7 +266,6 @@
                             </Inhoud>
                         </Artikel>
                     </Verwijder>
-                    <!-- TODO: is dit niet ook een vervang van 2.14? -->
                     <VoegToe context="gm0297_1__chp_2__subchp_2.5__art_2.13" positie="volgtOp">
                         <Nummer>E</Nummer>
                         <Wat>Na artikel 2.13 wordt een artikel ingevoegd, luidende:</Wat>
@@ -282,7 +280,6 @@
                             </Inhoud>
                         </Artikel>
                     </VoegToe>
-                    <!-- TODO: in de index.md wordt aangegeven dat "VoegToe Artikel 2.15: Bouwregels bedrijfsgebouwen (dit was voorheen artikel  2.14)" Dit mist nog? (voegt het nog wat toe?) -->
                 </RegelingMutatie>
             </WijzigBijlage>
         </BesluitCompact>
@@ -306,8 +303,7 @@
             <rechtsgebieden>
                 <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
             </rechtsgebieden>
-            <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
-            <!-- Omgevingsplan -->
+            <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling><!-- Omgevingsplan -->
         </RegelingMetadata>
     </RegelingVersieInformatie>
 </AanleveringBesluit>
