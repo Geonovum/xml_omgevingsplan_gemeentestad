@@ -94,25 +94,27 @@
                     <Vervang wat="gm0297_1__chp_2__subchp_2.2__art_2.5">
                         <Wat>A. Artikel 2.5 is vernummerd naar 2.6:</Wat>
                         <!-- NB: bij vernummeren wijzigt de eId wel, maar de wId niet, blijft in dit geval "2.5" -->
-                        <Artikel eId="chp_2__subchp_2.2__art_2.5" wId="gm0297_1__chp_2__subchp_2.2__art_2.5">
+                        <Artikel eId="chp_2__subchp_2.2__art_2.6" wId="gm0297_1__chp_2__subchp_2.2__art_2.5">
                             <Kop>
                                 <Label>Artikel</Label>
-                                <Nummer>2.<VerwijderdeTekst>5</VerwijderdeTekst><NieuweTekst>6</NieuweTekst>
+                                <Nummer>
+                                    <VerwijderdeTekst>2.5</VerwijderdeTekst>
+                                    <NieuweTekst>2.6</NieuweTekst>
                                 </Nummer>
                                 <Opschrift>Gebruiksactiviteiten die verboden zijn</Opschrift>
                             </Kop>
                             <Inhoud>
-                                <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef ref="gm0297_1__cmp_I__list_o_1__item_o_1__ref_o_1" eId="chp_2__subchp_2.2__art_2.5__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het verboden de locatie en de daarop voorkomende bouwwerken te gebruiken:</Al>
-                                <Lijst eId="chp_2__subchp_2.2__art_2.5__list_o_1" type="expliciet" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1">
-                                    <Li eId="chp_2__subchp_2.2__art_2.5__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1__item_a">
+                                <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef ref="gm0297_1__cmp_I__list_o_1__item_o_1__ref_o_1" eId="chp_2__subchp_2.2__art_2.6__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het verboden de locatie en de daarop voorkomende bouwwerken te gebruiken:</Al>
+                                <Lijst eId="chp_2__subchp_2.2__art_2.6__list_o_1" type="expliciet" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1">
+                                    <Li eId="chp_2__subchp_2.2__art_2.6__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1__item_a">
                                         <LiNummer>a.</LiNummer>
                                         <Al>voor het exploiteren van inrichtingen als bedoeld in artikel 2.1 lid 3 juncto Bijlage 1 onderdeel D van het Besluit omgevingsrecht;</Al>
                                     </Li>
-                                    <Li eId="chp_2__subchp_2.2__art_2.5__list_o_1__item_b" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1__item_b">
+                                    <Li eId="chp_2__subchp_2.2__art_2.6__list_o_1__item_b" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1__item_b">
                                         <LiNummer>b.</LiNummer>
                                         <Al>voor het exploiteren van risicovolle inrichtingen;</Al>
                                     </Li>
-                                    <Li eId="chp_2__subchp_2.2__art_2.5__list_o_1__item_c" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1__item_c">
+                                    <Li eId="chp_2__subchp_2.2__art_2.6__list_o_1__item_c" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1__item_c">
                                         <LiNummer>c.</LiNummer>
                                         <Al>als opslagterrein, voor zover het betreft het gebied gelegen voor de voorgevels van de bedrijfsgebouwen. </Al>
                                     </Li>
