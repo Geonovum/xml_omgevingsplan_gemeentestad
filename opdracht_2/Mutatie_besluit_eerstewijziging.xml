@@ -92,7 +92,8 @@
                 </Kop>
                 <RegelingMutatie componentnaam="wijziging_reg" was="/akn/nl/act/gm0297/2019/reg456/nld@2019-06-25;1" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-01-15;2">
                     <Vervang wat="gm0297_1__chp_2__subchp_2.2__art_2.5">
-                        <Wat>A. Artikel 2.5 is vernummerd naar 2.6:</Wat>
+                        <Nummer>A</Nummer>
+                        <Wat>Artikel 2.5 is vernummerd naar 2.6:</Wat>
                         <!-- NB: bij vernummeren wijzigt de eId wel, maar de wId niet, blijft in dit geval "2.5" -->
                         <Artikel eId="chp_2__subchp_2.2__art_2.6" wId="gm0297_1__chp_2__subchp_2.2__art_2.5">
                             <Kop>
@@ -123,7 +124,8 @@
                         </Artikel>
                     </Vervang>
                     <Vervang wat="gm0297_1__chp_2__subchp_2.2__art_2.6">
-                        <Wat>B. Artikel 2.6 is vernummerd naar 2.5:</Wat>
+                        <Nummer>B</Nummer>
+                        <Wat>Artikel 2.6 is vernummerd naar 2.5:</Wat>
                         <!-- NB: bij vernummeren wijzigt de eId wel, maar de wId niet, blijft in dit geval "2.6" -->
                         <Artikel eId="chp_2__subchp_2.2__art_2.5" wId="gm0297_1__chp_2__subchp_2.2__art_2.6">
                             <Kop>
@@ -151,7 +153,7 @@
                                             <LiNummer>a.</LiNummer>
                                             <Al>de melding dient te worden gedaan door middel van het inzenden van het bij deze regels behorende Formulier Melding;</Al>
                                         </Li>
-                                        <Li eId="chp_2__subchp_2.2__art_2.5__para_2__list_o_1__item_b" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_2__list_o_1__item_b">
+                                        <Li eId="chp_2__subchp_2.2__art_2.6__para_2__list_o_1__item_b" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_2__list_o_1__item_b">
                                             <LiNummer>b.</LiNummer>
                                             <Al>toegevoegd moet worden een terreininrichtingstekening. </Al>
                                         </Li>
@@ -161,7 +163,8 @@
                         </Artikel>
                     </Vervang>
                     <Vervang wat="gm0297_1__chp_2__subchp_2.2__art_2.7">
-                        <Wat>C. Artikel 2.7 wordt als volgt gewijzigd:</Wat>
+                        <Nummer>C</Nummer>
+                        <Wat>Artikel 2.7 wordt als volgt gewijzigd:</Wat>
                         <Artikel eId="chp_2__subchp_2.2__art_2.7" wId="gm0297_1__chp_2__subchp_2.2__art_2.7">
                             <Kop>
                                 <Label>Artikel</Label>
@@ -184,20 +187,20 @@
                                 <Inhoud>
                                     <Al>Beoordelingsregels aanvraag omgevingsvergunning</Al>
                                     <Al>De omgevingsvergunning wordt alleen verleend als aan de volgende regels wordt voldaan:</Al>
-                                    <Lijst eId="chp_2__subchp_2.2__art_2.7__para_3__list_o_1" type="expliciet" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_3__list_o_1">
-                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_a">
+                                    <Lijst eId="chp_2__subchp_2.2__art_2.7__para_2__list_o_1" type="expliciet" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_3__list_o_1">
+                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_a">
                                             <LiNummer>a.</LiNummer>
                                             <Al>Uit de RisicoEffectRapportage is gebleken dat het gevaar voor de omliggende gevoelige functies ten hoogste 0.1 is.</Al>
                                         </Li>
-                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_b" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_b">
+                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_b" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_b">
                                             <LiNummer>b.</LiNummer>
                                             <Al>Bebouwing wordt uitsluitend gebruikt als technische ruimte, zoals een werkplaats, en als servicegebouw ten dienste van het verkooppunt motorbrandstoffen, waaronder in ieder geval begrepen winkel, magazijn en sanitaire ruimten.</Al>
                                         </Li>
-                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_c" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_c">
+                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_c" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_c">
                                             <LiNummer>c.</LiNummer>
                                             <Al>In het servicegebouw zijn geen afzonderlijke ruimten voor detailhandel.</Al>
                                         </Li>
-                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_d" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_d">
+                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_d" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_d">
                                             <LiNummer>d.</LiNummer>
                                             <Al>Er zijn geen zelfstandige en onzelfstandige horecaruimten in de zin van café/bar, restaurant, snackbar, et cetera. Buffetverkoop en verkoop uit automatiek zijn, als onderdeel van de winkel, wel toegestaan.</Al>
                                         </Li>
@@ -209,16 +212,16 @@
                                 <Inhoud>
                                     <Al>Indieningsvereisten aanvraag omgevingsvergunning</Al>
                                     <Al>Bij het indienen van de aanvraag om omgevingsvergunning dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
-                                    <Lijst eId="chp_2__subchp_2.2__art_2.7__para_2__list_o_1" type="expliciet" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_2__list_o_1">
-                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_a">
+                                    <Lijst eId="chp_2__subchp_2.2__art_2.7__para_2_inst2__list_o_1" type="expliciet" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_2__list_o_1">
+                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_2_inst2__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_a">
                                             <LiNummer>a.</LiNummer>
                                             <Al>de aanvraag dient te worden ingediend door middel van het inzenden van het bij deze regels behorende Formulier Aanvraag omgevingsvergunning;</Al>
                                         </Li>
-                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_b" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_b">
+                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_2_inst2__list_o_1__item_b" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_b">
                                             <LiNummer>b.</LiNummer>
                                             <Al>toegevoegd moet worden een terreininrichtingstekening;</Al>
                                         </Li>
-                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_c" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_c">
+                                        <Li eId="chp_2__subchp_2.2__art_2.7__para_2_inst2__list_o_1__item_c" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_c">
                                             <LiNummer>c.</LiNummer>
                                             <Al>toegevoegd moet worden een RisicoEffectRapportage.</Al>
                                         </Li>
@@ -228,7 +231,8 @@
                         </Artikel>
                     </Vervang>
                     <Verwijder wat="gm0297_1__chp_2__subchp_2.5__art_2.14">
-                        <Wat>D. Artikel 2.14 wordt verwijderd:</Wat>
+                        <Nummer>D</Nummer>
+                        <Wat>Artikel 2.14 wordt verwijderd:</Wat>
                         <!-- TODO: check of toevoeging _inst2 in eId hier klopt. Hoort deze niet bij het toegevoegde artikel 2.14 (hieronder dus) -->
                         <Artikel eId="chp_2__subchp_2.5__art_2.14_inst2" wId="gm0297_1__chp_2__subchp_2.5__art_2.14">
                             <Kop>
@@ -265,7 +269,8 @@
                     </Verwijder>
                     <!-- TODO: is dit niet ook een vervang van 2.14? -->
                     <VoegToe context="gm0297_1__chp_2__subchp_2.5__art_2.13" positie="volgtOp">
-                        <Wat>E. Na artikel 2.13 wordt een artikel ingevoegd, luidende:</Wat>
+                        <Nummer>E</Nummer>
+                        <Wat>Na artikel 2.13 wordt een artikel ingevoegd, luidende:</Wat>
                         <Artikel eId="chp_2__subchp_2.5__art_2.14" wId="gm0297_2__chp_2__subchp_2.5__art_2.14">
                             <Kop>
                                 <Label>Artikel</Label>
