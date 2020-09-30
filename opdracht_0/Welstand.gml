@@ -16,10 +16,10 @@
                 <geo:Locatie>
                     <geo:naam>zone A</geo:naam>
                     <geo:geometrie>
-                        <basisgeo:Geometrie gml:id="id-B3AF6AF7-5EFA-4A87-9C66-BFB046DD89AC-xx">
-                            <basisgeo:id>B3AF6AF7-5EFA-4A87-9C66-BFB046DD89AC</basisgeo:id>
+                        <basisgeo:Geometrie gml:id="id-e5ba7061-1ec5-4b74-8b22-9fe7afc93eb9-xx">
+                            <basisgeo:id>e5ba7061-1ec5-4b74-8b22-9fe7afc93eb9</basisgeo:id>
                             <basisgeo:geometrie>
-                                <gml:MultiSurface gml:id="id-B3AF6AF7-5EFA-4A87-9C66-BFB046DD89AC" srsName="urn:ogc:def:crs:EPSG::28992">
+                                <gml:MultiSurface gml:id="id-e5ba7061-1ec5-4b74-8b22-9fe7afc93eb9" srsName="urn:ogc:def:crs:EPSG::28992">
                                     <gml:surfaceMember>
                                         <gml:Polygon>
                                             <gml:exterior>
@@ -38,10 +38,10 @@
                 <geo:Locatie>
                     <geo:naam>zone B</geo:naam>
                     <geo:geometrie>
-                        <basisgeo:Geometrie gml:id="id-0868A0B1-DA79-4C33-8305-1BDE0126FA9A-xx">
-                            <basisgeo:id>0868A0B1-DA79-4C33-8305-1BDE0126FA9A</basisgeo:id>
+                        <basisgeo:Geometrie gml:id="id-dad40ef5-69fb-4a50-beed-ab85d899637a-xx">
+                            <basisgeo:id>dad40ef5-69fb-4a50-beed-ab85d899637a</basisgeo:id>
                             <basisgeo:geometrie>
-                                <gml:MultiSurface gml:id="id-0868A0B1-DA79-4C33-8305-1BDE0126FA9A" srsName="urn:ogc:def:crs:EPSG::28992">
+                                <gml:MultiSurface gml:id="id-dad40ef5-69fb-4a50-beed-ab85d899637a" srsName="urn:ogc:def:crs:EPSG::28992">
                                     <gml:surfaceMember>
                                         <gml:Polygon>
                                             <gml:exterior>
@@ -60,10 +60,10 @@
                 <geo:Locatie>
                     <geo:naam>Centrumgebied</geo:naam>
                     <geo:geometrie>
-                        <basisgeo:Geometrie gml:id="id-D28AF779-7EDD-4A88-8B11-809798F53636-xx">
-                            <basisgeo:id>D28AF779-7EDD-4A88-8B11-809798F53636</basisgeo:id>
+                        <basisgeo:Geometrie gml:id="id-af82c64a-9c0b-4933-95df-0bf62939ef98-xx">
+                            <basisgeo:id>af82c64a-9c0b-4933-95df-0bf62939ef98</basisgeo:id>
                             <basisgeo:geometrie>
-                                <gml:MultiSurface gml:id="id-D28AF779-7EDD-4A88-8B11-809798F53636" srsName="urn:ogc:def:crs:EPSG::28992">
+                                <gml:MultiSurface gml:id="id-af82c64a-9c0b-4933-95df-0bf62939ef98" srsName="urn:ogc:def:crs:EPSG::28992">
                                     <gml:surfaceMember>
                                         <gml:Polygon>
                                             <gml:exterior>
