@@ -28,5 +28,86 @@
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
       </InformatieObjectMetadata>
+    <FeatureTypeStyle xmlns="http://www.opengis.net/se">
+      <SemanticTypeIdentifier>geo:kwalitatieveNormwaarde</SemanticTypeIdentifier>
+      <Rule>
+        <Name>Welstandsniveau laag</Name>
+        <Filter xmlns="http://www.opengis.net/ogc">
+          <PropertyIsEqualTo>
+            <PropertyName>kwalitatieveNormwaarde</PropertyName>
+            <Literal>laag</Literal>
+          </PropertyIsEqualTo>
+        </Filter>
+        <PolygonSymbolizer>
+          <Name>vsgt307</Name>
+          <Description>
+            <Title>Laag</Title>
+            <Abstract>Welstandsniveau laag</Abstract>
+          </Description>
+          <Fill>
+            <SvgParameter name="fill">#d2d2ff</SvgParameter>
+            <SvgParameter name="fill-opacity">0.3</SvgParameter>
+          </Fill>
+          <Stroke>
+            <SvgParameter name="stroke">#0000ff</SvgParameter>
+            <SvgParameter name="stroke-opacity">1</SvgParameter>
+            <SvgParameter name="stroke-width">0.5</SvgParameter>
+            <SvgParameter name="stroke-linejoin">round</SvgParameter>
+          </Stroke>
+        </PolygonSymbolizer>
+      </Rule>
+      <Rule>
+        <Name>Welstandsniveau midden</Name>
+        <Filter xmlns="http://www.opengis.net/ogc">
+          <PropertyIsEqualTo>
+            <PropertyName>kwalitatieveNormwaarde</PropertyName>
+            <Literal>midden</Literal>
+          </PropertyIsEqualTo>
+        </Filter>
+        <PolygonSymbolizer>
+          <Name>vsgt304</Name>
+          <Description>
+            <Title>Midden</Title>
+            <Abstract>Welstandsniveau midden</Abstract>
+          </Description>
+          <Fill>
+            <SvgParameter name="fill">#7878ff</SvgParameter>
+            <SvgParameter name="fill-opacity">0.3</SvgParameter>
+          </Fill>
+          <Stroke>
+            <SvgParameter name="stroke">#0000ff</SvgParameter>
+            <SvgParameter name="stroke-opacity">1</SvgParameter>
+            <SvgParameter name="stroke-width">0.5</SvgParameter>
+            <SvgParameter name="stroke-linejoin">round</SvgParameter>
+          </Stroke>
+        </PolygonSymbolizer>
+      </Rule>
+      <Rule>
+        <Name>Welstandsniveau hoog</Name>
+        <Filter xmlns="http://www.opengis.net/ogc">
+          <PropertyIsEqualTo>
+            <PropertyName>kwalitatieveNormwaarde</PropertyName>
+            <Literal>hoog</Literal>
+          </PropertyIsEqualTo>
+        </Filter>
+        <PolygonSymbolizer>
+          <Name>vsgt304</Name>
+          <Description>
+            <Title>Hoog</Title>
+            <Abstract>Welstandsniveau hoog</Abstract>
+          </Description>
+          <Fill>
+            <SvgParameter name="fill">#0000ff</SvgParameter>
+            <SvgParameter name="fill-opacity">0.3</SvgParameter>
+          </Fill>
+          <Stroke>
+            <SvgParameter name="stroke">#0000ff</SvgParameter>
+            <SvgParameter name="stroke-opacity">1</SvgParameter>
+            <SvgParameter name="stroke-width">0.5</SvgParameter>
+            <SvgParameter name="stroke-linejoin">round</SvgParameter>
+          </Stroke>
+        </PolygonSymbolizer>
+      </Rule>
+    </FeatureTypeStyle>
   </InformatieObjectVersie>
 </AanleveringInformatieObject>

@@ -28,5 +28,60 @@
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
       </InformatieObjectMetadata>
+      <FeatureTypeStyle xmlns="http://www.opengis.net/se">
+         <SemanticTypeIdentifier>geo:kwantitatieveNormwaarde</SemanticTypeIdentifier>
+         <Rule>
+            <Name>Maximum goothoogte 6 meter</Name>
+            <Filter xmlns="http://www.opengis.net/ogc">
+               <PropertyIsEqualTo>
+                  <PropertyName>kwantitatieveNormwaarde</PropertyName>
+                  <Literal>6</Literal>
+               </PropertyIsEqualTo>
+            </Filter>
+            <PolygonSymbolizer>
+               <Name>vsgt506</Name>
+               <Description>
+                  <Title>6 meter</Title>
+                  <Abstract>Maximum goothoogte 6 meter</Abstract>
+               </Description>
+               <Fill>
+                  <SvgParameter name="fill">#ffa0a0</SvgParameter>
+                  <SvgParameter name="fill-opacity">0.3</SvgParameter>
+               </Fill>
+               <Stroke>
+                  <SvgParameter name="stroke">#960000</SvgParameter>
+                  <SvgParameter name="stroke-opacity">1</SvgParameter>
+                  <SvgParameter name="stroke-width">0.5</SvgParameter>
+                  <SvgParameter name="stroke-linejoin">round</SvgParameter>
+               </Stroke>
+            </PolygonSymbolizer>
+         </Rule>
+         <Rule>
+            <Name>Maximum goothoogte 11 meter</Name>
+            <Filter xmlns="http://www.opengis.net/ogc">
+               <PropertyIsEqualTo>
+                  <PropertyName>kwantitatieveNormwaarde</PropertyName>
+                  <Literal>111</Literal>
+               </PropertyIsEqualTo>
+            </Filter>
+            <PolygonSymbolizer>
+               <Name>vsgt501</Name>
+               <Description>
+                  <Title>11 meter</Title>
+                  <Abstract>Maximum goothoogte 11 meter</Abstract>
+               </Description>
+               <Fill>
+                  <SvgParameter name="fill">#b90000</SvgParameter>
+                  <SvgParameter name="fill-opacity">0.3</SvgParameter>
+               </Fill>
+               <Stroke>
+                  <SvgParameter name="stroke">#960000</SvgParameter>
+                  <SvgParameter name="stroke-opacity">1</SvgParameter>
+                  <SvgParameter name="stroke-width">0.5</SvgParameter>
+                  <SvgParameter name="stroke-linejoin">round</SvgParameter>
+               </Stroke>
+            </PolygonSymbolizer>
+         </Rule>
+      </FeatureTypeStyle>
    </InformatieObjectVersie>
 </AanleveringInformatieObject>

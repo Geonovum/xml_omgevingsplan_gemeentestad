@@ -28,5 +28,86 @@
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
          <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
       </InformatieObjectMetadata>
+      <FeatureTypeStyle xmlns="http://www.opengis.net/se">
+         <SemanticTypeIdentifier>geo:kwantitatieveNormwaarde</SemanticTypeIdentifier>
+         <Rule>
+            <Name>Maximum oppervlakte 50 m2</Name>
+            <Filter xmlns="http://www.opengis.net/ogc">
+               <PropertyIsEqualTo>
+                  <PropertyName>kwantitatieveNormwaarde</PropertyName>
+                  <Literal>50</Literal>
+               </PropertyIsEqualTo>
+            </Filter>
+            <PolygonSymbolizer>
+               <Name>vsgt600</Name>
+               <Description>
+                  <Title>50 m2</Title>
+                  <Abstract>Maximum oppervlakte 50 m2</Abstract>
+               </Description>
+               <Fill>
+                  <SvgParameter name="fill">#e1c300</SvgParameter>
+                  <SvgParameter name="fill-opacity">0.3</SvgParameter>
+               </Fill>
+               <Stroke>
+                  <SvgParameter name="stroke">#e1c300</SvgParameter>
+                  <SvgParameter name="stroke-opacity">1</SvgParameter>
+                  <SvgParameter name="stroke-width">0.5</SvgParameter>
+                  <SvgParameter name="stroke-linejoin">round</SvgParameter>
+               </Stroke>
+            </PolygonSymbolizer>
+         </Rule>
+         <Rule>
+            <Name>Maximum oppervlakte 40 m2</Name>
+            <Filter xmlns="http://www.opengis.net/ogc">
+               <PropertyIsEqualTo>
+                  <PropertyName>kwantitatieveNormwaarde</PropertyName>
+                  <Literal>40</Literal>
+               </PropertyIsEqualTo>
+            </Filter>
+            <PolygonSymbolizer>
+               <Name>vsgt603</Name>
+               <Description>
+                  <Title>40 m2</Title>
+                  <Abstract>Maximum oppervlakte 40 m2</Abstract>
+               </Description>
+               <Fill>
+                  <SvgParameter name="fill">#ffff00</SvgParameter>
+                  <SvgParameter name="fill-opacity">0.3</SvgParameter>
+               </Fill>
+               <Stroke>
+                  <SvgParameter name="stroke">#e1c300</SvgParameter>
+                  <SvgParameter name="stroke-opacity">1</SvgParameter>
+                  <SvgParameter name="stroke-width">0.5</SvgParameter>
+                  <SvgParameter name="stroke-linejoin">round</SvgParameter>
+               </Stroke>
+            </PolygonSymbolizer>
+         </Rule>
+         <Rule>
+            <Name>Maximum oppervlakte 30 m2</Name>
+            <Filter xmlns="http://www.opengis.net/ogc">
+               <PropertyIsEqualTo>
+                  <PropertyName>kwantitatieveNormwaarde</PropertyName>
+                  <Literal>30</Literal>
+               </PropertyIsEqualTo>
+            </Filter>
+            <PolygonSymbolizer>
+               <Name>vsgt607</Name>
+               <Description>
+                  <Title>30 m2</Title>
+                  <Abstract>Maximum oppervlakte 30 m2</Abstract>
+               </Description>
+               <Fill>
+                  <SvgParameter name="fill">#ffffc8</SvgParameter>
+                  <SvgParameter name="fill-opacity">0.3</SvgParameter>
+               </Fill>
+               <Stroke>
+                  <SvgParameter name="stroke">#e1c300</SvgParameter>
+                  <SvgParameter name="stroke-opacity">1</SvgParameter>
+                  <SvgParameter name="stroke-width">0.5</SvgParameter>
+                  <SvgParameter name="stroke-linejoin">round</SvgParameter>
+               </Stroke>
+            </PolygonSymbolizer>
+         </Rule>
+      </FeatureTypeStyle>
    </InformatieObjectVersie>
 </AanleveringInformatieObject>
