@@ -21,47 +21,47 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>GIO003-Zone_A.xml</bestandsnaam>
+        <bestandsnaam>GIO003-Speelhal.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>GIO004-Zone_B.xml</bestandsnaam>
+        <bestandsnaam>GIO0004-Landbouwhuisdierenverblijf.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>GIO005-Speelhal.xml</bestandsnaam>
+        <bestandsnaam>GIO005-Bouwhoogte.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>GIO006-Bouwhoogte.xml</bestandsnaam>
+        <bestandsnaam>GIO006-Goothoogte.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>GIO007-Welstand.xml</bestandsnaam>
+        <bestandsnaam>GIO0007-Oppervlakte.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>GIO008-Zuilichem.xml</bestandsnaam>
+        <bestandsnaam>GIO008-Dierlijkebijproducten.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>GIO009-Zaltbommel.xml</bestandsnaam>
+        <bestandsnaam>GIO009-Welstand.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>GIO011-Goothoogte.xml</bestandsnaam>
+        <bestandsnaam>GIO010-Zone_A.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>GIO0012-Oppervlakte.xml</bestandsnaam>
+        <bestandsnaam>GIO011-Zone_B.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>GIO0013-Landbouwhuisdierenverblijf.xml</bestandsnaam>
+        <bestandsnaam>GIO012-Zuilichem.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>GIO0014-Zaltbommel.xml</bestandsnaam>
+        <bestandsnaam>GIO013-Zaltbommel.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
@@ -69,27 +69,11 @@
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>Bouwhoogte.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
         <bestandsnaam>Centrumgebied.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>Dierlijkebijproducten.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Geitenhouderij.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Goothoogte.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Industriegebied_zones.gml</bestandsnaam>
+        <bestandsnaam>Speelhal.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
@@ -97,11 +81,19 @@
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
+        <bestandsnaam>Bouwhoogte.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>Goothoogte.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
+    <bestand>
         <bestandsnaam>Oppervlakte.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>Speelhal.gml</bestandsnaam>
+        <bestandsnaam>Dierlijkebijproducten.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
@@ -113,23 +105,11 @@
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>Wormenkwekerij.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Zaltbommel.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
         <bestandsnaam>Zone_B.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
         <bestandsnaam>Zuilichem.gml</bestandsnaam>
-        <contentType>application/gml+xml</contentType>
-    </bestand>
-    <bestand>
-        <bestandsnaam>Zuilichem_industriegebied.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
     <bestand>
@@ -161,11 +141,11 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>owRegeltekst-Gemeentestad.xml</bestandsnaam>
+        <bestandsnaam>owRegelingsgebied.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>owRegelingsgebied.xml</bestandsnaam>
+        <bestandsnaam>owRegeltekst-Gemeentestad.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
 </manifest>
