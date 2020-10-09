@@ -32,9 +32,9 @@
     </InformatieObjectMetadata>
     <FeatureTypeStyle xmlns="http://www.opengis.net/se">
       <Description>
-        <Title>hoi</Title>
+        <Title>Bouwhoogte-normwaarden</Title>
       </Description>
-      <FeatureTypeName>hoi</FeatureTypeName>
+      <FeatureTypeName>bouwhoogten</FeatureTypeName>
       <SemanticTypeIdentifier>geo:kwantitatieveNormwaarde</SemanticTypeIdentifier>
       <Rule>
         <Name>Maximum bouwhoogte 7 meter</Name>
