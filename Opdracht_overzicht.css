@@ -36,10 +36,15 @@
 .art_cell{
     border-bottom:1px solid #cccccc;
     word-wrap:normal;
+    
 }
 
 table{
     border-collapse:collapse;
     border:1px solid black;
     width:1000px;
+}
+
+.begrip td{
+    min-width:250px
 }

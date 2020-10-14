@@ -9,7 +9,7 @@
 			<soortWork>/join/id/stop/work_003</soortWork>
 		</ExpressionIdentificatie>
 		<BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-			<soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>			
+			<soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
 			<eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
 			<maker>/tooi/id/gemeente/gm0297</maker>
 			<officieleTitel>Besluit tbv Regeling Voorbeeldregels met uitbreiding tbv Toepasbare Regels</officieleTitel>
