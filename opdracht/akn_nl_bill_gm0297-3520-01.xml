@@ -14,7 +14,7 @@
 			<soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
 			<eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
 			<maker>/tooi/id/gemeente/gm0297</maker>
-			<officieleTitel>Besluit tbv Regeling Voorbeeldregels met uitbreiding tbv Toepasbare Regels</officieleTitel>
+			<officieleTitel>Vaststelling van Omgevingsplan Gemeentestad (Zaltbommel)</officieleTitel>
 			<onderwerpen>
 				<onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
 				<!-- werk -->
@@ -136,7 +136,7 @@
 		</ConsolidatieInformatie>
 		<BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
 			<RegelingOpschrift eId="longTitle" wId="longTitle">
-				<Al>Vaststelling van "Voorbeeldregels met uitbreiding tbv Toepasbare Regels" van de Gemeentestad</Al>
+				<Al>Vaststelling van Omgevingsplan Gemeentestad (Zaltbommel)</Al>
 			</RegelingOpschrift>
 			<Aanhef eId="formula_1" wId="formula_1">
 				<Al>De raad van de gemeente Gemeenstestad </Al>
@@ -831,11 +831,11 @@
 			<maker>/tooi/id/gemeente/gm0297</maker>
 			<heeftCiteertitelInformatie>
 				<CiteertitelInformatie>
-					<citeertitel>Voorbeeldregels Gemeentestad (omgevingsplan Zaltbommel)</citeertitel>
+					<citeertitel>Gemeentestad (omgevingsplan Zaltbommel)</citeertitel>
 					<isOfficieel>true</isOfficieel>
 				</CiteertitelInformatie>
 			</heeftCiteertitelInformatie>
-			<officieleTitel>Voorbeeldregels Gemeentestad (omgevingsplan Zaltbommel)</officieleTitel>
+			<officieleTitel>Omgevingsplan Zaltbommel (met de nadruk op Zuilichem)</officieleTitel>
 			<onderwerpen>
 				<onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
 			</onderwerpen>
