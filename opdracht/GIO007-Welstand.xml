@@ -30,11 +30,9 @@
             <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
             <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
         </InformatieObjectMetadata>
-        <FeatureTypeStyle xmlns="http://www.opengis.net/se">
-            <Description>
-                <Title>Welstand</Title>
-            </Description>
-            <FeatureTypeName>Welstandsniveaus</FeatureTypeName>
+        <FeatureTypeStyle xmlns="http://www.opengis.net/se" version="1.1.0">
+            <!--<Description><Title>Welstand</Title></Description>-->
+            <FeatureTypeName>Locatie</FeatureTypeName>
             <SemanticTypeIdentifier>geo:kwalitatieveNormwaarde</SemanticTypeIdentifier>
             <Rule>
                 <Name>Welstandsniveau laag</Name>

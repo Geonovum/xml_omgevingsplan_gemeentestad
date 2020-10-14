@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.4-rc"	
-  xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/
+  xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering
   https://standaarden.overheid.nl/lvbb/1.0.4-rc/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -31,10 +31,8 @@
       <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
     </InformatieObjectMetadata>
     <FeatureTypeStyle xmlns="http://www.opengis.net/se">
-      <Description>
-        <Title>Bouwhoogte-normwaarden</Title>
-      </Description>
-      <FeatureTypeName>bouwhoogten</FeatureTypeName>
+      <!--<Description><Title>Bouwhoogte-normwaarden</Title></Description> weggehaald want wordt genegeerd-->
+      <FeatureTypeName>Locatie</FeatureTypeName>
       <SemanticTypeIdentifier>geo:kwantitatieveNormwaarde</SemanticTypeIdentifier>
       <Rule>
         <Name>Maximum bouwhoogte 7 meter</Name>

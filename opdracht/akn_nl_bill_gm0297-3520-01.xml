@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AanleveringBesluit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.4-rc" 
+<AanleveringBesluit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" 
+	schemaversie="1.0.4-rc" 
 	xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/
 	https://standaarden.overheid.nl/lvbb/1.0.4-rc/lvbb-stop-aanlevering.xsd">
 	<BesluitVersie>
@@ -841,6 +843,7 @@
 				<rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
 			</rechtsgebieden>
 			<soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
+			<soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>		
 			<!-- Omgevingsplan -->
 		</RegelingMetadata>
 	</RegelingVersieInformatie>
