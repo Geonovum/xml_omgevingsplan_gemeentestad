@@ -2,8 +2,8 @@
 <AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3">
     <BesluitVersie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <FRBRWork>akn/nl/bill/gm0297/2020/besluit4527</FRBRWork>
-            <FRBRExpression>akn/nl/bill/gm0297/2020/besluit4527/nld@2020-04-27;1</FRBRExpression>
+            <FRBRWork>/akn/nl/bill/gm0297/2020/besluit4527</FRBRWork>
+            <FRBRExpression>/akn/nl/bill/gm0297/2020/besluit4527/nld@2020-04-27;1</FRBRExpression>
             <soortWork>/join/id/stop/work_003</soortWork>
         </ExpressionIdentificatie>
         <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
