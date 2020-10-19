@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.4-rc"	
+    xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
     xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/
     https://standaarden.overheid.nl/lvbb/1.0.4-rc/lvbb-stop-aanlevering.xsd">
     <InformatieObjectVersie>
@@ -32,7 +33,7 @@
         </InformatieObjectMetadata>
         <FeatureTypeStyle xmlns="http://www.opengis.net/se" version="1.1.0">
             <!--<Description><Title>Welstand</Title></Description>-->
-            <FeatureTypeName>Locatie</FeatureTypeName>
+            <FeatureTypeName>geo:Locatie</FeatureTypeName>
             <SemanticTypeIdentifier>geo:kwalitatieveNormwaarde</SemanticTypeIdentifier>
             <Rule>
                 <Name>Welstandsniveau laag</Name>
