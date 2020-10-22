@@ -7,7 +7,6 @@
 			<soortWork>/join/id/stop/work_003</soortWork>
 		</ExpressionIdentificatie>
 		<BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-			<soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
 			<eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
 			<maker>/tooi/id/gemeente/gm0297</maker>
 			<officieleTitel>Vaststelling van Omgevingsplan Gemeentestad (Zaltbommel)</officieleTitel>
@@ -146,7 +145,7 @@
 						<Label>Artikel</Label>
 						<Nummer>I</Nummer>
 					</Kop>
-					<Wat>De "Voorbeeldregels met uitbreiding tbv Toepasbare Regels" opgenomen in <IntRef scope="Bijlage" ref="cmp_A">Bijlage A</IntRef> worden vastgesteld.</Wat>
+					<Wat>De "Voorbeeldregels met uitbreiding tbv Toepasbare Regels" opgenomen in <IntRef ref="cmp_A">Bijlage A</IntRef> worden vastgesteld.</Wat>
 				</WijzigArtikel>
 				<Artikel eId="art_II" wId="gm0297_1__art_II">
 					<Kop>
@@ -864,7 +863,6 @@
 				<rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
 			</rechtsgebieden>
 			<soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
-			<soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>		
 			<!-- Omgevingsplan -->
 		</RegelingMetadata>
 	</RegelingVersieInformatie>
