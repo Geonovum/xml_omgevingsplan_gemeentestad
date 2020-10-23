@@ -650,7 +650,7 @@
 								<Gereserveerd/>
 							</Afdeling>
 						</Hoofdstuk>
-						<Hoofdstuk wId="chp_7" eId="gm0297_1__chp_7">
+						<Hoofdstuk eId="chp_7" wId="gm0297_1__chp_7">
 							<Kop>
 								<Label>Hoofdstuk</Label>
 								<Nummer>7</Nummer>
@@ -684,7 +684,7 @@
 								</Artikel>
 							</Afdeling>
 						</Hoofdstuk>
-						<Hoofdstuk wId="chp_10" eId="gm0297_1__chp_10">
+						<Hoofdstuk eId="chp_10" wId="gm0297_1__chp_10">
 							<Kop>
 								<Label>Hoofdstuk</Label>
 								<Nummer>10</Nummer>
