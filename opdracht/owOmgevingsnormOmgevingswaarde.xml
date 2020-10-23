@@ -74,7 +74,7 @@
 				<rol:Omgevingsnorm>
 					<rol:identificatie>nl.imow-gm0297.omgevingsnorm.2019000003</rol:identificatie>
 					<rol:naam>welstandsniveau</rol:naam>
-					<rol:type>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/Overig</rol:type> <!-- er is nog geen uri voor een specifieke normwaarde 'Welstand' -->
+					<rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</rol:type> 
 					<rol:normwaarde>
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0297.normwaarde.2019000004</rol:identificatie>
