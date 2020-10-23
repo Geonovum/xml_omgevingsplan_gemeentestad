@@ -1,2 +1,15 @@
-Gemeentestad v2 is gebaseerd op de IMOW-schema's v1.0.2 en STOP-schema's v1.0.3.
+Gemeentestad bevat in de Master-branche de STOP-versie 1.0.4-RC en IMOW-versie 1.0.3-RC.
+In de 1.0.3-branche staat STOP-versie 1.0.3 en IMOW-versie 1.0.2.
+
+De verschillende opdracht-mappen werken als volgt:
+Opdracht: het initieel aanleveren van Gemeentestad (Omgevingsplan Zaltbommel)
+Opdracht_0: het intrekken en vervangen van Gemeentestad (als mutatie)
+Opdracht_2: tekstuele wijzigingen van Gemeentestad
+Opdracht_3a: tekstuele wijzigingen van Gemeentestad
+Opdracht_3b: tekstuele en OW-wijzigingen van Gemeentestad
+Opdracht_3c: tekstuele en OW-wijzigingen van Gemeentestad
+Opdracht_3d: tekstuele, GIO-wijzigingen en OW-wijzigingen van Gemeentestad
+Opdracht_10: alleen OW-wijzigingen van Gemeentestad
+Opdracht_ri: een opdracht t.b.v. de werking van de reactieve interventie
+Opdracht_aGsI: een opdracht met hierin het ambtsgebied en symbolisatieItem, wat op het moment van schrijven (23-10-2020) nog niet verwerkt kan worden door de DSO-keten.
 
