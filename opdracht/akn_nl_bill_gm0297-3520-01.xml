@@ -99,6 +99,13 @@
 					<doelen>
 						<doel>/join/id/proces/gm0297/2019/Instelling</doel>
 					</doelen>
+					<instrumentVersie>/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</instrumentVersie>
+					<eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
+				</BeoogdInformatieobject>
+				<BeoogdInformatieobject>
+					<doelen>
+						<doel>/join/id/proces/gm0297/2019/Instelling</doel>
+					</doelen>
 					<instrumentVersie>/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520</instrumentVersie>
 					<eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
 				</BeoogdInformatieobject>
@@ -115,14 +122,6 @@
 					</doelen>
 					<instrumentVersie>/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</instrumentVersie>
 					<eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1</eId>
-				</BeoogdInformatieobject>
-				<!-- regelinggebied -->
-				<BeoogdInformatieobject>
-					<doelen>
-						<doel>/join/id/proces/gm0297/2019/Instelling</doel>
-					</doelen>
-					<instrumentVersie>/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</instrumentVersie>
-					<eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
 				</BeoogdInformatieobject>
 			</BeoogdeRegelgeving>
 			<Tijdstempels>
