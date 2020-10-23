@@ -120,8 +120,4 @@
         <bestandsnaam>owRegelingsgebied.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
-    <bestand>
-        <bestandsnaam>owSymbolisatieItem-Gemeentestad.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
 </manifest>

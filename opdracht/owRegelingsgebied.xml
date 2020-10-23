@@ -22,7 +22,7 @@
 				<rg:Regelingsgebied>
 					<rg:identificatie>nl.imow-gm0297.regelingsgebied.2019000001</rg:identificatie>
 					<rg:locatieaanduiding>
-						<l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0297"/> 
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000012"/>
 					</rg:locatieaanduiding>
 				</rg:Regelingsgebied>
 			</ow-dc:owObject>

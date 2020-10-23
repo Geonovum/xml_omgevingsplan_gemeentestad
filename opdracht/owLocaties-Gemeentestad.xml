@@ -152,13 +152,5 @@
 				</l:Gebied>
 			</ow-dc:owObject>
 		</sl:stand>
-		<sl:stand>
-			<ow-dc:owObject>
-				<l:Ambtsgebied>
-					<l:identificatie>GM0297</l:identificatie>
-					<l:domein>NL.BI.BestuurlijkGebied</l:domein>
-				</l:Ambtsgebied>
-			</ow-dc:owObject>
-		</sl:stand>
 	</sl:standBestand>
 </ow-dc:owBestand>
