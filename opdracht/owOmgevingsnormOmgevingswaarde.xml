@@ -25,7 +25,7 @@
 				<rol:Omgevingswaarde>
 					<rol:identificatie>nl.imow-gm0297.omgevingswaarde.2019000001</rol:identificatie>
 					<rol:naam>fijnstof</rol:naam>
-					<rol:type>http://standaarden.omgevingswet.overheid.nl/omgevingsnorm/id/concept/Luchtkwaliteit</rol:type>
+					<rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/Volume</rol:type> <!--klopt niet, maar waardelijst bevat gewenste waarde nog niet-->
 					<rol:normwaarde>
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0297.normwaarde.2019000001</rol:identificatie>
@@ -74,7 +74,7 @@
 				<rol:Omgevingsnorm>
 					<rol:identificatie>nl.imow-gm0297.omgevingsnorm.2019000003</rol:identificatie>
 					<rol:naam>welstandsniveau</rol:naam>
-					<rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</rol:type> 
+					<rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</rol:type> <!--klopt niet, maar waardelijst bevat gewenste waarde nog niet-->
 					<rol:normwaarde>
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0297.normwaarde.2019000004</rol:identificatie>
