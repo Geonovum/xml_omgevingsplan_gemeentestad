@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3">
+<AanleveringBesluit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" 
+    schemaversie="1.0.4-rc" 
+    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/
+    https://standaarden.overheid.nl/lvbb/1.0.4-rc/lvbb-stop-aanlevering.xsd">
     <BesluitVersie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/bill/gm0297/2020/besluit4543</FRBRWork>
@@ -7,6 +11,7 @@
             <soortWork>/join/id/stop/work_003</soortWork>
         </ExpressionIdentificatie>
         <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
             <eindverantwoordelijke>/join/id/stop/gemeente/gm0297</eindverantwoordelijke>
             <maker>/join/id/stop/gemeente/gm0297</maker>
             <officieleTitel>Wijziging volgens scenario 3b van "Voorbeeldregels met uitbreiding tbv Toepasbare Regels" voor Gebruiksactiviteiten die zonder vergunning of melding zijn toegestaan</officieleTitel>
@@ -67,7 +72,7 @@
                         <Label>Artikel</Label>
                         <Nummer>I</Nummer>
                     </Kop>
-                    <Wat>De regeling "Voorbeeldregels met uitbreiding tbv Toepasbare Regels" wordt gewijzigd zoals gegeven in <IntRef ref="cmp_A">Bijlage A</IntRef>.</Wat>
+                    <Wat>De regeling "Voorbeeldregels met uitbreiding tbv Toepasbare Regels" wordt gewijzigd zoals gegeven in <IntRef scope="Bijlage" ref="cmp_A">Bijlage A</IntRef>.</Wat>
                 </WijzigArtikel>
                 <Artikel eId="art_II" wId="gm0297_1__art_II">
                     <Kop>
@@ -207,6 +212,7 @@
             <rechtsgebieden>
                 <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
             </rechtsgebieden>
+            <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
             <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
             <!-- Omgevingsplan -->
         </RegelingMetadata>
