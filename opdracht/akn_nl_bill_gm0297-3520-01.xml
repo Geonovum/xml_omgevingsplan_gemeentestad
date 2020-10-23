@@ -205,7 +205,7 @@
 										<Opschrift>Toepassingsgebied</Opschrift>
 									</Kop>
 									<Inhoud>
-										<Al>Dit omgevingsplan is van toepassing in <IntIoRef wId="gm0297_1__chp_1__art_1.4__ref_o_1" eId="chp_1__art_1.4__ref_o_1" ref="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1">Zuilichem</IntIoRef>.</Al>
+										<Al>Dit omgevingsplan is van toepassing in <IntIoRef wId="gm0297_1__chp_1__art_1.4__ref_o_1" eId="chp_1__art_1.4__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1">Zuilichem</IntIoRef>.</Al>
 									</Inhoud>
 								</Artikel>
 						</Hoofdstuk>
@@ -655,7 +655,7 @@
 								<Gereserveerd/>
 							</Afdeling>
 						</Hoofdstuk>
-						<Hoofdstuk wId="chp_7" eId="gm0297_1__chp_7">
+						<Hoofdstuk eId="chp_7" wId="gm0297_1__chp_7">
 							<Kop>
 								<Label>Hoofdstuk</Label>
 								<Nummer>7</Nummer>
@@ -689,7 +689,7 @@
 								</Artikel>
 							</Afdeling>
 						</Hoofdstuk>
-						<Hoofdstuk wId="chp_10" eId="gm0297_1__chp_10">
+						<Hoofdstuk eId="chp_10" wId="gm0297_1__chp_10">
 							<Kop>
 								<Label>Hoofdstuk</Label>
 								<Nummer>10</Nummer>
