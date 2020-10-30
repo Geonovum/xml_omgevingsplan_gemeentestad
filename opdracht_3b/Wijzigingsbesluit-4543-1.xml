@@ -101,7 +101,7 @@
                     <Opschrift>Bijlage bij Artikel I</Opschrift>
                 </Kop>
                 <RegelingMutatie componentnaam="wijziging_reg" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-04-25;2" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;3">
-                    <Vervang wat="gm0297_2__chp_2__subchp_2.3__art_2.10">
+                    <Vervang wat="gm0297_1__chp_2__subchp_2.3__art_2.10">
                         <Nummer>A</Nummer>
                         <Wat>Artikel 2.10 wordt gewijzigd</Wat>
                         <Artikel eId="chp_2__subchp_2.3__art_2.10" wId="gm0297_1__chp_2__subchp_2.3__art_2.10">
@@ -125,15 +125,15 @@
                                         <LiNummer>c.</LiNummer>
                                         <Al>het uitoefenen van detailhandel;</Al>
                                     </Li>
-                                    <Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_d" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_d">
+                                    <Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_d" wId="gm0297_2__chp_2__subchp_2.3__art_2.10__list_o_1__item_d">
                                         <LiNummer>d.</LiNummer>
-                                        <Al>het uitoefenen van dienstverlening;</Al>
+                                        <Al>het verlenen van diensten;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_e" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_e">
                                         <LiNummer>e.</LiNummer>
                                         <Al>het exploiteren van een horeca-inrichting;</Al>
                                     </Li>
-                                    <Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_f" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_f">
+                                    <Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_f" wId="gm0297_2__chp_2__subchp_2.3__art_2.10__list_o_1__item_f">
                                         <LiNummer>f.</LiNummer>
                                         <Al>het exploiteren van een<VerwijderdeTekst>kantoor</VerwijderdeTekst><NieuweTekst>kantoorruimte</NieuweTekst>;</Al>
                                     </Li>
