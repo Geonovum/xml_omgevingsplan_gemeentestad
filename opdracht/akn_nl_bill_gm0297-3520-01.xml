@@ -238,7 +238,7 @@
 											<Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.4__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' mogen de locatie en de daarop voorkomende bouwwerken in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
 											<Li eId="chp_2__subchp_2.2__art_2.4__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1__item_a">
 												<LiNummer>a.</LiNummer>
-												<Al>het uitoefenen van bedrijfstypen van categorie 2 die voorkomen op de bij deze regels behorende Lijst van toegelaten bedrijfstypen ; </Al>
+												<Al>het uitoefenen van bedrijfstypen van categorie 2 die voorkomen op de bij deze regels behorende <IntRef ref="cmp_III__content_o_1">Lijst van toegelaten bedrijfstypen</IntRef> ; </Al>
 											</Li>
 											<Li eId="chp_2__subchp_2.2__art_2.4__list_o_1__item_b" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1__item_b">
 												<LiNummer>b.</LiNummer>
@@ -412,7 +412,7 @@
 									</Kop>
 									<Inhoud>
 										<Lijst eId="chp_2__subchp_2.3__art_2.10__list_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1" type="expliciet">
-											<Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef>' mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
+											<Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef>', zoals benoemd in <IntRef ref="chp_2__subchp_2.3__art_2.9">artikel 2.9</IntRef> mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
 											<Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_a">
 												<LiNummer>a.</LiNummer>
 												<Al>het exploiteren van een bedrijf;</Al>
@@ -559,7 +559,7 @@
 											<Lijstaanhef>Een vergunning voor de omgevingsplanactiviteit bouwen is niet vereist indien deze activiteit bestaat uit:</Lijstaanhef>
 											<Li eId="chp_2__subchp_2.5__art_2.13__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.5__art_2.13__list_o_1__item_a">
 												<LiNummer>a.</LiNummer>
-												<Al>het verrichten van gewoon onderhoud aan een bouwwerk, voor zover maatvoering en vormgeving van dat bouwwerk niet wijzigen;</Al>
+												<Al>het verrichten van gewoon onderhoud aan een <IntRef ref="cmp_II__content_o_1__list_o_1__item_o_1">bouwwerk</IntRef>, voor zover maatvoering en vormgeving van dat bouwwerk niet wijzigen;</Al>
 											</Li>
 											<Li eId="chp_2__subchp_2.5__art_2.13__list_o_1__item_b" wId="gm0297_1__chp_2__subchp_2.5__art_2.13__list_o_1__item_b">
 												<LiNummer>b.</LiNummer>
@@ -813,6 +813,61 @@
 							</Inhoud>
 						</Divisietekst>
 					</Bijlage>
+					<Bijlage eId="cmp_II" wId="gm0297_1__cmp_II">
+						<Kop>
+							<Label>Bijlage</Label>
+							<Nummer>II</Nummer>
+							<Opschrift>Begrippen</Opschrift>
+						</Kop>
+						<Divisietekst eId="cmp_II__content_o_1" wId="gm0297_1__cmp_II__content_o_1">
+							<Inhoud>
+								<Begrippenlijst eId="cmp_II__content_o_1__list_o_1" wId="gm0297_1__cmp_II__content_o_1__list_o_1">
+									<Begrip eId="cmp_II__content_o_1__list_o_1__item_o_1" wId="gm0297_1__cmp_II__content_o_1__list_o_1__item_o_1">
+										<Term>Bouwwerk</Term>
+										<Definitie>Elke constructie van enige omvang van hout, steen, metaal of ander materiaal, die hetzij direct of indirect met de grond verbonden is, hetzij direct of indirect steun vindt in of op de grond. </Definitie>
+									</Begrip>
+								</Begrippenlijst>
+							</Inhoud>
+						</Divisietekst>					
+					</Bijlage>
+					<Bijlage eId="cmp_III" wId="gm0297_1__cmp_III">
+						<Kop>
+							<Label>Bijlage</Label>
+							<Nummer>III</Nummer>
+							<Opschrift>Lijst van toegelaten bedrijfstypen</Opschrift>
+						</Kop>
+						<Divisietekst eId="cmp_III__content_o_1" wId="gm0297_1__cmp_III__content_o_1">
+							<Inhoud>
+								<Al>Vervaardiging van voedingsmiddelen en dranken:</Al>
+								<Lijst>
+									<Lijstaanhef>Slachterijen en overige vleesverwerking:</Lijstaanhef>
+									<Li>
+										<Al>Slachterijen en overige vleesverwerking:</Al>
+									</Li>
+									<Li>
+										<Al>vleeswaren- en vleesconservenfabrieken: p.o. kleiner of gelijk aan 1000 m² 2</Al>
+									</Li>
+									<Li>
+										<Al>vleeswaren- en vleesconservenfabrieken: p.o. kleiner of gelijk aan 200 m²  2</Al>
+									</Li>
+									<Li>
+										<Al>loonslachterijen 2</Al>
+									</Li>
+									<Li>
+										<Al>vervaardiging van snacks en vervaardiging van kant-en-klaar-maaltijden met p.o. kleiner of gelijk aan 2.000 m² 2</Al>
+									</Li>
+								</Lijst>
+							</Inhoud>
+						</Divisietekst>					
+					</Bijlage>
+					<ArtikelgewijzeToelichting eId="cmp_IV" wId="gm0297_1__cmp_IV">
+						<Kop>
+							<Opschrift>Artikelsgewijze Toelichting</Opschrift>
+						</Kop>
+						<Divisie wId="gm0297_1__cmp_IV__div_1" eId="cmp_IV__div_1">
+							<Inhoud>Toelichting op <IntRef ref="chp_2__subchp_2.3__art_2.10">Artikel 2.10</IntRef>. Ook te vinden op <ExtRef soort="URL" ref="https://decentrale.regelgeving.overheid.nl/cvdr/xhtmloutput/Historie/Zaltbommel/637099/CVDR637099_1.html">de website van de gemeente Zaltbommel</ExtRef>.</Inhoud>
+						</Divisie>
+					</ArtikelgewijzeToelichting>
 				</RegelingCompact>
 			</WijzigBijlage>
 			<Bijlage eId="cmp_B" wId="gm0297_1__cmp_B">
