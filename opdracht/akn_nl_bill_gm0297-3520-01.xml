@@ -413,7 +413,7 @@
 										<Opschrift>Gebruiksactiviteiten die zonder vergunning of melding zijn toegestaan</Opschrift>
 									</Kop>
 									<Inhoud>
-										<Lijst eId="chp_2__subchp_2.3__art_2.10__list_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1" type="expliciet">
+										<Lijst eId="chp_2__subchp_2.3__art_2.10__list_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1" type="ongemarkeerd">
 											<Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef>', zoals benoemd in <IntRef ref="chp_2__subchp_2.3__art_2.9">artikel 2.9</IntRef> mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
 											<Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_a">
 												<LiNummer>a.</LiNummer>
@@ -865,15 +865,18 @@
 							</Inhoud>
 						</Divisietekst>					
 					</Bijlage>
-					<ArtikelgewijzeToelichting eId="cmp_IV" wId="gm0297_1__cmp_IV">
+					<ArtikelgewijzeToelichting eId="artrecital" wId="gm0297_1__artrecital">
 						<Kop>
 							<Opschrift>Artikelsgewijze Toelichting</Opschrift>
 						</Kop>
-						<Divisie wId="gm0297_1__cmp_IV__div_1" eId="cmp_IV__div_1">
+						<Divisie wId="gm0297_1__artrecital__div_1" eId="artrecital__div_1">
 							<Kop>
-								<Opschrift></Opschrift>
+								<Opschrift>Toelichting op artikelen uit hoofdstuk 2</Opschrift>
 							</Kop>
-							<Divisietekst eId="cmp_IV__div_1__content_1" wId="gm0297_1__cmp_IV__div_1__content_1">
+							<Divisietekst eId="artrecital__div_1__content_1" wId="gm0297_1__artrecital__div_1__content_1">
+								<Kop>
+									<Opschrift>Toelichting artikel 2.10</Opschrift>
+								</Kop>
 							<Inhoud><Al>Toelichting op <IntRef ref="chp_2__subchp_2.3__art_2.10">Artikel 2.10</IntRef>. Ook te vinden op <ExtRef soort="URL" ref="https://decentrale.regelgeving.overheid.nl/cvdr/xhtmloutput/Historie/Zaltbommel/637099/CVDR637099_1.html">de website van de gemeente Zaltbommel</ExtRef>.</Al></Inhoud>
 							</Divisietekst>
 						</Divisie>
