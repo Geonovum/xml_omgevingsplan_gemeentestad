@@ -413,7 +413,7 @@
 										<Opschrift>Gebruiksactiviteiten die zonder vergunning of melding zijn toegestaan</Opschrift>
 									</Kop>
 									<Inhoud>
-										<Lijst eId="chp_2__subchp_2.3__art_2.10__list_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1" type="ongemarkeerd">
+										<Lijst eId="chp_2__subchp_2.3__art_2.10__list_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1" type="expliciet">
 											<Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef>', zoals benoemd in <IntRef ref="chp_2__subchp_2.3__art_2.9">artikel 2.9</IntRef> mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
 											<Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_a">
 												<LiNummer>a.</LiNummer>
@@ -844,7 +844,7 @@
 						<Divisietekst eId="cmp_III__content_o_1" wId="gm0297_1__cmp_III__content_o_1">
 							<Inhoud>
 								<Al>Vervaardiging van voedingsmiddelen en dranken:</Al>
-								<Lijst eId="cmp_III__content_o_1__list_o_1" wId="gm0297_1__cmp_III__content_o_1__list_o_1" type="expliciet">
+								<Lijst eId="cmp_III__content_o_1__list_o_1" wId="gm0297_1__cmp_III__content_o_1__list_o_1" type="ongemarkeerd">
 									<Lijstaanhef>Slachterijen en overige vleesverwerking:</Lijstaanhef>
 									<Li eId="cmp_III__content_o_1__list_o_1__item_o_1" wId="gm0297_1__cmp_III__content_o_1__list_o_1__item_o_1">
 										<Al>Slachterijen en overige vleesverwerking:</Al>
