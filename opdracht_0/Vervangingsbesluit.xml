@@ -247,7 +247,7 @@
 											<Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.4__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' mogen de locatie en de daarop voorkomende bouwwerken in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
 											<Li eId="chp_2__subchp_2.2__art_2.4__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1__item_a">
 												<LiNummer>a.</LiNummer>
-												<Al>het uitoefenen van bedrijfstypen van categorie 2 die voorkomen op de bij deze regels behorende Lijst van toegelaten bedrijfstypen ; </Al>
+												<Al>het uitoefenen van bedrijfstypen van categorie 2 die voorkomen op de bij deze regels behorende <IntRef ref="cmp_III__content_o_1">Lijst van toegelaten bedrijfstypen</IntRef> ; </Al>
 											</Li>
 											<Li eId="chp_2__subchp_2.2__art_2.4__list_o_1__item_b" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1__item_b">
 												<LiNummer>b.</LiNummer>
@@ -421,7 +421,7 @@
 									</Kop>
 									<Inhoud>
 										<Lijst eId="chp_2__subchp_2.3__art_2.10__list_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1" type="expliciet">
-											<Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef>' mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
+											<Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef>', zoals benoemd in <IntRef ref="chp_2__subchp_2.3__art_2.9">artikel 2.9</IntRef> mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
 											<Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_a">
 												<LiNummer>a.</LiNummer>
 												<Al>het exploiteren van een bedrijf;</Al>
@@ -548,6 +548,7 @@
 												<Al>30 μg/m<sup>3</sup> als kalenderjaargemiddelde.</Al>
 											</Li>
 										</Lijst>
+										<Al>Dit komt overeen met wat er in de <ExtRef soort="AKN" ref="/akn/nl/officialGazette/stcrt/2019/56288">Omgevingsregeling</ExtRef> staat in <ExtRef soort="AKN" ref="mn002__1-0__cmp_XXIII__dvs_B">bijlage XXIII B</ExtRef>.</Al>
 									</Inhoud>
 								</Artikel>
 							</Afdeling>
@@ -568,7 +569,7 @@
 											<Lijstaanhef>Een vergunning voor de omgevingsplanactiviteit bouwen is niet vereist indien deze activiteit bestaat uit:</Lijstaanhef>
 											<Li eId="chp_2__subchp_2.5__art_2.13__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.5__art_2.13__list_o_1__item_a">
 												<LiNummer>a.</LiNummer>
-												<Al>het verrichten van gewoon onderhoud aan een bouwwerk, voor zover maatvoering en vormgeving van dat bouwwerk niet wijzigen;</Al>
+												<Al>het verrichten van gewoon onderhoud aan een <IntRef ref="cmp_II__content_o_1__list_o_1__item_o_1">bouwwerk</IntRef>, voor zover maatvoering en vormgeving van dat bouwwerk niet wijzigen;</Al>
 											</Li>
 											<Li eId="chp_2__subchp_2.5__art_2.13__list_o_1__item_b" wId="gm0297_1__chp_2__subchp_2.5__art_2.13__list_o_1__item_b">
 												<LiNummer>b.</LiNummer>
@@ -750,7 +751,7 @@
 										<Term>Bedrijf categorie 2</Term>
 										<Definitie>
 											<Al>
-												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0297/2019/Bedrijf_categorie_2/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Bedrijf_categorie_2/nld@2019-06-18;3520</ExtIoRef>
+												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0297/2019/Bedrijf_categorie_2/nld@2020-03-18;3520">/join/id/regdata/gm0297/2019/Bedrijf_categorie_2/nld@2020-03-18;3520</ExtIoRef>
 											</Al>
 										</Definitie>
 									</Begrip>
@@ -758,7 +759,7 @@
 										<Term>Centrumgebied</Term>
 										<Definitie>
 											<Al>
-												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/gm0297/2019/Centrumgebied/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Centrumgebied/nld@2019-06-18;3520</ExtIoRef>
+												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/gm0297/2019/Centrumgebied/nld@2020-03-18;3520">/join/id/regdata/gm0297/2019/Centrumgebied/nld@2020-03-18;3520</ExtIoRef>
 											</Al>
 										</Definitie>
 									</Begrip>
@@ -766,7 +767,7 @@
 										<Term>Exploiteren speelautomatenhal</Term>
 										<Definitie>
 											<Al>
-												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/gm0297/2019/Speelhal/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Speelhal/nld@2019-06-18;3520</ExtIoRef>
+												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/gm0297/2019/Speelhal/nld@2020-03-18;3520">/join/id/regdata/gm0297/2019/Speelhal/nld@2020-03-18;3520</ExtIoRef>
 											</Al>
 										</Definitie>
 									</Begrip>
@@ -774,7 +775,7 @@
 										<Term>Maximum bouwhoogte bedrijfsgebouw</Term>
 										<Definitie>
 											<Al>
-												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520</ExtIoRef>
+												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2020-03-18;3520">/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2020-03-18;3520</ExtIoRef>
 											</Al>
 										</Definitie>
 									</Begrip>
@@ -782,7 +783,7 @@
 										<Term>Welstandsniveau</Term>
 										<Definitie>
 											<Al>
-												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/gm0297/2019/Welstand/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Welstand/nld@2019-06-18;3520</ExtIoRef>
+												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/gm0297/2019/Welstand/nld@2020-03-18;3520">/join/id/regdata/gm0297/2019/Welstand/nld@2020-03-18;3520</ExtIoRef>
 											</Al>
 										</Definitie>
 									</Begrip>
@@ -790,7 +791,7 @@
 										<Term>Zaltbommel</Term>
 										<Definitie>
 											<Al>
-												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</ExtIoRef>
+												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" ref="/join/id/regdata/gm0297/2020/Zaltbommel/nld@2020-03-18;3520">/join/id/regdata/gm0297/2020/Zaltbommel/nld@2020-03-18;3520</ExtIoRef>
 											</Al>
 										</Definitie>
 									</Begrip>
@@ -798,7 +799,7 @@
 										<Term>Zone A</Term>
 										<Definitie>
 											<Al>
-												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520</ExtIoRef>
+												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" ref="/join/id/regdata/gm0297/2020/Zone_A/nld@2020-03-18;3520">/join/id/regdata/gm0297/2020/Zone_A/nld@2020-03-18;3520</ExtIoRef>
 											</Al>
 										</Definitie>
 									</Begrip>
@@ -806,7 +807,7 @@
 										<Term>Zone B</Term>
 										<Definitie>
 											<Al>
-												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</ExtIoRef>
+												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" ref="/join/id/regdata/gm0297/2020/Zone_B/nld@2020-03-18;3520">/join/id/regdata/gm0297/2020/Zone_B/nld@2020-03-18;3520</ExtIoRef>
 											</Al>
 										</Definitie>
 									</Begrip>
@@ -814,7 +815,7 @@
 										<Term>Zuilichem</Term>
 										<Definitie>
 											<Al>
-												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
+												<ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" ref="/join/id/regdata/gm0297/2020/Zaltbommel/nld@2020-03-18;3520">/join/id/regdata/gm0297/2020/Zaltbommel/nld@2020-03-18;3520</ExtIoRef>
 											</Al>
 										</Definitie>
 									</Begrip>
