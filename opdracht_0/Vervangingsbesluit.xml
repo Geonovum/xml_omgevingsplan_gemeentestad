@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AanleveringBesluit schemaversie="1.0.3" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<AanleveringBesluit schemaversie="1.0.3" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/
+	https://standaarden.overheid.nl/lvbb/1.0.3/lvbb-stop-aanlevering.xsd">
 	<BesluitVersie>
 		<ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
 			<FRBRWork>/akn/nl/bill/gm0297/2020/KS020</FRBRWork>
@@ -823,6 +825,71 @@
 							</Inhoud>
 						</Divisietekst>
 					</Bijlage>
+					<Bijlage eId="cmp_II" wId="gm0297_1__cmp_II">
+						<Kop>
+							<Label>Bijlage</Label>
+							<Nummer>II</Nummer>
+							<Opschrift>Begrippen</Opschrift>
+						</Kop>
+						<Divisietekst eId="cmp_II__content_o_1" wId="gm0297_1__cmp_II__content_o_1">
+							<Inhoud>
+								<Begrippenlijst eId="cmp_II__content_o_1__list_o_1" wId="gm0297_1__cmp_II__content_o_1__list_o_1">
+									<Begrip eId="cmp_II__content_o_1__list_o_1__item_o_1" wId="gm0297_1__cmp_II__content_o_1__list_o_1__item_o_1">
+										<Term>Bouwwerk</Term>
+										<Definitie>
+											<Al>Elke constructie van enige omvang van hout, steen, metaal of ander materiaal, die hetzij direct of indirect met de grond verbonden is, hetzij direct of indirect steun vindt in of op de grond.</Al> 
+										</Definitie>
+									</Begrip>
+								</Begrippenlijst>
+							</Inhoud>
+						</Divisietekst>					
+					</Bijlage>
+					<Bijlage eId="cmp_III" wId="gm0297_1__cmp_III">
+						<Kop>
+							<Label>Bijlage</Label>
+							<Nummer>III</Nummer>
+							<Opschrift>Lijst van toegelaten bedrijfstypen</Opschrift>
+						</Kop>
+						<Divisietekst eId="cmp_III__content_o_1" wId="gm0297_1__cmp_III__content_o_1">
+							<Inhoud>
+								<Al>Vervaardiging van voedingsmiddelen en dranken:</Al>
+								<Lijst eId="cmp_III__content_o_1__list_o_1" wId="gm0297_1__cmp_III__content_o_1__list_o_1" type="ongemarkeerd">
+									<Lijstaanhef>Slachterijen en overige vleesverwerking:</Lijstaanhef>
+									<Li eId="cmp_III__content_o_1__list_o_1__item_o_1" wId="gm0297_1__cmp_III__content_o_1__list_o_1__item_o_1">
+										<Al>Slachterijen en overige vleesverwerking:</Al>
+									</Li>
+									<Li eId="cmp_III__content_o_1__list_o_1__item_o_2" wId="gm0297_1__cmp_III__content_o_1__list_o_1__item_o_2">
+										<Al>vleeswaren- en vleesconservenfabrieken: p.o. kleiner of gelijk aan 1000 m² 2</Al>
+									</Li>
+									<Li eId="cmp_III__content_o_1__list_o_1__item_o_3" wId="gm0297_1__cmp_III__content_o_1__list_o_1__item_o_3">
+										<Al>vleeswaren- en vleesconservenfabrieken: p.o. kleiner of gelijk aan 200 m²  2</Al>
+									</Li>
+									<Li eId="cmp_III__content_o_1__list_o_1__item_o_4" wId="gm0297_1__cmp_III__content_o_1__list_o_1__item_o_4">
+										<Al>loonslachterijen 2</Al>
+									</Li>
+									<Li eId="cmp_III__content_o_1__list_o_1__item_o_5" wId="gm0297_1__cmp_III__content_o_1__list_o_1__item_o_5">
+										<Al>vervaardiging van snacks en vervaardiging van kant-en-klaar-maaltijden met p.o. kleiner of gelijk aan 2.000 m² 2</Al>
+									</Li>
+								</Lijst>
+							</Inhoud>
+						</Divisietekst>					
+					</Bijlage>
+					<ArtikelgewijzeToelichting eId="artrecital" wId="gm0297_1__artrecital">
+						<Kop>
+							<Opschrift>Artikelsgewijze Toelichting</Opschrift>
+						</Kop>
+						<Divisie wId="gm0297_1__artrecital__div_1" eId="artrecital__div_1">
+							<Kop>
+								<Opschrift>Toelichting op artikelen uit hoofdstuk 2</Opschrift>
+							</Kop>
+							<Divisietekst eId="artrecital__div_1__content_1" wId="gm0297_1__artrecital__div_1__content_1">
+								<Kop>
+									<Opschrift>Toelichting artikel 2.10</Opschrift>
+								</Kop>
+								<Inhoud><Al>Toelichting op <IntRef ref="chp_2__subchp_2.3__art_2.10">Artikel 2.10</IntRef>. Ook te vinden op <ExtRef soort="URL" ref="https://decentrale.regelgeving.overheid.nl/cvdr/xhtmloutput/Historie/Zaltbommel/637099/CVDR637099_1.html">de website van de gemeente Zaltbommel</ExtRef>.</Al></Inhoud>
+							</Divisietekst>
+						</Divisie>
+					</ArtikelgewijzeToelichting>
 				</RegelingCompact>
 			</WijzigBijlage>
 		</BesluitCompact>
