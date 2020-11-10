@@ -10,5 +10,9 @@
       <naam>owLocaties-Gemeentestad.xml</naam>
       <objecttype>Gebied</objecttype>
     </Bestand>
+    <Bestand>
+      <naam>owOmgevingsnormOmgevingswaarde.xml</naam>
+      <objecttype>Omgevingsnorm</objecttype>
+    </Bestand>
   </Aanlevering>
 </Aanleveringen>
