@@ -46,7 +46,7 @@
                     <doelen>
                         <doel>/join/id/proces/gm0297/2020/mutatie_opdracht_4b</doel>
                     </doelen>
-                    <instrumentVersie>/akn/nl/act/gm0297/2020/mut100/nld@2020-11-13</instrumentVersie>
+                    <instrumentVersie>/akn/nl/act/gm0297/2020/mut100/nld@2020-11-13;3</instrumentVersie>
                     <eId>art_I</eId>
                 </BeoogdeRegeling>
                 <BeoogdInformatieobject>
@@ -54,7 +54,7 @@
                         <doel>/join/id/proces/gm0297/2020/mutatie_opdracht_4b</doel>
                     </doelen>
                     <instrumentVersie>/join/id/regdata/gm0297/2020/Bouwhoogte/nld@2020-11-13;4540</instrumentVersie>
-                    <eId>!wijzig_gio#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+                    <eId>!wijzig_gio#cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
                 </BeoogdInformatieobject>
             </BeoogdeRegelgeving>
             <Tijdstempels>
@@ -72,7 +72,7 @@
             </RegelingOpschrift>
             <Aanhef eId="formula_1" wId="formula_1">
                 <Al>De raad van de gemeente Gemeentestad </Al>
-                <Al>gelezen het voorstel van burgemeester en wethouders van 6 november 2020, nr. 2020-4540;</Al>
+                <Al>gelezen het voorstel van burgemeester en wethouders van 13 november 2020, nr. 2020-4540;</Al>
                 <Al>Gelet op <ExtRef ref="https://wetten.overheid.nl/jci1.3:c:BWBR0005416&amp;titeldeel=III&amp;hoofdstuk=IX&amp;artikel=149" soort="URL">Gemeentewet, art. 149</ExtRef>.</Al>
                 <Al>in overeenstemming met <b>mutatiescenario 4b</b> verstrekt door <i>de kenniswerksessie van 26 februari 2020;</i>
                 </Al>
@@ -113,7 +113,7 @@
                     <Nummer>A</Nummer>
                     <Opschrift>Bijlage bij artikel I</Opschrift>
                 </Kop>
-                <RegelingMutatie componentnaam="wijzig_gio" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;1" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;2">
+                <RegelingMutatie componentnaam="wijzig_gio" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-11-06;2" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-11-13;3">
                     <Vervang wat="gm0297_1__cmp_I__content_o_1">
                         <Nummer>A</Nummer>
                         <Wat>Begrip Exploiteren speelautomatenhal wordt gewijzigd</Wat>
@@ -242,11 +242,11 @@
     <RegelingVersieInformatie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/act/gm0297/2019/reg456</FRBRWork>
-            <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2020-10-12;3</FRBRExpression>
+            <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2020-11-13;3</FRBRExpression>
             <soortWork>/join/id/stop/work_019</soortWork>
         </ExpressionIdentificatie>
         <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <versienummer>3</versienummer>
         </RegelingVersieMetadata>
     </RegelingVersieInformatie>
-</AanleveringBesluit>    
+</AanleveringBesluit>
