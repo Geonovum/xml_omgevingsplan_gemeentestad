@@ -116,7 +116,7 @@
                 <RegelingMutatie componentnaam="wijzig_gio" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-11-13;3" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-11-20;4">
                     <Vervang wat="gm0297_1__cmp_I__content_o_1">
                         <Nummer>A</Nummer>
-                        <Wat>Begrip Exploiteren speelautomatenhal wordt gewijzigd</Wat>
+                        <Wat>Begrip Centrumgebied vervalt en Nieuw centrumgebied wordt toegevoegd</Wat>
                         <Divisietekst eId="cmp_I__content_o_1" wId="gm0297_1__cmp_I__content_o_1">
                             <Inhoud>
                                 <Begrippenlijst eId="cmp_I__content_o_1__list_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1">
