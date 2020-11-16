@@ -1,10 +1,12 @@
 Intrekken en vervangen van Gemeenstestad
 ========================================
+Intrekken en Vervangen (van Gemeentestad) is gebaseerd op de IMOW-schema's v1.0.2 en STOP-schema's v1.0.3.
+----------------------------
 
 Introductie van het scenario
 ----------------------------
 
-Een bevoegd gezag besluit dat er afscheidt genomen moet worden van een initiele
+Een bevoegd gezag besluit dat er afscheid genomen moet worden van een initiele
 regeling, of een van de eerste versies van een regeling, en dat deze vervangen
 moet worden door een nieuwe regeling.
 
