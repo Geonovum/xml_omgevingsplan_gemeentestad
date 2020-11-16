@@ -111,7 +111,7 @@
                         </r:ActiviteitLocatieaanduiding>
                     </r:activiteitaanduiding>
                     <r:activiteitaanduiding>
-                        <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2020000685"/>
+                        <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2020000685"/> <!--het exploiteren van een instelling voor cultuur en ontspanning-->
                         <r:ActiviteitLocatieaanduiding>
                             <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2020000001</r:identificatie>
                             <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
