@@ -31,7 +31,7 @@
          <officieleTitel>/join/id/regdata/gm0297/2020/Welstand</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-         <naamInformatieObject>/join/id/stop/informatieobject/gio_001</naamInformatieObject>
+         <naamInformatieObject>Zuilichem</naamInformatieObject>
       </InformatieObjectMetadata>
       <FeatureTypeStyle xmlns="http://www.opengis.net/se" version="1.1.0">
          <FeatureTypeName>geo:Locatie</FeatureTypeName>
