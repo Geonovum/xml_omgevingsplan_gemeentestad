@@ -28,7 +28,7 @@
 					<rol:naam>uitoefenen van bedrijfstypen van categorie 3</rol:naam><!-- 10a: Gewijzigd van 2 naar 3 -->
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Standplaatsactiviteit</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mn002.activiteit.Omgevingsplanactiviteit"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.topactiviteitomgevingsplan"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 			</ow-dc:owObject>
@@ -40,7 +40,7 @@
 					<rol:naam>uitoefenen van detailhandel in ter plaatse vervaardigde goederen</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Standplaatsactiviteit</rol:groep><!-- 10f: was http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/ExploitatieactiviteitDetailhandel -->
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mn002.activiteit.Omgevingsplanactiviteit"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.topactiviteitomgevingsplan"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 			</ow-dc:owObject>
@@ -81,7 +81,7 @@
         			<rol:naam>sporten</rol:naam>
         			<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Sportactiviteit</rol:groep>
         			<rol:bovenliggendeActiviteit>
-        				<rol:ActiviteitRef xlink:href="nl.imow-mn002.activiteit.Omgevingsplanactiviteit"/>
+        				<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.topactiviteitomgevingsplan"/>
         			</rol:bovenliggendeActiviteit>
         		</rol:Activiteit>
         	</ow-dc:owObject>
@@ -93,7 +93,7 @@
 					<rol:naam>wonen</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Woonactiviteit</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mn002.activiteit.Omgevingsplanactiviteit"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.topactiviteitomgevingsplan"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 			</ow-dc:owObject>
@@ -105,7 +105,7 @@
 					<rol:naam>uitoefenen van een beroep aan huis</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MilieubelastendeActiviteitMetBeperktEffect</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mn002.activiteit.Omgevingsplanactiviteit"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.topactiviteitomgevingsplan"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 				</ow-dc:owObject>
@@ -117,7 +117,7 @@
 					<rol:naam>exploiteren van een aan de woonfunctie ondergeschikt bedrijf aan huis</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MilieubelastendeActiviteitMetBeperktEffect</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-mn002.activiteit.Omgevingsplanactiviteit"/>
+						<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.topactiviteitomgevingsplan"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 				</ow-dc:owObject>
