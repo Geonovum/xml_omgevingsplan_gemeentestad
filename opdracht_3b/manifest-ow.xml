@@ -10,5 +10,9 @@
       <naam>owActiviteiten-Gemeentestad.xml</naam>
       <objecttype>Activiteit</objecttype>
     </Bestand>
+    <Bestand>
+      <naam>owRegelingsgebied.xml</naam>
+      <objecttype>Regelingsgebied</objecttype>
+    </Bestand>
   </Aanlevering>
 </Aanleveringen>
