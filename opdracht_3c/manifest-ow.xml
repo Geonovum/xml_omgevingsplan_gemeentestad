@@ -22,5 +22,9 @@
       <naam>owRegeltekst-Gemeentestad.xml</naam>
       <objecttype>RegelVoorIedereen</objecttype>
     </Bestand>
+    <Bestand>
+      <naam>owRegelingsgebied.xml</naam>
+      <objecttype>RegelVoorIedereen</objecttype>
+    </Bestand>
   </Aanlevering>
 </Aanleveringen>

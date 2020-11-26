@@ -15,10 +15,9 @@
 		<sl:dataset>Gemeentestad</sl:dataset>
 		<sl:inhoud>
 			<sl:gebied>Gemeentestad</sl:gebied>
-			<sl:leveringsId>abc-20190221-0801</sl:leveringsId>
+			<sl:leveringsId>id-publicatie-20201002</sl:leveringsId>
 			<sl:objectTypen>
 				<sl:objectType>Gebied</sl:objectType>
-				<sl:objectType>Gebiedengroep</sl:objectType>
 			</sl:objectTypen>
 		</sl:inhoud>
 		<sl:stand>
