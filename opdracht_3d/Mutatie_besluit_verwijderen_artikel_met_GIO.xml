@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AanleveringBesluit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
     xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" 
-    schemaversie="1.0.4-rc" 
+    schemaversie="1.0.4" 
     xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/
-    https://standaarden.overheid.nl/lvbb/1.0.4-rc/lvbb-stop-aanlevering.xsd">
+    https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
     <BesluitVersie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/bill/gm0297/2020/4520</FRBRWork>
@@ -97,8 +97,8 @@
                 </Kop>
                 <RegelingMutatie componentnaam="verwijder_gio" was="/akn/nl/act/gm0297/2019/reg456/nld@2019-06-25;1" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-01-15;2">
                     <!-- Artikel 2.12 vervalt, Inhoud en Vervallen hebben geen wijzigactie, dus Artikel verwijderen en toevoegen -->
-                    <Vervang wat="gm0297_1__chp_2__subchp_2.4__art_2.12">
-                        <Artikel eId="chp_2__subchp_2.4__art_2.12_inst2" wId="gm0297_1__chp_2__subchp_2.4__art_2.12" wijzigactie="verwijder">
+                    <Verwijder wat="gm0297_1__chp_2__subchp_2.4__art_2.12">
+                        <Artikel eId="chp_2__subchp_2.4__art_2.12_inst2" wId="gm0297_1__chp_2__subchp_2.4__art_2.12">
                             <Kop>
                                 <Label>Artikel</Label>
                                 <Nummer>2.12</Nummer>
@@ -118,7 +118,9 @@
                                 </Lijst>
                             </Inhoud>
                         </Artikel>
-                        <Artikel eId="chp_2__subchp_2.4__art_2.12" wId="gm0297_2__chp_2__subchp_2.4__art_2.12" wijzigactie="voegtoe">
+                    </Verwijder>
+                    <VoegToe positie="volgtOp" context="gm0297_1__chp_2__subchp_2.4__art_2.11">
+                        <Artikel eId="chp_2__subchp_2.4__art_2.12" wId="gm0297_2__chp_2__subchp_2.4__art_2.12">
                             <Kop>
                                 <Label>Artikel</Label>
                                 <Nummer>2.12</Nummer>
@@ -126,7 +128,7 @@
                             </Kop>
                             <Vervallen/>
                         </Artikel>
-                    </Vervang>
+                    </VoegToe>
                     <!-- Wijzigen begrippenlijst, verwijderen Begrip met ExtIoRef met GIO 'Zuilichem' -->
                     <Vervang wat="gm0297_1__cmp_I__content_o_1">
                         <Divisietekst eId="cmp_I__content_o_1" wId="gm0297_1__cmp_I__content_o_1">
