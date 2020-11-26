@@ -17,10 +17,6 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>owLocaties-Gemeentestad.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
         <bestandsnaam>owRegeltekst-Gemeentestad.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
