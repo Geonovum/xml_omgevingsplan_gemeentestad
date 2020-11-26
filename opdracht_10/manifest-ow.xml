@@ -16,8 +16,11 @@
     </Bestand>
     <Bestand>
       <naam>owRegeltekst-Gemeentestad.xml</naam>
-      <objecttype>Regeltekst</objecttype>
       <objecttype>RegelVoorIedereen</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>owRegelingsgebied.xml</naam>
+      <objecttype>Regelingsgebied</objecttype>
     </Bestand>
   </Aanlevering>
 </Aanleveringen>
