@@ -93,7 +93,7 @@
                 <RegelingMutatie componentnaam="verwijder_gio" was="/akn/nl/act/gm0297/2019/reg456/nld@2019-06-25;1" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-01-15;2">
                     <!-- Artikel 2.12 vervalt, Inhoud vervangen met Vervallen -->
                     <Vervang wat="gm0297_1__chp_2__subchp_2.4__art_2.12">
-                        <Artikel eId="chp_2__subchp_2.4__art_2.12" wId="gm0297_2__chp_2__subchp_2.4__art_2.12">
+                        <Artikel eId="chp_2__subchp_2.4__art_2.12" wId="gm0297_1__chp_2__subchp_2.4__art_2.12">
                             <Kop>
                                 <Label>Artikel</Label>
                                 <Nummer>2.12</Nummer>
