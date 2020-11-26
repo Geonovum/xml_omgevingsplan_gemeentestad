@@ -11,16 +11,15 @@
       <objecttype>Omgevingsnorm</objecttype>
       <objecttype>Omgevingswaarde</objecttype>
     </Bestand>
-<!--    <Bestand>
-      <naam>owLocaties-Gemeentestad.xml</naam>
-      <objecttype>Gebiedengroep</objecttype>
-      <objecttype>Gebied</objecttype>
-    </Bestand>-->
     <Bestand>
       <naam>owRegeltekst-Gemeentestad.xml</naam>
       <objecttype>Regeltekst</objecttype>
       <objecttype>RegelVoorIedereen</objecttype>
       <objecttype>Omgevingswaarderegel</objecttype>
+    </Bestand>
+    <Bestand>
+      <naam>owRegelingsgebied.xml</naam>
+      <objecttype>Regelingsgebied</objecttype>
     </Bestand>
   </Aanlevering>
 </Aanleveringen>
