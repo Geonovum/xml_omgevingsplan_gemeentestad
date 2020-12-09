@@ -31,6 +31,7 @@
       <naam>owLocaties-Gemeentestad.xml</naam>
       <objecttype>Gebiedengroep</objecttype>
       <objecttype>Gebied</objecttype>
+      <objecttype>Ambtsgebied</objecttype>
     </Bestand>
     <Bestand>
       <naam>owRegeltekst-Gemeentestad.xml</naam>
