@@ -27,7 +27,7 @@
                <rol:naam>het exploiteren van een instelling voor cultuur en ontspanning</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Cultuuractiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-mnre1034.activiteit.Omgevingsplanactiviteit"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.ActInOmgevingsplanGem"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
