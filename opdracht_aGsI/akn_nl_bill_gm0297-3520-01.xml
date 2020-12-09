@@ -29,7 +29,6 @@
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Speelhal/nld@2019-06-18;3520</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Welstand/nld@2019-06-18;3520</informatieobjectRef>
-                <informatieobjectRef>/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</informatieobjectRef>
@@ -99,29 +98,22 @@
                     <doelen>
                         <doel>/join/id/proces/gm0297/2019/Instelling</doel>
                     </doelen>
-                    <instrumentVersie>/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</instrumentVersie>
+                    <instrumentVersie>/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520</instrumentVersie>
                     <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
                 </BeoogdInformatieobject>
                 <BeoogdInformatieobject>
                     <doelen>
                         <doel>/join/id/proces/gm0297/2019/Instelling</doel>
                     </doelen>
-                    <instrumentVersie>/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520</instrumentVersie>
+                    <instrumentVersie>/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</instrumentVersie>
                     <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
                 </BeoogdInformatieobject>
                 <BeoogdInformatieobject>
                     <doelen>
                         <doel>/join/id/proces/gm0297/2019/Instelling</doel>
                     </doelen>
-                    <instrumentVersie>/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</instrumentVersie>
-                    <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
-                </BeoogdInformatieobject>
-                <BeoogdInformatieobject>
-                    <doelen>
-                        <doel>/join/id/proces/gm0297/2019/Instelling</doel>
-                    </doelen>
                     <instrumentVersie>/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</instrumentVersie>
-                    <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1</eId>
+                    <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
                 </BeoogdInformatieobject>
                 <!-- regelinggebied -->
             </BeoogdeRegelgeving>
@@ -198,27 +190,6 @@
                         <Al>Omgevingsplan Zaltbommel (met de nadruk op Zuilichem)</Al>
                     </RegelingOpschrift>
                     <Lichaam eId="body" wId="body">
-                        <Hoofdstuk eId="chp_1" wId="gm0297_1__chp_1">
-                            <Kop>
-                                <Label>Hoofdstuk</Label>
-                                <Nummer>1</Nummer>
-                                <Opschrift>Algemene bepalingen</Opschrift>
-                            </Kop>
-                            <Artikel wId="gm0297_1__chp_1__art_1.4" eId="chp_1__art_1.4">
-                                <Kop>
-                                    <Label>Artikel</Label>
-                                    <Nummer>1.4</Nummer>
-                                    <Opschrift>Toepassingsgebied</Opschrift>
-                                </Kop>
-                                <Inhoud>
-                                    <Al>Dit omgevingsplan is van toepassing in <IntIoRef
-                                            wId="gm0297_1__chp_1__art_1.4__ref_o_1"
-                                            eId="chp_1__art_1.4__ref_o_1"
-                                            ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                            >Zaltbommel</IntIoRef>.</Al>
-                                </Inhoud>
-                            </Artikel>
-                        </Hoofdstuk>
                         <Hoofdstuk eId="chp_2" wId="gm0297_1__chp_2">
                             <Kop>
                                 <Label>Hoofdstuk</Label>
@@ -311,7 +282,7 @@
                                                   ‘<IntIoRef
                                                   eId="chp_2__subchp_2.2__art_2.4__list_o_1__item_f__ref_o_1"
                                                   wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1__item_f__ref_o_1"
-                                                  ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                                  ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
                                                   >Zone A</IntIoRef>’ van het werkingsgebied
                                                   ‘<IntIoRef
                                                   eId="chp_2__subchp_2.2__art_2.4__list_o_1__item_f__ref_o_2"
@@ -390,7 +361,7 @@
                                                   '<IntIoRef
                                                   eId="chp_2__subchp_2.2__art_2.6__para_1__ref_o_2"
                                                   wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_1__ref_o_2"
-                                                  ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                                  ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
                                                   >Zone B</IntIoRef>' verboden de gebruiksactiviteit
                                                 'het uitoefenen van detailhandel in ter plaatse
                                                 vervaardigde goederen' te verrichten zonder dat
@@ -784,7 +755,7 @@
                                             <Lijstaanhef>Voor stikstofdioxide geldt in '<IntIoRef
                                                   eId="chp_2__subchp_2.4__art_2.12__list_o_1__ref_o_1"
                                                   wId="gm0297_1__chp_2__subchp_2.4__art_2.12__list_o_1__ref_o_1"
-                                                  ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                                  ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
                                                   >Zuilichem</IntIoRef>' de volgende ten hoogste
                                                 toelaatbare concentraties:</Lijstaanhef>
                                             <Li eId="chp_2__subchp_2.4__art_2.12__list_o_1__item_a"
@@ -1286,51 +1257,38 @@
                                     </Begrip>
                                     <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6"
                                         wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6">
-                                        <Term>Zaltbommel</Term>
+                                        <Term>Zone A</Term>
                                         <Definitie>
                                             <Al>
                                                 <ExtIoRef
                                                   eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
                                                   wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                                  ref="/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520"
-                                                  >/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</ExtIoRef>
-                                            </Al>
-                                        </Definitie>
-                                    </Begrip>
-                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7"
-                                        wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7">
-                                        <Term>Zone A</Term>
-                                        <Definitie>
-                                            <Al>
-                                                <ExtIoRef
-                                                  eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                                  wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
                                                   ref="/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520"
                                                   >/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
-                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8"
-                                        wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8">
+                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7"
+                                        wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7">
                                         <Term>Zone B</Term>
                                         <Definitie>
                                             <Al>
                                                 <ExtIoRef
-                                                  eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                                  wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                                  eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                                  wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
                                                   ref="/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520"
                                                   >/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
-                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9"
-                                        wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9">
+                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8"
+                                        wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8">
                                         <Term>Zuilichem</Term>
                                         <Definitie>
                                             <Al>
                                                 <ExtIoRef
-                                                  eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
-                                                  wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                                  eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                                  wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
                                                   ref="/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520"
                                                   >/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
                                             </Al>
