@@ -772,9 +772,8 @@
                                                   kalenderjaargemiddelde.</Al>
                                             </Li>
                                         </Lijst>
-                                        <Al>Dit komt overeen met wat er in de <ExtRef soort="AKN"
-                                                ref="/akn/nl/officialGazette/stcrt/2019/56288"
-                                            >Omgevingsregeling</ExtRef> staat in bijlage XXIII B.</Al><!--<ExtRef soort="AKN" ref="mn002__1-0__cmp_XXIII__dvs_B">bijlage XXIII B</ExtRef>-->
+                                        <Al>Dit komt overeen met wat er in de <ExtRef soort="AKN" ref="/akn/nl/act/mnre1034/2020/reg1001">Omgevingsregeling</ExtRef> 
+                                            staat in <ExtRef soort="AKN" ref="/akn/nl/act/mnre1034/2020/reg1001#cmp_XXIII__content_1_inst2">bijlage XXIII B</ExtRef>.</Al>
                                     </Inhoud>
                                 </Artikel>
                             </Afdeling>
