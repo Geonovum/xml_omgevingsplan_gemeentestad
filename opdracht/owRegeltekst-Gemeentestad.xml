@@ -312,7 +312,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000004"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000001"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000003"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000590"/>
@@ -321,7 +321,7 @@
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000010</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Meldingsplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000001"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000003"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -542,30 +542,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-gm0297.juridischeregel.2019000018</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000015"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000002"/>
-                  <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000003"/>
-                  <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000004"/>
-               </r:locatieaanduiding>
-               <r:kaartaanduiding>
-                  <k:KaartRef xlink:href="nl.imow-gm0297.kaart.2019000001"/>
-               </r:kaartaanduiding>
-               <r:omgevingsnormaanduiding>
-                  <rol:OmgevingsnormRef xlink:href="nl.imow-gm0297.omgevingsnorm.2019000003"/>
-                  <!--welstandsniveau-->
-               </r:omgevingsnormaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="gm0297_1__chp_5__subchp_5.1__art_5.1__list_o_1">
+            <r:Regeltekst wId="gm0297_1__chp_5__subchp_5.1__art_5.1">
                <r:identificatie>nl.imow-gm0297.regeltekst.2019000113</r:identificatie>
             </r:Regeltekst>         
          </ow-dc:owObject>
