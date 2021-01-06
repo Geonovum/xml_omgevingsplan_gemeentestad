@@ -42,6 +42,10 @@
          <naam>owRegelingsgebied.xml</naam>
          <objecttype>Regelingsgebied</objecttype>
       </Bestand>
+     <Bestand>
+       <naam>owSymbolisatieItem.xml</naam>
+       <objecttype>SymbolisatieItem</objecttype>
+     </Bestand>
       <!--    <Bestand>
       <naam>Bedrijf_categorie_2.gml</naam>
       <objecttype>Geometrie</objecttype>
