@@ -148,7 +148,6 @@
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000004</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
-                     <r:specifiekeSymbolisatie>vag500</r:specifiekeSymbolisatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000001"/>
                      </r:locatieaanduiding>
@@ -174,7 +173,6 @@
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000005</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
-                     <r:specifiekeSymbolisatie>vag300</r:specifiekeSymbolisatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000001"/>
                      </r:locatieaanduiding>
@@ -260,7 +258,6 @@
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000008</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
-                     <r:specifiekeSymbolisatie>vag303</r:specifiekeSymbolisatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000001"/>
                      </r:locatieaanduiding>
@@ -286,7 +283,6 @@
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000009</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Verbod</r:activiteitregelkwalificatie>
-                     <r:specifiekeSymbolisatie>vag503</r:specifiekeSymbolisatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000001"/>
                      </r:locatieaanduiding>
@@ -354,7 +350,6 @@
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000011</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:specifiekeSymbolisatie>vag307</r:specifiekeSymbolisatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000001"/>
                      </r:locatieaanduiding>
