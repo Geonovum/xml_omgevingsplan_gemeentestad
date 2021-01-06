@@ -51,7 +51,6 @@
                   <rol:Normwaarde>
                      <rol:identificatie>nl.imow-gm0297.normwaarde.2019000002</rol:identificatie>
                      <rol:kwantitatieveWaarde>13</rol:kwantitatieveWaarde>
-                     <rol:specifiekeSymbolisatie>vsgt201</rol:specifiekeSymbolisatie>
                      <rol:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000010"/>
                         <!--Z3-->
@@ -60,7 +59,6 @@
                   <rol:Normwaarde>
                      <rol:identificatie>nl.imow-gm0297.normwaarde.2019000003</rol:identificatie>
                      <rol:kwantitatieveWaarde>7</rol:kwantitatieveWaarde>
-                     <rol:specifiekeSymbolisatie>vsgt206</rol:specifiekeSymbolisatie>
                      <rol:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000008"/>
                         <!--Z1-->
@@ -84,7 +82,6 @@
                   <rol:Normwaarde>
                      <rol:identificatie>nl.imow-gm0297.normwaarde.2019000004</rol:identificatie>
                      <rol:kwalitatieveWaarde>laag</rol:kwalitatieveWaarde>
-                     <rol:specifiekeSymbolisatie>vsgt307</rol:specifiekeSymbolisatie>
                      <rol:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000003"/>
                         <!--Zone B-->
@@ -93,7 +90,6 @@
                   <rol:Normwaarde>
                      <rol:identificatie>nl.imow-gm0297.normwaarde.2019000005</rol:identificatie>
                      <rol:kwalitatieveWaarde>midden</rol:kwalitatieveWaarde>
-                     <rol:specifiekeSymbolisatie>vsgt304</rol:specifiekeSymbolisatie>
                      <rol:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000002"/>
                         <!--Zone A-->
@@ -102,7 +98,6 @@
                   <rol:Normwaarde>
                      <rol:identificatie>nl.imow-gm0297.normwaarde.2019000006</rol:identificatie>
                      <rol:kwalitatieveWaarde>hoog</rol:kwalitatieveWaarde>
-                     <rol:specifiekeSymbolisatie>vsgt300</rol:specifiekeSymbolisatie>
                      <rol:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000004"/>
                         <!--Centrumgebied-->
