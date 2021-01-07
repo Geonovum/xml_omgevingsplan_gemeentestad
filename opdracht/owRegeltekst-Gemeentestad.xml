@@ -599,7 +599,7 @@
                <r:identificatie>nl.imow-gm0297.juridischeregel.2019000114</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href=">nl.imow-gm0297.regeltekst.2019000114"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000114"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000012"/>
@@ -630,7 +630,7 @@
                <r:identificatie>nl.imow-gm0297.juridischeregel.2019000115</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href=">nl.imow-gm0297.regeltekst.2019000115"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000115"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000012"/>
