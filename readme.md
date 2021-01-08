@@ -29,13 +29,16 @@ Werkingsgebied Speelhal alleen binnen grenzen Zuilichem
 
 Werkingsgebied bouwhoogte, Zuilichem indusrtiegebied 3 normwaarde naar 15
 
-### Opdracht_3c:
+### Opdracht_4c:
 
 ### Opdracht_10: alleen OW-wijzigingen van Gemeentestad
 
 ### Opdracht_ri: een opdracht t.b.v. de werking van de reactieve interventie
 
 ### Opdracht_aGsI: een opdracht met hierin het ambtsgebied en symbolisatieItem, wat op het moment van schrijven (23-10-2020) nog niet verwerkt kan worden door de DSO-keten.
+
+### toepasbareRegels
+Bestanden t.b.v. vergunningscheck en indienen van aanvragen
 
 Zie [Submutatiescenario_s.pptx](./Submutatiescenario_s.pptx) voor details
 mutatiescenario’s
