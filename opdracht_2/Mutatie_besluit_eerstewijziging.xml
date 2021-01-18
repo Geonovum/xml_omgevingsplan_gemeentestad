@@ -300,7 +300,7 @@
                         <Nummer>E</Nummer>
                         <Wat>Na artikel 2.13 wordt een artikel ingevoegd, luidende:</Wat>
                         <Artikel eId="chp_2__subchp_2.5__art_2.14"
-                            wId="gm0297_1__chp_2__subchp_2.5__art_2.14">
+                            wId="gm0297_2__chp_2__subchp_2.5__art_2.14">
                             <Kop>
                                 <Label>Artikel</Label>
                                 <Nummer>2.14</Nummer>
@@ -308,45 +308,45 @@
                             </Kop>
                             <Inhoud>
                                 <Lijst eId="chp_2__subchp_2.5__art_2.14__list_o_1"
-                                    wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1"
+                                    wId="gm0297_2__chp_2__subchp_2.5__art_2.14__list_o_1"
                                     type="expliciet">
                                     <Lijstaanhef>Voor het bouwen en instandhouden van
                                         bedrijfsgebouwen gelden de volgende
                                         regels:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_a"
-                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_a">
+                                        wId="gm0297_2__chp_2__subchp_2.5__art_2.14__list_o_1__item_a">
                                         <LiNummer>a.</LiNummer>
                                         <Al>Een bedrijfsgebouw moet worden gesitueerd binnen
                                             het werkingsgebied 'bouwactiviteit
                                             toegestaan'.</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_b"
-                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_b">
+                                        wId="gm0297_2__chp_2__subchp_2.5__art_2.14__list_o_1__item_b">
                                         <LiNummer>b.</LiNummer>
                                         <Al>De maximum oppervlakte van een bedrijfsgebouw is
                                             gelijk aan het werkingsgebied 'maximum
                                             oppervlakte'.</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_c"
-                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_c">
+                                        wId="gm0297_2__chp_2__subchp_2.5__art_2.14__list_o_1__item_c">
                                         <LiNummer>c.</LiNummer>
                                         <Al>De maximum goothoogte van een bedrijfsgebouw is
                                             de ter plaatse van het werkingsgebied 'maximum
                                             goothoogte bedrijfsgebouw' bepaalde waarde.</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_d"
-                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_d">
+                                        wId="gm0297_2__chp_2__subchp_2.5__art_2.14__list_o_1__item_d">
                                         <LiNummer>d.</LiNummer>
                                         <Al>De maximum bouwhoogte van een bedrijfsgebouw is
                                             de ter plaatse van het werkingsgebied '<IntIoRef
                                                 eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1"
-                                                wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1"
+                                                wId="gm0297_2__chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1"
                                                 ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
                                                 >maximum bouwhoogte bedrijfsgebouw</IntIoRef>'
                                             bepaalde waarde.</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_e"
-                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_e">
+                                        wId="gm0297_2__chp_2__subchp_2.5__art_2.14__list_o_1__item_e">
                                         <LiNummer>e.</LiNummer>
                                         <Al>Binnen het werkingsgebied bouwactiviteit
                                             toegestaan bedraagt de afstand tussen een
