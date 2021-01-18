@@ -53,7 +53,7 @@
         </ConsolidatieInformatie>
         <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
             <RegelingOpschrift eId="longTitle_o_1" wId="longTitle_o_1">
-                <Al>Eerste wijziging van "Voorbeeldregels met uitbreiding tbv Toepasbare Regels"</Al>
+                <Al>Gemeentestad Omgevingsplan wijzing regeltekst (mutatiescenario2)</Al>
             </RegelingOpschrift>
             <Aanhef wId="formula_1" eId="formula_1">
                 <Al>De raad van de gemeente Gemeenstestad </Al>
@@ -373,7 +373,7 @@
         <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
             <maker>/tooi/id/gemeente/gm0297</maker>
-            <officieleTitel>Voorbeeldregels met uitbreiding tbv Toepasbare Regels</officieleTitel>
+            <officieleTitel>Gemeentestad Omgevingsplan wijzing regeltekst (mutatiescenario2)</officieleTitel>
             <onderwerpen>
                 <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
             </onderwerpen>
