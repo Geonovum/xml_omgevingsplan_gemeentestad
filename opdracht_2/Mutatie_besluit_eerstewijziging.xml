@@ -238,69 +238,90 @@
                     <Verwijder wat="gm0297_1__chp_2__subchp_2.5__art_2.14">
                         <Nummer>D</Nummer>
                         <Wat>Artikel 2.14 wordt verwijderd:</Wat>
-                        <Artikel eId="chp_2__subchp_2.5__art_2.13_inst2"
-                            wId="gm0297_1__chp_2__subchp_2.5__art_2.13">
+                        <Artikel eId="chp_2__subchp_2.5__art_2.14"
+                            wId="gm0297_1__chp_2__subchp_2.5__art_2.14">
                             <Kop>
                                 <Label>Artikel</Label>
-                                <Nummer>2.13</Nummer>
-                                <Opschrift>Omgevingsplanactiviteiten bouwen die zonder
-                                    vergunning of melding zijn toegestaan</Opschrift>
+                                <Nummer>2.14</Nummer>
+                                <Opschrift>Bouwregels bedrijfsgebouwen</Opschrift>
                             </Kop>
                             <Inhoud>
-                                <Lijst eId="chp_2__subchp_2.5__art_2.13__list_o_1"
-                                    wId="gm0297_1__chp_2__subchp_2.5__art_2.13__list_o_1"
+                                <Lijst eId="chp_2__subchp_2.5__art_2.14__list_o_1"
+                                    wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1"
                                     type="expliciet">
-                                    <Lijstaanhef>Een vergunning voor de omgevingsplanactiviteit bouwen is niet vereist indien deze activiteit bestaat uit:</Lijstaanhef>
-                                    <Li eId="chp_2__subchp_2.5__art_2.13__list_o_1__item_a_inst2"
-                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.13__list_o_1__item_a">
+                                    <Lijstaanhef>Voor het bouwen en instandhouden van
+                                        bedrijfsgebouwen gelden de volgende
+                                        regels:</Lijstaanhef>
+                                    <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_a"
+                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_a">
                                         <LiNummer>a.</LiNummer>
-                                        <Al>het verrichten van gewoon onderhoud aan een <IntRef ref="cmp_II__content_o_1__list_o_1__item_o_1" scope="Begrip">bouwwerk</IntRef>, voor zover maatvoering en vormgeving van dat bouwwerk niet wijzigen;</Al>
+                                        <Al>Een bedrijfsgebouw moet worden gesitueerd binnen
+                                            het werkingsgebied 'bouwactiviteit
+                                            toegestaan'.</Al>
                                     </Li>
-                                    <Li eId="chp_2__subchp_2.5__art_2.13__list_o_1__item_b_inst2"
-                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.13__list_o_1__item_b">
+                                    <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_b"
+                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_b">
                                         <LiNummer>b.</LiNummer>
-                                        <Al>het plaatsen van straatmeubilair;</Al>
+                                        <Al>De maximum oppervlakte van een bedrijfsgebouw is
+                                            gelijk aan het werkingsgebied 'maximum
+                                            oppervlakte'.</Al>
                                     </Li>
-                                    <Li eId="chp_2__subchp_2.5__art_2.13__list_o_1__item_c_inst2"
-                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.13__list_o_1__item_c">
+                                    <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_c"
+                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_c">
                                         <LiNummer>c.</LiNummer>
-                                        <Al>het bouwen van bouwwerken, geen gebouw zijnde, ter plaatse van het werkingsgebied 'voorerfgebied' mits de bouwhoogte niet hoger is dan 1 meter;</Al>
+                                        <Al>De maximum goothoogte van een bedrijfsgebouw is
+                                            de ter plaatse van het werkingsgebied 'maximum
+                                            goothoogte bedrijfsgebouw' bepaalde waarde.</Al>
                                     </Li>
-                                    <Li eId="chp_2__subchp_2.5__art_2.13__list_o_1__item_d"
-                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.13__list_o_1__item_d">
+                                    <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_d"
+                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_d">
                                         <LiNummer>d.</LiNummer>
-                                        <Al>het bouwen van bouwwerken ter plaatse van het werkingsgebied 'achtererfgebied', mits de bouwhoogte niet hoger is dan 3 meter en de grondoppervlakte niet groter is dan 30 m<sup>2</sup>.</Al>
+                                        <Al>De maximum bouwhoogte van een bedrijfsgebouw is
+                                            de ter plaatse van het werkingsgebied '<IntIoRef
+                                                eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1"
+                                                wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1"
+                                                ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                                >maximum bouwhoogte bedrijfsgebouw</IntIoRef>'
+                                            bepaalde waarde.</Al>
+                                    </Li>
+                                    <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_e"
+                                        wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_e">
+                                        <LiNummer>e.</LiNummer>
+                                        <Al>Binnen het werkingsgebied bouwactiviteit
+                                            toegestaan bedraagt de afstand tussen een
+                                            bedrijfsgebouw en de zijdelingse perceelsgrens ten
+                                            minste 3 meter.</Al>
                                     </Li>
                                 </Lijst>
                             </Inhoud>
                         </Artikel>
                     </Verwijder>
-                    <VoegToe context="gm0297_1__chp_2__subchp_2.5__art_2.12" positie="volgtOp">
+                    <VoegToe context="gm0297_1__chp_2__subchp_2.5__art_2.13" positie="volgtOp">
                         <Nummer>E</Nummer>
-                        <Wat>Na artikel 2.12 wordt een artikel ingevoegd, luidende:</Wat>
-                        <Artikel eId="chp_2__subchp_2.5__art_2.13" wId="gm0297_2__chp_2__subchp_2.5__art_2.13">
+                        <Wat>Na artikel 2.13 wordt een artikel ingevoegd, luidende:</Wat>
+                        <Artikel eId="chp_2__subchp_2.5__art_2.14" wId="gm0297_2__chp_2__subchp_2.5__art_2.14">
                             <Kop>
                                 <Label>Artikel</Label>
-                                <Nummer>2.13</Nummer>
+                                <Nummer>2.14</Nummer>
                                 <Opschrift>Omgevingsplanactiviteiten bouwen</Opschrift>
                             </Kop>
                             <Inhoud>
-                                <Lijst eId="chp_2__subchp_2.5__art_2.13__list_o_1"
-                                    wId="gm0297_2__chp_2__subchp_2.5__art_2.13__list_o_1"
+                                <Lijst eId="chp_2__subchp_2.5__art_2.14__list_o_1"
+                                    wId="gm0297_2__chp_2__subchp_2.5__art_2.14__list_o_1"
                                     type="expliciet">
                                     <Lijstaanhef>Een vergunning voor de omgevingsplanactiviteit bouwen is vereist indien deze activiteit bestaat uit:</Lijstaanhef>
-                                    <Li eId="chp_2__subchp_2.5__art_2.13__list_o_1__item_a"
-                                        wId="gm0297_2__chp_2__subchp_2.5__art_2.13__list_o_1__item_a">
+                                    <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_a"
+                                        wId="gm0297_2__chp_2__subchp_2.5__art_2.14__list_o_1__item_a">
                                         <LiNummer>a.</LiNummer>
                                         <Al>het verrichten van groot onderhoud aan een <IntRef ref="cmp_II__content_o_1__list_o_1__item_o_1" scope="Begrip">bouwwerk</IntRef>, waarbij de maatvoering en vormgeving van dat bouwwerk wijzigen;</Al>
                                     </Li>
-                                    <Li eId="chp_2__subchp_2.5__art_2.13__list_o_1__item_b"
-                                        wId="gm0297_2__chp_2__subchp_2.5__art_2.13__list_o_1__item_b">
+                                    <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_b"
+                                        wId="gm0297_2__chp_2__subchp_2.5__art_2.14__list_o_1__item_b">
                                         <LiNummer>b.</LiNummer>
                                         <Al>het bouwen van bouwwerken, geen gebouw zijnde, ter plaatse van het werkingsgebied 'voorerfgebied' waarbij de bouwhoogte hoger is dan 1 meter;</Al>
                                     </Li>
-                                    <Li eId="chp_2__subchp_2.5__art_2.13__list_o_1__item_c"
-                                        wId="gm0297_2__chp_2__subchp_2.5__art_2.13__list_o_1__item_c">
+                                    <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_c"
+                                        wId="gm0297_2__chp_2__subchp_2.5__art_2.14__list_o_1__item_c">
                                         <LiNummer>c.</LiNummer>
                                         <Al>het bouwen van bouwwerken ter plaatse van het werkingsgebied 'achtererfgebied', waarbij de bouwhoogte hoger is dan 3 meter en de grondoppervlakte groter is dan 30 m<sup>2</sup>.</Al>
                                     </Li>
