@@ -145,7 +145,7 @@
                                 <LidNummer>1</LidNummer>
                                 <Inhoud>
                                     <Al>Meldingplichtige gebruiksactiviteiten</Al>
-                                    <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef ref="gm0297_1__cmp_I__list_o_1__item_o_1__ref_o_1" eId="chp_2__subchp_2.2__art_2.5__para_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het binnen '<IntIoRef ref="gm0297_1__cmp_I__list_o_1__item_o_4__ref_o_1" eId="chp_2__subchp_2.2__art_2.5__para_1__ref_o_2" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_1__ref_o_2">Zone B</IntIoRef>' verboden de gebruiksactiviteit 'het uitoefenen van detailhandel in ter plaatse vervaardigde goederen' te verrichten zonder dat daarvoor aan het bevoegd gezag een melding is gedaan</Al>
+                                    <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" eId="chp_2__subchp_2.2__art_2.5__para_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het binnen '<IntIoRef ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" eId="chp_2__subchp_2.2__art_2.5__para_1__ref_o_2" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_1__ref_o_2">Zone B</IntIoRef>' verboden de gebruiksactiviteit 'het uitoefenen van detailhandel in ter plaatse vervaardigde goederen' te verrichten zonder dat daarvoor aan het bevoegd gezag een melding is gedaan</Al>
                                 </Inhoud>
                             </Lid>
                             <Lid eId="chp_2__subchp_2.2__art_2.5__para_2" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_2">
@@ -180,7 +180,7 @@
                                 <LidNummer>1</LidNummer>
                                 <Inhoud>
                                     <Al>Vergunningplichtige gebruiksactiviteiten</Al>
-                                    <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef ref="gm0297_1__cmp_I__list_o_1__item_o_1__ref_o_1" eId="chp_2__subchp_2.2__art_2.7__para_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het verboden om zonder omgevingsvergunning de gebruiksactiviteit 'het exploiteren van een verkooppunt voor motorbrandstoffen niet zijnde lpg' te verrichten. Daarnaast is het eveneens verboden om deze gebruiksactiviteit uit te voeren zonder een vergunning voor de milieubelastende activiteit ‘het opslaan van motorbrandstoffen niet zijnde lpg’, zoals beschreven in Artikel 13.24.</Al>
+                                    <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" eId="chp_2__subchp_2.2__art_2.7__para_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het verboden om zonder omgevingsvergunning de gebruiksactiviteit 'het exploiteren van een verkooppunt voor motorbrandstoffen niet zijnde lpg' te verrichten. Daarnaast is het eveneens verboden om deze gebruiksactiviteit uit te voeren zonder een vergunning voor de milieubelastende activiteit ‘het opslaan van motorbrandstoffen niet zijnde lpg’, zoals beschreven in Artikel 13.24.</Al>
                                 </Inhoud>
                             </Lid>
                             <!-- NB wId blijft para_3 na hernummering -->
