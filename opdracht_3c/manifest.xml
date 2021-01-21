@@ -25,10 +25,6 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>owActiviteiten-Gemeentestad.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
         <bestandsnaam>owGebiedsaanwijzingen-Gemeentestad.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
