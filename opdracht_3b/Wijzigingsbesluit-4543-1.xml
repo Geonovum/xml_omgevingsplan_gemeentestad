@@ -40,7 +40,7 @@
                     <doelen>
                         <doel>/join/id/proces/gm0297/2020/mutatie_opdracht_3b</doel>
                     </doelen>
-                    <instrumentVersie>/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;3</instrumentVersie>
+                    <instrumentVersie>/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;4</instrumentVersie>
                     <eId>art_I</eId>
                 </BeoogdeRegeling>
             </BeoogdeRegelgeving>
@@ -100,7 +100,7 @@
                     <Nummer>A</Nummer>
                     <Opschrift>Bijlage bij Artikel I</Opschrift>
                 </Kop>
-                <RegelingMutatie componentnaam="wijziging_reg" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-04-25;2" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;3">
+                <RegelingMutatie componentnaam="wijziging_reg" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-04-25;3" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;4">
                     <Vervang wat="gm0297_1__chp_2__subchp_2.3__art_2.10">
                         <Nummer>A</Nummer>
                         <Wat>Artikel 2.10 wordt gewijzigd</Wat>
@@ -192,17 +192,17 @@
     <RegelingVersieInformatie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/act/gm0297/2019/reg456</FRBRWork>
-            <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;3</FRBRExpression>
+            <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;4</FRBRExpression>
             <soortWork>/join/id/stop/work_019</soortWork>
             <!-- Een Regeling -->
         </ExpressionIdentificatie>
         <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <versienummer>2</versienummer>
+            <versienummer>4</versienummer>
         </RegelingVersieMetadata>
         <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
             <maker>/tooi/id/gemeente/gm0297</maker>
-            <officieleTitel>Voorbeeldregels met uitbreiding tbv Toepasbare Regels</officieleTitel>
+            <officieleTitel>Wijziging volgens scenario 3b van "Voorbeeldregels met uitbreiding tbv Toepasbare Regels" voor Gebruiksactiviteiten die zonder vergunning of melding zijn toegestaan</officieleTitel>
             <onderwerpen>
                 <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
             </onderwerpen>
