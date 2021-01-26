@@ -4,10 +4,11 @@
     schemaversie="1.0.4" 
     xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering/
     https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+    <!--gebaseerd op initeel gemeentestad (van juridischWerkendVanaf 2020-01-14) om aan te tonen dat de keten wel een wijzigingsbesluit aan kan-->
     <BesluitVersie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <FRBRWork>/akn/nl/bill/gm0297/2020/besluit3a2</FRBRWork>
-            <FRBRExpression>/akn/nl/bill/gm0297/2020/besluit3a2/nld@2020-04-27;1</FRBRExpression>
+            <FRBRWork>/akn/nl/bill/gm0297/2020/besluit3a3</FRBRWork>
+            <FRBRExpression>/akn/nl/bill/gm0297/2020/besluit3a3/nld@2020-01-13</FRBRExpression>
             <soortWork>/join/id/stop/work_003</soortWork>
         </ExpressionIdentificatie>
         <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -27,11 +28,11 @@
             <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
         </BesluitMetadata>
         <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <bekendOp>2020-03-01</bekendOp>
+            <bekendOp>2020-01-28</bekendOp>
             <procedurestappen>
                 <Procedurestap>
-                    <soortStap>/join/id/stop/procedure/stap_003</soortStap>
-                    <voltooidOp>2020-04-27</voltooidOp>
+                    <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+                    <voltooidOp>2020-01-14</voltooidOp>
                 </Procedurestap>
             </procedurestappen>
         </Procedureverloop>
@@ -41,7 +42,7 @@
                     <doelen>
                         <doel>/join/id/proces/gm0297/2020/mutatie_opdracht_3a3</doel>
                     </doelen>
-                    <instrumentVersie>/akn/nl/act/gm0297/2019/reg456/nld@2020-04-25;3</instrumentVersie>
+                    <instrumentVersie>/akn/nl/act/gm0297/2019/reg456/nld@2020-01-12;2</instrumentVersie>
                     <eId>art_I</eId>
                 </BeoogdeRegeling>
             </BeoogdeRegelgeving>
@@ -49,7 +50,7 @@
                 <Tijdstempel>
                     <doel>/join/id/proces/gm0297/2020/mutatie_opdracht_3a3</doel>
                     <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-                    <datum>2020-10-01</datum>
+                    <datum>2020-02-25</datum>
                     <eId>art_II</eId>
                 </Tijdstempel>
             </Tijdstempels>
@@ -81,12 +82,12 @@
                         <Nummer>II</Nummer>
                     </Kop>
                     <Inhoud>
-                        <Al>Dit besluit treedt in werking per 1 september 2020.</Al>
+                        <Al>Dit besluit treedt in werking per 25 februari 2020.</Al>
                     </Inhoud>
                 </Artikel>
             </Lichaam>
             <Sluiting eId="formula_2_o_1" wId="formula_2_o_1">
-                <Al>Gegeven te Geonovum, Gemeentestad, 27 april 2020</Al>
+                <Al>Gegeven te Geonovum, Gemeentestad, 14 januari 2020</Al>
                 <Ondertekening>
                     <Al>Gedeputeerde Raad van Amersfoort tot Den Haag</Al>
                     <Al>Arsen Kortlever</Al>
@@ -101,19 +102,19 @@
                     <Nummer>A</Nummer>
                     <Opschrift>Bijlage bij Artikel I</Opschrift>
                 </Kop>
-                <RegelingMutatie componentnaam="wijziging_reg" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-01-15;2" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-04-25;3">
+                <RegelingMutatie componentnaam="wijziging_reg" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-01-15;2" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-01-12;2">
                     <VoegToe context="gm0297_1__chp_1__art_1.4" positie="komtVoor">
                         <Nummer>E</Nummer>
                         <Wat>Voor artikel 1.4 wordt een artikel ingevoegd, luidende:</Wat>
                         <Artikel eId="chp_1__art_1.3"
-                            wId="gm0297_1__chp_1__art_1.3">
+                            wId="gm0297_2__chp_1__art_1.3">
                             <Kop>
                                 <Label>Artikel</Label>
                                 <Nummer>1.3</Nummer>
                                 <Opschrift>Wijzigingsbesluit technische toets meerdere Regelteksten.</Opschrift>
                             </Kop>
                             <Inhoud>
-                               <Al>Dit zijn meerdere Regelteksten.</Al>
+                                <Al>Dit zijn meerdere Regelteksten.</Al>
                             </Inhoud>
                         </Artikel>
                     </VoegToe>
@@ -124,12 +125,12 @@
     <RegelingVersieInformatie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/act/gm0297/2019/reg456</FRBRWork>
-            <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2020-04-25;3</FRBRExpression>
+            <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2020-01-12;2</FRBRExpression>
             <soortWork>/join/id/stop/work_019</soortWork>
             <!-- Een Regeling -->
         </ExpressionIdentificatie>
         <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <versienummer>3</versienummer>
+            <versienummer>2</versienummer>
         </RegelingVersieMetadata>
     </RegelingVersieInformatie>
 </AanleveringBesluit>
