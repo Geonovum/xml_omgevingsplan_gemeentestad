@@ -7,7 +7,7 @@
     <BesluitVersie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/bill/gm0297/2020/4508</FRBRWork>
-            <FRBRExpression>/akn/nl/bill/gm0297/2020/4508/nld@2020-01-20;1</FRBRExpression>
+            <FRBRExpression>/akn/nl/bill/gm0297/2020/4508/nld@2020</FRBRExpression>
             <soortWork>/join/id/stop/work_003</soortWork>
         </ExpressionIdentificatie>
         <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -24,11 +24,15 @@
             <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
         </BesluitMetadata>
         <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <bekendOp>2020-01-22</bekendOp>
+            <bekendOp>2020-03-10</bekendOp>
             <procedurestappen>
                 <Procedurestap>
+                    <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+                    <voltooidOp>2020-02-25</voltooidOp>
+                </Procedurestap>
+                <Procedurestap>
                     <soortStap>/join/id/stop/procedure/stap_003</soortStap>
-                    <voltooidOp>2020-01-21</voltooidOp>
+                    <voltooidOp>2020-02-27</voltooidOp>
                 </Procedurestap>
             </procedurestappen>
         </Procedureverloop>
@@ -38,7 +42,7 @@
                     <doelen>
                         <doel>/join/id/proces/gm0297/2020/eerstewijziging</doel>
                     </doelen>
-                    <instrumentVersie>/akn/nl/act/gm0297/2019/reg456/nld@2020-01-15;2</instrumentVersie>
+                    <instrumentVersie>/akn/nl/act/gm0297/2019/reg456/nld@2</instrumentVersie>
                     <eId>art_II</eId>
                 </BeoogdeRegeling>
             </BeoogdeRegelgeving>
@@ -46,7 +50,7 @@
                 <Tijdstempel>
                     <doel>/join/id/proces/gm0297/2020/eerstewijziging</doel>
                     <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-                    <datum>2020-02-01</datum>
+                    <datum>2020-04-07</datum>
                     <eId>art_II</eId>
                 </Tijdstempel>
             </Tijdstempels>
@@ -75,12 +79,12 @@
                         <Nummer>II</Nummer>
                     </Kop>
                     <Inhoud>
-                        <Al>Dit besluit treedt in werking per 1 februari 2020.</Al>
+                        <Al>Dit besluit treedt in werking per 7 april 2020.</Al>
                     </Inhoud>
                 </Artikel>
             </Lichaam>
             <Sluiting eId="formula_2_o_1" wId="formula_2_o_1">
-                <Al>Gegeven te Geonovum, Gemeentestad, 21 januari 2020</Al>
+                <Al>Gegeven te Geonovum, Gemeentestad, 27 februari 2020</Al>
                 <Ondertekening>
                     <Al>Gedeputeerde Raad van Amersfoort tot Den Haag</Al>
                     <Al>Ikra van der Velde</Al>
@@ -95,7 +99,7 @@
                     <Nummer>A</Nummer>
                     <Opschrift>Bijlage bij Artikel I</Opschrift>
                 </Kop>
-                <RegelingMutatie componentnaam="wijziging_reg" was="/akn/nl/act/gm0297/2019/reg456/nld@2019-06-25;1" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-01-15;2">
+                <RegelingMutatie componentnaam="wijziging_reg" was="/akn/nl/act/gm0297/2019/reg456/nld@1" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2">
                     <Vervang wat="gm0297_1__chp_2__subchp_2.2__art_2.5">
                         <Nummer>A</Nummer>
                         <Wat>Artikel 2.5 is vernummerd naar 2.6:</Wat>
@@ -364,7 +368,7 @@
     <RegelingVersieInformatie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/act/gm0297/2019/reg456</FRBRWork>
-            <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2020-01-15;2</FRBRExpression>
+            <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2</FRBRExpression>
             <soortWork>/join/id/stop/work_019</soortWork>
         </ExpressionIdentificatie>
         <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
