@@ -7,7 +7,7 @@
     <BesluitVersie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/bill/gm0297/2020/besluit4527</FRBRWork>
-            <FRBRExpression>/akn/nl/bill/gm0297/2020/besluit4527/nld@2020-04-27;1</FRBRExpression>
+            <FRBRExpression>/akn/nl/bill/gm0297/2020/besluit4527/nld@2020</FRBRExpression>
             <soortWork>/join/id/stop/work_003</soortWork>
         </ExpressionIdentificatie>
         <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -27,11 +27,15 @@
             <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
         </BesluitMetadata>
         <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <bekendOp>2020-03-01</bekendOp>
+            <bekendOp>2020-04-21</bekendOp>
             <procedurestappen>
                 <Procedurestap>
+                    <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+                    <voltooidOp>2020-04-07</voltooidOp>
+                </Procedurestap>
+                <Procedurestap>
                     <soortStap>/join/id/stop/procedure/stap_003</soortStap>
-                    <voltooidOp>2020-04-27</voltooidOp>
+                    <voltooidOp>2020-04-09</voltooidOp>
                 </Procedurestap>
             </procedurestappen>
         </Procedureverloop>
@@ -41,7 +45,7 @@
                     <doelen>
                         <doel>/join/id/proces/gm0297/2020/mutatie_opdracht_3a</doel>
                     </doelen>
-                    <instrumentVersie>/akn/nl/act/gm0297/2019/reg456/nld@2020-04-25;3</instrumentVersie>
+                    <instrumentVersie>/akn/nl/act/gm0297/2019/reg456/nld@3</instrumentVersie>
                     <eId>art_I</eId>
                 </BeoogdeRegeling>
             </BeoogdeRegelgeving>
@@ -49,7 +53,7 @@
                 <Tijdstempel>
                     <doel>/join/id/proces/gm0297/2020/mutatie_opdracht_3a</doel>
                     <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-                    <datum>2020-10-01</datum>
+                    <datum>2020-05-19</datum>
                     <eId>art_II</eId>
                 </Tijdstempel>
             </Tijdstempels>
@@ -81,12 +85,12 @@
                         <Nummer>II</Nummer>
                     </Kop>
                     <Inhoud>
-                        <Al>Dit besluit treedt in werking per 1 september 2020.</Al>
+                        <Al>Dit besluit treedt in werking per 19 mei 2020.</Al>
                     </Inhoud>
                 </Artikel>
             </Lichaam>
             <Sluiting eId="formula_2_o_1" wId="formula_2_o_1">
-                <Al>Gegeven te Geonovum, Gemeentestad, 27 april 2020</Al>
+                <Al>Gegeven te Geonovum, Gemeentestad, 7 april 2020</Al>
                 <Ondertekening>
                     <Al>Gedeputeerde Raad van Amersfoort tot Den Haag</Al>
                     <Al>Arsen Kortlever</Al>
@@ -101,7 +105,7 @@
                     <Nummer>A</Nummer>
                     <Opschrift>Bijlage bij Artikel I</Opschrift>
                 </Kop>
-                <RegelingMutatie componentnaam="wijziging_reg" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-01-15;2" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-04-25;3">
+                <RegelingMutatie componentnaam="wijziging_reg" was="/akn/nl/act/gm0297/2019/reg456/nld@2" wordt="/akn/nl/act/gm0297/2019/reg456/nld@3">
                     <Vervang wat="gm0297_1__chp_2__subchp_2.3__art_2.10">
                         <Nummer>A</Nummer>
                         <Wat>Artikel 2.10 wordt als volgt gewijzigd</Wat>
@@ -193,7 +197,7 @@
     <RegelingVersieInformatie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/act/gm0297/2019/reg456</FRBRWork>
-            <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2020-04-25;3</FRBRExpression>
+            <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@3</FRBRExpression>
             <soortWork>/join/id/stop/work_019</soortWork>
             <!-- Een Regeling -->
         </ExpressionIdentificatie>
