@@ -101,14 +101,16 @@
                 </Kop>
                 <RegelingMutatie componentnaam="verwijder_gio" was="/akn/nl/act/gm0297/2019/reg456/nld@5" wordt="/akn/nl/act/gm0297/2019/reg456/nld@6">
                     <!-- Artikel 2.12 vervalt, Inhoud en Vervallen hebben geen wijzigactie, dus Artikel verwijderen en toevoegen -->
-                    <Verwijder wat="gm0297_1__chp_2__subchp_2.4__art_2.12">
+                    <!-- vanaf versie 1.04 van STOP hebben Vervallen en Inhoud wel een wijzigactie. Vervallen ka -->
+                    <Vervang wat="gm0297_1__chp_2__subchp_2.4__art_2.12">
                         <Artikel eId="chp_2__subchp_2.4__art_2.12_inst2" wId="gm0297_1__chp_2__subchp_2.4__art_2.12">
                             <Kop>
                                 <Label>Artikel</Label>
                                 <Nummer>2.12</Nummer>
                                 <Opschrift>Omgevingswaarde stikstofdioxide</Opschrift>
                             </Kop>
-                            <Inhoud>
+                            <Vervallen wijzigactie="voegtoe"/>
+                            <Inhoud wijzigactie="verwijder">
                                 <Lijst eId="chp_2__subchp_2.4__art_2.12_inst2__list_o_1" wId="gm0297_1__chp_2__subchp_2.4__art_2.12__list_o_1" type="expliciet">
                                     <Lijstaanhef>Voor stikstofdioxide geldt in '<IntIoRef eId="chp_2__subchp_2.4__art_2.12_inst2__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.4__art_2.12__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1">Zuilichem</IntIoRef>' de volgende ten hoogste toelaatbare concentraties:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.4__art_2.12_inst2__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.4__art_2.12__list_o_1__item_a">
@@ -122,17 +124,7 @@
                                 </Lijst>
                             </Inhoud>
                         </Artikel>
-                    </Verwijder>
-                    <VoegToe positie="volgtOp" context="gm0297_1__chp_2__subchp_2.4__art_2.11">
-                        <Artikel eId="chp_2__subchp_2.4__art_2.12" wId="gm0297_6__chp_2__subchp_2.4__art_2.12">
-                            <Kop>
-                                <Label>Artikel</Label>
-                                <Nummer>2.12</Nummer>
-                                <Opschrift>Omgevingswaarde stikstofdioxide</Opschrift>
-                            </Kop>
-                            <Vervallen/>
-                        </Artikel>
-                    </VoegToe>
+                    </Vervang>
                     <!-- Wijzigen begrippenlijst, verwijderen Begrip met ExtIoRef met GIO 'Zuilichem' -->
                     <Vervang wat="gm0297_1__cmp_I__content_o_1">
                         <Divisietekst eId="cmp_I__content_o_1" wId="gm0297_1__cmp_I__content_o_1">
