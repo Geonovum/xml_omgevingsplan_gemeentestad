@@ -7,7 +7,7 @@
     <BesluitVersie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/bill/gm0297/2020/4530</FRBRWork>
-            <FRBRExpression>/akn/nl/bill/gm0297/2020/4530/nld@2020-11-06;2</FRBRExpression>
+            <FRBRExpression>/akn/nl/bill/gm0297/2020/4530/nld@2020</FRBRExpression>
             <soortWork>/join/id/stop/work_003</soortWork>
         </ExpressionIdentificatie>
         <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -31,12 +31,17 @@
             </informatieobjectRefs>
         </BesluitMetadata>
         <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <bekendOp>2020-11-09</bekendOp>
+            <bekendOp>2020-10-06</bekendOp>
             <procedurestappen>
+                <Procedurestap>
+                    <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+                    <!-- Vaststelling -->
+                    <voltooidOp>2020-09-22</voltooidOp>
+                </Procedurestap>
                 <Procedurestap>
                     <soortStap>/join/id/stop/procedure/stap_003</soortStap>
                     <!-- Ondertekening -->
-                    <voltooidOp>2020-11-06</voltooidOp>
+                    <voltooidOp>2020-09-24</voltooidOp>
                 </Procedurestap>
             </procedurestappen>
         </Procedureverloop>
@@ -46,7 +51,7 @@
                     <doelen>
                         <doel>/join/id/proces/gm0297/2020/mutatie_opdracht_4a</doel>
                     </doelen>
-                    <instrumentVersie>/akn/nl/act/gm0297/2020/mut100/nld@2020-11-06;2</instrumentVersie>
+                    <instrumentVersie>/akn/nl/act/gm0297/2019/reg456/nld@7</instrumentVersie>
                     <eId>art_I</eId>
                 </BeoogdeRegeling>
                 <BeoogdInformatieobject>
@@ -61,7 +66,7 @@
                 <Tijdstempel>
                     <doel>/join/id/proces/gm0297/2020/mutatie_opdracht_4a</doel>
                     <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-                    <datum>2020-11-09</datum>
+                    <datum>2020-11-03</datum>
                     <eId>at_II</eId>
                 </Tijdstempel>
             </Tijdstempels>
@@ -72,7 +77,7 @@
             </RegelingOpschrift>
             <Aanhef eId="formula_1" wId="formula_1">
                 <Al>De raad van de gemeente Gemeentestad </Al>
-                <Al>gelezen het voorstel van burgemeester en wethouders van 6 november 2020, nr. 2020-4530;</Al>
+                <Al>gelezen het voorstel van burgemeester en wethouders van 7 september 2020, nr. 2020-4530;</Al>
                 <Al>Gelet op <ExtRef ref="https://wetten.overheid.nl/jci1.3:c:BWBR0005416&amp;titeldeel=III&amp;hoofdstuk=IX&amp;artikel=149" soort="URL">Gemeentewet, art. 149</ExtRef>.</Al>
                 <Al>in overeenstemming met <b>mutatiescenario 4a</b> verstrekt door <i>de kenniswerksessie van 26 februari 2020;</i>
                 </Al>
@@ -93,12 +98,12 @@
                         <Nummer>II</Nummer>
                     </Kop>
                     <Inhoud>
-                        <Al>Dit besluit treedt in werking per 9 november 2020</Al>
+                        <Al>Dit besluit treedt in werking per 3 november 2020</Al>
                     </Inhoud>
                 </Artikel>
             </Lichaam>
             <Sluiting eId="formula_2" wId="formula_2">
-                <Al>Gegeven te Kaap Doorn, Gemeentestad, 6 november 2020</Al>
+                <Al>Gegeven te Kaap Doorn, Gemeentestad, 22 september 2020</Al>
                 <Ondertekening>
                     <Al>Gedeputeerde Raad van Apeldoorn tot Den Haag</Al>
                     <Al>Yue Wan Fan</Al>
@@ -113,7 +118,7 @@
                     <Nummer>A</Nummer>
                     <Opschrift>Bijlage bij artikel I</Opschrift>
                 </Kop>
-                <RegelingMutatie componentnaam="wijzig_gio" was="/akn/nl/act/gm0297/2019/reg456/nld@2020-09-15;1" wordt="/akn/nl/act/gm0297/2019/reg456/nld@2020-11-06;2">
+                <RegelingMutatie componentnaam="wijzig_gio" was="/akn/nl/act/gm0297/2019/reg456/nld@6" wordt="/akn/nl/act/gm0297/2019/reg456/nld@7">
                     <Vervang wat="gm0297_1__cmp_I__content_o_1">
                         <Nummer>A</Nummer>
                         <Wat>Begrip Exploiteren speelautomatenhal wordt gewijzigd</Wat>
@@ -290,11 +295,11 @@
     <RegelingVersieInformatie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/act/gm0297/2019/reg456</FRBRWork>
-            <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@2020-11-06;2</FRBRExpression>
+            <FRBRExpression>/akn/nl/act/gm0297/2019/reg456/nld@7</FRBRExpression>
             <soortWork>/join/id/stop/work_019</soortWork>
         </ExpressionIdentificatie>
         <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <versienummer>2</versienummer>
+            <versienummer>7</versienummer>
         </RegelingVersieMetadata>
     </RegelingVersieInformatie>
 </AanleveringBesluit>
