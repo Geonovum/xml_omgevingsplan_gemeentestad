@@ -202,7 +202,7 @@
                     <RegelingOpschrift eId="longTitle" wId="longTitle">
                         <Al>Omgevingsplan Gemeentestad (na intrekken vervangen)</Al>
                     </RegelingOpschrift>
-                    <Lichaam eId="body" wId="body">
+<Lichaam eId="body" wId="body">
                         <Hoofdstuk eId="chp_1" wId="gm0297_1__chp_1">
                             <Kop>
                                 <Label>Hoofdstuk</Label>
@@ -249,9 +249,10 @@
                                         <Opschrift>Gebruiksactiviteiten die zonder vergunning of melding zijn toegestaan</Opschrift>
                                     </Kop>
                                     <Inhoud>
+                                        <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
+                                        <!-- KL, 2021-01-25 alinea weer teruggezet ivm afspraak leveranciers om geen lijstaanhef te gebruiken-->
+                                        <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.4__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" >Bedrijf categorie 2</IntIoRef>' mogen de locatie en de daarop voorkomende bouwwerken in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Al>
                                         <Lijst eId="chp_2__subchp_2.2__art_2.4__list_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1" type="expliciet">
-                                            <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
-                                            <Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.4__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" >Bedrijf categorie 2</IntIoRef>' mogen de locatie en de daarop voorkomende bouwwerken in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
                                             <Li eId="chp_2__subchp_2.2__art_2.4__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.4__list_o_1__item_a">
                                                 <LiNummer>a.</LiNummer>
                                                 <Al>het uitoefenen van bedrijfstypen van categorie 2 die voorkomen op de bij deze regels behorende<IntRef ref="cmp_III__content_o_1" scope="Divisietekst">Lijst van toegelaten bedrijfstypen</IntRef> ; </Al>
@@ -286,9 +287,10 @@
                                         <Opschrift>Gebruiksactiviteiten die verboden zijn</Opschrift>
                                     </Kop>
                                     <Inhoud>
+                                        <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
+                                        <!-- KL, 2021-01-25 alinea weer teruggezet ivm afspraak leveranciers om geen lijstaanhef te gebruiken-->
+                                        <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.5__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" >Bedrijf categorie 2</IntIoRef>' is het verboden de locatie en de daarop voorkomende bouwwerken te gebruiken:</Al>
                                         <Lijst eId="chp_2__subchp_2.2__art_2.5__list_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1" type="expliciet">
-                                            <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
-                                            <Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.5__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" >Bedrijf categorie 2</IntIoRef>' is het verboden de locatie en de daarop voorkomende bouwwerken te gebruiken:</Lijstaanhef>
                                             <Li eId="chp_2__subchp_2.2__art_2.5__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__list_o_1__item_a">
                                                 <LiNummer>a.</LiNummer>
                                                 <Al>voor het exploiteren van inrichtingen als bedoeld in artikel 2.1 lid 3 juncto Bijlage 1 onderdeel D van het Besluit omgevingsrecht;</Al>
@@ -323,9 +325,10 @@
                                         <LidNummer>2.</LidNummer>
                                         <Inhoud>
                                             <Al>Indieningsvereisten melding</Al>
+                                            <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
+                                            <!-- KL, 2021-01-25 alinea weer teruggezet ivm afspraak leveranciers om geen lijstaanhef te gebruiken-->
+                                            <Al>Bij het doen van de melding dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
                                             <Lijst eId="chp_2__subchp_2.2__art_2.6__para_2__list_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_2__list_o_1" type="expliciet">
-                                                <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
-                                                <Lijstaanhef>Bij het doen van de melding dienen de volgende indieningsvereisten in acht te worden genomen:</Lijstaanhef>
                                                 <Li eId="chp_2__subchp_2.2__art_2.6__para_2__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_2__list_o_1__item_a">
                                                     <LiNummer>a.</LiNummer>
                                                     <Al>de melding dient te worden gedaan door middel van het inzenden van het bij deze regels behorende Formulier Melding;</Al>
@@ -357,9 +360,10 @@
                                         <LidNummer>2.</LidNummer>
                                         <Inhoud>
                                             <Al>Indieningsvereisten aanvraag omgevingsvergunning</Al>
+                                            <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
+                                            <!-- KL, 2021-01-25 alinea weer teruggezet ivm afspraak leveranciers om geen lijstaanhef te gebruiken-->
+                                            <Al>Bij het indienen van de aanvraag om omgevingsvergunning dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
                                             <Lijst eId="chp_2__subchp_2.2__art_2.7__para_2__list_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_2__list_o_1" type="expliciet">
-                                                <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
-                                                <Lijstaanhef>Bij het indienen van de aanvraag om omgevingsvergunning dienen de volgende indieningsvereisten in acht te worden genomen:</Lijstaanhef>
                                                 <Li eId="chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_2__list_o_1__item_a">
                                                     <LiNummer>a.</LiNummer>
                                                     <Al>de aanvraag dient te worden ingediend door middel van het inzenden van het bij deze regels behorende Formulier Aanvraag omgevingsvergunning;</Al>
@@ -380,9 +384,10 @@
                                         <LidNummer>3.</LidNummer>
                                         <Inhoud>
                                             <Al>Beoordelingsregels aanvraag omgevingsvergunning</Al>
+                                            <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
+                                            <!-- KL, 2021-01-25 alinea weer teruggezet ivm afspraak leveranciers om geen lijstaanhef te gebruiken-->
+                                            <Al>De omgevingsvergunning wordt alleen verleend als aan de volgende regels wordt voldaan:</Al>
                                             <Lijst eId="chp_2__subchp_2.2__art_2.7__para_3__list_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_3__list_o_1" type="expliciet">
-                                                <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat voor de lijst stond als lijstaanhef opgenomen -->
-                                                <Lijstaanhef>De omgevingsvergunning wordt alleen verleend als aan de volgende regels wordt voldaan:</Lijstaanhef>
                                                 <Li eId="chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.7__para_3__list_o_1__item_a">
                                                     <LiNummer>a.</LiNummer>
                                                     <Al>Uit de RisicoEffectRapportage is gebleken dat het gevaar voor de omliggende gevoelige functies ten hoogste 0.1 is.</Al>
@@ -427,8 +432,9 @@
                                         <Opschrift>Gebruiksactiviteiten die zonder vergunning of melding zijn toegestaan</Opschrift>
                                     </Kop>
                                     <Inhoud>
+                                        <!-- KL, 2021-01-25 alinea weer teruggezet ivm afspraak leveranciers om geen lijstaanhef te gebruiken-->
+                                        <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.3__art_2.10__ref_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" >Centrumgebied</IntIoRef>', zoals benoemd in<IntRef ref="chp_2__subchp_2.3__art_2.9" scope="Artikel">artikel 2.9</IntRef> mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Al>
                                         <Lijst eId="chp_2__subchp_2.3__art_2.10__list_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1" type="expliciet">
-                                            <Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" >Centrumgebied</IntIoRef>', zoals benoemd in<IntRef ref="chp_2__subchp_2.3__art_2.9" scope="Artikel">artikel 2.9</IntRef> mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
                                             <Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_a">
                                                 <LiNummer>a.</LiNummer>
                                                 <Al>het exploiteren van een bedrijf;</Al>
@@ -519,9 +525,10 @@
                                         <LidNummer>2.</LidNummer>
                                         <Inhoud>
                                             <Al>Indieningsvereisten melding</Al>
+                                            <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat vor lijst stond als lijstaanhef toegevoegd -->
+                                            <!-- KL, 2021-01-25 alinea weer teruggezet ivm afspraak leveranciers om geen lijstaanhef te gebruiken-->
+                                            <Al>Bij het doen van de melding dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
                                             <Lijst eId="chp_2__subchp_2.3__art_2.11__para_2__list_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.11__para_2__list_o_1" type="expliciet">
-                                                <!-- BV: Verplichte lijstaanhef toegevoegd, KL: alinea dat vor lijst stond als lijstaanhef toegevoegd -->
-                                                <Lijstaanhef>Bij het doen van de melding dienen de volgende indieningsvereisten in acht te worden genomen:</Lijstaanhef>
                                                 <Li eId="chp_2__subchp_2.3__art_2.11__para_2__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.3__art_2.11__para_2__list_o_1__item_a">
                                                     <LiNummer>a.</LiNummer>
                                                     <Al>de melding dient te worden gedaan door middel van het inzenden van het bij deze regels behorende Formulier Melding;</Al>
@@ -544,8 +551,9 @@
                                         <Opschrift>Omgevingswaarde stikstofdioxide</Opschrift>
                                     </Kop>
                                     <Inhoud>
+                                        <!-- KL, 2021-01-25 alinea weer teruggezet ivm afspraak leveranciers om geen lijstaanhef te gebruiken-->
+                                        <Al>Voor stikstofdioxide geldt in '<IntIoRef eId="chp_2__subchp_2.4__art_2.12__ref_o_1" wId="gm0297_1__chp_2__subchp_2.4__art_2.12__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" >Zuilichem</IntIoRef>' de volgende ten hoogste toelaatbare concentraties:</Al>
                                         <Lijst eId="chp_2__subchp_2.4__art_2.12__list_o_1" wId="gm0297_1__chp_2__subchp_2.4__art_2.12__list_o_1" type="expliciet">
-                                            <Lijstaanhef>Voor stikstofdioxide geldt in '<IntIoRef eId="chp_2__subchp_2.4__art_2.12__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.4__art_2.12__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" >Zuilichem</IntIoRef>' de volgende ten hoogste toelaatbare concentraties:</Lijstaanhef>
                                             <Li eId="chp_2__subchp_2.4__art_2.12__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.4__art_2.12__list_o_1__item_a">
                                                 <LiNummer>a.</LiNummer>
                                                 <Al>150 μg/m<sup>3</sup> uurgemiddelde, dat ten hoogste twaalf maal per kalenderjaar wordt overschreden; en</Al>
@@ -572,8 +580,9 @@
                                         <Opschrift>Omgevingsplanactiviteiten bouwen die zonder vergunning of melding zijn toegestaan</Opschrift>
                                     </Kop>
                                     <Inhoud>
+                                        <!-- KL, 2021-01-25 alinea weer teruggezet ivm afspraak leveranciers om geen lijstaanhef te gebruiken-->
+                                        <Al>Een vergunning voor de omgevingsplanactiviteit bouwen is niet vereist indien deze activiteit bestaat uit:</Al>
                                         <Lijst eId="chp_2__subchp_2.5__art_2.13__list_o_1" wId="gm0297_1__chp_2__subchp_2.5__art_2.13__list_o_1" type="expliciet">
-                                            <Lijstaanhef>Een vergunning voor de omgevingsplanactiviteit bouwen is niet vereist indien deze activiteit bestaat uit:</Lijstaanhef>
                                             <Li eId="chp_2__subchp_2.5__art_2.13__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.5__art_2.13__list_o_1__item_a">
                                                 <LiNummer>a.</LiNummer>
                                                 <Al>het verrichten van gewoon onderhoud aan een<IntRef ref="cmp_II__content_o_1__list_o_1__item_o_1" scope="Begrip">bouwwerk</IntRef>, voor zover maatvoering en vormgeving van dat bouwwerk niet wijzigen;</Al>
@@ -600,8 +609,9 @@
                                         <Opschrift>Bouwregels bedrijfsgebouwen</Opschrift>
                                     </Kop>
                                     <Inhoud>
+                                        <!-- KL, 2021-01-25 alinea weer teruggezet ivm afspraak leveranciers om geen lijstaanhef te gebruiken-->
+                                        <Al>Voor het bouwen en instandhouden van bedrijfsgebouwen gelden de volgende regels:</Al>
                                         <Lijst eId="chp_2__subchp_2.5__art_2.14__list_o_1" wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1" type="expliciet">
-                                            <Lijstaanhef>Voor het bouwen en instandhouden van bedrijfsgebouwen gelden de volgende regels:</Lijstaanhef>
                                             <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_a">
                                                 <LiNummer>a.</LiNummer>
                                                 <Al>Een bedrijfsgebouw moet worden gesitueerd binnen het werkingsgebied 'bouwactiviteit toegestaan'.</Al>
@@ -672,7 +682,7 @@
                                     </Kop>
                                     <Inhoud>
                                         <Al>Voor het bouwen van een bijgebouw gelden de volgende toestemmingen:</Al>
-                                        <Lijst type="ongemarkeerd" wId="gm0297_1__chp_5__subchp_5.1__art_5.1__list_o_1" eId="chp_5__subchp_5.1__art_5.1__list_o_1">
+                                        <Lijst type="expliciet" wId="gm0297_1__chp_5__subchp_5.1__art_5.1__list_o_1" eId="chp_5__subchp_5.1__art_5.1__list_o_1">
                                             <Li wId="gm0297_1__chp_5__subchp_5.1__art_5.1__list_o_1__item_a" eId="chp_5__subchp_5.1__art_5.1__list_o_1__item_a">
                                                 <LiNummer>a.</LiNummer>
                                                 <Al>Het is toegestaan om een bijgebouw met een oppervlakte kleiner dan 20 m² te bouwen.</Al>
@@ -718,7 +728,7 @@
                                         <LidNummer>2.</LidNummer>
                                         <Inhoud>
                                             <Al>Het verbod geldt niet voor:</Al>
-                                            <Lijst type="ongemarkeerd" wId="gm0297_1__chp_6__subchp_6.1__art_6.1__para_2__list_o_1" eId="chp_6__subchp_6.1__art_6.1__para_2__list_o_1">
+                                            <Lijst type="expliciet" wId="gm0297_1__chp_6__subchp_6.1__art_6.1__para_2__list_o_1" eId="chp_6__subchp_6.1__art_6.1__para_2__list_o_1">
                                                 <Li wId="gm0297_1__chp_6__subchp_6.1__art_6.1__para_2__list_o_1__item_a" eId="chp_6__subchp_6.1__art_6.1__para_2__list_o_1__item_a">
                                                     <LiNummer>a.</LiNummer>
                                                     <Al>bomen met een stamomtrek van minder dan 50 cm;</Al>
@@ -743,7 +753,7 @@
                                     </Kop>
                                     <Inhoud>
                                         <Al>Bij de aanvraag om een omgevingsvergunning wordt:</Al>
-                                        <Lijst type="ongemarkeerd" wId="gm0297_1__chp_6__subchp_6.1__art_6.2__list_o_1" eId="chp_6__subchp_6.1__art_6.2__list_o_1">
+                                        <Lijst type="expliciet" wId="gm0297_1__chp_6__subchp_6.1__art_6.2__list_o_1" eId="chp_6__subchp_6.1__art_6.2__list_o_1">
                                             <Li wId="gm0297_1__chp_6__subchp_6.1__art_6.2__list_o_1__item_a" eId="chp_6__subchp_6.1__art_6.2__list_o_1__item_a">
                                                 <LiNummer>a.</LiNummer>
                                                 <Al>iedere te kappen boom op een kaart, foto of tekening geïdentificeerd met een nummer en de locatie;</Al>
@@ -767,7 +777,7 @@
                                     </Kop>
                                     <Inhoud>
                                         <Al>De omgevingsvergunning kan worden verleend:</Al>
-                                        <Lijst type="ongemarkeerd" wId="gm0297_1__chp_6__subchp_6.1__art_6.3__list_o_1" eId="chp_6__subchp_6.1__art_6.3__list_o_1">
+                                        <Lijst type="expliciet" wId="gm0297_1__chp_6__subchp_6.1__art_6.3__list_o_1" eId="chp_6__subchp_6.1__art_6.3__list_o_1">
                                             <Li wId="gm0297_1__chp_6__subchp_6.1__art_6.3__list_o_1__item_a" eId="chp_6__subchp_6.1__art_6.3__list_o_1__item_a">
                                                 <LiNummer>a.</LiNummer>
                                                 <Al>als de boom gevaar of ernstige hinder veroorzaakt; of</Al>
