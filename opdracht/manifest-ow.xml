@@ -46,41 +46,5 @@
        <naam>owSymbolisatieItem.xml</naam>
        <objecttype>SymbolisatieItem</objecttype>
      </Bestand>
-      <!--    <Bestand>
-      <naam>Bedrijf_categorie_2.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Centrumgebied.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Speelhal.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Welstand.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Zone_A.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Zaltbommel.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Zone_B.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Zuilichem.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>
-    <Bestand>
-      <naam>Zuilichem_industriegebied.gml</naam>
-      <objecttype>Geometrie</objecttype>
-    </Bestand>-->
    </Aanlevering>
 </Aanleveringen>
