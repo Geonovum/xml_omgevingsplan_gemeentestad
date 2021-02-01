@@ -882,7 +882,7 @@
                                         <Term>Bedrijf categorie 2</Term>
                                         <Definitie>
                                             <Al>
-                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0297/2019/Bedrijf_categorie_2/nld@2020-03-18;3520">/join/id/regdata/gm0297/2019/Bedrijf_categorie_2/nld@2020-03-18;3520</ExtIoRef>
+                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0297/2020/Bedrijf_categorie_2/nld@2020-03-18;3520">/join/id/regdata/gm0297/2020/Bedrijf_categorie_2/nld@2020-03-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
@@ -890,7 +890,7 @@
                                         <Term>Centrumgebied</Term>
                                         <Definitie>
                                             <Al>
-                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/gm0297/2019/Centrumgebied/nld@2020-03-18;3520">/join/id/regdata/gm0297/2019/Centrumgebied/nld@2020-03-18;3520</ExtIoRef>
+                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/gm0297/2020/Centrumgebied/nld@2020-03-18;3520">/join/id/regdata/gm0297/2020/Centrumgebied/nld@2020-03-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
@@ -898,7 +898,7 @@
                                         <Term>Exploiteren speelautomatenhal</Term>
                                         <Definitie>
                                             <Al>
-                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/gm0297/2019/Speelhal/nld@2020-03-18;3520">/join/id/regdata/gm0297/2019/Speelhal/nld@2020-03-18;3520</ExtIoRef>
+                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/gm0297/2020/Speelhal/nld@2020-03-18;3520">/join/id/regdata/gm0297/2020/Speelhal/nld@2020-03-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
@@ -906,7 +906,7 @@
                                         <Term>Maximum bouwhoogte bedrijfsgebouw</Term>
                                         <Definitie>
                                             <Al>
-                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2020-03-18;3520">/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2020-03-18;3520</ExtIoRef>
+                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0297/2020/Bouwhoogte/nld@2020-03-18;3520">/join/id/regdata/gm0297/2020/Bouwhoogte/nld@2020-03-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
@@ -914,7 +914,7 @@
                                         <Term>Welstandsniveau</Term>
                                         <Definitie>
                                             <Al>
-                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/gm0297/2019/Welstand/nld@2020-03-18;3520">/join/id/regdata/gm0297/2019/Welstand/nld@2020-03-18;3520</ExtIoRef>
+                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/gm0297/2020/Welstand/nld@2020-03-18;3520">/join/id/regdata/gm0297/2020/Welstand/nld@2020-03-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
