@@ -28,11 +28,15 @@
             <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
         </BesluitMetadata>
         <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-            <bekendOp>2020-01-28</bekendOp>
+            <bekendOp>2020-04-21</bekendOp>
             <procedurestappen>
                 <Procedurestap>
                     <soortStap>/join/id/stop/procedure/stap_002</soortStap>
-                    <voltooidOp>2020-01-14</voltooidOp>
+                    <voltooidOp>2020-04-07</voltooidOp>
+                </Procedurestap>
+                <Procedurestap>
+                    <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+                    <voltooidOp>2020-04-09</voltooidOp>
                 </Procedurestap>
             </procedurestappen>
         </Procedureverloop>
@@ -50,14 +54,14 @@
                 <Tijdstempel>
                     <doel>/join/id/proces/gm0297/2020/mutatie_opdracht_3a3</doel>
                     <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-                    <datum>2020-02-25</datum>
+                    <datum>2020-05-19</datum>
                     <eId>art_II</eId>
                 </Tijdstempel>
             </Tijdstempels>
         </ConsolidatieInformatie>
         <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
             <RegelingOpschrift eId="longTitle_o_1" wId="longTitle_o_1">
-                <Al>Wijziging volgens scenario 3a van "Voorbeeldregels met uitbreiding tbv Toepasbare Regels" voor Gebruiksactiviteiten die zonder vergunning of melding zijn toegestaan</Al>
+                <Al>Wijziging volgens scenario 3a3 van "Voorbeeldregels met uitbreiding tbv Toepasbare Regels" voor Gebruiksactiviteiten die zonder vergunning of melding zijn toegestaan</Al>
             </RegelingOpschrift>
             <Aanhef eId="formula_1" wId="formula_1">
                 <Al>De raad van de gemeente Gemeenstestad </Al>
