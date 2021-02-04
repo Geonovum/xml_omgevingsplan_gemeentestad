@@ -104,7 +104,7 @@
                     <Nummer>A</Nummer>
                     <Opschrift>Bijlage bij Artikel I</Opschrift>
                 </Kop>
-                <RegelingMutatie componentnaam="wijziging_reg" was="/akn/nl/act/gm0297/2019/reg456/3" wordt="/akn/nl/act/gm0297/2019/reg456/nld@4">
+                <RegelingMutatie componentnaam="wijziging_reg" was="/akn/nl/act/gm0297/2019/reg456/nld@3" wordt="/akn/nl/act/gm0297/2019/reg456/nld@4">
                     <Vervang wat="gm0297_1__chp_2__subchp_2.3__art_2.10">
                         <Nummer>A</Nummer>
                         <Wat>Artikel 2.10 wordt gewijzigd</Wat>
