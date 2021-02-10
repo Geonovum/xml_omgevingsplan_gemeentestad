@@ -1,7 +1,7 @@
 Gemeentestad
 ============
 
-Gemeentestad bevat in de Master-branche de STOP-versie 1.0.4-RC en IMOW-versie
+Gemeentestad bevat in de Master-branche de STOP-versie 1.0.4 en IMOW-versie
 1.0.3-RC. In de 1.0.3-branche staat STOP-versie 1.0.3 en IMOW-versie 1.0.2.
 
 De verschillende opdracht-mappen werken als volgt:
