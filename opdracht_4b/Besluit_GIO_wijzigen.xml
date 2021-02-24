@@ -157,7 +157,7 @@
                                                 <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520</ExtIoRef>
                                             </Al>
                                             <Al wijzigactie="voegtoe">
-                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0297_3__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0297/2020/Bouwhoogte/nld@2020-11-13;4540">/join/id/regdata/gm0297/2020/Bouwhoogte/nld@2020-11-13;4540</ExtIoRef>
+                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0297_8__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0297/2020/Bouwhoogte/nld@2020-11-13;4540">/join/id/regdata/gm0297/2020/Bouwhoogte/nld@2020-11-13;4540</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
@@ -231,7 +231,7 @@
                                     </Li>
                                     <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_d" wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_d">
                                         <LiNummer>d.</LiNummer>
-                                        <Al>De maximum bouwhoogte van een bedrijfsgebouw is de ter plaatse van het werkingsgebied '<VerwijderdeTekst><IntIoRef eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1_inst2" wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">maximum bouwhoogte bedrijfsgebouw</IntIoRef></VerwijderdeTekst><NieuweTekst><IntIoRef eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1" wId="gm0297_3__chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1" ref="gm0297_3__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">maximum bouwhoogte bedrijfsgebouw</IntIoRef></NieuweTekst>' bepaalde waarde.</Al>
+                                        <Al>De maximum bouwhoogte van een bedrijfsgebouw is de ter plaatse van het werkingsgebied '<VerwijderdeTekst><IntIoRef eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1_inst2" wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">maximum bouwhoogte bedrijfsgebouw</IntIoRef></VerwijderdeTekst><NieuweTekst><IntIoRef eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1" wId="gm0297_3__chp_2__subchp_2.5__art_2.14__list_o_1__item_d__ref_o_1" ref="gm0297_8__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">maximum bouwhoogte bedrijfsgebouw</IntIoRef></NieuweTekst>' bepaalde waarde.</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.5__art_2.14__list_o_1__item_e" wId="gm0297_1__chp_2__subchp_2.5__art_2.14__list_o_1__item_e">
                                         <LiNummer>e.</LiNummer>
