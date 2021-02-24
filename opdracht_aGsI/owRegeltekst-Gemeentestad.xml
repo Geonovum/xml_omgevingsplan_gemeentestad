@@ -658,7 +658,7 @@
                <r:identificatie>nl.imow-gm0297.juridischeregel.2019000115</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href=">nl.imow-gm0297.regeltekst.2019000115"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000115"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0297"/>
