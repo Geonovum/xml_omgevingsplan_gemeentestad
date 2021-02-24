@@ -565,7 +565,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="gm0297_1__chp_5__subchp_5.1__art_5.1__list_o_1">
+            <r:Regeltekst wId="gm0297_1__chp_5__subchp_5.1__art_5.1">
                <r:identificatie>nl.imow-gm0297.regeltekst.2019000113</r:identificatie>
             </r:Regeltekst>         
          </ow-dc:owObject>
@@ -627,7 +627,7 @@
                <r:identificatie>nl.imow-gm0297.juridischeregel.2019000114</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href=">nl.imow-gm0297.regeltekst.2019000114"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000114"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0297"/>
