@@ -11,6 +11,7 @@
             <soortWork>/join/id/stop/work_003</soortWork>
         </ExpressionIdentificatie>
         <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+            <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
             <eindverantwoordelijke>/join/id/stop/gemeente/gm0297</eindverantwoordelijke>
             <maker>/join/id/stop/gemeente/gm0297</maker>
             <officieleTitel>Wijzigen GIO</officieleTitel>
@@ -67,7 +68,7 @@
                     <doel>/join/id/proces/gm0297/2020/mutatie_opdracht_4a</doel>
                     <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
                     <datum>2020-11-03</datum>
-                    <eId>at_II</eId>
+                    <eId>art_II</eId>
                 </Tijdstempel>
             </Tijdstempels>
         </ConsolidatieInformatie>
@@ -85,7 +86,7 @@
                 <Al>besluit:</Al>
             </Aanhef>
             <Lichaam wId="body" eId="body">
-                <WijzigArtikel wId="art_I" eId="gm0297_1__art_I">
+                <WijzigArtikel eId="art_I" wId="gm0297_1__art_I">
                     <Kop>
                         <Label>Artikel</Label>
                         <Nummer>I</Nummer>
@@ -112,7 +113,7 @@
                     <Al>Burgemeester</Al>
                 </Ondertekening>
             </Sluiting>
-            <WijzigBijlage wId="cmp_A" eId="gm0297_1__cmp_A">
+            <WijzigBijlage wId="gm0297_1__cmp_A" eId="cmp_A">
                 <Kop>
                     <Label>Bijlage</Label>
                     <Nummer>A</Nummer>
