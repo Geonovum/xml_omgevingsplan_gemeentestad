@@ -158,11 +158,11 @@
                                             </Al>
                                         </Definitie>
                                     </Begrip>
-                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4" wId="gm0297_4__cmp_I__content_o_1__list_o_1__item_o_4" wijzigactie="voegtoe">
+                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4" wId="gm0297_9__cmp_I__content_o_1__list_o_1__item_o_4" wijzigactie="voegtoe">
                                         <Term>Nieuw centrumgebied</Term>
                                         <Definitie>
                                             <Al>
-                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0297_4__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0297/2020/Nieuw_centrumgebied/nld@2020-11-20;4550">/join/id/regdata/gm0297/2020/Nieuw_centrumgebied/nld@2020-11-20;4550</ExtIoRef>
+                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm0297_9__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm0297/2020/Nieuw_centrumgebied/nld@2020-11-20;4550">/join/id/regdata/gm0297/2020/Nieuw_centrumgebied/nld@2020-11-20;4550</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
@@ -220,7 +220,7 @@
                                 <Opschrift>Doel functietoedeling</Opschrift>
                             </Kop>
                             <Inhoud>
-                                <Al>Het werkingsgebied van de functie '<VerwijderdeTekst><IntIoRef eId="chp_2__subchp_2.3__art_2.9__ref_o_1_inst2" wId="gm0297_1__chp_2__subchp_2.3__art_2.9__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef></VerwijderdeTekst><NieuweTekst><IntIoRef eId="chp_2__subchp_2.3__art_2.9__ref_o_1" wId="gm0297_4__chp_2__subchp_2.3__art_2.9__ref_o_1" ref="gm0297_4__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Nieuw centrumgebied</IntIoRef></NieuweTekst>' is bedoeld voor het verrichten van gebruiksactiviteiten die passen in een stadscentrum met een overwegend stedelijke inrichting en die geen onevenredige afbreuk doen aan het stedelijke karakter of aan de beleving van het bezoekende publiek.</Al>
+                                <Al>Het werkingsgebied van de functie '<VerwijderdeTekst><IntIoRef eId="chp_2__subchp_2.3__art_2.9__ref_o_1_inst2" wId="gm0297_1__chp_2__subchp_2.3__art_2.9__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef></VerwijderdeTekst><NieuweTekst><IntIoRef eId="chp_2__subchp_2.3__art_2.9__ref_o_1" wId="gm0297_4__chp_2__subchp_2.3__art_2.9__ref_o_1" ref="gm0297_9__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Nieuw centrumgebied</IntIoRef></NieuweTekst>' is bedoeld voor het verrichten van gebruiksactiviteiten die passen in een stadscentrum met een overwegend stedelijke inrichting en die geen onevenredige afbreuk doen aan het stedelijke karakter of aan de beleving van het bezoekende publiek.</Al>
                             </Inhoud>
                         </Artikel>
                         
@@ -236,7 +236,7 @@
                             </Kop>
                             <Inhoud>
                                 <Lijst eId="chp_2__subchp_2.3__art_2.10__list_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1" type="expliciet">
-                                    <Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<VerwijderdeTekst><IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1_inst2" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef></VerwijderdeTekst><NieuweTekst><IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" wId="gm0297_4__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_4__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Centrumgebied</IntIoRef></NieuweTekst>' mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
+                                    <Lijstaanhef>Ter plaatse van het werkingsgebied van de functie '<VerwijderdeTekst><IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1_inst2" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef></VerwijderdeTekst><NieuweTekst><IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" wId="gm0297_4__chp_2__subchp_2.3__art_2.10__list_o_1__ref_o_1" ref="gm0297_9__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Centrumgebied</IntIoRef></NieuweTekst>' mag de locatie in ieder geval worden gebruikt voor het verrichten van de volgende gebruiksactiviteiten:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_a">
                                         <LiNummer>a.</LiNummer>
                                         <Al>het exploiteren van een bedrijf;</Al>
@@ -271,7 +271,7 @@
                                     </Li>
                                     <Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_i" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_i">
                                         <LiNummer>i.</LiNummer>
-                                        <Al>het exploiteren van een speelautomatenhal, uitsluitend ter plaatse van het werkingsgebied '<IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_i__ref_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_i__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1">exploiteren speelautomatenhal</IntIoRef>'; </Al>
+                                        <Al>het exploiteren van een speelautomatenhal, uitsluitend ter plaatse van het werkingsgebied '<IntIoRef eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_i__ref_o_1" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_i__ref_o_1" ref="gm0297_2__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1">exploiteren speelautomatenhal</IntIoRef>'; </Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.3__art_2.10__list_o_1__item_j" wId="gm0297_1__chp_2__subchp_2.3__art_2.10__list_o_1__item_j">
                                         <LiNummer>j.</LiNummer>
@@ -323,7 +323,7 @@
                                 <LidNummer>1.</LidNummer>
                                 <Inhoud>
                                     <Al>Meldingplichtige gebruiksactiviteiten</Al>
-                                    <Al>Ter plaatse van het werkingsgebied van de functie '<VerwijderdeTekst><IntIoRef eId="chp_2__subchp_2.3__art_2.11__para_1__ref_o_1_inst2" wId="gm0297_1__chp_2__subchp_2.3__art_2.11__para_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef></VerwijderdeTekst><NieuweTekst><IntIoRef eId="chp_2__subchp_2.3__art_2.11__para_1__ref_o_1" wId="gm0297_9__chp_2__subchp_2.3__art_2.11__para_1__ref_o_1" ref="gm0297_4__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Nieuw centrumgebied</IntIoRef></NieuweTekst>' is het verboden de gebruiksactiviteit 'het wonen in een bedrijfswoning' te verrichten zonder dat daarvoor aan het bevoegd gezag een melding is gedaan.</Al>
+                                    <Al>Ter plaatse van het werkingsgebied van de functie '<VerwijderdeTekst><IntIoRef eId="chp_2__subchp_2.3__art_2.11__para_1__ref_o_1_inst2" wId="gm0297_1__chp_2__subchp_2.3__art_2.11__para_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Centrumgebied</IntIoRef></VerwijderdeTekst><NieuweTekst><IntIoRef eId="chp_2__subchp_2.3__art_2.11__para_1__ref_o_1" wId="gm0297_9__chp_2__subchp_2.3__art_2.11__para_1__ref_o_1" ref="gm0297_9__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Nieuw centrumgebied</IntIoRef></NieuweTekst>' is het verboden de gebruiksactiviteit 'het wonen in een bedrijfswoning' te verrichten zonder dat daarvoor aan het bevoegd gezag een melding is gedaan.</Al>
                                 </Inhoud>
                             </Lid>
                             <Lid eId="chp_2__subchp_2.3__art_2.11__para_2" wId="gm0297_1__chp_2__subchp_2.3__art_2.11__para_2">
