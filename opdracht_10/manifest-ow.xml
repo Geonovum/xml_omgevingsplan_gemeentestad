@@ -11,10 +11,6 @@
       <objecttype>Activiteit</objecttype>
     </Bestand>
     <Bestand>
-      <naam>owLocaties-Gemeentestad.xml</naam>
-      <objecttype>Gebied</objecttype>
-    </Bestand>
-    <Bestand>
       <naam>owRegeltekst-Gemeentestad.xml</naam>
       <objecttype>Regeltekst</objecttype>
       <objecttype>RegelVoorIedereen</objecttype>
