@@ -190,6 +190,23 @@
                         <Al>Omgevingsplan Zaltbommel (met de nadruk op Zuilichem)</Al>
                     </RegelingOpschrift>
                     <Lichaam eId="body" wId="body">
+                        <Hoofdstuk eId="chp_1" wId="gm0297_1__chp_1">
+                            <Kop>
+                                <Label>Hoofdstuk</Label>
+                                <Nummer>1</Nummer>
+                                <Opschrift>Algemene bepalingen</Opschrift>
+                            </Kop>
+                            <Artikel wId="gm0297_1__chp_1__art_1.4" eId="chp_1__art_1.4">
+                                <Kop>
+                                    <Label>Artikel</Label>
+                                    <Nummer>1.4</Nummer>
+                                    <Opschrift>Toepassingsgebied</Opschrift>
+                                </Kop>
+                                <Inhoud>
+                                    <Al>Dit omgevingsplan is van toepassing in de Gemeente Zaltbommel.</Al>
+                                </Inhoud>
+                            </Artikel>
+                        </Hoofdstuk>
                         <Hoofdstuk eId="chp_2" wId="gm0297_1__chp_2">
                             <Kop>
                                 <Label>Hoofdstuk</Label>
