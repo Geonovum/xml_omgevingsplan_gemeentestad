@@ -132,33 +132,27 @@
                             </Inhoud>
                         </Artikel>
                     </Vervang>
-                    <Vervang wat="gm0297_1__chp_2__subchp_2.2__art_2.6">
-                        <Nummer>B</Nummer>
-                        <Wat>Artikel 2.6 is vernummerd naar 2.5:</Wat>
-                        <!-- NB: bij vernummeren wijzigt de eId wel, maar de wId niet, blijft in dit geval "2.6" -->
-                        <Artikel eId="chp_2__subchp_2.2__art_2.5" wId="gm0297_1__chp_2__subchp_2.2__art_2.6">
+                    <Verwijder wat="gm0297_1__chp_2__subchp_2.2__art_2.6">
+                        <Artikel eId="chp_2__subchp_2.2__art_2.6" wId="gm0297_1__chp_2__subchp_2.2__art_2.6">
                             <Kop>
                                 <Label>Artikel</Label>
-                                <Nummer>
-                                    <VerwijderdeTekst>2.6</VerwijderdeTekst>
-                                    <NieuweTekst>2.5</NieuweTekst>
-                                </Nummer>
+                                <Nummer>2.6</Nummer>
                                 <Opschrift>Gebruiksactiviteiten die zijn toegelaten na voorafgaande melding</Opschrift>
                             </Kop>
-                            <Lid eId="chp_2__subchp_2.2__art_2.5__para_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_1">
-                                <LidNummer>1</LidNummer>
+                            <Lid eId="chp_2__subchp_2.2__art_2.6__para_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_1">
+                                <LidNummer>1.</LidNummer>
                                 <Inhoud>
                                     <Al>Meldingplichtige gebruiksactiviteiten</Al>
-                                    <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" eId="chp_2__subchp_2.2__art_2.5__para_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het binnen '<IntIoRef ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" eId="chp_2__subchp_2.2__art_2.5__para_1__ref_o_2" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_1__ref_o_2">Zone B</IntIoRef>' verboden de gebruiksactiviteit 'het uitoefenen van detailhandel in ter plaatse vervaardigde goederen' te verrichten zonder dat daarvoor aan het bevoegd gezag een melding is gedaan</Al>
+                                    <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.6__para_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" >Bedrijf categorie 2</IntIoRef>' is het binnen '<IntIoRef eId="chp_2__subchp_2.2__art_2.6__para_1__ref_o_2" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_1__ref_o_2" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" >Zone B</IntIoRef>' verboden de gebruiksactiviteit 'het uitoefenen van detailhandel in ter plaatse vervaardigde goederen' te verrichten zonder dat daarvoor aan het bevoegd gezag een melding is gedaan</Al>
                                 </Inhoud>
                             </Lid>
-                            <Lid eId="chp_2__subchp_2.2__art_2.5__para_2" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_2">
-                                <LidNummer>2</LidNummer>
+                            <Lid eId="chp_2__subchp_2.2__art_2.6__para_2" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_2">
+                                <LidNummer>2.</LidNummer>
                                 <Inhoud>
                                     <Al>Indieningsvereisten melding</Al>
                                     <Al>Bij het doen van de melding dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
-                                    <Lijst eId="chp_2__subchp_2.2__art_2.5__para_2__list_o_1" type="expliciet" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_2__list_o_1">
-                                        <Li eId="chp_2__subchp_2.2__art_2.5__para_2__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_2__list_o_1__item_a">
+                                    <Lijst eId="chp_2__subchp_2.2__art_2.6__para_2__list_o_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_2__list_o_1" type="expliciet">
+                                        <Li eId="chp_2__subchp_2.2__art_2.6__para_2__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.2__art_2.6__para_2__list_o_1__item_a">
                                             <LiNummer>a.</LiNummer>
                                             <Al>de melding dient te worden gedaan door middel van het inzenden van het bij deze regels behorende Formulier Melding;</Al>
                                         </Li>
@@ -170,7 +164,40 @@
                                 </Inhoud>
                             </Lid>
                         </Artikel>
-                    </Vervang>
+                    </Verwijder>
+                    <VoegToe positie="komtVoor" context="gm0297_1__chp_2__subchp_2.2__art_2.5">
+                        <Artikel eId="chp_2__subchp_2.2__art_2.5" wId="gm0297_2__chp_2__subchp_2.2__art_2.5">
+                            <Kop>
+                                <Label>Artikel</Label>
+                                <Nummer>2.5</Nummer>
+                                <Opschrift>Gebruiksactiviteiten die zijn toegelaten na voorafgaande melding</Opschrift>
+                            </Kop>
+                            <Lid eId="chp_2__subchp_2.2__art_2.5__para_1" wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_1">
+                                <LidNummer>1.</LidNummer>
+                                <Inhoud>
+                                    <Al>Meldingplichtige gebruiksactiviteiten</Al>
+                                    <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.5__para_1__ref_o_1" wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" >Bedrijf categorie 2</IntIoRef>' is het binnen '<IntIoRef eId="chp_2__subchp_2.2__art_2.5__para_1__ref_o_2" wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_1__ref_o_2" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" >Zone B</IntIoRef>' verboden de gebruiksactiviteit 'het uitoefenen van detailhandel in ter plaatse vervaardigde goederen' te verrichten zonder dat daarvoor aan het bevoegd gezag een melding is gedaan</Al>
+                                </Inhoud>
+                            </Lid>
+                            <Lid eId="chp_2__subchp_2.2__art_2.5__para_2" wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_2">
+                                <LidNummer>2.</LidNummer>
+                                <Inhoud>
+                                    <Al>Indieningsvereisten melding</Al>
+                                    <Al>Bij het doen van de melding dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
+                                    <Lijst eId="chp_2__subchp_2.2__art_2.5__para_2__list_o_1" wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_2__list_o_1" type="expliciet">
+                                        <Li eId="chp_2__subchp_2.2__art_2.5__para_2__list_o_1__item_a" wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_2__list_o_1__item_a">
+                                            <LiNummer>a.</LiNummer>
+                                            <Al>de melding dient te worden gedaan door middel van het inzenden van het bij deze regels behorende Formulier Melding;</Al>
+                                        </Li>
+                                        <Li eId="chp_2__subchp_2.2__art_2.5__para_2__list_o_1__item_b" wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_2__list_o_1__item_b">
+                                            <LiNummer>b.</LiNummer>
+                                            <Al>toegevoegd moet worden een terreininrichtingstekening. </Al>
+                                        </Li>
+                                    </Lijst>
+                                </Inhoud>
+                            </Lid>
+                        </Artikel>
+                    </VoegToe>
                     <Vervang wat="gm0297_1__chp_2__subchp_2.2__art_2.7">
                         <Nummer>C</Nummer>
                         <Wat>Artikel 2.7 wordt als volgt gewijzigd:</Wat>
