@@ -19,6 +19,7 @@
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
             <sl:objectType>Gebiedengroep</sl:objectType>
+			<sl:objectType>Ambtsgebied</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <sl:stand>
@@ -143,14 +144,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <l:Gebied>
-               <l:identificatie>nl.imow-gm0297.gebied.2019000012</l:identificatie>
-               <l:noemer>Regelingsgebied Zaltbommel</l:noemer>
-               <l:geometrie>
-                  <l:GeometrieRef xlink:href="553df3b9-9115-4b22-80ee-b1056a85acb4"/>
-               </l:geometrie>
-            </l:Gebied>
-         </ow-dc:owObject>
+            <l:Ambtsgebied>
+               <l:identificatie>GM0297</l:identificatie>
+               <l:noemer>Gemeente Zaltbommel</l:noemer>
+               <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+               <l:geldigOp>2021-01-01</l:geldigOp>
+            </l:Ambtsgebied>
+         </ow-dc:owObject> 
       </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>
