@@ -45,11 +45,11 @@
     <contentType>application/xml</contentType>
   </bestand>
   <bestand>
-    <bestandsnaam>GIO009-Zaltbommel.xml</bestandsnaam>
-    <contentType>application/xml</contentType>
+    <bestandsnaam>Bedrijf_categorie_2.gml</bestandsnaam>
+    <contentType>application/gml+xml</contentType>
   </bestand>
   <bestand>
-    <bestandsnaam>Bedrijf_categorie_2.gml</bestandsnaam>
+    <bestandsnaam>Bouwhoogte.gml</bestandsnaam>
     <contentType>application/gml+xml</contentType>
   </bestand>
   <bestand>
@@ -61,6 +61,10 @@
     <contentType>application/gml+xml</contentType>
   </bestand>
   <bestand>
+    <bestandsnaam>Welstand.gml</bestandsnaam>
+    <contentType>application/gml+xml</contentType>
+  </bestand>
+  <bestand>
     <bestandsnaam>Zone_A.gml</bestandsnaam>
     <contentType>application/gml+xml</contentType>
   </bestand>
@@ -69,19 +73,7 @@
     <contentType>application/gml+xml</contentType>
   </bestand>
   <bestand>
-    <bestandsnaam>Welstand.gml</bestandsnaam>
-    <contentType>application/gml+xml</contentType>
-  </bestand>
-  <bestand>
     <bestandsnaam>Zuilichem.gml</bestandsnaam>
-    <contentType>application/gml+xml</contentType>
-  </bestand>
-  <bestand>
-    <bestandsnaam>Bouwhoogte.gml</bestandsnaam>
-    <contentType>application/gml+xml</contentType>
-  </bestand>
-  <bestand>
-    <bestandsnaam>Zaltbommel.gml</bestandsnaam>
     <contentType>application/gml+xml</contentType>
   </bestand>
   <bestand>
@@ -89,11 +81,11 @@
     <contentType>application/xml</contentType>
   </bestand>
   <bestand>
-    <bestandsnaam>owRegeltekst-Gemeentestad.xml</bestandsnaam>
+    <bestandsnaam>owActiviteiten-Gemeentestad.xml</bestandsnaam>
     <contentType>application/xml</contentType>
   </bestand>
   <bestand>
-    <bestandsnaam>owActiviteiten-Gemeentestad.xml</bestandsnaam>
+    <bestandsnaam>owRegeltekst-Gemeentestad.xml</bestandsnaam>
     <contentType>application/xml</contentType>
   </bestand>
   <bestand>
