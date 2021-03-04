@@ -12,8 +12,8 @@
         </ExpressionIdentificatie>
         <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
-            <eindverantwoordelijke>/join/id/stop/gemeente/gm0297</eindverantwoordelijke>
-            <maker>/join/id/stop/gemeente/gm0297</maker>
+            <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
+            <maker>/tooi/id/gemeente/gm0297</maker>
             <officieleTitel>Wijzigen GIO</officieleTitel>
             <alternatieveTitels>
                 <alternatieveTitel>Wijzing volgens scenario 4a</alternatieveTitel>
