@@ -14,8 +14,8 @@
     </geo:context>
     <geo:vastgesteldeVersie>
         <geo:GeoInformatieObjectVersie>
-            <geo:FRBRWork>/join/id/regdata/gm0297/2020/Speelhal</geo:FRBRWork>
-            <geo:FRBRExpression>/join/id/regdata/gm0297/2020/Speelhal/nld@2020-11-06;4530</geo:FRBRExpression>
+            <geo:FRBRWork>/join/id/regdata/gm0297/2019/Speelhal</geo:FRBRWork>
+            <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Speelhal/nld@2020-11-06;4530</geo:FRBRExpression>
             <geo:locaties>
                 <geo:Locatie>
                     <geo:naam>Speelhal</geo:naam>
