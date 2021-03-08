@@ -46,7 +46,6 @@
                     <eId>art_II</eId>
                 </BeoogdeRegeling>
             </BeoogdeRegelgeving>
-            <!-- expliciet intrekken GIO op deze wijze?
             <Intrekkingen>
                 <Intrekking>
                     <doelen>
@@ -55,7 +54,7 @@
                     <instrument>/join/id/regdata/gm0297/2019/Zuilichem</instrument>
                     <eId>!verwijder_gio#cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1</eId>
                 </Intrekking>
-            </Intrekkingen>-->
+            </Intrekkingen>
             <Tijdstempels>
                 <Tijdstempel>
                     <doel>/join/id/proces/gm0297/2020/verwijder_artikel_GIO</doel>
