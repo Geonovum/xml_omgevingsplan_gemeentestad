@@ -121,7 +121,7 @@
                             <Vervallen wijzigactie="voegtoe"/>
                             <Inhoud wijzigactie="verwijder">
                                 <Lijst eId="chp_2__subchp_2.4__art_2.12_inst2__list_o_1" wId="gm0297_1__chp_2__subchp_2.4__art_2.12__list_o_1" type="expliciet">
-                                    <Lijstaanhef>Voor stikstofdioxide geldt in '<IntIoRef eId="chp_2__subchp_2.4__art_2.12_inst2__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.4__art_2.12__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1">Zuilichem</IntIoRef>' de volgende ten hoogste toelaatbare concentraties:</Lijstaanhef>
+                                    <Lijstaanhef>Voor stikstofdioxide geldt in '<IntIoRef eId="chp_2__subchp_2.4__art_2.12_inst2__list_o_1__ref_o_1" wId="gm0297_1__chp_2__subchp_2.4__art_2.12__list_o_1__ref_o_1" ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1">Zuilichem</IntIoRef>' de volgende ten hoogste toelaatbare concentraties:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.4__art_2.12_inst2__list_o_1__item_a" wId="gm0297_1__chp_2__subchp_2.4__art_2.12__list_o_1__item_a">
                                         <LiNummer>a.</LiNummer>
                                         <Al>150 μg/m<sup>3</sup> uurgemiddelde, dat ten hoogste twaalf maal per kalenderjaar wordt overschreden; en</Al>
@@ -188,34 +188,26 @@
                                         </Definitie>
                                     </Begrip>
                                     <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6">
-                                        <Term>Zaltbommel</Term>
+                                        <Term>Zone A</Term>
                                         <Definitie>
                                             <Al>
-                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520" >/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</ExtIoRef>
+                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
                                     <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7">
-                                        <Term>Zone A</Term>
-                                        <Definitie>
-                                            <Al>
-                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520</ExtIoRef>
-                                            </Al>
-                                        </Definitie>
-                                    </Begrip>
-                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8">
                                         <Term>Zone B</Term>
                                         <Definitie>
                                             <Al>
-                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</ExtIoRef>
+                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
-                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_10" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9" wijzigactie="verwijder">
+                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8" wijzigactie="verwijder">
                                         <Term>Zuilichem</Term>
                                         <Definitie>
                                             <Al>
-                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
+                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
