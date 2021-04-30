@@ -82,7 +82,7 @@
                 <Al>Gelet op <ExtRef ref="https://wetten.overheid.nl/jci1.3:c:BWBR0005416&amp;titeldeel=III&amp;hoofdstuk=IX&amp;artikel=149" soort="URL">Gemeentewet, art. 149</ExtRef>.</Al>
                 <Al>in overeenstemming met <b>mutatiescenario 4a</b> verstrekt door <i>de kenniswerksessie van 26 februari 2020;</i>
                 </Al>
-                <Al>overwegende voor het werkingsgebied "Exploiteren speelautomatenhal" tot het wijzigen van het geografisch informatie object;</Al>
+                <Al>overwegende dat het noodzakelijk is gebleken om het werkingsgebied "Exploiteren speelautomatenhal" behorend bij artikel 2.10 te wijzigen.</Al>
                 <Al>besluit:</Al>
             </Aanhef>
             <Lichaam wId="body" eId="body">
@@ -122,7 +122,7 @@
                 <RegelingMutatie componentnaam="wijzig_gio" was="/akn/nl/act/gm0297/2019/reg456/nld@6" wordt="/akn/nl/act/gm0297/2019/reg456/nld@7">
                     <Vervang wat="gm0297_1__cmp_I__content_o_1">
                         <Nummer>A</Nummer>
-                        <Wat>Begrip Exploiteren speelautomatenhal wordt gewijzigd</Wat>
+                        <Wat>In Bijlage I Overzicht Geografische Informatieobjecten van de Regeling Omgevingsplan Gemeentestad wordt de GIO Exploiteren speelautomatenhal gewijzigd</Wat>
                         <Divisietekst eId="cmp_I__content_o_1" wId="gm0297_1__cmp_I__content_o_1">
                             <Inhoud>
                                 <Begrippenlijst eId="cmp_I__content_o_1__list_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1">
