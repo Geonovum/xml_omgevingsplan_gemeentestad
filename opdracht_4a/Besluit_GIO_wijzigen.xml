@@ -205,7 +205,8 @@
                             </Inhoud>
                         </Divisietekst>
                     </Vervang>
-                    <Vervang wat="gm0297_1__chp_2__subchp_2.3__art_2.10">
+                    <!--revisie om te zorgen dat het niet meekomt in de bekendmakingen-PDF, maar wel aangepast wordt.-->
+                    <Vervang wat="gm0297_1__chp_2__subchp_2.3__art_2.10" revisie="1">
                         <Nummer>B</Nummer>
                         <Wat>Artikel 2.10 lijst item i wordt gewijzigd vanwege een GIO wijziging</Wat>
                         <Artikel eId="chp_2__subchp_2.3__art_2.10" wId="gm0297_1__chp_2__subchp_2.3__art_2.10">
