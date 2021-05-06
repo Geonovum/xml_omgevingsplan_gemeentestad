@@ -24,7 +24,7 @@
 			<ow-dc:owObject>
 				<l:Gebied>
 					<l:identificatie>nl.imow-gm0297.gebied.2019000010</l:identificatie>
-					<l:noemer>Zuilichem industriegebied 3 versie 2</l:noemer>
+					<l:noemer>Zuilichem industriegebied 3</l:noemer> <!--in de 4b die gelukt is stond hier nog versie 2 achter.-->
 					<l:geometrie>
 						<l:GeometrieRef xlink:href="16BFFFFE-7E0B-4E33-98AA-A0914EB9B7E3"/><!-- gewijzigde GUID ivm aanpassing gml -->
 					</l:geometrie>
