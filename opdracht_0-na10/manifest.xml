@@ -92,4 +92,16 @@
     <bestandsnaam>owRegelingsgebied.xml</bestandsnaam>
     <contentType>application/xml</contentType>
   </bestand>
+  <bestand>
+    <bestandsnaamnaam>owGebiedsaanwijzing-Gemeentestad.xml</bestandsnaamnaam>
+    <contentType>application/xml</contentType>
+  </bestand>
+  <bestand>
+    <bestandsnaam>owOmgevingsnormwaarde.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+  </bestand>
+  <bestand>
+    <bestandsnaam>owLocaties-Gemeentestad.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+  </bestand>
 </manifest>

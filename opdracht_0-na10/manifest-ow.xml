@@ -19,5 +19,19 @@
          <naam>owRegelingsgebied.xml</naam>
          <objecttype>Regelingsgebied</objecttype>
       </Bestand>
+      <Bestand>
+         <naam>owGebiedsaanwijzing-Gemeentestad.xml</naam>
+         <objecttype>Gebiedsaanwijzing</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>owOmgevingsnormwaarde.xml</naam>
+         <objecttype>Omgevingsnorm</objecttype>
+         <objecttype>Omgevingswaarde</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>owLocaties-Gemeentestad.xml</naam>
+         <objecttype>Gebiedengroep</objecttype>
+         <objecttype>Gebied</objecttype>
+      </Bestand>
    </Aanlevering>
 </Aanleveringen>
