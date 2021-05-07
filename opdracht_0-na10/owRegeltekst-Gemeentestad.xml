@@ -20,6 +20,7 @@
          <sl:objectTypen>
             <sl:objectType>Regeltekst</sl:objectType>
             <sl:objectType>RegelVoorIedereen</sl:objectType>
+            <sl:objectType>Omgevingswaarderegel</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <!-- artikel 2.3 -->
