@@ -37,9 +37,9 @@
             <l:Gebied>
                <ow:status>B</ow:status>
                <l:identificatie>nl.imow-gm0297.gebied.2020000001</l:identificatie>
-               <l:noemer>Kantoorruimte</l:noemer>
+               <l:noemer>Nieuw centrumgebied</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="7168bb47-4839-433d-a8d6-8ae7f22c4fb9"/>
+                  <l:GeometrieRef xlink:href="5305056E-EF92-4F9B-833B-4EA4C650F1BC"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
