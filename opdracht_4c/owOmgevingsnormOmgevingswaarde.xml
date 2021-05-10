@@ -48,7 +48,7 @@
 							<rol:kwalitatieveWaarde>hoog</rol:kwalitatieveWaarde>
 							<rol:specifiekeSymbolisatie>vsgt300</rol:specifiekeSymbolisatie> <!--to be deprecated, in de nieuwe versie is hier een SymbolisatieItem voor gemaakt-->
 							<rol:locatieaanduiding>
-								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000001"/> <!--Nieuw centrumgebied!-->
+								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2021000001"/> <!--Nieuw centrumgebied!-->
 							</rol:locatieaanduiding>
 						</rol:Normwaarde>
 					</rol:normwaarde>
