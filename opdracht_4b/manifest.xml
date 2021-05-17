@@ -21,10 +21,6 @@
         <contentType>application/xml</contentType>
     </bestand>
     <bestand>
-        <bestandsnaam>owLocaties-Gemeentestad.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>
-    <bestand>
         <bestandsnaam>owOmgevingsnormOmgevingswaarde.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
