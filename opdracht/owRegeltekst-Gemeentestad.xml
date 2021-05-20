@@ -668,7 +668,7 @@
                   <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000011"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.topactiviteitomgevingsplan"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.ActInOmgevingsplanGem"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000015</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
