@@ -30,7 +30,7 @@
 						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000012"/>
 					</r:artikelOfLid>
 					<r:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000001"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2021000001"/>
 					</r:locatieaanduiding>
 					<r:gebiedsaanwijzing>
 					    <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0297.gebiedsaanwijzing.2019000002"/> <!--Centrumgebied-->
@@ -59,7 +59,7 @@
 							<r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000012</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
-								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000001"/>
+								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2021000001"/>
 							</r:locatieaanduiding>
 						</r:ActiviteitLocatieaanduiding>
 					</r:activiteitaanduiding>
@@ -87,7 +87,7 @@
 					<r:locatieaanduiding>
 						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000002"/>
 						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000003"/>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000001"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2021000001"/>
 					</r:locatieaanduiding>
 					<r:kaartaanduiding>
 						<k:KaartRef xlink:href="nl.imow-gm0297.kaart.2019000001"/>
@@ -109,7 +109,7 @@
 					<r:locatieaanduiding>
 						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000002"/>
 						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000003"/>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000001"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2021000001"/>
 					</r:locatieaanduiding>
 					<r:kaartaanduiding>
 						<k:KaartRef xlink:href="nl.imow-gm0297.kaart.2019000001"/>
