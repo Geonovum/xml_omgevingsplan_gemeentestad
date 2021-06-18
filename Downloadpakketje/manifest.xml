@@ -73,49 +73,6 @@
             <bestandsnaam>manifest-ow.xml</bestandsnaam>
             <mediatype>application/xml</mediatype>
             <schemaversie>2.0.0</schemaversie>
-            <heeftBestanden>
-               <Bestand>
-                  <naam>owActiviteiten-Gemeentestad.xml</naam>
-                  <objecttype>Activiteit</objecttype>
-               </Bestand>
-               <Bestand>
-                  <naam>owGebiedsaanwijzingen-Gemeentestad.xml</naam>
-                  <objecttype>Gebiedsaanwijzing</objecttype>
-               </Bestand>
-               <Bestand>
-                  <naam>owKaart.xml</naam>
-                  <objecttype>Kaart</objecttype>
-               </Bestand>
-               <Bestand>
-                  <naam>owPons-Gemeentestad.xml</naam>
-                  <objecttype>Pons</objecttype>
-               </Bestand>
-               <Bestand>
-                  <naam>owOmgevingsnormOmgevingswaarde.xml</naam>
-                  <objecttype>Omgevingsnorm</objecttype>
-                  <objecttype>Omgevingswaarde</objecttype>
-               </Bestand>
-               <Bestand>
-                  <naam>owLocaties-Gemeentestad.xml</naam>
-                  <objecttype>Gebiedengroep</objecttype>
-                  <objecttype>Gebied</objecttype>
-                  <objecttype>Ambtsgebied</objecttype>
-               </Bestand>
-               <Bestand>
-                  <naam>owRegeltekst-Gemeentestad.xml</naam>
-                  <objecttype>Regeltekst</objecttype>
-                  <objecttype>RegelVoorIedereen</objecttype>
-                  <objecttype>Omgevingswaarderegel</objecttype>
-               </Bestand>
-               <Bestand>
-                  <naam>owRegelingsgebied.xml</naam>
-                  <objecttype>Regelingsgebied</objecttype>
-               </Bestand>
-               <Bestand>
-                  <naam>owSymbolisatieItem.xml</naam>
-                  <objecttype>SymbolisatieItem</objecttype>
-               </Bestand>
-            </heeftBestanden>
          </Module>
       </heeftModule>
    </Component>
