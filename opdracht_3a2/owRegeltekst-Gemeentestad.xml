@@ -38,7 +38,7 @@
                         <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.20200114001"/>
                     </r:artikelOfLid>
                     <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0297"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                     </r:locatieaanduiding>
                 </r:RegelVoorIedereen>
             </ow-dc:owObject>

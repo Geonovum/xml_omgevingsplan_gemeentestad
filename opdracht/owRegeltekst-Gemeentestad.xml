@@ -551,7 +551,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000113"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0297"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000800"/>
@@ -559,7 +559,7 @@
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.20190000111</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0297"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -569,7 +569,7 @@
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.20190000112</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Meldingsplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0297"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -579,7 +579,7 @@
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.20190000113</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0297"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -602,7 +602,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000114"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0297"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000810"/>
@@ -610,7 +610,7 @@
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.20190000114</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0297"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -633,7 +633,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000115"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0297"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000810"/>
@@ -641,7 +641,7 @@
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.20190000115</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="NL.BI.BestuurlijkGebied" xlink:href="GM0297"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
