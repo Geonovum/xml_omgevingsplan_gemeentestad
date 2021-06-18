@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AanleveringInformatieObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.4"
+  xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.1.0"
   xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering
-  https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+  https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
       <FRBRWork>/join/id/regdata/gm0297/2019/Bouwhoogte</FRBRWork>
@@ -15,7 +15,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>Bouwhoogte.gml</bestandsnaam>
-            <hash>accf8c01e8ea63e89da02c68e5d64d1d9b9430cd6cf36d838a8eda7a77e2cf4102522b0545e17f413989b6bc27f9abd4bde1dbdebdf04304908dac7388112fd6</hash>
+            <hash>7bccdf6414e0a80ec6d5271bc4827ebaa965f826712b842936fd12a6070d95eb2f99ab8c08eaf2753783ee7bb36a5389329b23a115785a36159304fe725cac97</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
