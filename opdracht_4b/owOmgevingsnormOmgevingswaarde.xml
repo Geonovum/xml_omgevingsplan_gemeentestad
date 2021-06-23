@@ -30,7 +30,6 @@
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0297.normwaarde.2020000001</rol:identificatie>
 							<rol:kwantitatieveWaarde>15</rol:kwantitatieveWaarde>
-							<rol:specifiekeSymbolisatie>vsgt201</rol:specifiekeSymbolisatie> <!--to be deprecated, in de nieuwe versie is hier een SymbolisatieItem voor gemaakt-->
 							<rol:locatieaanduiding>
 								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000010"/> <!--Z3-->
 							</rol:locatieaanduiding>
@@ -38,7 +37,6 @@
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0297.normwaarde.2019000002</rol:identificatie>
 							<rol:kwantitatieveWaarde>13</rol:kwantitatieveWaarde>
-							<rol:specifiekeSymbolisatie>vsgt201</rol:specifiekeSymbolisatie> <!--to be deprecated, in de nieuwe versie is hier een SymbolisatieItem voor gemaakt-->
 							<rol:locatieaanduiding>
 								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000013"/> <!--Z4-->
 							</rol:locatieaanduiding>
@@ -46,7 +44,6 @@
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0297.normwaarde.2019000003</rol:identificatie>
 							<rol:kwantitatieveWaarde>7</rol:kwantitatieveWaarde>	
-							<rol:specifiekeSymbolisatie>vsgt206</rol:specifiekeSymbolisatie> <!--to be deprecated, in de nieuwe versie is hier een SymbolisatieItem voor gemaakt-->
 							<rol:locatieaanduiding>
 								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000008"/> <!--Z1-->
 								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000009"/> <!--Z2-->

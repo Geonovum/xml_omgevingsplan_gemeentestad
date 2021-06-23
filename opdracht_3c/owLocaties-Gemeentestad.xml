@@ -18,14 +18,25 @@
             <sl:gebied>Gemeentestad</sl:gebied>
             <sl:leveringsId>abc-20190221-0801</sl:leveringsId>
             <sl:objectTypen>
+                <sl:objectType>Gebiedengroep</sl:objectType>
                 <sl:objectType>Gebied</sl:objectType>
             </sl:objectTypen>
         </sl:inhoud>
         <sl:stand>
             <ow-dc:owObject>
+                <l:Gebiedengroep>
+                    <l:identificatie>nl.imow-gm0297.gebiedengroep.kantoorruimte</l:identificatie>
+                    <l:noemer>Kantoorruimte</l:noemer>
+                    <l:groepselement>
+                        <l:GebiedRef xlink:href="nl.imow-gm0297.gebied.2020000001"/>
+                    </l:groepselement>
+                </l:Gebiedengroep>
+            </ow-dc:owObject>
+        </sl:stand>
+        <sl:stand>
+            <ow-dc:owObject>
                 <l:Gebied>
                     <l:identificatie>nl.imow-gm0297.gebied.2020000001</l:identificatie>
-                    <l:noemer>Kantoorruimte</l:noemer>
                     <l:geometrie>
                         <l:GeometrieRef xlink:href="7168bb47-4839-433d-a8d6-8ae7f22c4fb9"/>
                     </l:geometrie>

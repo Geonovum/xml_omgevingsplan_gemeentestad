@@ -44,7 +44,7 @@
 						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000009"/>
 					</r:artikelOfLid>
 					<r:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000008"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
 					</r:locatieaanduiding>
 					<r:omgevingswaardeaanduiding>
 					    <rol:OmgevingswaardeRef xlink:href="nl.imow-gm0297.omgevingswaarde.2019000001"/> <!--Fijnstof-->

@@ -30,7 +30,7 @@
 						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000012"/>
 					</r:artikelOfLid>
 					<r:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2021000001"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.centrumgebied2"/>
 					</r:locatieaanduiding>
 					<r:gebiedsaanwijzing>
 					    <ga:GebiedsaanwijzingRef xlink:href="nl.imow-gm0297.gebiedsaanwijzing.2019000002"/> <!--Centrumgebied-->
@@ -47,11 +47,11 @@
 						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000008"/>
 					</r:artikelOfLid>
 					<r:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000007"/> 
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.speelhal"/> 
 						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000008"/>
 						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000009"/>
 						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000010"/>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000011"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.zuilichem"/>
 					</r:locatieaanduiding>
 					<r:activiteitaanduiding>
 					    <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000660"/> <!--exploiteren van een speelautomatenhal-->
@@ -59,7 +59,7 @@
 							<r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000012</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
-								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2021000001"/>
+								<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.speelhal"/>
 							</r:locatieaanduiding>
 						</r:ActiviteitLocatieaanduiding>
 					</r:activiteitaanduiding>
@@ -69,7 +69,7 @@
 							<r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000014</r:identificatie>
 							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
 							<r:locatieaanduiding>
-								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2020000001"/>
+								<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.kantoorruimte"/>
 							</r:locatieaanduiding>
 						</r:ActiviteitLocatieaanduiding>
 					</r:activiteitaanduiding>
@@ -85,9 +85,9 @@
 						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000015"/>
 					</r:artikelOfLid>
 					<r:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000002"/>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000003"/>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2021000001"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.zoneA"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.zoneB"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.centrumgebied2"/>
 					</r:locatieaanduiding>
 					<r:kaartaanduiding>
 						<k:KaartRef xlink:href="nl.imow-gm0297.kaart.2019000001"/>
@@ -107,9 +107,9 @@
 						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000015"/>
 					</r:artikelOfLid>
 					<r:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000002"/>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000003"/>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2021000001"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.zoneA"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.zoneB"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.centrumgebied2"/>
 					</r:locatieaanduiding>
 					<r:kaartaanduiding>
 						<k:KaartRef xlink:href="nl.imow-gm0297.kaart.2019000001"/>
