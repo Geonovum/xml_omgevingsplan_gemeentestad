@@ -22,7 +22,6 @@
                <p:identificatie>nl.imow-gm0297.pons.2019000001</p:identificatie>
                <p:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
-                  <!--aangepast naar regelingsgebied zaltbommel in 1.0.3-->
                </p:locatieaanduiding>
             </p:Pons>
          </ow-dc:owObject>

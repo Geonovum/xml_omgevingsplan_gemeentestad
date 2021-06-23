@@ -26,12 +26,12 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0297</maker>
          <alternatieveTitels>
-            <alternatieveTitel>Bouwhoogte</alternatieveTitel>
+            <alternatieveTitel>maximum bouwhoogte bedrijfsgebouw</alternatieveTitel>
          </alternatieveTitels>
          <officieleTitel>/join/id/regdata/gm0297/2019/Bouwhoogte</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-         <naamInformatieObject>Bouwhoogte</naamInformatieObject>
+         <naamInformatieObject>maximum bouwhoogte bedrijfsgebouw</naamInformatieObject>
       </InformatieObjectMetadata>
       <FeatureTypeStyle xmlns="http://www.opengis.net/se" version="1.1.0">
          <FeatureTypeName>geo:Locatie</FeatureTypeName>
