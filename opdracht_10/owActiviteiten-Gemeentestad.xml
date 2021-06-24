@@ -27,6 +27,9 @@
 					<rol:identificatie>nl.imow-gm0297.activiteit.2019000241</rol:identificatie>
 					<rol:naam>uitoefenen van bedrijfstypen van categorie 3</rol:naam><!-- 10a: Gewijzigd van 2 naar 3 -->
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Standplaatsactiviteit</rol:groep>
+					<rol:gerelateerdeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000246"/> <!--10d gerelateerd aan uitoefenen van detailhandel in ter plaatse vervaardigde goederen-->
+					</rol:gerelateerdeActiviteit>
 					<rol:bovenliggendeActiviteit>
 						<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.ActInOmgevingsplanGem"/>
 					</rol:bovenliggendeActiviteit>
@@ -64,11 +67,12 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<rol:Activiteit>
+					<ow:status>B</ow:status> <!--10b verwijderde activiteit-->
 					<rol:identificatie>nl.imow-gm0297.activiteit.2019000760</rol:identificatie>
 					<rol:naam>opslaan van motorbrandstoffen niet zijnde lpg</rol:naam>
 					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/MilieubelastendeActiviteit</rol:groep>
 					<rol:bovenliggendeActiviteit>
-						<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000241"/><!-- 10c: was nl.imow-mn002.activiteit.ActiviteitGevolgenFysiekeLeefomg -->
+						<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.ActInOmgevingsplanGem"/>
 					</rol:bovenliggendeActiviteit>
 				</rol:Activiteit>
 			</ow-dc:owObject>

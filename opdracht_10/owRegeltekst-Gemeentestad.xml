@@ -24,6 +24,31 @@
         <sl:stand>
             <ow-dc:owObject>
                 <r:RegelVoorIedereen>
+                    <r:identificatie>nl.imow-gm0297.juridischeregel.2019000012</r:identificatie>
+                    <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+                    <r:artikelOfLid>
+                        <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000007"/>
+                    </r:artikelOfLid>
+                    <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.Bedrijfcategorie2"/>
+                    </r:locatieaanduiding>
+                    <r:activiteitaanduiding>
+                        <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000540"/>
+                        <!--exploiteren van een verkooppunt voor motorbrandstoffen niet zijnde lpg-->
+                        <r:ActiviteitLocatieaanduiding>
+                            <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000011</r:identificatie>
+                            <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                            <r:locatieaanduiding>
+                                <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.Bedrijfcategorie2"/>
+                            </r:locatieaanduiding>
+                        </r:ActiviteitLocatieaanduiding>
+                    </r:activiteitaanduiding>
+                </r:RegelVoorIedereen>
+            </ow-dc:owObject>
+        </sl:stand>
+        <sl:stand>
+            <ow-dc:owObject>
+                <r:RegelVoorIedereen>
                     <r:identificatie>nl.imow-gm0297.juridischeregel.2019000018</r:identificatie>
                     <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                     <r:artikelOfLid>
