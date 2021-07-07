@@ -1,0 +1,5 @@
+<data:ExpressionIdentificatie schemaversie="1.0.4" xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+  <data:FRBRWork>/akn/nl/act/gm0297/2019/reg456RGL-20210604-150105</data:FRBRWork>
+  <data:FRBRExpression>/akn/nl/act/gm0297/2019/reg456RGL-20210604-150105/nld@1</data:FRBRExpression>
+  <data:soortWork>/join/id/stop/work_019</data:soortWork>
+</data:ExpressionIdentificatie>
