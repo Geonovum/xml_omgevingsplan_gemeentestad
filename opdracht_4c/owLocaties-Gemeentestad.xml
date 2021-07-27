@@ -23,7 +23,7 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<l:Gebiedengroep>
-					<ow:status>B</ow:status>
+					<ow:status>beëindigen</ow:status>
 					<l:identificatie>nl.imow-gm0297.gebiedengroep.centrumgebied</l:identificatie>
 					<l:noemer>Centrumgebied</l:noemer>
 					<l:groepselement>
@@ -35,7 +35,7 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<l:Gebied>
-					<ow:status>B</ow:status>
+					<ow:status>beëindigen</ow:status>
 					<l:identificatie>nl.imow-gm0297.gebied.2019000004</l:identificatie>
 					<l:geometrie>
 						<l:GeometrieRef xlink:href="D28AF779-7EDD-4A88-8B11-809798F53636"/>

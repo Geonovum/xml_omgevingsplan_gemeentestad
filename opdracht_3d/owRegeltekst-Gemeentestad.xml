@@ -37,7 +37,7 @@
 		<sl:stand>
 			<ow-dc:owObject>
 				<r:Omgevingswaarderegel>
-					<ow:status>B</ow:status>
+					<ow:status>beëindigen</ow:status>
 					<r:identificatie>nl.imow-gm0297.juridischeregel.2019000015</r:identificatie>
 					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
 					<r:artikelOfLid>

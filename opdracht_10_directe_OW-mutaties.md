@@ -196,7 +196,7 @@ Activiteiten: owActiviteiten-Gemeentestad.xml
 
 `<rol:Activiteit ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000001">`
 `<rol:identificatie>nl.imow-gm0297.activiteit.2019000241</rol:identificatie>`
-(gebied is gewijzigd en status = beeindigd `<ow:status>B</ow:status>`) 
+(gebied is gewijzigd en status = beeindigd `<ow:status>beëindigen</ow:status>`) 
 
 `<rol:Activiteit ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000002">`
 `<rol:identificatie>nl.imow-gm0297.activiteit.2019000246</rol:identificatie>`
@@ -267,7 +267,7 @@ Bepaal van elke OW-informatie of deze al bestaat, aan de hand van de identificat
 
 `<rol:Activiteit ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000001">`
 `<rol:identificatie>nl.imow-gm0297.activiteit.2019000241</rol:identificatie>`
-(gebied is gewijzigd en status = beeindigd `<ow:status>B</ow:status>`) 
+(gebied is gewijzigd en status = beeindigd `<ow:status>beëindigen</ow:status>`) 
 --> beeindigen object 
 
 `<rol:Activiteit ow:regeltekstId="nl.imow-gm0297.regeltekst.2019000002">`

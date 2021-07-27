@@ -1,32 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0"
-                                     xmlns:data="https://standaarden.overheid.nl/stop/imop/data/"
-                                     xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-                                     xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/"
-                                     xmlns:gml="http://www.opengis.net/gml/3.2"
-                                     xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/"
-                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                                     schemaversie="1.1.0"
-                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.1.0/imop-geo.xsd">
-   <geo:context>
-      <gio:GeografischeContext>
-         <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
-         <gio:achtergrondActualiteit>2019-01-01</gio:achtergrondActualiteit>
-      </gio:GeografischeContext>
-   </geo:context>
-   <geo:vastgesteldeVersie>
-      <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/gm0297/2019/Zone_B</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</geo:FRBRExpression>
-         <geo:locaties>
-            <geo:Locatie>
-               <geo:naam>zone B</geo:naam>
-               <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-0868A0B1-DA79-4C33-8305-1BDE0126FA9A-xx">
-                     <basisgeo:id>0868A0B1-DA79-4C33-8305-1BDE0126FA9A</basisgeo:id>
+<?xml version="1.0" encoding="UTF-8"?><basisgeo:FeatureCollectionGeometrie xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0"><basisgeo:featureMember><basisgeo:Geometrie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="id-3ce37c9c-1721-4eec-9b4a-5380fd30fbac-xx">
+                     <basisgeo:id>3ce37c9c-1721-4eec-9b4a-5380fd30fbac</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-0868A0B1-DA79-4C33-8305-1BDE0126FA9A"
-                                          srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-3ce37c9c-1721-4eec-9b4a-5380fd30fbac" srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -38,10 +13,4 @@
                            </gml:surfaceMember>
                         </gml:MultiSurface>
                      </basisgeo:geometrie>
-                  </basisgeo:Geometrie>
-               </geo:geometrie>
-            </geo:Locatie>
-         </geo:locaties>
-      </geo:GeoInformatieObjectVersie>
-   </geo:vastgesteldeVersie>
-</geo:GeoInformatieObjectVaststelling>
+                  </basisgeo:Geometrie></basisgeo:featureMember></basisgeo:FeatureCollectionGeometrie>

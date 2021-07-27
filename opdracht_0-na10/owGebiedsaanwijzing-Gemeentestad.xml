@@ -25,7 +25,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-               <ow:status>B</ow:status>
+               <ow:status>beëindigen</ow:status>
                <ga:identificatie>nl.imow-gm0297.gebiedsaanwijzing.2020000001</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
                <ga:naam>Kantoorruimte</ga:naam>
@@ -39,7 +39,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-               <ow:status>B</ow:status>
+               <ow:status>beëindigen</ow:status>
                <ga:identificatie>nl.imow-gm0297.gebiedsaanwijzing.2019000002</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
                <ga:naam>Centrumgebied</ga:naam>
