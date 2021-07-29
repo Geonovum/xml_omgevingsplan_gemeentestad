@@ -24,76 +24,37 @@
         <sl:stand>
             <ow-dc:owObject>
                 <r:RegelVoorIedereen>
-                    <r:identificatie>nl.imow-gm0297.juridischeregel.2019000012</r:identificatie>
-                    <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-                    <r:artikelOfLid>
-                        <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000007"/>
-                    </r:artikelOfLid>
-                    <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.Bedrijfcategorie2"/>
-                    </r:locatieaanduiding>
-                    <r:activiteitaanduiding>
-                        <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000540"/>
-                        <!--exploiteren van een verkooppunt voor motorbrandstoffen niet zijnde lpg-->
-                        <r:ActiviteitLocatieaanduiding>
-                            <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000011</r:identificatie>
-                            <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                            <r:locatieaanduiding>
-                                <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.Bedrijfcategorie2"/>
-                            </r:locatieaanduiding>
-                        </r:ActiviteitLocatieaanduiding>
-                    </r:activiteitaanduiding>
-                </r:RegelVoorIedereen>
-            </ow-dc:owObject>
-        </sl:stand>
-        <sl:stand>
-            <ow-dc:owObject>
-                <r:RegelVoorIedereen>
-                    <r:identificatie>nl.imow-gm0297.juridischeregel.2019000018</r:identificatie>
+                    <r:identificatie>nl.imow-gm0297.juridischeregel.2019000014</r:identificatie>
                     <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                     <r:artikelOfLid>
                         <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000008"/>
                     </r:artikelOfLid>
-                    <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.kantoorruimte"/>
+                    <r:locatieaanduiding> <!--volgorde van Locatiereferenties aangepast-->
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000010"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.zuilichem"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.speelhal"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000008"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000009"/>
                     </r:locatieaanduiding>
-                    <r:activiteitaanduiding><!-- 10e: sporten -->
-                        <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000690"/>
+                    <r:activiteitaanduiding> <!--volgorde van activiteitaanduidingen aangepast-->
+                        <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000680"/>
+                        <!--exploiteren van een kantoor-->
                         <r:ActiviteitLocatieaanduiding>
                             <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000014</r:identificatie>
                             <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                             <r:locatieaanduiding>
-                                <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.kantoorruimte"/>
+                                <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.centrumgebied"/>
                             </r:locatieaanduiding>
                         </r:ActiviteitLocatieaanduiding>
                     </r:activiteitaanduiding>
-                    <r:activiteitaanduiding><!-- 10e: wonen -->
-                        <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000700"/>
+                    <r:activiteitaanduiding>
+                        <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000660"/>
+                        <!--exploiteren van een speelautomatenhal-->
                         <r:ActiviteitLocatieaanduiding>
-                            <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000015</r:identificatie>
+                            <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000012</r:identificatie>
                             <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                             <r:locatieaanduiding>
-                                <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.kantoorruimte"/>
-                            </r:locatieaanduiding>
-                        </r:ActiviteitLocatieaanduiding>
-                    </r:activiteitaanduiding>
-                    <r:activiteitaanduiding><!-- 10e: uitoefenen van een beroep aan huis -->
-                        <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000710"/>
-                        <r:ActiviteitLocatieaanduiding>
-                            <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000016</r:identificatie>
-                            <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
-                            <r:locatieaanduiding>
-                                <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.kantoorruimte"/>
-                            </r:locatieaanduiding>
-                        </r:ActiviteitLocatieaanduiding>
-                    </r:activiteitaanduiding>
-                    <r:activiteitaanduiding><!-- 10e: exploiteren van een aan de woonfunctie ondergeschikt bedrijf aan huis -->
-                        <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000720"/>
-                        <r:ActiviteitLocatieaanduiding>
-                            <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000017</r:identificatie>
-                            <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
-                            <r:locatieaanduiding>
-                                <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.kantoorruimte"/>
+                                <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.speelhal"/>
                             </r:locatieaanduiding>
                         </r:ActiviteitLocatieaanduiding>
                     </r:activiteitaanduiding>
