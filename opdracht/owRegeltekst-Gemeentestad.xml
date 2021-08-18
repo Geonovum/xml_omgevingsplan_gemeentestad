@@ -664,7 +664,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000116"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.zuilichem"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.ActInOmgevingsplanGem"/>
@@ -672,7 +672,7 @@
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000015</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.zuilichem"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
