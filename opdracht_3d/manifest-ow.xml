@@ -17,5 +17,10 @@
       <objecttype>RegelVoorIedereen</objecttype>
       <objecttype>Omgevingswaarderegel</objecttype>
     </Bestand>
+    <Bestand>
+      <naam>owLocatie-Gemeentestad.xml</naam>
+      <objecttype>Gebied</objecttype>
+      <objecttype>Gebiedengroep</objecttype>
+    </Bestand>
   </Aanlevering>
 </Aanleveringen>

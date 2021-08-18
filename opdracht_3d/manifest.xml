@@ -23,5 +23,9 @@
    <bestand>
       <bestandsnaam>owOmgevingsnormOmgevingswaarde.xml</bestandsnaam>
       <contentType>application/xml</contentType>
-   </bestand> 
+   </bestand>
+   <bestand>
+      <bestandsnaam>owLocatie-Gemeentestad.xml</bestandsnaam>
+      <contentType>application/xml</contentType>
+   </bestand>
 </manifest>

@@ -29,7 +29,7 @@
 			<ow-dc:owObject>
 				<!-- Artikel -->
 				<r:Regeltekst wId="gm0297_1__chp_2__subchp_2.4__art_2.12">
-					<op:status>B</op:status>
+					<op:status>beëindigen</op:status>
 					<r:identificatie>nl.imow-gm0297.regeltekst.2019000009</r:identificatie>
 				</r:Regeltekst>
 			</ow-dc:owObject>
@@ -50,6 +50,69 @@
 					    <rol:OmgevingswaardeRef xlink:href="nl.imow-gm0297.omgevingswaarde.2019000001"/> <!--Fijnstof-->
 					</r:omgevingswaardeaanduiding>
 				</r:Omgevingswaarderegel>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<r:RegelVoorIedereen>
+					<r:identificatie>nl.imow-gm0297.juridischeregel.2019000014</r:identificatie>
+					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+					<r:artikelOfLid>
+						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000008"/>
+					</r:artikelOfLid>
+					<r:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.speelhal"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000008"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000009"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000010"/>
+						<!--<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.zuilichem"/>-->
+					</r:locatieaanduiding>
+					<r:activiteitaanduiding>
+						<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000660"/>
+						<!--exploiteren van een speelautomatenhal-->
+						<r:ActiviteitLocatieaanduiding>
+							<r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000012</r:identificatie>
+							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+							<r:locatieaanduiding>
+								<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.speelhal"/>
+							</r:locatieaanduiding>
+						</r:ActiviteitLocatieaanduiding>
+					</r:activiteitaanduiding>
+					<r:activiteitaanduiding>
+						<rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.2019000680"/>
+						<!--exploiteren van een kantoor-->
+						<r:ActiviteitLocatieaanduiding>
+							<r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000014</r:identificatie>
+							<r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
+							<r:locatieaanduiding>
+								<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.centrumgebied"/>
+							</r:locatieaanduiding>
+						</r:ActiviteitLocatieaanduiding>
+					</r:activiteitaanduiding>
+				</r:RegelVoorIedereen>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<r:RegelVoorIedereen>
+					<r:identificatie>nl.imow-gm0297.juridischeregel.2019000016</r:identificatie>
+					<r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+					<r:artikelOfLid>
+						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000010"/>
+					</r:artikelOfLid>
+					<r:locatieaanduiding>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.speelhal"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000008"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000009"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000010"/>
+						<!--<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.zuilichem"/>-->
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000013"/>
+					</r:locatieaanduiding>
+					<r:omgevingsnormaanduiding>
+						<rol:OmgevingsnormRef xlink:href="nl.imow-gm0297.omgevingsnorm.2019000002"/>
+						<!-- maximum bouwhoogte bedrijfsgebouw -->
+					</r:omgevingsnormaanduiding>
+				</r:RegelVoorIedereen>
 			</ow-dc:owObject>
 		</sl:stand>
 	</sl:standBestand>
