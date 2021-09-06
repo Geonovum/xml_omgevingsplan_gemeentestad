@@ -123,6 +123,12 @@
                     <Vervang wat="gm0297_1__cmp_I__content_o_1">
                         <Nummer>A</Nummer>
                         <Wat>Begrip Maximum Bouwhoogte bedrijfsgebouw wordt gewijzigd</Wat>
+                        <Bijlage eId="cmp_I" wId="gm0297_1__cmp_I">
+                            <Kop>
+                                <Label>Bijlage</Label>
+                                <Nummer>I</Nummer>
+                                <Opschrift>Overzicht Informatieobjecten</Opschrift>
+                            </Kop>
                         <Divisietekst eId="cmp_I__content_o_1" wId="gm0297_1__cmp_I__content_o_1">
                             <Inhoud>
                                 <Begrippenlijst eId="cmp_I__content_o_1__list_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1">
@@ -204,6 +210,7 @@
                                 </Begrippenlijst>
                             </Inhoud>
                         </Divisietekst>
+                        </Bijlage>
                     </Vervang>
                     <Vervang wat="gm0297_1__chp_2__subchp_2.5__art_2.14">
                         <Nummer>B</Nummer>

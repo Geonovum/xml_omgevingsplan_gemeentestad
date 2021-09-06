@@ -120,9 +120,15 @@
                     <Opschrift>Bijlage bij artikel I</Opschrift>
                 </Kop>
                 <RegelingMutatie componentnaam="wijzig_gio" was="/akn/nl/act/gm0297/2019/reg456/nld@6" wordt="/akn/nl/act/gm0297/2019/reg456/nld@7">
-                    <Vervang wat="gm0297_1__cmp_I__content_o_1">
+                    <Vervang wat="gm0297_1__cmp_I">
                         <Nummer>A</Nummer>
                         <Wat>In Bijlage I Overzicht Geografische Informatieobjecten van de Regeling Omgevingsplan Gemeentestad wordt de GIO Exploiteren speelautomatenhal gewijzigd</Wat>
+                        <Bijlage eId="cmp_I" wId="gm0297_1__cmp_I">
+                            <Kop>
+                                <Label>Bijlage</Label>
+                                <Nummer>I</Nummer>
+                                <Opschrift>Overzicht Informatieobjecten</Opschrift>
+                            </Kop>
                         <Divisietekst eId="cmp_I__content_o_1" wId="gm0297_1__cmp_I__content_o_1">
                             <Inhoud>
                                 <Begrippenlijst eId="cmp_I__content_o_1__list_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1">
@@ -204,6 +210,7 @@
                                 </Begrippenlijst>
                             </Inhoud>
                         </Divisietekst>
+                        </Bijlage>
                     </Vervang>
                     <!--revisie om te zorgen dat het niet meekomt in de bekendmakingen-PDF, maar wel aangepast wordt.-->
                     <Vervang wat="gm0297_1__chp_2__subchp_2.3__art_2.10" revisie="1">
