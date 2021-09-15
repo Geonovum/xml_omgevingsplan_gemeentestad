@@ -648,7 +648,7 @@
          </ow-dc:owObject>
       </sl:stand>
       <!--onderstaande is overbodig als er al een topactiviteit aanwezig is in de omgeving-->
-<!--      <sl:stand>
+      <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm0297_1__chp_1__art_1.4">
                <r:identificatie>nl.imow-gm0297.regeltekst.2019000116</r:identificatie>
@@ -678,6 +678,6 @@
                </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
-      </sl:stand>-->
+      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>
