@@ -30,7 +30,6 @@
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0297.normwaarde.2019000004</rol:identificatie>
 							<rol:kwalitatieveWaarde>laag</rol:kwalitatieveWaarde>
-							<rol:specifiekeSymbolisatie>vsgt307</rol:specifiekeSymbolisatie> <!--to be deprecated, in de nieuwe versie is hier een SymbolisatieItem voor gemaakt-->
 							<rol:locatieaanduiding>
 								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000003"/> <!--Zone B-->
 							</rol:locatieaanduiding>
@@ -38,7 +37,6 @@
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0297.normwaarde.2019000005</rol:identificatie>
 							<rol:kwalitatieveWaarde>midden</rol:kwalitatieveWaarde>
-							<rol:specifiekeSymbolisatie>vsgt304</rol:specifiekeSymbolisatie> <!--to be deprecated, in de nieuwe versie is hier een SymbolisatieItem voor gemaakt-->
 							<rol:locatieaanduiding>
 								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000002"/> <!--Zone A-->
 							</rol:locatieaanduiding>
@@ -46,7 +44,6 @@
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0297.normwaarde.2019000006</rol:identificatie>
 							<rol:kwalitatieveWaarde>hoog</rol:kwalitatieveWaarde>
-							<rol:specifiekeSymbolisatie>vsgt300</rol:specifiekeSymbolisatie> <!--to be deprecated, in de nieuwe versie is hier een SymbolisatieItem voor gemaakt-->
 							<rol:locatieaanduiding>
 								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2021000001"/> <!--Nieuw centrumgebied!-->
 							</rol:locatieaanduiding>
