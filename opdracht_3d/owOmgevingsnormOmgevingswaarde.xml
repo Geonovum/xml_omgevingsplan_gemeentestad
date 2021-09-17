@@ -20,19 +20,20 @@
 				<sl:objectType>Omgevingswaarde</sl:objectType>
 			</sl:objectTypen>
 		</sl:inhoud>
-		<sl:stand><!-- Fijnstof -->
+		<sl:stand>
 			<ow-dc:owObject>
 				<rol:Omgevingswaarde>
 					<ow:status>beëindigen</ow:status>
 					<rol:identificatie>nl.imow-gm0297.omgevingswaarde.2019000001</rol:identificatie>
 					<rol:naam>fijnstof</rol:naam>
-					<rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/Volume</rol:type> <!--liever een URI die inhoudelijk klopt, maar die is er nu niet-->
+					<rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/Volume</rol:type>
+					<!--klopt niet, maar waardelijst bevat gewenste waarde nog niet-->
 					<rol:normwaarde>
 						<rol:Normwaarde>
 							<rol:identificatie>nl.imow-gm0297.normwaarde.2019000001</rol:identificatie>
 							<rol:waardeInRegeltekst>waarde staat in regeltekst</rol:waardeInRegeltekst>
 							<rol:locatieaanduiding>
-								<l:LocatieRef xlink:href="nl.imow-gm0297.gebied.2019000011"/>
+								<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.zuilichem"/>
 							</rol:locatieaanduiding>
 						</rol:Normwaarde>
 					</rol:normwaarde>

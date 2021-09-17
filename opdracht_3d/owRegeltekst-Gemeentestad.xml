@@ -44,10 +44,11 @@
 						<r:RegeltekstRef xlink:href="nl.imow-gm0297.regeltekst.2019000009"/>
 					</r:artikelOfLid>
 					<r:locatieaanduiding>
-						<l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
+						<l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.zuilichem"/>
 					</r:locatieaanduiding>
 					<r:omgevingswaardeaanduiding>
-					    <rol:OmgevingswaardeRef xlink:href="nl.imow-gm0297.omgevingswaarde.2019000001"/> <!--Fijnstof-->
+						<rol:OmgevingswaardeRef xlink:href="nl.imow-gm0297.omgevingswaarde.2019000001"/>
+						<!--Fijnstof-->
 					</r:omgevingswaardeaanduiding>
 				</r:Omgevingswaarderegel>
 			</ow-dc:owObject>
