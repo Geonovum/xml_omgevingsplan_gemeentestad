@@ -9,6 +9,7 @@
     <Bestand>
       <naam>owLocaties-Gemeentestad.xml</naam>
       <objecttype>Gebied</objecttype>
+      <objecttype>Gebiedengroep</objecttype>
     </Bestand>
     <Bestand>
       <naam>owGebiedsaanwijzingen-Gemeentestad.xml</naam>
