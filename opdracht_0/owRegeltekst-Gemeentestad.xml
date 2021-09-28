@@ -167,7 +167,7 @@
             </r:Regeltekst>         
          </ow-dc:owObject>
       </sl:stand>
-<!-- als er geen topactiviteit is
+<!-- als er geen topactiviteit is-->
          <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="gm0297_1__chp_1__art_1.4">
@@ -175,5 +175,5 @@
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
--->   </sl:standBestand>
+   </sl:standBestand>
 </ow-dc:owBestand>
