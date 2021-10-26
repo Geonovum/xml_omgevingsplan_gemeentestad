@@ -30,6 +30,7 @@
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</informatieobjectRef>
+                <informatieobjectRef>/join/id/regdata/gm0297/2020/RegdataPDF/nld@2020-06-18;3520</informatieobjectRef>
                 <!-- regelinggebied -->
             </informatieobjectRefs>
         </BesluitMetadata>
@@ -113,6 +114,13 @@
                     </doelen>
                     <instrumentVersie>/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</instrumentVersie>
                     <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
+                </BeoogdInformatieobject>
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0297/2019/Instelling</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0297/2020/RegdataPDF/nld@2020-06-18;3520</instrumentVersie>
+                    <eId>!initieel_reg#cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
                 </BeoogdInformatieobject>
                 <!-- regelinggebied -->
             </BeoogdeRegelgeving>
@@ -973,6 +981,27 @@
                                         <Al>vervaardiging van snacks en vervaardiging van kant-en-klaar-maaltijden met p.o. kleiner of gelijk aan 2.000 m² 2</Al>
                                     </Li>
                                 </Lijst>
+                            </Inhoud>
+                        </Divisietekst>
+                    </Bijlage>
+                    <Bijlage eId="cmp_IV" wId="gm0297_1__cmp_IV">
+                        <Kop>
+                            <Label>Bijlage</Label>
+                            <Nummer>IV</Nummer>
+                            <Opschrift>Overzicht PDF-informatieobjecten</Opschrift>
+                        </Kop>
+                        <Divisietekst eId="cmp_IV__content_o_1" wId="gm0297_1__cmp_IV__content_o_1">
+                            <Inhoud>
+                                <Begrippenlijst eId="cmp_IV__content_o_1__list_o_1" wId="gm0297_1__cmp_IV__content_o_1__list_o_1">
+                                    <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_1" wId="gm0297_1__cmp_IV__content_o_1__list_o_1__item_o_1">
+                                        <Term>PDF-bestand</Term>
+                                        <Definitie>
+                                            <Al>
+                                                <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0297_1__cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0297/2020/RegdataPDF/nld@2020-06-18;3520" >/join/id/regdata/gm0297/2020/RegdataPDF/nld@2020-06-18;3520</ExtIoRef>
+                                            </Al>
+                                        </Definitie>
+                                    </Begrip>
+                                </Begrippenlijst>
                             </Inhoud>
                         </Divisietekst>
                     </Bijlage>
