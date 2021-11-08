@@ -44,10 +44,6 @@
         <bestandsnaam>GIO008-Zuilichem.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
-<!--    <bestand>
-        <bestandsnaam>IO009.xml</bestandsnaam>
-        <contentType>application/xml</contentType>
-    </bestand>-->
     <bestand>
         <bestandsnaam>Bedrijf_categorie_2.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
@@ -60,10 +56,6 @@
         <bestandsnaam>Centrumgebied.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
     </bestand>
- <!--   <bestand>
-        <bestandsnaam>Regdata.pdf</bestandsnaam>
-        <contentType>application/pdf</contentType>
-    </bestand>-->
     <bestand>
         <bestandsnaam>Speelhal.gml</bestandsnaam>
         <contentType>application/gml+xml</contentType>
@@ -124,4 +116,20 @@
         <bestandsnaam>owSymbolisatieItem.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
+    <!--<bestand>
+        <bestandsnaam>PonsGebied.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>PonsGebied.gml</bestandsnaam>
+        <contentType>application/gml+xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>IO009.xml</bestandsnaam>
+        <contentType>application/xml</contentType>
+    </bestand>
+    <bestand>
+        <bestandsnaam>Regdata.pdf</bestandsnaam>
+        <contentType>application/pdf</contentType>
+    </bestand>-->
 </manifest>

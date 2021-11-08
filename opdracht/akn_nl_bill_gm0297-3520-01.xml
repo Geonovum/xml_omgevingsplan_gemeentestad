@@ -30,7 +30,8 @@
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Zone_A/nld@2019-06-18;3520</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Zone_B/nld@2019-06-18;3520</informatieobjectRef>
                 <informatieobjectRef>/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</informatieobjectRef>
-                <informatieobjectRef>/join/id/regdata/gm0297/2020/RegdataPDF/nld@2020-06-18;3520</informatieobjectRef>
+<!--                <informatieobjectRef>/join/id/regdata/gm0297/2020/PDF/nld@2020-06-18;3520</informatieobjectRef>-->
+                <!--<informatieobjectRef>/join/id/regdata/gm0297/2021/Ponsgebied/nld@2021-01-01;1</informatieobjectRef>-->
                 <!-- regelinggebied -->
             </informatieobjectRefs>
         </BesluitMetadata>
@@ -115,13 +116,20 @@
                     <instrumentVersie>/join/id/regdata/gm0297/2019/Zuilichem/nld@2019-06-18;3520</instrumentVersie>
                     <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
                 </BeoogdInformatieobject>
-                <BeoogdInformatieobject>
+<!--                <BeoogdInformatieobject>
                     <doelen>
                         <doel>/join/id/proces/gm0297/2019/Instelling</doel>
                     </doelen>
                     <instrumentVersie>/join/id/regdata/gm0297/2020/RegdataPDF/nld@2020-06-18;3520</instrumentVersie>
                     <eId>!initieel_reg#cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
                 </BeoogdInformatieobject>
+                <BeoogdInformatieobject>
+                    <doelen>
+                        <doel>/join/id/proces/gm0297/2019/Instelling</doel>
+                    </doelen>
+                    <instrumentVersie>/join/id/regdata/gm0297/2021/Ponsgebied/nld@2021-01-01;1</instrumentVersie>
+                    <eId>art_III</eId>
+                </BeoogdInformatieobject>-->
                 <!-- regelinggebied -->
             </BeoogdeRegelgeving>
             <Tijdstempels>
@@ -166,7 +174,7 @@
                         <Nummer>III</Nummer>
                     </Kop>
                     <Inhoud>
-                        <Al>Het omgevingsplan van rechtswege vervalt voor het Ponsgebied van dit artikel.</Al>
+                        <Al>Het omgevingsplan van rechtswege vervalt voor het <!--<ExtIoRef wId="gm0297_1__art_III__ref_o_1" eId="art_III__ref_o_1" ref="/join/id/regdata/gm0297/2021/Ponsgebied/nld@2021-01-01;1">-->Ponsgebied<!--</ExtIoRef>--> van dit artikel.</Al>
                     </Inhoud>
                 </Artikel>
             </Lichaam>
@@ -984,7 +992,7 @@
                             </Inhoud>
                         </Divisietekst>
                     </Bijlage>
-                    <Bijlage eId="cmp_IV" wId="gm0297_1__cmp_IV">
+                   <!-- <Bijlage eId="cmp_IV" wId="gm0297_1__cmp_IV">
                         <Kop>
                             <Label>Bijlage</Label>
                             <Nummer>IV</Nummer>
@@ -997,14 +1005,14 @@
                                         <Term>PDF-bestand</Term>
                                         <Definitie>
                                             <Al>
-                                                <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0297_1__cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0297/2020/RegdataPDF/nld@2020-06-18;3520" >/join/id/regdata/gm0297/2020/RegdataPDF/nld@2020-06-18;3520</ExtIoRef>
+                                                <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0297_1__cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0297/2020/PDF/nld@2020-06-18;3520" >/join/id/regdata/gm0297/2020/PDF/nld@2020-06-18;3520</ExtIoRef>
                                             </Al>
                                         </Definitie>
                                     </Begrip>
                                 </Begrippenlijst>
                             </Inhoud>
                         </Divisietekst>
-                    </Bijlage>
+                    </Bijlage>-->
                     <ArtikelgewijzeToelichting eId="artrecital" wId="gm0297_1__artrecital">
                         <Kop>
                             <Opschrift>Artikelsgewijze Toelichting</Opschrift>
