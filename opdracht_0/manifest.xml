@@ -92,4 +92,12 @@
     <bestandsnaam>owRegelingsgebied.xml</bestandsnaam>
     <contentType>application/xml</contentType>
   </bestand>
+  <bestand>
+    <bestandsnaam>IO009.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+  </bestand>
+  <bestand>
+    <bestandsnaam>Regdata.pdf</bestandsnaam>
+    <contentType>application/pdf</contentType>
+  </bestand>
 </manifest>

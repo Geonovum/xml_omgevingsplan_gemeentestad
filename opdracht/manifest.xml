@@ -116,7 +116,7 @@
         <bestandsnaam>owSymbolisatieItem.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
-    <!--<bestand>
+    <bestand>
         <bestandsnaam>PonsGebied.xml</bestandsnaam>
         <contentType>application/xml</contentType>
     </bestand>
@@ -131,5 +131,5 @@
     <bestand>
         <bestandsnaam>Regdata.pdf</bestandsnaam>
         <contentType>application/pdf</contentType>
-    </bestand>-->
+    </bestand>
 </manifest>

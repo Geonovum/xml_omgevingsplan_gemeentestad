@@ -986,6 +986,27 @@
                             </Inhoud>
                         </Divisietekst>
                     </Bijlage>
+                    <Bijlage eId="cmp_IV" wId="gm0297_1__cmp_IV">
+                        <Kop>
+                            <Label>Bijlage</Label>
+                            <Nummer>IV</Nummer>
+                            <Opschrift>Overzicht PDF-informatieobjecten</Opschrift>
+                        </Kop>
+                        <Divisietekst eId="cmp_IV__content_o_1" wId="gm0297_1__cmp_IV__content_o_1">
+                            <Inhoud>
+                                <Begrippenlijst eId="cmp_IV__content_o_1__list_o_1" wId="gm0297_1__cmp_IV__content_o_1__list_o_1">
+                                    <Begrip eId="cmp_IV__content_o_1__list_o_1__item_o_1" wId="gm0297_1__cmp_IV__content_o_1__list_o_1__item_o_1">
+                                        <Term>PDF-bestand</Term>
+                                        <Definitie>
+                                            <Al>
+                                                <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm0297_1__cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm0297/2020/PDF/nld@2021-09-18;3520" >/join/id/regdata/gm0297/2020/PDF/nld@2021-09-18;3520</ExtIoRef>
+                                            </Al>
+                                        </Definitie>
+                                    </Begrip>
+                                </Begrippenlijst>
+                            </Inhoud>
+                        </Divisietekst>
+                    </Bijlage>
                     <ArtikelgewijzeToelichting eId="artrecital" wId="gm0297_1__artrecital">
                         <Kop>
                             <Opschrift>Artikelsgewijze Toelichting</Opschrift>
