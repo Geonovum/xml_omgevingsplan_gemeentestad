@@ -142,7 +142,7 @@
                         <Label>Artikel</Label>
                         <Nummer>I</Nummer>
                     </Kop>
-                    <Wat>De "Voorbeeldregels met uitbreiding tbv Toepasbare Regels" opgenomen in <IntRef ref="cmp_A" scope="WijzigBijlage">Bijlage A</IntRef> worden vastgesteld.</Wat>
+                    <Wat>Het omgevingsplan Gemeentestad is niet meer geldig.</Wat>
                 </WijzigArtikel>
                 <Artikel eId="art_II" wId="gm0297_1__art_II">
                     <Kop>
@@ -150,16 +150,7 @@
                         <Nummer>II</Nummer>
                     </Kop>
                     <Inhoud>
-                        <Al>Dit besluit treedt in werking per 14 januari 2020.</Al>
-                    </Inhoud>
-                </Artikel>
-                <Artikel eId="art_III" wId="gm0297_1__art_III">
-                    <Kop>
-                        <Label>Artikel</Label>
-                        <Nummer>III</Nummer>
-                    </Kop>
-                    <Inhoud>
-                        <Al>Het omgevingsplan van rechtswege vervalt voor het Pons-informatieobject <ExtIoRef wId="gm0297_1__art_III__ref_o_1" eId="art_III__ref_o_1" ref="/join/id/regdata/gm0297/2021/Ponsgebied/nld@2021-01-01;1">/join/id/regdata/gm0297/2021/Ponsgebied/nld@2021-01-01;1</ExtIoRef> van dit artikel.</Al>
+                        <Al>Dit besluit treedt in werking per 14 november 2021.</Al>
                     </Inhoud>
                 </Artikel>
             </Lichaam>
