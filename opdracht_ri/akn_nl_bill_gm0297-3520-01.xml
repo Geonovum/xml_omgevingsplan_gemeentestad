@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AanleveringBesluit  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" schemaversie="1.0.3">
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    schemaversie="1.1.0"
+    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
     <BesluitVersie>
         <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <FRBRWork>/akn/nl/bill/gm0297/2019/3520</FRBRWork>
@@ -9,6 +12,7 @@
         <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
             <maker>/tooi/id/gemeente/gm0297</maker>
+            <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
             <officieleTitel>Vaststelling van "Voorbeeldregels met uitbreiding tbv Toepasbare Regels" van de Gemeentestad</officieleTitel>
             <onderwerpen>
                 <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
@@ -149,6 +153,7 @@
                         <doel>/join/id/proces/gm0297/2019/Instelling</doel>
                     </doelen>
                     <instrumentVersie>/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</instrumentVersie>
+                    <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1</eId>
                 </BeoogdInformatieobject>
             </BeoogdeRegelgeving>
             <Tijdstempels>
@@ -847,6 +852,14 @@
                                             </Al>
                                         </Definitie>
                                     </Begrip>
+                                    <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_13" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_13">
+                                        <Term>Zaltbommel</Term>
+                                        <Definitie>
+                                            <Al>
+                                                <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" wId="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1" ref="/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520">/join/id/regdata/gm0297/2019/Zaltbommel/nld@2019-06-18;3520</ExtIoRef>
+                                            </Al>
+                                        </Definitie>
+                                    </Begrip>
                                 </Begrippenlijst>
                             </Inhoud>
                         </Divisietekst>
@@ -887,6 +900,7 @@
         <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
             <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
             <maker>/tooi/id/gemeente/gm0297</maker>
+            <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
             <heeftCiteertitelInformatie>
                 <CiteertitelInformatie>
                     <citeertitel>Voorbeeldregels Gemeentestad (omgevingsplan Zaltbommel)</citeertitel>
