@@ -106,5 +106,4 @@
             </geo:locaties>
         </geo:GeoInformatieObjectVersie>
     </geo:vastgesteldeVersie>
-    <geo:wasID>/join/id/regdata/gm0297/2019/Bouwhoogte/nld@2019-06-18;3520</geo:wasID>
 </geo:GeoInformatieObjectVaststelling>
