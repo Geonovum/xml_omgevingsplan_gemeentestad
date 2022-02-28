@@ -21,7 +21,7 @@
             <p:Pons>
                <p:identificatie>nl.imow-gm0297.pons.2019000001</p:identificatie>
                <p:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-gm0297.pons.pons"/>
+                  <l:LocatieRef xlink:href="nl.imow-gm0297.gebied.pons"/>
                   <!--<l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>-->
                </p:locatieaanduiding>
             </p:Pons>

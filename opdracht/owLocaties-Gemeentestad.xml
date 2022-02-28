@@ -241,7 +241,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
-               <l:identificatie>nl.imow-gm0297.pons.pons</l:identificatie>
+               <l:identificatie>nl.imow-gm0297.gebied.pons</l:identificatie>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="e8028788-a5bd-4d1c-ab6e-ae8258c7097d"/>
                </l:geometrie>
