@@ -38,12 +38,7 @@ de regeling ontstaat waar op verder gewerkt kan worden door bevoegd gezag.
 De OW-informatie blijft bestaan, tenzij aangegeven wordt dat ook deze moet
 worden beeindigt. Omdat OW-informatie ook/nog in gebruik kan zijn bij een andere
 regeling, moet voor de OW-informatie die ook komt te vervallen per OW-informatie
-item/object aangegeven worden of deze moet worden beeindigd. Het is op zich
-mogelijk om alles (brute force) te beeindigen, te veel zeg maar, waarna DSO-LV
-zal zeggen: dat kan helaas voor de volgende 10 informatie objecten niet, want
-die zijn in gebruik bij andere regelingen. *PD:Denk niet dat je dit kunt doen*
-LvB: als BG bedoel je, of als Ozon? \@Paul
-
+item/object aangegeven worden of deze moet worden beeindigd. Het is op zich mogelijk dat een BG alle OW-objecten in de in te trekken regeling (brute force) beeindigd en daarna weer opvoert met nieuwe identificaties, maar deze aanpak is ongewenst voor DSO. DSOLV kan dit echter niet tegenhouden. Als een BG dit doet, dan gaat dit ook niet altijd goed, soms zal Ozon zeggen: beeindigen kan helaas voor de volgende 10 informatie objecten niet, want die zijn in gebruik bij andere regelingen.
 Regelingen en GIOs
 ------------------
 
