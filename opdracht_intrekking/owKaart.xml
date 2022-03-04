@@ -19,7 +19,8 @@
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
-            <k:Kaart><ow:status>beëindigen</ow:status>
+            <k:Kaart>
+               <ow:status>beëindigen</ow:status>
                <k:identificatie>nl.imow-gm0297.kaart.2019000001</k:identificatie>
                <k:naam>Welstandskaart</k:naam>
                <k:nummer>001</k:nummer>

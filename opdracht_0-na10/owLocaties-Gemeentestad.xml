@@ -48,7 +48,8 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-gm0297.gebied.2019000007</l:identificatie>
-               <l:noemer>exploiteren speelautomatenhal</l:noemer> <!--in de versie die gelukt en gepubliceerd is staat hier versie 2 achter.-->
+               <l:noemer>exploiteren speelautomatenhal</l:noemer>
+               <!--in de versie die gelukt en gepubliceerd is staat hier versie 2 achter.-->
                <l:geometrie>
                   <l:GeometrieRef xlink:href="33B7D2D0-BF32-4CA1-B7F6-EB0FEF30175A"/>
                </l:geometrie>

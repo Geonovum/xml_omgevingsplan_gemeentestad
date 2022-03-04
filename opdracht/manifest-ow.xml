@@ -31,7 +31,6 @@
          <naam>owLocaties-Gemeentestad.xml</naam>
          <objecttype>Gebiedengroep</objecttype>
          <objecttype>Gebied</objecttype>
-		 <objecttype>Ambtsgebied</objecttype>
       </Bestand>
       <Bestand>
          <naam>owRegeltekst-Gemeentestad.xml</naam>
@@ -43,9 +42,9 @@
          <naam>owRegelingsgebied.xml</naam>
          <objecttype>Regelingsgebied</objecttype>
       </Bestand>
-     <Bestand>
-       <naam>owSymbolisatieItem.xml</naam>
-       <objecttype>SymbolisatieItem</objecttype>
-     </Bestand>
+      <Bestand>
+         <naam>owSymbolisatieItem.xml</naam>
+         <objecttype>SymbolisatieItem</objecttype>
+      </Bestand>
    </Aanlevering>
 </Aanleveringen>

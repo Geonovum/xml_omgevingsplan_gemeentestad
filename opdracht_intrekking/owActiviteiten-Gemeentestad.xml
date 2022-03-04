@@ -23,7 +23,8 @@
       <!-- artikel 2.4 -->
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000241</rol:identificatie>
                <!-- Deze activiteit is voor de 1e keer ontstaan/gecreeerd in artikel 2.4 nl.imow-gm0297.Regeltekst.2019000002 -->
                <rol:naam>uitoefenen van bedrijfstypen van categorie 2</rol:naam>
@@ -37,7 +38,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000243</rol:identificatie>
                <rol:naam>aanleggen en instandhouden van nutsvoorzieningen</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitTechnisch</rol:groep>
@@ -49,7 +51,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000244</rol:identificatie>
                <rol:naam>aanleggen en instandhouden van voorzieningen voor de waterhuishouding</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitTechnisch</rol:groep>
@@ -61,7 +64,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000245</rol:identificatie>
                <rol:naam>aanleggen en instandhouden van tuin en/of erf</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitTechnisch</rol:groep>
@@ -73,7 +77,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000246</rol:identificatie>
                <rol:naam>uitoefenen van detailhandel in ter plaatse vervaardigde goederen</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/ExploitatieactiviteitDetailhandel</rol:groep>
@@ -86,7 +91,8 @@
       <!-- artikel 2.5 -->
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000730</rol:identificatie>
                <rol:naam>exploiteren van inrichtingen</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/ExploitatieactiviteitBedrijf</rol:groep>
@@ -98,7 +104,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000740</rol:identificatie>
                <rol:naam>exploiteren van risicovolle inrichtingen</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/ExploitatieactiviteitBedrijf</rol:groep>
@@ -110,7 +117,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000750</rol:identificatie>
                <rol:naam>opslagterrein</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Opslagactiviteit</rol:groep>
@@ -123,7 +131,8 @@
       <!-- artikel 2.6 -->
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000590</rol:identificatie>
                <rol:naam>uitoefenen van detailhandel in ter plaatse vervaardigde goederen</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/ExploitatieactiviteitDetailhandel</rol:groep>
@@ -136,7 +145,8 @@
       <!-- artikel 2.7 -->
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000540</rol:identificatie>
                <rol:naam>exploiteren van een verkooppunt voor motorbrandstoffen niet zijnde lpg</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/ExploitatieactiviteitDetailhandel</rol:groep>
@@ -151,7 +161,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000760</rol:identificatie>
                <rol:naam>opslaan van motorbrandstoffen niet zijnde lpg</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Opslagactiviteit</rol:groep>
@@ -165,7 +176,8 @@
       <!-- GW: Alleen de activiteit 'exploiteren van een speelautomatenhal' en 'exploiteren van een kantoor' zijn opgenomen. -->
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000660</rol:identificatie>
                <rol:naam>exploiteren van een speelautomatenhal</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/ExploitatieactiviteitHoreca</rol:groep>
@@ -177,7 +189,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000680</rol:identificatie>
                <rol:naam>exploiteren van een kantoor</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/ExploitatieactiviteitKantoor</rol:groep>
@@ -190,7 +203,8 @@
       <!-- artikel 2.11 -->
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000530</rol:identificatie>
                <rol:naam>wonen in een bedrijfswoning</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Woonactiviteit</rol:groep>
@@ -202,7 +216,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000800</rol:identificatie>
                <rol:naam>bouwen van een bijgebouw</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BouwactiviteitRuimtelijk</rol:groep>
@@ -214,7 +229,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.2019000810</rol:identificatie>
                <rol:naam>boom kappen</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Kapactiviteit</rol:groep>
@@ -228,7 +244,8 @@
 			indien er een foutmelding optreedt wegens het ontbreken van de topactiviteit dan kan de onderstaande activiteit meegeleverd worden.-->
       <sl:stand>
          <ow-dc:owObject>
-            <rol:Activiteit><ow:status>beëindigen</ow:status>
+            <rol:Activiteit>
+               <ow:status>beëindigen</ow:status>
                <rol:identificatie>nl.imow-gm0297.activiteit.ActInOmgevingsplanGem</rol:identificatie>
                <rol:naam>Activiteit in omgevingsplan Zaltbommel</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Overig</rol:groep>

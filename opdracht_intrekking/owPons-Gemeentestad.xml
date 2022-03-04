@@ -19,7 +19,8 @@
       <sl:stand>
          <ow-dc:owObject><!--Met de Pons duid je aan dat de oude plannen niet meer getoond hoeven te worden op het gebied dat je meelevert.-->
             <p:Pons>
-               <ow:status>beëindigen</ow:status><p:identificatie>nl.imow-gm0297.pons.2019000001</p:identificatie>
+               <ow:status>beëindigen</ow:status>
+               <p:identificatie>nl.imow-gm0297.pons.2019000001</p:identificatie>
                <p:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm0297.pons.pons"/>
                   <!--<l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>-->

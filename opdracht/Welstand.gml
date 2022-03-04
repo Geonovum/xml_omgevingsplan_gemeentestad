@@ -6,8 +6,8 @@
                                      xmlns:gml="http://www.opengis.net/gml/3.2"
                                      xmlns:rsc="https://standaarden.overheid.nl/stop/imop/resources/"
                                      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                                     schemaversie="1.1.0"
-                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.1.0/imop-geo.xsd">
+                                     schemaversie="1.3.0"
+                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.3.0/imop-geo.xsd">
    <geo:context>
       <gio:GeografischeContext>
          <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
@@ -43,7 +43,7 @@
                </geo:geometrie>
                <geo:kwalitatieveNormwaarde>midden</geo:kwalitatieveNormwaarde>
             </geo:Locatie>
-            <geo:Locatie><!--<geo:naam>zone B</geo:naam>-->               
+            <geo:Locatie><!--<geo:naam>zone B</geo:naam>-->
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-3ce37c9c-1721-4eec-9b4a-5380fd30fbac-xx">
                      <basisgeo:id>3ce37c9c-1721-4eec-9b4a-5380fd30fbac</basisgeo:id>

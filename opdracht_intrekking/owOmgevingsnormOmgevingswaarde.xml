@@ -23,7 +23,8 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Omgevingswaarde>
-               <ow:status>beëindigen</ow:status><rol:identificatie>nl.imow-gm0297.omgevingswaarde.2019000001</rol:identificatie>
+               <ow:status>beëindigen</ow:status>
+               <rol:identificatie>nl.imow-gm0297.omgevingswaarde.2019000001</rol:identificatie>
                <rol:naam>fijnstof</rol:naam>
                <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/Volume</rol:type>
                <!--klopt niet, maar waardelijst bevat gewenste waarde nog niet-->
@@ -43,7 +44,8 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Omgevingsnorm>
-               <ow:status>beëindigen</ow:status><rol:identificatie>nl.imow-gm0297.omgevingsnorm.2019000002</rol:identificatie>
+               <ow:status>beëindigen</ow:status>
+               <rol:identificatie>nl.imow-gm0297.omgevingsnorm.2019000002</rol:identificatie>
                <rol:naam>maximum bouwhoogte bedrijfsgebouw</rol:naam>
                <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</rol:type>
                <rol:eenheid>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Meter</rol:eenheid>
@@ -75,7 +77,8 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Omgevingsnorm>
-               <ow:status>beëindigen</ow:status><rol:identificatie>nl.imow-gm0297.omgevingsnorm.2019000003</rol:identificatie>
+               <ow:status>beëindigen</ow:status>
+               <rol:identificatie>nl.imow-gm0297.omgevingsnorm.2019000003</rol:identificatie>
                <rol:naam>welstandsniveau</rol:naam>
                <rol:type>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/MaximumBouwhoogte</rol:type>
                <!--klopt niet, maar waardelijst bevat gewenste waarde nog niet-->
