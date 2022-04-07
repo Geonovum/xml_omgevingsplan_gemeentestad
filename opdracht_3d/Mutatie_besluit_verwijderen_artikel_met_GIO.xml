@@ -111,39 +111,39 @@
             <RegelingMutatie componentnaam="verwijder_gio"
                              was="/akn/nl/act/gm0297/2019/reg456/nld@5"
                              wordt="/akn/nl/act/gm0297/2019/reg456/nld@6"><!-- Artikel 2.12 vervalt, Inhoud en Vervallen hebben geen wijzigactie, dus Artikel verwijderen en toevoegen --><!--Foutje gemaakt in artikel 2.5 per ongeluk de verwijzing naar Zone B laten verwijzen naar Zuilichem, kortom vervang van 2.5 hoeft eigenlijk niet, foutje hersteld in initieel--><!-- vanaf versie 1.04 van STOP hebben Vervallen en Inhoud wel een wijzigactie. Vervallen ka -->
-               <Vervang wat="gm0297_1__chp_2__subchp_2.2__art_2.5" revisie="1">
-                  <Artikel eId="chp_2__subchp_2.2__art_2.5" wId="gm0297_1__chp_2__subchp_2.2__art_2.5">
+               <Vervang wat="gm0297_2__chp_2__subchp_2.2__art_2.5" revisie="1">
+                  <Artikel eId="chp_2__subchp_2.2__art_2.5" wId="gm0297_2__chp_2__subchp_2.2__art_2.5">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>2.5</Nummer>
                         <Opschrift>Gebruiksactiviteiten die zijn toegelaten na voorafgaande melding</Opschrift>
                      </Kop>
-                     <Lid eId="chp_2__subchp_2.2__art_2.5__para_1" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__para_1">
+                     <Lid eId="chp_2__subchp_2.2__art_2.5__para_1" wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_1">
                         <LidNummer>1.</LidNummer>
                         <Inhoud>
                            <Al>Meldingplichtige gebruiksactiviteiten</Al>
                            <Al>Ter plaatse van het werkingsgebied van de functie '<IntIoRef eId="chp_2__subchp_2.2__art_2.5__para_1__ref_o_1"
-                                        wId="gm0297_1__chp_2__subchp_2.2__art_2.5__para_1__ref_o_1"
+                                        wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_1__ref_o_1"
                                         ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Bedrijf categorie 2</IntIoRef>' is het binnen '<IntIoRef eId="chp_2__subchp_2.2__art_2.5__para_1__ref_o_2"
-                                        wId="gm0297_1__chp_2__subchp_2.2__art_2.5__para_1__ref_o_2"
+                                        wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_1__ref_o_2"
                                         ref="gm0297_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1">Zone B</IntIoRef>' verboden de gebruiksactiviteit 'het uitoefenen van detailhandel in ter plaatse vervaardigde goederen' te verrichten zonder dat daarvoor aan het bevoegd gezag een melding is gedaan</Al>
                         </Inhoud>
                      </Lid>
-                     <Lid eId="chp_2__subchp_2.2__art_2.5__para_2" wId="gm0297_1__chp_2__subchp_2.2__art_2.5__para_2">
+                     <Lid eId="chp_2__subchp_2.2__art_2.5__para_2" wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_2">
                         <LidNummer>2.</LidNummer>
                         <Inhoud>
                            <Al>Indieningsvereisten melding</Al>
                            <Al>Bij het doen van de melding dienen de volgende indieningsvereisten in acht te worden genomen:</Al>
                            <Lijst eId="chp_2__subchp_2.2__art_2.5__para_2__list_o_1"
-                                  wId="gm0297_1__chp_2__subchp_2.2__art_2.5__para_2__list_o_1"
+                                  wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_2__list_o_1"
                                   type="expliciet">
                               <Li eId="chp_2__subchp_2.2__art_2.5__para_2__list_o_1__item_a"
-                                  wId="gm0297_1__chp_2__subchp_2.2__art_2.5__para_2__list_o_1__item_a">
+                                  wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_2__list_o_1__item_a">
                                  <LiNummer>a.</LiNummer>
                                  <Al>de melding dient te worden gedaan door middel van het inzenden van het bij deze regels behorende Formulier Melding;</Al>
                               </Li>
                               <Li eId="chp_2__subchp_2.2__art_2.5__para_2__list_o_1__item_b"
-                                  wId="gm0297_1__chp_2__subchp_2.2__art_2.5__para_2__list_o_1__item_b">
+                                  wId="gm0297_2__chp_2__subchp_2.2__art_2.5__para_2__list_o_1__item_b">
                                  <LiNummer>b.</LiNummer>
                                  <Al>toegevoegd moet worden een terreininrichtingstekening. </Al>
                               </Li>
