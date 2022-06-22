@@ -35,10 +35,12 @@
       </InformatieObjectMetadata>
       <FeatureTypeStyle xmlns="http://www.opengis.net/se" version="1.1.0">
          <FeatureTypeName>geo:Locatie</FeatureTypeName>
-         <FeatureTypeName>geo:Locatie</FeatureTypeName>
          <SemanticTypeIdentifier>geo:kwalitatieveNormwaarde</SemanticTypeIdentifier>
          <Rule>
             <Name>Welstandsniveau laag</Name>
+            <Description>
+               <Title>Welstandsniveau laag</Title>
+            </Description>
             <Filter xmlns="http://www.opengis.net/ogc">
                <PropertyIsEqualTo>
                   <PropertyName>kwalitatieveNormwaarde</PropertyName>
@@ -61,6 +63,9 @@
          </Rule>
          <Rule>
             <Name>Welstandsniveau midden</Name>
+            <Description>
+               <Title>Welstandsniveau midden</Title>
+            </Description>
             <Filter xmlns="http://www.opengis.net/ogc">
                <PropertyIsEqualTo>
                   <PropertyName>kwalitatieveNormwaarde</PropertyName>
@@ -83,6 +88,9 @@
          </Rule>
          <Rule>
             <Name>Welstandsniveau hoog</Name>
+            <Description>
+               <Title>Welstandsniveau hoog</Title>
+            </Description>
             <Filter xmlns="http://www.opengis.net/ogc">
                <PropertyIsEqualTo>
                   <PropertyName>kwalitatieveNormwaarde</PropertyName>

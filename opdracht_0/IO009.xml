@@ -16,11 +16,11 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Regdata.pdf</bestandsnaam>
-                  <hash/>
+                  <hash>cba6f5c9ae300c518dc1e083309a0c958d07e5c617eb9a66d77851e1471750bf9466c8a5c2b1b41dbc7ead759786e45edfc3a194a827b68bb7684cabb4ebb53e</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
-         <heeftGeboorteregeling>/akn/nl/act/gm0297/2019/reg456</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/gm0297/2019/reg789</heeftGeboorteregeling>
       </InformatieObjectVersieMetadata>
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/gemeente/gm0297</eindverantwoordelijke>
