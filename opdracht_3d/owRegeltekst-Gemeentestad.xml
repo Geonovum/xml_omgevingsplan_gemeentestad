@@ -84,7 +84,7 @@
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000014</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Toegestaan</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.centrumgebied"/>
+                        <l:LocatieRef xlink:href="nl.imow-gm0297.gebiedengroep.kantoorruimte"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>

@@ -666,7 +666,7 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                </r:locatieaanduiding>
-               <r:activiteitaanduiding>
+<!--               <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-gm0297.activiteit.ActInOmgevingsplanGem"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-gm0297.activiteitlocatieaanduiding.2019000015</r:identificatie>
@@ -675,7 +675,7 @@
                         <l:LocatieRef xlink:href="nl.imow-gm0297.ambtsgebied.ZaltbommelAmbtsgebied"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
+               </r:activiteitaanduiding>-->
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
