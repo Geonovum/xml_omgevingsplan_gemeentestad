@@ -139,13 +139,13 @@
             <Al>besluit:</Al>
          </Aanhef>
          <Lichaam eId="body" wId="body">
-            <WijzigArtikel eId="art_I" wId="__art_I">
+            <Artikel eId="art_I" wId="__art_I">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
                </Kop>
                <Wat>Het omgevingsplan Gemeentestad is niet meer geldig.</Wat>
-            </WijzigArtikel>
+            </Artikel>
             <Artikel eId="art_II" wId="__art_II">
                <Kop>
                   <Label>Artikel</Label>
