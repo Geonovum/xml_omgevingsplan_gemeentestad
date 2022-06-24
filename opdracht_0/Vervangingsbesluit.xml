@@ -32,7 +32,7 @@
             <informatieobjectRef>/join/id/regdata/gm0297/2020/Bouwhoogte/nld@2020-03-18;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0297/2020/Welstand/nld@2020-03-18;3520</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/gm0297/2020/Zuilichem/nld@2020-03-18;3520</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/gm0297/2020/PDF/nld@2021-09-18;3520</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0297/2021/PDF/nld@2021-09-18;3520</informatieobjectRef>
          </informatieobjectRefs>
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
       </BesluitMetadata>
@@ -119,7 +119,7 @@
                <doelen>
                   <doel>/join/id/proces/gm0297/2020/IntrekkenVervangenGemeentestad</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/gm0297/2020/PDF/nld@2021-09-18;3520</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/gm0297/2021/PDF/nld@2021-09-18;3520</instrumentVersie>
                <eId>!nieuweregeling#cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <!-- regelinggebied -->
@@ -1179,7 +1179,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="gm0297_1__cmp_IV__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/gm0297/2020/PDF/nld@2021-09-18;3520">/join/id/regdata/gm0297/2020/PDF/nld@2021-09-18;3520</ExtIoRef>
+                                              ref="/join/id/regdata/gm0297/2021/PDF/nld@2021-09-18;3520">/join/id/regdata/gm0297/2021/PDF/nld@2021-09-18;3520</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
