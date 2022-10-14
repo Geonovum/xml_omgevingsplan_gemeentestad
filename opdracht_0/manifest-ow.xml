@@ -11,6 +11,10 @@
          <objecttype>Activiteit</objecttype>
       </Bestand>
       <Bestand>
+         <naam>owPons-Gemeentestad.xml</naam>
+         <objecttype>Pons</objecttype>
+      </Bestand>
+      <Bestand>
          <naam>owRegeltekst-Gemeentestad.xml</naam>
          <objecttype>Regeltekst</objecttype>
          <objecttype>RegelVoorIedereen</objecttype>

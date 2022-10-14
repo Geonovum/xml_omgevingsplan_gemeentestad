@@ -14,6 +14,7 @@
    xmlns:k="http://www.geostandaarden.nl/imow/kaart"
    xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
    xmlns:op="http://www.geostandaarden.nl/imow/opobject"
+   xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
    xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>Gemeentestad</sl:dataset>

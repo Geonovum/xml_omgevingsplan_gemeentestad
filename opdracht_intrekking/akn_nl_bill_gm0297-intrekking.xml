@@ -144,7 +144,7 @@
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
                </Kop>
-               <Wat>Het omgevingsplan Gemeentestad is niet meer geldig.</Wat>
+                <Inhoud><Al>Het omgevingsplan Gemeentestad is niet meer geldig.</Al></Inhoud>
             </Artikel>
             <Artikel eId="art_II" wId="__art_II">
                <Kop>
